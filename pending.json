@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-09T02:50:12Z",
+  "updated_at": "2026-10-09T04:43:33Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -1740,6 +1740,231 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-09T02:48:02Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bsr-twse-com-tw",
+      "name": "Bsr",
+      "url": "https://bsr.twse.com.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "capsule-render-vercel-app",
+      "name": "Capsule-render",
+      "url": "https://capsule-render.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "conventionalcommits-org",
+      "name": "Conventionalcommits",
+      "url": "https://conventionalcommits.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cron-job-org",
+      "name": "Cron-job",
+      "url": "https://cron-job.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "deb-debian-org",
+      "name": "Deb",
+      "url": "https://deb.debian.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-github-com",
+      "name": "Docs",
+      "url": "https://docs.github.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "download-pytorch-org",
+      "name": "Download",
+      "url": "https://download.pytorch.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "floe-localhost",
+      "name": "Floe",
+      "url": "https://floe.localhost",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-example-com",
+      "name": "Git",
+      "url": "https://git.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "opensource-org",
+      "name": "Opensource",
+      "url": "https://opensource.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pypi-tuna-tsinghua-edu-cn",
+      "name": "Pypi",
+      "url": "https://pypi.tuna.tsinghua.edu.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "readme-proxy-alt-dev",
+      "name": "Readme",
+      "url": "https://readme.proxy-alt.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "s3-us-east-1-amazonaws-com",
+      "name": "S3",
+      "url": "https://s3.us-east-1.amazonaws.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "security-debian-org",
+      "name": "Security",
+      "url": "https://security.debian.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "weishucdn-jiangjiangze-icu",
+      "name": "Weishucdn",
+      "url": "https://weishucdn.jiangjiangze.icu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-09T04:42:27Z",
       "source": "auto_sync"
     }
   ]

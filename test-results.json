@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-10-09T02:50:12Z",
+  "checked_at": "2026-10-09T04:43:33Z",
   "summary": {
-    "total": 208,
-    "online": 80,
+    "total": 227,
+    "online": 84,
     "unstable": 0,
-    "offline": 128
+    "offline": 143
   },
   "results": [
     {
-      "id": "gh-chjina-com",
+      "id": "github-boki-moe",
       "category": "universal_proxy",
-      "test_url": "https://gh.chjina.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://github.boki.moe/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh.chjina.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.chjina.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://github.boki.moe/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.boki.moe/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -38,33 +38,18 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "github-boki-moe",
+      "id": "gh-chjina-com",
       "category": "universal_proxy",
-      "test_url": "https://github.boki.moe/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://gh.chjina.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://github.boki.moe/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.boki.moe/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://gh.chjina.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.chjina.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
       "error": "HTTP 403",
       "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gh-con-sh",
-      "category": "universal_proxy",
-      "test_url": "https://gh.con.sh/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://gh.con.sh/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.con.sh/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 133,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://gh.con.sh/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
       "bandwidth_mbps": null
     },
     {
@@ -83,6 +68,20 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "down-sciproxy-com",
+      "category": "universal_proxy",
+      "test_url": "https://down.sciproxy.com/github.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://down.sciproxy.com/github.com/octocat/Hello-World/master/README"
+      ],
+      "status": "online",
+      "latency_ms": 269,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://down.sciproxy.com/github.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": null
+    },
+    {
       "id": "fastgit-cc",
       "category": "universal_proxy",
       "test_url": "https://fastgit.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -91,55 +90,11 @@
         "https://fastgit.cc/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 184,
+      "latency_ms": 121,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://fastgit.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.83
-    },
-    {
-      "id": "down-sciproxy-com",
-      "category": "universal_proxy",
-      "test_url": "https://down.sciproxy.com/github.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://down.sciproxy.com/github.com/octocat/Hello-World/master/README"
-      ],
-      "status": "online",
-      "latency_ms": 363,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://down.sciproxy.com/github.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gh-proxy-com",
-      "category": "universal_proxy",
-      "test_url": "https://gh-proxy.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh-proxy.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 327,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://gh-proxy.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.19
-    },
-    {
-      "id": "gh-proxy-org",
-      "category": "universal_proxy",
-      "test_url": "https://gh-proxy.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gh-proxy.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh-proxy.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 363,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://gh-proxy.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.12
+      "bandwidth_mbps": 1.49
     },
     {
       "id": "gh-monlor-com",
@@ -150,26 +105,101 @@
         "https://gh.monlor.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 266,
+      "latency_ms": 209,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://gh.monlor.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.92
+      "bandwidth_mbps": 1.44
     },
     {
-      "id": "cdn-crashmc-com",
+      "id": "github-ednovas-xyz",
       "category": "universal_proxy",
-      "test_url": "https://cdn.crashmc.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://cdn.crashmc.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://cdn.crashmc.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://github.ednovas.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.ednovas.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 375,
+      "latency_ms": 146,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://cdn.crashmc.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.89
+      "succeeded_url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.69
+    },
+    {
+      "id": "gh-con-sh",
+      "category": "universal_proxy",
+      "test_url": "https://gh.con.sh/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://gh.con.sh/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.con.sh/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 205,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://gh.con.sh/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gh-proxy-net",
+      "category": "universal_proxy",
+      "test_url": "https://gh-proxy.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://gh-proxy.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh-proxy.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 138,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://gh-proxy.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gh-proxy-org",
+      "category": "universal_proxy",
+      "test_url": "https://gh-proxy.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh-proxy.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh-proxy.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 343,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://gh-proxy.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.18
+    },
+    {
+      "id": "gh-proxy-com",
+      "category": "universal_proxy",
+      "test_url": "https://gh-proxy.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh-proxy.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 158,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://gh-proxy.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.04
+    },
+    {
+      "id": "ghfast-top",
+      "category": "universal_proxy",
+      "test_url": "https://ghfast.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://ghfast.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghfast.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 155,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://ghfast.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.9
     },
     {
       "id": "github-proxy-lixxing-top",
@@ -187,21 +217,6 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "github-ednovas-xyz",
-      "category": "universal_proxy",
-      "test_url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://github.ednovas.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.ednovas.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 337,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.48
-    },
-    {
       "id": "git-yylx-win",
       "category": "universal_proxy",
       "test_url": "https://git.yylx.win/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -210,56 +225,26 @@
         "https://git.yylx.win/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 539,
+      "latency_ms": 363,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://git.yylx.win/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.69
+      "bandwidth_mbps": 2.27
     },
     {
-      "id": "gh-proxy-net",
+      "id": "cdn-crashmc-com",
       "category": "universal_proxy",
-      "test_url": "https://gh-proxy.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_url": "https://cdn.crashmc.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh-proxy.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh-proxy.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://cdn.crashmc.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://cdn.crashmc.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 388,
+      "latency_ms": 267,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://gh-proxy.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gh-llkk-cc",
-      "category": "universal_proxy",
-      "test_url": "https://gh.llkk.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gh.llkk.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.llkk.cc/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 156,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://gh.llkk.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.45
-    },
-    {
-      "id": "slink-ltd",
-      "category": "universal_proxy",
-      "test_url": "https://slink.ltd/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://slink.ltd/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://slink.ltd/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 458,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://slink.ltd/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.05
+      "succeeded_url": "https://cdn.crashmc.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.05
     },
     {
       "id": "gh-ddlc-top",
@@ -274,21 +259,6 @@
       "http_status": null,
       "error": "HTTP 429",
       "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gh-zwnes-xyz",
-      "category": "universal_proxy",
-      "test_url": "https://gh.zwnes.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://gh.zwnes.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.zwnes.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 237,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://gh.zwnes.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
       "bandwidth_mbps": null
     },
     {
@@ -307,19 +277,34 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "gh-proxy-ygxz-in",
+      "id": "gh-llkk-cc",
       "category": "universal_proxy",
-      "test_url": "https://gh-proxy.ygxz.in/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_url": "https://gh.llkk.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh-proxy.ygxz.in/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh-proxy.ygxz.in/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://gh.llkk.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.llkk.cc/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 453,
+      "latency_ms": 176,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://gh-proxy.ygxz.in/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "bandwidth_mbps": 0.02
+      "succeeded_url": "https://gh.llkk.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.9
+    },
+    {
+      "id": "slink-ltd",
+      "category": "universal_proxy",
+      "test_url": "https://slink.ltd/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://slink.ltd/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://slink.ltd/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 463,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://slink.ltd/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.06
     },
     {
       "id": "gh-idayer-com",
@@ -330,41 +315,56 @@
         "https://gh.idayer.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 233,
+      "latency_ms": 170,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://gh.idayer.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.54
+      "bandwidth_mbps": 0.94
     },
     {
-      "id": "ghproxy-net",
+      "id": "gh-proxy-ygxz-in",
       "category": "universal_proxy",
-      "test_url": "https://ghproxy.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://gh-proxy.ygxz.in/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
       "test_urls": [
-        "https://ghproxy.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghproxy.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://gh-proxy.ygxz.in/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh-proxy.ygxz.in/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 533,
+      "latency_ms": 290,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://ghproxy.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.27
+      "succeeded_url": "https://gh-proxy.ygxz.in/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": 0.03
     },
     {
-      "id": "ghfast-top",
+      "id": "down-npee-cn",
       "category": "universal_proxy",
-      "test_url": "https://ghfast.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://down.npee.cn/?https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
       "test_urls": [
-        "https://ghfast.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghfast.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://down.npee.cn/?https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://down.npee.cn/?https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 504,
+      "latency_ms": 269,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://ghfast.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.27
+      "succeeded_url": "https://down.npee.cn/?https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": 0.05
+    },
+    {
+      "id": "gh-zwnes-xyz",
+      "category": "universal_proxy",
+      "test_url": "https://gh.zwnes.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://gh.zwnes.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.zwnes.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 364,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://gh.zwnes.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": null
     },
     {
       "id": "gh-nxnow-top",
@@ -375,41 +375,26 @@
         "https://gh.nxnow.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 337,
+      "latency_ms": 159,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://gh.nxnow.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.33
+      "bandwidth_mbps": 0.73
     },
     {
-      "id": "down-npee-cn",
+      "id": "30006000-xyz",
       "category": "universal_proxy",
-      "test_url": "https://down.npee.cn/?https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://30006000.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://down.npee.cn/?https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://down.npee.cn/?https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://30006000.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://30006000.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 394,
+      "latency_ms": 148,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://down.npee.cn/?https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.02
-    },
-    {
-      "id": "gh-198962-xyz",
-      "category": "universal_proxy",
-      "test_url": "https://gh.198962.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gh.198962.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.198962.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 172,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://gh.198962.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.99
+      "succeeded_url": "https://30006000.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.77
     },
     {
       "id": "ggg-clwap-dpdns-org",
@@ -420,41 +405,41 @@
         "https://ggg.clwap.dpdns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 200,
+      "latency_ms": 214,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://ggg.clwap.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.65
+      "bandwidth_mbps": 1.63
     },
     {
-      "id": "toolwa-com-github",
+      "id": "gh-198962-xyz",
       "category": "universal_proxy",
-      "test_url": "https://toolwa.com/github/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://gh.198962.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://toolwa.com/github/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://toolwa.com/github/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 402",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gh-1k-ink",
-      "category": "universal_proxy",
-      "test_url": "https://gh.1k.ink/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gh.1k.ink/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.1k.ink/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://gh.198962.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.198962.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 354,
+      "latency_ms": 301,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://gh.1k.ink/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.73
+      "succeeded_url": "https://gh.198962.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.45
+    },
+    {
+      "id": "getgit-love8yun-eu-org",
+      "category": "universal_proxy",
+      "test_url": "https://getgit.love8yun.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://getgit.love8yun.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://getgit.love8yun.eu.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 229,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://getgit.love8yun.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.94
     },
     {
       "id": "github-akams-cn",
@@ -480,86 +465,56 @@
         "https://gh.996986.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 183,
+      "latency_ms": 106,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://gh.996986.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 2.04
+      "bandwidth_mbps": 2.03
     },
     {
-      "id": "getgit-love8yun-eu-org",
+      "id": "ghproxy-net",
       "category": "universal_proxy",
-      "test_url": "https://getgit.love8yun.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://ghproxy.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://getgit.love8yun.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://getgit.love8yun.eu.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://ghproxy.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghproxy.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 277,
+      "latency_ms": 470,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://getgit.love8yun.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.6
+      "succeeded_url": "https://ghproxy.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.23
     },
     {
-      "id": "30006000-xyz",
+      "id": "toolwa-com-github",
       "category": "universal_proxy",
-      "test_url": "https://30006000.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://toolwa.com/github/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://30006000.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://30006000.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://toolwa.com/github/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://toolwa.com/github/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
-      "status": "online",
-      "latency_ms": 398,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://30006000.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.5
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 402",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
     },
     {
-      "id": "gh-39-al",
+      "id": "gh-1k-ink",
       "category": "universal_proxy",
-      "test_url": "https://gh.39.al/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://gh.1k.ink/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh.39.al/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.39.al/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://gh.1k.ink/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.1k.ink/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 220,
+      "latency_ms": 360,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://gh.39.al/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.68
-    },
-    {
-      "id": "ghproxy-imciel-com",
-      "category": "universal_proxy",
-      "test_url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://ghproxy.imciel.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghproxy.imciel.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 220,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.32
-    },
-    {
-      "id": "gh-noki-icu",
-      "category": "universal_proxy",
-      "test_url": "https://gh.noki.icu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gh.noki.icu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.noki.icu/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 418,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://gh.noki.icu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.81
+      "succeeded_url": "https://gh.1k.ink/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.06
     },
     {
       "id": "gh-padao-fun",
@@ -570,11 +525,71 @@
         "https://gh.padao.fun/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 339,
+      "latency_ms": 108,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://gh.padao.fun/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.1
+    },
+    {
+      "id": "gh-39-al",
+      "category": "universal_proxy",
+      "test_url": "https://gh.39.al/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.39.al/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.39.al/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 157,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://gh.39.al/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.36
+    },
+    {
+      "id": "ghproxy-imciel-com",
+      "category": "universal_proxy",
+      "test_url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://ghproxy.imciel.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghproxy.imciel.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 218,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://ghproxy.imciel.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.89
+    },
+    {
+      "id": "gh-noki-icu",
+      "category": "universal_proxy",
+      "test_url": "https://gh.noki.icu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.noki.icu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.noki.icu/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 345,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://gh.noki.icu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "bandwidth_mbps": 0.53
+    },
+    {
+      "id": "ghproxy-sakuramoe-dev",
+      "category": "universal_proxy",
+      "test_url": "https://ghproxy.sakuramoe.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://ghproxy.sakuramoe.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghproxy.sakuramoe.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 127,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://ghproxy.sakuramoe.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.6
     },
     {
       "id": "ghproxy-xzhouqd-com",
@@ -585,10 +600,40 @@
         "https://ghproxy.xzhouqd.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 243,
+      "latency_ms": 172,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://ghproxy.xzhouqd.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 2.75
+    },
+    {
+      "id": "cf-ghproxy-cc",
+      "category": "universal_proxy",
+      "test_url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://cf.ghproxy.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://cf.ghproxy.cc/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 1358,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.35
+    },
+    {
+      "id": "git-951959483-xyz",
+      "category": "universal_proxy",
+      "test_url": "https://git.951959483.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://git.951959483.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://git.951959483.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 177,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://git.951959483.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "bandwidth_mbps": 1.73
     },
     {
@@ -600,56 +645,11 @@
         "https://git.820828.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 166,
+      "latency_ms": 158,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://git.820828.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.33
-    },
-    {
-      "id": "cf-ghproxy-cc",
-      "category": "universal_proxy",
-      "test_url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://cf.ghproxy.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://cf.ghproxy.cc/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 1392,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.23
-    },
-    {
-      "id": "ghproxy-cn",
-      "category": "universal_proxy",
-      "test_url": "https://ghproxy.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://ghproxy.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghproxy.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 512,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://ghproxy.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "bandwidth_mbps": 0.01
-    },
-    {
-      "id": "git-951959483-xyz",
-      "category": "universal_proxy",
-      "test_url": "https://git.951959483.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://git.951959483.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://git.951959483.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 203,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://git.951959483.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.63
+      "bandwidth_mbps": 1.59
     },
     {
       "id": "ghproxy-053000-xyz",
@@ -660,41 +660,11 @@
         "https://ghproxy.053000.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 776,
+      "latency_ms": 756,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://ghproxy.053000.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.22
-    },
-    {
-      "id": "g-blfrp-cn",
-      "category": "universal_proxy",
-      "test_url": "https://g.blfrp.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://g.blfrp.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://g.blfrp.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 963,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://g.blfrp.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.15
-    },
-    {
-      "id": "github-788787-xyz",
-      "category": "universal_proxy",
-      "test_url": "https://github.788787.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://github.788787.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.788787.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 171,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://github.788787.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.54
+      "bandwidth_mbps": 0.31
     },
     {
       "id": "github-1ms-xx-kg",
@@ -705,26 +675,26 @@
         "https://github.1ms.xx.kg/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 543,
+      "latency_ms": 347,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://github.1ms.xx.kg/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.63
+      "bandwidth_mbps": 2.68
     },
     {
-      "id": "github-880824-xyz",
+      "id": "github-788787-xyz",
       "category": "universal_proxy",
-      "test_url": "https://github.880824.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://github.788787.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://github.880824.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.880824.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://github.788787.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.788787.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 166,
+      "latency_ms": 182,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://github.880824.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.79
+      "succeeded_url": "https://github.788787.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.23
     },
     {
       "id": "ghproxy-cc",
@@ -735,41 +705,41 @@
         "https://ghproxy.cc/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 1179,
+      "latency_ms": 950,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://ghproxy.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.25
+      "bandwidth_mbps": 0.34
     },
     {
-      "id": "gh-dpik-top",
+      "id": "github-880824-xyz",
       "category": "universal_proxy",
-      "test_url": "https://gh.dpik.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://github.880824.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh.dpik.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.dpik.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://github.880824.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.880824.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 3808,
+      "latency_ms": 121,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://gh.dpik.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.79
+      "succeeded_url": "https://github.880824.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.99
     },
     {
-      "id": "ghproxy-sakuramoe-dev",
+      "id": "github-cnxiaobai-com",
       "category": "universal_proxy",
-      "test_url": "https://ghproxy.sakuramoe.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://github.cnxiaobai.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://ghproxy.sakuramoe.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghproxy.sakuramoe.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://github.cnxiaobai.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.cnxiaobai.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 423,
+      "latency_ms": 106,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://ghproxy.sakuramoe.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.19
+      "succeeded_url": "https://github.cnxiaobai.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.45
     },
     {
       "id": "github-ihnic-com",
@@ -780,26 +750,26 @@
         "https://github.ihnic.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 256,
+      "latency_ms": 125,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://github.ihnic.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.4
+      "bandwidth_mbps": 1.37
     },
     {
-      "id": "github-crdz-eu-org",
+      "id": "ghproxy-cn",
       "category": "universal_proxy",
-      "test_url": "https://github.crdz.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://ghproxy.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
       "test_urls": [
-        "https://github.crdz.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.crdz.eu.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://ghproxy.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghproxy.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 426,
+      "latency_ms": 696,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://github.crdz.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.41
+      "succeeded_url": "https://ghproxy.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": 0.01
     },
     {
       "id": "git-669966-xyz",
@@ -810,26 +780,26 @@
         "https://git.669966.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 987,
+      "latency_ms": 851,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://git.669966.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.28
+      "bandwidth_mbps": 0.35
     },
     {
-      "id": "github-lsdfxdk-nyc-mn",
+      "id": "github-crdz-eu-org",
       "category": "universal_proxy",
-      "test_url": "https://github.lsdfxdk.nyc.mn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://github.crdz.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://github.lsdfxdk.nyc.mn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.lsdfxdk.nyc.mn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://github.crdz.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.crdz.eu.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 503,
+      "latency_ms": 543,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://github.lsdfxdk.nyc.mn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.81
+      "succeeded_url": "https://github.crdz.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.48
     },
     {
       "id": "github-zzrbk-xyz",
@@ -840,41 +810,26 @@
         "https://github.zzrbk.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 167,
+      "latency_ms": 138,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://github.zzrbk.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.95
+      "bandwidth_mbps": 1.56
     },
     {
-      "id": "gh-halonice-com",
+      "id": "github-lsdfxdk-nyc-mn",
       "category": "universal_proxy",
-      "test_url": "https://gh.halonice.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://github.lsdfxdk.nyc.mn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh.halonice.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.halonice.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://github.lsdfxdk.nyc.mn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.lsdfxdk.nyc.mn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 231,
+      "latency_ms": 452,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://gh.halonice.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.09
-    },
-    {
-      "id": "kenyu-ggff-net",
-      "category": "universal_proxy",
-      "test_url": "https://kenyu.ggff.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://kenyu.ggff.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://kenyu.ggff.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 380,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://kenyu.ggff.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 2.01
+      "succeeded_url": "https://github.lsdfxdk.nyc.mn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.09
     },
     {
       "id": "gp-871201-xyz",
@@ -885,41 +840,11 @@
         "https://gp.871201.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 203,
+      "latency_ms": 104,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://gp.871201.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.65
-    },
-    {
-      "id": "tvv-tw",
-      "category": "universal_proxy",
-      "test_url": "https://tvv.tw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://tvv.tw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://tvv.tw/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 162,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://tvv.tw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 1.89
-    },
-    {
-      "id": "ghfile-geekertao-top",
-      "category": "universal_proxy",
-      "test_url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://ghfile.geekertao.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghfile.geekertao.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 7243,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.21
+      "bandwidth_mbps": 1.81
     },
     {
       "id": "git-tangbai-cc",
@@ -930,11 +855,41 @@
         "https://git.tangbai.cc/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 612,
+      "latency_ms": 670,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://git.tangbai.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.21
+      "bandwidth_mbps": 0.24
+    },
+    {
+      "id": "kenyu-ggff-net",
+      "category": "universal_proxy",
+      "test_url": "https://kenyu.ggff.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://kenyu.ggff.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://kenyu.ggff.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 211,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://kenyu.ggff.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.8
+    },
+    {
+      "id": "tvv-tw",
+      "category": "universal_proxy",
+      "test_url": "https://tvv.tw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://tvv.tw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://tvv.tw/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 190,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://tvv.tw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.79
     },
     {
       "id": "dockerproxy-link",
@@ -945,40 +900,10 @@
         "https://dockerproxy.link/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 156,
+      "latency_ms": 162,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://dockerproxy.link/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "microsoftedge-microsoft-com",
-      "category": "universal_proxy",
-      "test_url": "https://microsoftedge.microsoft.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://microsoftedge.microsoft.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://microsoftedge.microsoft.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 77,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://microsoftedge.microsoft.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "bandwidth_mbps": 0.47
-    },
-    {
-      "id": "img-shields-io",
-      "category": "universal_proxy",
-      "test_url": "https://img.shields.io/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://img.shields.io/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://img.shields.io/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 108,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://img.shields.io/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
       "bandwidth_mbps": null
     },
     {
@@ -990,41 +915,11 @@
         "https://github.xxlab.tech/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 576,
+      "latency_ms": 748,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://github.xxlab.tech/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.31
-    },
-    {
-      "id": "ghproxy-mirror-skybyte-me",
-      "category": "universal_proxy",
-      "test_url": "https://ghproxy.mirror.skybyte.me/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://ghproxy.mirror.skybyte.me/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghproxy.mirror.skybyte.me/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 1523,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://ghproxy.mirror.skybyte.me/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.15
-    },
-    {
-      "id": "yourdomain-com",
-      "category": "universal_proxy",
-      "test_url": "https://yourdomain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://yourdomain.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://yourdomain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 289,
-      "http_status": 307,
-      "error": null,
-      "succeeded_url": "https://yourdomain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "bandwidth_mbps": null
+      "bandwidth_mbps": 0.18
     },
     {
       "id": "github-chenc-dev",
@@ -1035,11 +930,71 @@
         "https://github.chenc.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 1256,
+      "latency_ms": 1044,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://github.chenc.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.14
+      "bandwidth_mbps": 0.16
+    },
+    {
+      "id": "img-shields-io",
+      "category": "universal_proxy",
+      "test_url": "https://img.shields.io/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://img.shields.io/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://img.shields.io/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 56,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://img.shields.io/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gh-b52m-cn",
+      "category": "universal_proxy",
+      "test_url": "https://gh.b52m.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.b52m.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.b52m.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "microsoftedge-microsoft-com",
+      "category": "universal_proxy",
+      "test_url": "https://microsoftedge.microsoft.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://microsoftedge.microsoft.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://microsoftedge.microsoft.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 115,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://microsoftedge.microsoft.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.24
+    },
+    {
+      "id": "ghproxy-monkeyray-net",
+      "category": "universal_proxy",
+      "test_url": "https://ghproxy.monkeyray.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://ghproxy.monkeyray.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghproxy.monkeyray.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 4073,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://ghproxy.monkeyray.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.07
     },
     {
       "id": "hubp-org",
@@ -1050,11 +1005,101 @@
         "https://hubp.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 501,
+      "latency_ms": 571,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://hubp.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
       "bandwidth_mbps": 0.01
+    },
+    {
+      "id": "your-domain-com",
+      "category": "universal_proxy",
+      "test_url": "https://your-domain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://your-domain.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://your-domain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 309,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://your-domain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": 0.06
+    },
+    {
+      "id": "github-zjzzy-cloudns-org",
+      "category": "universal_proxy",
+      "test_url": "https://github.zjzzy.cloudns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://github.zjzzy.cloudns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.zjzzy.cloudns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 1544,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://github.zjzzy.cloudns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": 0.01
+    },
+    {
+      "id": "mirror-houlang-cloud",
+      "category": "universal_proxy",
+      "test_url": "https://mirror.houlang.cloud/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://mirror.houlang.cloud/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://mirror.houlang.cloud/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 625,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://mirror.houlang.cloud/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "help-obsidian-md",
+      "category": "universal_proxy",
+      "test_url": "https://help.obsidian.md/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://help.obsidian.md/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://help.obsidian.md/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 161,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://help.obsidian.md/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "yourdomain-com",
+      "category": "universal_proxy",
+      "test_url": "https://yourdomain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://yourdomain.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://yourdomain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 341,
+      "http_status": 307,
+      "error": null,
+      "succeeded_url": "https://yourdomain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "t-me",
+      "category": "universal_proxy",
+      "test_url": "https://t.me/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://t.me/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://t.me/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 849,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://t.me/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": 0.02
     },
     {
       "id": "jsdelivr-cdn",
@@ -1064,7 +1109,7 @@
         "https://cdn.jsdelivr.net/gh/octocat/Hello-World@master/README"
       ],
       "status": "online",
-      "latency_ms": 136,
+      "latency_ms": 181,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://cdn.jsdelivr.net/gh/octocat/Hello-World@master/README",
@@ -1078,25 +1123,10 @@
         "https://fastly.jsdelivr.net/gh/octocat/Hello-World@master/README"
       ],
       "status": "online",
-      "latency_ms": 88,
+      "latency_ms": 50,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://fastly.jsdelivr.net/gh/octocat/Hello-World@master/README",
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "mirror-houlang-cloud",
-      "category": "universal_proxy",
-      "test_url": "https://mirror.houlang.cloud/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://mirror.houlang.cloud/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://mirror.houlang.cloud/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 701,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://mirror.houlang.cloud/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
       "bandwidth_mbps": null
     },
     {
@@ -1107,7 +1137,7 @@
         "https://gcore.jsdelivr.net/gh/octocat/Hello-World@master/README"
       ],
       "status": "online",
-      "latency_ms": 116,
+      "latency_ms": 74,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://gcore.jsdelivr.net/gh/octocat/Hello-World@master/README",
@@ -1121,26 +1151,11 @@
         "https://testingcf.jsdelivr.net/gh/octocat/Hello-World@master/README"
       ],
       "status": "online",
-      "latency_ms": 88,
+      "latency_ms": 120,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://testingcf.jsdelivr.net/gh/octocat/Hello-World@master/README",
       "bandwidth_mbps": null
-    },
-    {
-      "id": "your-domain-com",
-      "category": "universal_proxy",
-      "test_url": "https://your-domain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://your-domain.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://your-domain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 454,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://your-domain.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "bandwidth_mbps": 0.03
     },
     {
       "id": "jsdelivr-originfastly",
@@ -1150,25 +1165,10 @@
         "https://originfastly.jsdelivr.net/gh/octocat/Hello-World@master/README"
       ],
       "status": "online",
-      "latency_ms": 61,
+      "latency_ms": 58,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://originfastly.jsdelivr.net/gh/octocat/Hello-World@master/README",
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "github-yongyong-online",
-      "category": "universal_proxy",
-      "test_url": "https://github.yongyong.online/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://github.yongyong.online/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.yongyong.online/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "succeeded_url": null,
       "bandwidth_mbps": null
     },
     {
@@ -1178,6 +1178,21 @@
       "test_urls": [
         "https://gh.cache.cloudns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
         "https://gh.cache.cloudns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "github-yongyong-online",
+      "category": "universal_proxy",
+      "test_url": "https://github.yongyong.online/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://github.yongyong.online/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.yongyong.online/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -1202,21 +1217,6 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "t-me",
-      "category": "universal_proxy",
-      "test_url": "https://t.me/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://t.me/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://t.me/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 724,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://t.me/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "bandwidth_mbps": 0.03
-    },
-    {
       "id": "kkgithub",
       "category": "web_mirror",
       "test_url": "https://kkgithub.com",
@@ -1224,11 +1224,56 @@
         "https://kkgithub.com"
       ],
       "status": "online",
-      "latency_ms": 1201,
+      "latency_ms": 1414,
       "http_status": 200,
       "error": null,
       "succeeded_url": "https://kkgithub.com",
       "bandwidth_mbps": null
+    },
+    {
+      "id": "github-limoruirui-com",
+      "category": "universal_proxy",
+      "test_url": "https://github.limoruirui.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://github.limoruirui.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.limoruirui.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "hub-gitmirror-com",
+      "category": "universal_proxy",
+      "test_url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://hub.gitmirror.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://hub.gitmirror.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gh-halonice-com",
+      "category": "universal_proxy",
+      "test_url": "https://gh.halonice.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.halonice.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.halonice.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 2707,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://gh.halonice.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.05
     },
     {
       "id": "ghproxy-cfd",
@@ -1261,21 +1306,6 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "hub-gitmirror-com",
-      "category": "universal_proxy",
-      "test_url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://hub.gitmirror.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://hub.gitmirror.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
       "id": "ghproxy-xiaopa-cc",
       "category": "universal_proxy",
       "test_url": "https://ghproxy.xiaopa.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -1289,21 +1319,6 @@
       "error": "<urlopen error [Errno -2] Name or service not known>",
       "succeeded_url": null,
       "bandwidth_mbps": null
-    },
-    {
-      "id": "github-zjzzy-cloudns-org",
-      "category": "universal_proxy",
-      "test_url": "https://github.zjzzy.cloudns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://github.zjzzy.cloudns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.zjzzy.cloudns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 1433,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://github.zjzzy.cloudns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "bandwidth_mbps": 0.02
     },
     {
       "id": "github-moeyy-xyz",
@@ -1321,66 +1336,6 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "ghproxy-monkeyray-net",
-      "category": "universal_proxy",
-      "test_url": "https://ghproxy.monkeyray.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://ghproxy.monkeyray.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghproxy.monkeyray.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 4193,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://ghproxy.monkeyray.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.07
-    },
-    {
-      "id": "firewall-lxstd-org",
-      "category": "universal_proxy",
-      "test_url": "https://firewall.lxstd.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://firewall.lxstd.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://firewall.lxstd.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -5] No address associated with hostname>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gh-jasonzeng-dev",
-      "category": "universal_proxy",
-      "test_url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.jasonzeng.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "github-limoruirui-com",
-      "category": "universal_proxy",
-      "test_url": "https://github.limoruirui.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://github.limoruirui.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.limoruirui.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
       "id": "gitproxy-mrhjx-cn",
       "category": "universal_proxy",
       "test_url": "https://gitproxy.mrhjx.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -1392,21 +1347,6 @@
       "latency_ms": null,
       "http_status": null,
       "error": "HTTP 403",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "ghdd-862510-xyz",
-      "category": "universal_proxy",
-      "test_url": "https://ghdd.862510.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://ghdd.862510.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghdd.862510.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
@@ -1441,17 +1381,62 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "gh-944446-xyz",
+      "id": "atomgit-com",
       "category": "universal_proxy",
-      "test_url": "https://gh.944446.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://atomgit.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh.944446.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.944446.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://atomgit.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://atomgit.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 1378,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://atomgit.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.01
+    },
+    {
+      "id": "gh-jasonzeng-dev",
+      "category": "universal_proxy",
+      "test_url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.jasonzeng.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
-      "error": "<urlopen error [Errno 111] Connection refused>",
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "firewall-lxstd-org",
+      "category": "universal_proxy",
+      "test_url": "https://firewall.lxstd.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://firewall.lxstd.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://firewall.lxstd.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -5] No address associated with hostname>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "ghdd-862510-xyz",
+      "category": "universal_proxy",
+      "test_url": "https://ghdd.862510.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://ghdd.862510.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghdd.862510.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -2] Name or service not known>",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
@@ -1462,36 +1447,6 @@
       "test_urls": [
         "https://api-gh.muran.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
         "https://api-gh.muran.eu.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gh-proxy-linioi-com",
-      "category": "universal_proxy",
-      "test_url": "https://gh-proxy.linioi.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gh-proxy.linioi.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh-proxy.linioi.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -5] No address associated with hostname>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "code-hub-hk-freexy-top",
-      "category": "universal_proxy",
-      "test_url": "https://code-hub-hk.freexy.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://code-hub-hk.freexy.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://code-hub-hk.freexy.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -1516,6 +1471,36 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "gh-944446-xyz",
+      "category": "universal_proxy",
+      "test_url": "https://gh.944446.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.944446.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.944446.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno 111] Connection refused>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gh-proxy-linioi-com",
+      "category": "universal_proxy",
+      "test_url": "https://gh-proxy.linioi.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh-proxy.linioi.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh-proxy.linioi.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -5] No address associated with hostname>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
       "id": "mirrors-chenby-cn",
       "category": "universal_proxy",
       "test_url": "https://mirrors.chenby.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -1531,18 +1516,63 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "gh-bugdey-us-kg",
+      "id": "code-hub-hk-freexy-top",
       "category": "universal_proxy",
-      "test_url": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://code-hub-hk.freexy.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.bugdey.us.kg/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://code-hub-hk.freexy.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://code-hub-hk.freexy.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
       "error": "<urlopen error [Errno -2] Name or service not known>",
       "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "web-4399-com",
+      "category": "universal_proxy",
+      "test_url": "https://web.4399.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://web.4399.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://web.4399.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 1237,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://web.4399.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "5555-cab",
+      "category": "universal_proxy",
+      "test_url": "https://5555.cab/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://5555.cab/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://5555.cab/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "Remote end closed connection without response",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "comfyit-cn",
+      "category": "universal_proxy",
+      "test_url": "https://comfyit.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://comfyit.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://comfyit.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 1718,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://comfyit.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
       "bandwidth_mbps": null
     },
     {
@@ -1591,12 +1621,57 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "gh-bugdey-us-kg",
+      "category": "universal_proxy",
+      "test_url": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.bugdey.us.kg/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gh-zwy-one",
+      "category": "universal_proxy",
+      "test_url": "https://gh.zwy.one/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.zwy.one/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.zwy.one/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error timed out>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
       "id": "gh-chalin-tk",
       "category": "universal_proxy",
       "test_url": "https://gh.chalin.tk/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
         "https://gh.chalin.tk/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
         "https://gh.chalin.tk/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gh-wsmdn-dpdns-org",
+      "category": "universal_proxy",
+      "test_url": "https://gh.wsmdn.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.wsmdn.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.wsmdn.dpdns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -1621,12 +1696,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "gh-wsmdn-dpdns-org",
+      "id": "ghb-nilive-top",
       "category": "universal_proxy",
-      "test_url": "https://gh.wsmdn.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://ghb.nilive.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh.wsmdn.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.wsmdn.dpdns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://ghb.nilive.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghb.nilive.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -1634,21 +1709,6 @@
       "error": "<urlopen error [Errno -2] Name or service not known>",
       "succeeded_url": null,
       "bandwidth_mbps": null
-    },
-    {
-      "id": "atomgit-com",
-      "category": "universal_proxy",
-      "test_url": "https://atomgit.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://atomgit.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://atomgit.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 1302,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://atomgit.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.01
     },
     {
       "id": "ghproxy-fangkuai-fun",
@@ -1666,72 +1726,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "ghproxy-mf-dust-dpdns-org",
+      "id": "ghproxy-vansour-top",
       "category": "universal_proxy",
-      "test_url": "https://ghproxy.mf-dust.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://ghproxy.vansour.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://ghproxy.mf-dust.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghproxy.mf-dust.dpdns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "ghb-nilive-top",
-      "category": "universal_proxy",
-      "test_url": "https://ghb.nilive.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://ghb.nilive.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghb.nilive.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "5555-cab",
-      "category": "universal_proxy",
-      "test_url": "https://5555.cab/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://5555.cab/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://5555.cab/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "Remote end closed connection without response",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gh-jdck-fun",
-      "category": "universal_proxy",
-      "test_url": "https://gh.jdck.fun/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gh.jdck.fun/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.jdck.fun/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno 111] Connection refused>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "git-zeas-cc",
-      "category": "universal_proxy",
-      "test_url": "https://git.zeas.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://git.zeas.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://git.zeas.cc/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://ghproxy.vansour.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghproxy.vansour.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -1756,6 +1756,21 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "gh-jdck-fun",
+      "category": "universal_proxy",
+      "test_url": "https://gh.jdck.fun/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.jdck.fun/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.jdck.fun/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno 111] Connection refused>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
       "id": "ghm-078465-xyz",
       "category": "universal_proxy",
       "test_url": "https://ghm.078465.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -1771,12 +1786,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "ghproxy-vansour-top",
+      "id": "git-zeas-cc",
       "category": "universal_proxy",
-      "test_url": "https://ghproxy.vansour.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://git.zeas.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://ghproxy.vansour.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ghproxy.vansour.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://git.zeas.cc/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://git.zeas.cc/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -1801,12 +1816,72 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "ghproxy-mf-dust-dpdns-org",
+      "category": "universal_proxy",
+      "test_url": "https://ghproxy.mf-dust.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://ghproxy.mf-dust.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghproxy.mf-dust.dpdns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "github-bullb-net",
+      "category": "universal_proxy",
+      "test_url": "https://github.bullb.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://github.bullb.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.bullb.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "github-cn86-dev",
+      "category": "universal_proxy",
+      "test_url": "https://github.cn86.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://github.cn86.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.cn86.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -5] No address associated with hostname>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
       "id": "github-boringhex-top",
       "category": "universal_proxy",
       "test_url": "https://github.boringhex.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
         "https://github.boringhex.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
         "https://github.boringhex.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 403",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "github-proxy-memory-echoes-cn",
+      "category": "universal_proxy",
+      "test_url": "https://github-proxy.memory-echoes.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://github-proxy.memory-echoes.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github-proxy.memory-echoes.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -1831,27 +1906,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "github-cn86-dev",
+      "id": "github-kkproxy-dpdns-org",
       "category": "universal_proxy",
-      "test_url": "https://github.cn86.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://github.kkproxy.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://github.cn86.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.cn86.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -5] No address associated with hostname>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "github-bullb-net",
-      "category": "universal_proxy",
-      "test_url": "https://github.bullb.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://github.bullb.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.bullb.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://github.kkproxy.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.kkproxy.dpdns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -1861,27 +1921,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "github-proxy-memory-echoes-cn",
+      "id": "github-oterea-top",
       "category": "universal_proxy",
-      "test_url": "https://github-proxy.memory-echoes.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://github.oterea.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://github-proxy.memory-echoes.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github-proxy.memory-echoes.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 403",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "github-kkproxy-dpdns-org",
-      "category": "universal_proxy",
-      "test_url": "https://github.kkproxy.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://github.kkproxy.dpdns.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.kkproxy.dpdns.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://github.oterea.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.oterea.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -1906,51 +1951,6 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "github-geekery-cn",
-      "category": "universal_proxy",
-      "test_url": "https://github.geekery.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://github.geekery.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.geekery.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 403",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "github-oterea-top",
-      "category": "universal_proxy",
-      "test_url": "https://github.oterea.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://github.oterea.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.oterea.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "github-dpik-top",
-      "category": "universal_proxy",
-      "test_url": "https://github.dpik.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://github.dpik.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.dpik.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 429",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
       "id": "github-mlmle-cn",
       "category": "universal_proxy",
       "test_url": "https://github.mlmle.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -1966,32 +1966,17 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "gitproxy-197545-xyz",
+      "id": "github-geekery-cn",
       "category": "universal_proxy",
-      "test_url": "https://gitproxy.197545.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://github.geekery.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gitproxy.197545.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gitproxy.197545.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://github.geekery.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.geekery.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gp-zkitefly-eu-org",
-      "category": "universal_proxy",
-      "test_url": "https://gp.zkitefly.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gp.zkitefly.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gp.zkitefly.eu.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno -5] No address associated with hostname>",
+      "error": "HTTP 403",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
@@ -2011,6 +1996,36 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "github-dpik-top",
+      "category": "universal_proxy",
+      "test_url": "https://github.dpik.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://github.dpik.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://github.dpik.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 429",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gitproxy-197545-xyz",
+      "category": "universal_proxy",
+      "test_url": "https://gitproxy.197545.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gitproxy.197545.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gitproxy.197545.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
       "id": "hub-ddayh-com",
       "category": "universal_proxy",
       "test_url": "https://hub.ddayh.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -2022,6 +2037,21 @@
       "latency_ms": null,
       "http_status": null,
       "error": "HTTP 403",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gp-zkitefly-eu-org",
+      "category": "universal_proxy",
+      "test_url": "https://gp.zkitefly.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gp.zkitefly.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gp.zkitefly.eu.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -5] No address associated with hostname>",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
@@ -2041,21 +2071,6 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "gitproxy-127731-xyz",
-      "category": "universal_proxy",
-      "test_url": "https://gitproxy.127731.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gitproxy.127731.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gitproxy.127731.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 526",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
       "id": "j-1win-ggff-net",
       "category": "universal_proxy",
       "test_url": "https://j.1win.ggff.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -2071,27 +2086,42 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "ghproxy-mirror-skybyte-me",
+      "category": "universal_proxy",
+      "test_url": "https://ghproxy.mirror.skybyte.me/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://ghproxy.mirror.skybyte.me/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghproxy.mirror.skybyte.me/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 1407,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://ghproxy.mirror.skybyte.me/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.06
+    },
+    {
+      "id": "gh-dpik-top",
+      "category": "universal_proxy",
+      "test_url": "https://gh.dpik.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://gh.dpik.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.dpik.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "The read operation timed out",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
       "id": "proxy-baguoyuyan-com",
       "category": "universal_proxy",
       "test_url": "https://proxy.baguoyuyan.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
         "https://proxy.baguoyuyan.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
         "https://proxy.baguoyuyan.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 403",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "jiashu-1win-eu-org",
-      "category": "universal_proxy",
-      "test_url": "https://jiashu.1win.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://jiashu.1win.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://jiashu.1win.eu.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -2116,32 +2146,32 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "hub-incept-pw",
+      "id": "jiashu-1win-eu-org",
       "category": "universal_proxy",
-      "test_url": "https://hub.incept.pw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://jiashu.1win.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://hub.incept.pw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://hub.incept.pw/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://jiashu.1win.eu.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://jiashu.1win.eu.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
-      "error": "HTTP 404",
+      "error": "HTTP 403",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
     {
-      "id": "raw-gitmirror-com",
+      "id": "gitproxy-127731-xyz",
       "category": "universal_proxy",
-      "test_url": "https://raw.gitmirror.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://gitproxy.127731.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://raw.gitmirror.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://raw.gitmirror.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://gitproxy.127731.xyz/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gitproxy.127731.xyz/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "error": "HTTP 526",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
@@ -2161,12 +2191,42 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "api-securityscorecards-dev",
+      "id": "gh-aaa-team",
       "category": "universal_proxy",
-      "test_url": "https://api.securityscorecards.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://gh.aaa.team/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://api.securityscorecards.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://api.securityscorecards.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://gh.aaa.team/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gh.aaa.team/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 521",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "raw-gitmirror-com",
+      "category": "universal_proxy",
+      "test_url": "https://raw.gitmirror.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://raw.gitmirror.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://raw.gitmirror.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "hub-incept-pw",
+      "category": "universal_proxy",
+      "test_url": "https://hub.incept.pw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://hub.incept.pw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://hub.incept.pw/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -2191,32 +2251,17 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "fastraw-ixnic-net",
+      "id": "api-securityscorecards-dev",
       "category": "universal_proxy",
-      "test_url": "https://fastraw.ixnic.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://api.securityscorecards.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://fastraw.ixnic.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://fastraw.ixnic.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://api.securityscorecards.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://api.securityscorecards.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gh-aaa-team",
-      "category": "universal_proxy",
-      "test_url": "https://gh.aaa.team/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gh.aaa.team/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.aaa.team/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 521",
+      "error": "HTTP 404",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
@@ -2266,17 +2311,31 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "y-whereisdoge-work",
-      "category": "universal_proxy",
-      "test_url": "https://y.whereisdoge.work/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "id": "gitclone-com",
+      "category": "clone_specialized",
+      "test_url": "https://gitclone.com/github.com/octocat/Hello-World.git/info/refs?service=git-upload-pack",
       "test_urls": [
-        "https://y.whereisdoge.work/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://y.whereisdoge.work/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://gitclone.com/github.com/octocat/Hello-World.git/info/refs?service=git-upload-pack"
+      ],
+      "status": "online",
+      "latency_ms": 8942,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://gitclone.com/github.com/octocat/Hello-World.git/info/refs?service=git-upload-pack",
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "fastraw-ixnic-net",
+      "category": "universal_proxy",
+      "test_url": "https://fastraw.ixnic.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://fastraw.ixnic.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://fastraw.ixnic.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
-      "error": "HTTP 404",
+      "error": "<urlopen error [Errno -2] Name or service not known>",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
@@ -2287,21 +2346,6 @@
       "test_urls": [
         "https://dockerproxy.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
         "https://dockerproxy.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gist-githubusercontent-com",
-      "category": "universal_proxy",
-      "test_url": "https://gist.githubusercontent.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://gist.githubusercontent.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gist.githubusercontent.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -2326,27 +2370,42 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "gh-zwy-one",
+      "id": "docker-m-daocloud-io",
       "category": "universal_proxy",
-      "test_url": "https://gh.zwy.one/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://docker.m.daocloud.io/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh.zwy.one/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.zwy.one/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://docker.m.daocloud.io/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://docker.m.daocloud.io/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
-      "error": "<urlopen error timed out>",
+      "error": "HTTP 403",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
     {
-      "id": "crux-nu",
+      "id": "gist-githubusercontent-com",
       "category": "universal_proxy",
-      "test_url": "https://crux.nu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://gist.githubusercontent.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://crux.nu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://crux.nu/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://gist.githubusercontent.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://gist.githubusercontent.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "y-whereisdoge-work",
+      "category": "universal_proxy",
+      "test_url": "https://y.whereisdoge.work/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://y.whereisdoge.work/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://y.whereisdoge.work/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -2367,21 +2426,6 @@
       "latency_ms": null,
       "http_status": null,
       "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "docker-m-daocloud-io",
-      "category": "universal_proxy",
-      "test_url": "https://docker.m.daocloud.io/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://docker.m.daocloud.io/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://docker.m.daocloud.io/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 403",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
@@ -2431,12 +2475,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "lists-busybox-net",
+      "id": "python-org",
       "category": "universal_proxy",
-      "test_url": "https://lists.busybox.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://python.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://lists.busybox.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://lists.busybox.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://python.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://python.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -2461,102 +2505,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "python-org",
+      "id": "lists-busybox-net",
       "category": "universal_proxy",
-      "test_url": "https://python.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://lists.busybox.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://python.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://python.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "img-maocdn-cn",
-      "category": "universal_proxy",
-      "test_url": "https://img.maocdn.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://img.maocdn.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://img.maocdn.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "<urlopen error [Errno 111] Connection refused>",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "securityscorecards-dev",
-      "category": "universal_proxy",
-      "test_url": "https://securityscorecards.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://securityscorecards.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://securityscorecards.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "sta-li",
-      "category": "universal_proxy",
-      "test_url": "https://sta.li/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://sta.li/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://sta.li/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "hunsh-net",
-      "category": "universal_proxy",
-      "test_url": "https://hunsh.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://hunsh.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://hunsh.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "star-history-com",
-      "category": "universal_proxy",
-      "test_url": "https://star-history.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://star-history.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://star-history.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "wiki-c2-com",
-      "category": "universal_proxy",
-      "test_url": "https://wiki.c2.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://wiki.c2.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://wiki.c2.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://lists.busybox.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://lists.busybox.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -2581,6 +2535,81 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "securityscorecards-dev",
+      "category": "universal_proxy",
+      "test_url": "https://securityscorecards.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://securityscorecards.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://securityscorecards.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "ghfile-geekertao-top",
+      "category": "universal_proxy",
+      "test_url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://ghfile.geekertao.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ghfile.geekertao.top/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 554,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "sta-li",
+      "category": "universal_proxy",
+      "test_url": "https://sta.li/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://sta.li/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://sta.li/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "star-history-com",
+      "category": "universal_proxy",
+      "test_url": "https://star-history.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://star-history.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://star-history.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "hunsh-net",
+      "category": "universal_proxy",
+      "test_url": "https://hunsh.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://hunsh.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://hunsh.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
       "id": "ws-example-com",
       "category": "universal_proxy",
       "test_url": "https://ws.example.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -2591,7 +2620,22 @@
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
-      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "error": "<urlopen error [Errno -5] No address associated with hostname>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "wiki-c2-com",
+      "category": "universal_proxy",
+      "test_url": "https://wiki.c2.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://wiki.c2.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://wiki.c2.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
@@ -2611,31 +2655,17 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "suckless-org",
+      "id": "workers-cloudflare-com",
       "category": "universal_proxy",
-      "test_url": "https://suckless.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://workers.cloudflare.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://suckless.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://suckless.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://workers.cloudflare.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://workers.cloudflare.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
       "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "gitclone-com",
-      "category": "clone_specialized",
-      "test_url": "https://gitclone.com/github.com/octocat/Hello-World.git/info/refs?service=git-upload-pack",
-      "test_urls": [
-        "https://gitclone.com/github.com/octocat/Hello-World.git/info/refs?service=git-upload-pack"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "The read operation timed out",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
@@ -2655,12 +2685,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "workers-cloudflare-com",
+      "id": "suckless-org",
       "category": "universal_proxy",
-      "test_url": "https://workers.cloudflare.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://suckless.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://workers.cloudflare.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://workers.cloudflare.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://suckless.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://suckless.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -2685,6 +2715,21 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "ipleak-net",
+      "category": "universal_proxy",
+      "test_url": "https://ipleak.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://ipleak.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ipleak.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
       "id": "umetrip-com",
       "category": "universal_proxy",
       "test_url": "https://umetrip.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -2700,12 +2745,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "ipleak-net",
+      "id": "crux-nu",
       "category": "universal_proxy",
-      "test_url": "https://ipleak.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://crux.nu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://ipleak.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ipleak.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://crux.nu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://crux.nu/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -2730,21 +2775,6 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "threejs-org",
-      "category": "universal_proxy",
-      "test_url": "https://threejs.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://threejs.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://threejs.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
       "id": "unity-com",
       "category": "universal_proxy",
       "test_url": "https://unity.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -2760,19 +2790,19 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "gh-b52m-cn",
+      "id": "wayland-fyi",
       "category": "universal_proxy",
-      "test_url": "https://gh.b52m.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://wayland.fyi/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://gh.b52m.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://gh.b52m.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://wayland.fyi/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://wayland.fyi/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
-      "status": "online",
-      "latency_ms": 5199,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://gh.b52m.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.06
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
     },
     {
       "id": "voicevox-hiroshiba-jp",
@@ -2790,12 +2820,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "wayland-fyi",
+      "id": "threejs-org",
       "category": "universal_proxy",
-      "test_url": "https://wayland.fyi/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://threejs.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://wayland.fyi/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://wayland.fyi/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://threejs.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://threejs.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -2835,21 +2865,6 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "api-deepseek-com",
-      "category": "universal_proxy",
-      "test_url": "https://api.deepseek.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://api.deepseek.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://api.deepseek.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 401",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
       "id": "pypi-nvidia-com",
       "category": "universal_proxy",
       "test_url": "https://pypi.nvidia.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -2865,12 +2880,27 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "zunko-jp",
+      "id": "api-deepseek-com",
       "category": "universal_proxy",
-      "test_url": "https://zunko.jp/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_url": "https://api.deepseek.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://zunko.jp/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://zunko.jp/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://api.deepseek.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://api.deepseek.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 401",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "xxx-com",
+      "category": "universal_proxy",
+      "test_url": "https://xxx.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://xxx.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://xxx.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -2895,51 +2925,6 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "github-cnxiaobai-com",
-      "category": "universal_proxy",
-      "test_url": "https://github.cnxiaobai.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://github.cnxiaobai.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://github.cnxiaobai.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 1743,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://github.cnxiaobai.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.1
-    },
-    {
-      "id": "msgboard-dev",
-      "category": "universal_proxy",
-      "test_url": "https://msgboard.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://msgboard.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://msgboard.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "ffmpeg-org",
-      "category": "universal_proxy",
-      "test_url": "https://ffmpeg.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://ffmpeg.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://ffmpeg.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "offline",
-      "latency_ms": null,
-      "http_status": null,
-      "error": "HTTP 404",
-      "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
       "id": "semanticscholar-org",
       "category": "universal_proxy",
       "test_url": "https://semanticscholar.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -2955,27 +2940,12 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "help-obsidian-md",
+      "id": "msgboard-dev",
       "category": "universal_proxy",
-      "test_url": "https://help.obsidian.md/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_url": "https://msgboard.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://help.obsidian.md/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://help.obsidian.md/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 314,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://help.obsidian.md/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "xxx-com",
-      "category": "universal_proxy",
-      "test_url": "https://xxx.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://xxx.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://xxx.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://msgboard.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://msgboard.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "offline",
       "latency_ms": null,
@@ -3000,6 +2970,276 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "zunko-jp",
+      "category": "universal_proxy",
+      "test_url": "https://zunko.jp/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://zunko.jp/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://zunko.jp/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "capsule-render-vercel-app",
+      "category": "universal_proxy",
+      "test_url": "https://capsule-render.vercel.app/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://capsule-render.vercel.app/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://capsule-render.vercel.app/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "docs-github-com",
+      "category": "universal_proxy",
+      "test_url": "https://docs.github.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://docs.github.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://docs.github.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "ffmpeg-org",
+      "category": "universal_proxy",
+      "test_url": "https://ffmpeg.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://ffmpeg.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://ffmpeg.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "floe-localhost",
+      "category": "universal_proxy",
+      "test_url": "https://floe.localhost/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://floe.localhost/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://floe.localhost/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno 111] Connection refused>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "git-example-com",
+      "category": "universal_proxy",
+      "test_url": "https://git.example.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://git.example.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://git.example.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno -5] No address associated with hostname>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "img-maocdn-cn",
+      "category": "universal_proxy",
+      "test_url": "https://img.maocdn.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://img.maocdn.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://img.maocdn.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "<urlopen error [Errno 111] Connection refused>",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "deb-debian-org",
+      "category": "universal_proxy",
+      "test_url": "https://deb.debian.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://deb.debian.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://deb.debian.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "download-pytorch-org",
+      "category": "universal_proxy",
+      "test_url": "https://download.pytorch.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://download.pytorch.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://download.pytorch.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 403",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "githubstatus-com",
+      "category": "universal_proxy",
+      "test_url": "https://githubstatus.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://githubstatus.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://githubstatus.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 84,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://githubstatus.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 2.24
+    },
+    {
+      "id": "bsr-twse-com-tw",
+      "category": "universal_proxy",
+      "test_url": "https://bsr.twse.com.tw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://bsr.twse.com.tw/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://bsr.twse.com.tw/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "cursor-com",
+      "category": "universal_proxy",
+      "test_url": "https://cursor.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://cursor.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://cursor.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 273,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://cursor.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.4
+    },
+    {
+      "id": "conventionalcommits-org",
+      "category": "universal_proxy",
+      "test_url": "https://conventionalcommits.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://conventionalcommits.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://conventionalcommits.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "s3-us-east-1-amazonaws-com",
+      "category": "universal_proxy",
+      "test_url": "https://s3.us-east-1.amazonaws.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://s3.us-east-1.amazonaws.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://s3.us-east-1.amazonaws.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 400",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "cron-job-org",
+      "category": "universal_proxy",
+      "test_url": "https://cron-job.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://cron-job.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://cron-job.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "hk-gh-proxy-com",
+      "category": "universal_proxy",
+      "test_url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://hk.gh-proxy.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://hk.gh-proxy.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 358,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 1.41
+    },
+    {
+      "id": "security-debian-org",
+      "category": "universal_proxy",
+      "test_url": "https://security.debian.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://security.debian.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://security.debian.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "readme-proxy-alt-dev",
+      "category": "universal_proxy",
+      "test_url": "https://readme.proxy-alt.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://readme.proxy-alt.dev/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://readme.proxy-alt.dev/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
       "id": "gitproxy-click",
       "category": "universal_proxy",
       "test_url": "https://gitproxy.click/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -3007,26 +3247,86 @@
         "https://gitproxy.click/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
         "https://gitproxy.click/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
+      "status": "online",
+      "latency_ms": 77,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://gitproxy.click/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "weishucdn-jiangjiangze-icu",
+      "category": "universal_proxy",
+      "test_url": "https://weishucdn.jiangjiangze.icu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://weishucdn.jiangjiangze.icu/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://weishucdn.jiangjiangze.icu/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
       "status": "offline",
       "latency_ms": null,
       "http_status": null,
-      "error": "<urlopen error timed out>",
+      "error": "HTTP 404",
       "succeeded_url": null,
       "bandwidth_mbps": null
     },
     {
-      "id": "web-4399-com",
+      "id": "pypi-tuna-tsinghua-edu-cn",
       "category": "universal_proxy",
-      "test_url": "https://web.4399.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_url": "https://pypi.tuna.tsinghua.edu.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
       "test_urls": [
-        "https://web.4399.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://web.4399.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+        "https://pypi.tuna.tsinghua.edu.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://pypi.tuna.tsinghua.edu.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "wget-la",
+      "category": "universal_proxy",
+      "test_url": "https://wget.la/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://wget.la/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://wget.la/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
       ],
       "status": "online",
-      "latency_ms": 776,
+      "latency_ms": 4000,
       "http_status": 200,
       "error": null,
-      "succeeded_url": "https://web.4399.com/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "succeeded_url": "https://wget.la/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.02
+    },
+    {
+      "id": "g-blfrp-cn",
+      "category": "universal_proxy",
+      "test_url": "https://g.blfrp.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://g.blfrp.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://g.blfrp.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 4678,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://g.blfrp.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.02
+    },
+    {
+      "id": "opensource-org",
+      "category": "universal_proxy",
+      "test_url": "https://opensource.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://opensource.org/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://opensource.org/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "offline",
+      "latency_ms": null,
+      "http_status": null,
+      "error": "HTTP 404",
+      "succeeded_url": null,
       "bandwidth_mbps": null
     },
     {
@@ -3060,6 +3360,36 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "proxy-yaoyaoling-net",
+      "category": "universal_proxy",
+      "test_url": "https://proxy.yaoyaoling.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "test_urls": [
+        "https://proxy.yaoyaoling.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://proxy.yaoyaoling.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 5626,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://proxy.yaoyaoling.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+      "bandwidth_mbps": 0.03
+    },
+    {
+      "id": "semantic-release-gitbook-io",
+      "category": "universal_proxy",
+      "test_url": "https://semantic-release.gitbook.io/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "test_urls": [
+        "https://semantic-release.gitbook.io/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
+        "https://semantic-release.gitbook.io/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
+      ],
+      "status": "online",
+      "latency_ms": 2465,
+      "http_status": 200,
+      "error": null,
+      "succeeded_url": "https://semantic-release.gitbook.io/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
+      "bandwidth_mbps": null
+    },
+    {
       "id": "proxy-atoposs-com",
       "category": "universal_proxy",
       "test_url": "https://proxy.atoposs.com/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
@@ -3072,51 +3402,6 @@
       "http_status": null,
       "error": "<urlopen error timed out>",
       "succeeded_url": null,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "wget-la",
-      "category": "universal_proxy",
-      "test_url": "https://wget.la/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://wget.la/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://wget.la/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 907,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://wget.la/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": 0.01
-    },
-    {
-      "id": "proxy-yaoyaoling-net",
-      "category": "universal_proxy",
-      "test_url": "https://proxy.yaoyaoling.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "test_urls": [
-        "https://proxy.yaoyaoling.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://proxy.yaoyaoling.net/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 10227,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://proxy.yaoyaoling.net/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "comfyit-cn",
-      "category": "universal_proxy",
-      "test_url": "https://comfyit.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
-      "test_urls": [
-        "https://comfyit.cn/https://raw.githubusercontent.com/octocat/Hello-World/master/README",
-        "https://comfyit.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md"
-      ],
-      "status": "online",
-      "latency_ms": 3770,
-      "http_status": 200,
-      "error": null,
-      "succeeded_url": "https://comfyit.cn/https://github.com/octocat/Hello-World/releases/download/v1.0.0/README.md",
       "bandwidth_mbps": null
     }
   ]

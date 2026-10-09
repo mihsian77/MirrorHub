@@ -1,30 +1,43 @@
 {
-  "generated_at": "2026-10-09T02:50:12Z",
+  "generated_at": "2026-10-09T04:43:33Z",
   "changes": [
     {
-      "id": "gh-dpik-top",
+      "id": "gitproxy-click",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3808
+      "latency": 77
     },
     {
-      "id": "comfyit-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 3770
+      "id": "gitclone-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 8942
     },
     {
-      "id": "help-obsidian-md",
+      "id": "cursor-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 314
+      "latency": 273
     },
     {
-      "id": "web-4399-com",
+      "id": "githubstatus-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 776
+      "latency": 84
+    },
+    {
+      "id": "hk-gh-proxy-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 358
+    },
+    {
+      "id": "semantic-release-gitbook-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2465
     }
   ]
 }

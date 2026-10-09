@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-09T02:50:12Z",
-  "total_nodes": 92,
+  "updated_at": "2026-10-09T04:43:33Z",
+  "total_nodes": 96,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1079,6 +1079,58 @@
           "id": "web-4399-com",
           "name": "Web",
           "url": "https://web.4399.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cursor-com",
+          "name": "Cursor",
+          "url": "https://cursor.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "githubstatus-com",
+          "name": "Githubstatus",
+          "url": "https://githubstatus.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hk-gh-proxy-com",
+          "name": "Hk",
+          "url": "https://hk.gh-proxy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "semantic-release-gitbook-io",
+          "name": "Semantic-release",
+          "url": "https://semantic-release.gitbook.io",
           "supports": [
             "release",
             "archive",
