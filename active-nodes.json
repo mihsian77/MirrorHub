@@ -1,0 +1,173 @@
+{
+  "source": "MirrorHub",
+  "source_url": "https://github.com/mihsian77/MirrorHub",
+  "license": "MIT",
+  "attribution_required": true,
+  "attribution_text": "节点由 MirrorHub 提供",
+  "attribution_url": "https://github.com/mihsian77/MirrorHub",
+  "usage_policy": "欢迎接入使用，但请在产品 UI 中保留来源声明。二次分发需遵守 MIT 协议并保留版权声明。",
+  "updated_at": "2026-10-09T02:50:12Z",
+  "total_online": 20,
+  "nodes": [
+    {
+      "id": "microsoftedge-microsoft-com",
+      "name": "Microsoftedge",
+      "domain": "microsoftedge.microsoft.com",
+      "category": "universal_proxy",
+      "latency_ms": 72,
+      "bandwidth_mbps": 0.47
+    },
+    {
+      "id": "img-shields-io",
+      "name": "Img",
+      "domain": "img.shields.io",
+      "category": "universal_proxy",
+      "latency_ms": 84,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "jsdelivr-cdn",
+      "name": "jsDelivr CDN",
+      "domain": "cdn.jsdelivr.net",
+      "category": "cdn_raw",
+      "latency_ms": 135,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "jsdelivr-testingcf",
+      "name": "jsDelivr TestingCF",
+      "domain": "testingcf.jsdelivr.net",
+      "category": "cdn_raw",
+      "latency_ms": 143,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "jsdelivr-gcore",
+      "name": "jsDelivr GCore",
+      "domain": "gcore.jsdelivr.net",
+      "category": "cdn_raw",
+      "latency_ms": 153,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gh-con-sh",
+      "name": "GH Con",
+      "domain": "gh.con.sh",
+      "category": "universal_proxy",
+      "latency_ms": 170,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "github-788787-xyz",
+      "name": "Github",
+      "domain": "github.788787.xyz",
+      "category": "universal_proxy",
+      "latency_ms": 172,
+      "bandwidth_mbps": 1.54
+    },
+    {
+      "id": "git-820828-xyz",
+      "name": "Git",
+      "domain": "git.820828.xyz",
+      "category": "universal_proxy",
+      "latency_ms": 175,
+      "bandwidth_mbps": 1.33
+    },
+    {
+      "id": "gh-198962-xyz",
+      "name": "Gh",
+      "domain": "gh.198962.xyz",
+      "category": "universal_proxy",
+      "latency_ms": 178,
+      "bandwidth_mbps": 1.99
+    },
+    {
+      "id": "github-zzrbk-xyz",
+      "name": "Github",
+      "domain": "github.zzrbk.xyz",
+      "category": "universal_proxy",
+      "latency_ms": 182,
+      "bandwidth_mbps": 1.95
+    },
+    {
+      "id": "dockerproxy-link",
+      "name": "Dockerproxy",
+      "domain": "dockerproxy.link",
+      "category": "universal_proxy",
+      "latency_ms": 183,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "gp-871201-xyz",
+      "name": "Gp",
+      "domain": "gp.871201.xyz",
+      "category": "universal_proxy",
+      "latency_ms": 187,
+      "bandwidth_mbps": 1.65
+    },
+    {
+      "id": "gh-996986-xyz",
+      "name": "Gh",
+      "domain": "gh.996986.xyz",
+      "category": "universal_proxy",
+      "latency_ms": 194,
+      "bandwidth_mbps": 2.04
+    },
+    {
+      "id": "git-951959483-xyz",
+      "name": "Git",
+      "domain": "git.951959483.xyz",
+      "category": "universal_proxy",
+      "latency_ms": 196,
+      "bandwidth_mbps": 1.63
+    },
+    {
+      "id": "gh-proxy-com",
+      "name": "GH-Proxy",
+      "domain": "gh-proxy.com",
+      "category": "universal_proxy",
+      "latency_ms": 198,
+      "bandwidth_mbps": 1.19
+    },
+    {
+      "id": "github-880824-xyz",
+      "name": "Github",
+      "domain": "github.880824.xyz",
+      "category": "universal_proxy",
+      "latency_ms": 198,
+      "bandwidth_mbps": 1.79
+    },
+    {
+      "id": "tvv-tw",
+      "name": "Tvv",
+      "domain": "tvv.tw",
+      "category": "universal_proxy",
+      "latency_ms": 209,
+      "bandwidth_mbps": 1.89
+    },
+    {
+      "id": "gh-llkk-cc",
+      "name": "Gh",
+      "domain": "gh.llkk.cc",
+      "category": "universal_proxy",
+      "latency_ms": 217,
+      "bandwidth_mbps": 1.45
+    },
+    {
+      "id": "ghproxy-imciel-com",
+      "name": "Ghproxy",
+      "domain": "ghproxy.imciel.com",
+      "category": "universal_proxy",
+      "latency_ms": 224,
+      "bandwidth_mbps": 1.32
+    },
+    {
+      "id": "ggg-clwap-dpdns-org",
+      "name": "Ggg",
+      "domain": "ggg.clwap.dpdns.org",
+      "category": "universal_proxy",
+      "latency_ms": 244,
+      "bandwidth_mbps": 1.65
+    }
+  ]
+}

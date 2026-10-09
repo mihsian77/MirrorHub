@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-09T02:50:12Z",
+  "changes": [
+    {
+      "id": "gh-dpik-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3808
+    },
+    {
+      "id": "comfyit-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 3770
+    },
+    {
+      "id": "help-obsidian-md",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 314
+    },
+    {
+      "id": "web-4399-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 776
+    }
+  ]
+}

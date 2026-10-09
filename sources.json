@@ -1,0 +1,48 @@
+{
+  "version": "1.1",
+  "updated_at": "2026-10-09T00:00:00Z",
+  "sources": [
+    {
+      "id": "mirror-cn",
+      "name": "AClon314/mirror-cn",
+      "url": "https://github.com/AClon314/mirror-cn",
+      "type": "repo_file",
+      "file_url": "https://raw.githubusercontent.com/AClon314/mirror-cn/refs/heads/main/src/mirror_cn/mirror_cn.py",
+      "extract_method": "regex_domains",
+      "enabled": true,
+      "notes": "Python包，内置最全节点列表，作为基础来源"
+    },
+    {
+      "id": "moretools",
+      "name": "moretools.app/github-proxy",
+      "url": "https://www.moretools.app/en/github-proxy",
+      "type": "web_page",
+      "file_url": "https://www.moretools.app/en/github-proxy",
+      "extract_method": "regex_domains_generic",
+      "enabled": true,
+      "notes": "MoreTools 镜像节点站，100+ 节点列表（宽泛提取，测速淘汰非代理域名）"
+    },
+    {
+      "id": "quanx-githubcdn",
+      "name": "NUPIGM/QuanX githubCDN",
+      "url": "https://github.com/NUPIGM/QuanX",
+      "type": "manual",
+      "file_url": "https://raw.githubusercontent.com/NUPIGM/QuanX/main/Surge/SGmodules/githubCDN.sgmodule",
+      "extract_method": "manual",
+      "enabled": true,
+      "notes": "Surge/QuanX 模块内置 GitHub 加速域名（裸域名直录）",
+      "domains": [
+        "fastraw.ixnic.net",
+        "hub.incept.pw",
+        "raw.gitmirror.com"
+      ]
+    }
+  ],
+  "code_search_keywords": [
+    "gh-proxy in:name,description",
+    "github proxy in:name,description",
+    "github 加速 in:name,description,readme",
+    "ghproxy in:name",
+    "github mirror in:name,description"
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-10-06T10:50:26Z",
+  "nodes": [
+    {
+      "id": "gh-idayer-com",
+      "name": "GH Idayer",
+      "url": "https://gh.idayer.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "ghproxy-cfd",
+      "name": "GHProxy CFD",
+      "url": "https://ghproxy.cfd",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "location": "美国洛杉矶",
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-moeyy-xyz",
+      "name": "Moeyy Mirror",
+      "url": "https://github.moeyy.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "gh-h233-eu-org",
+      "name": "GH H233",
+      "url": "https://gh.h233.eu.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "ghproxy-1888866-xyz",
+      "name": "GHProxy 1888866",
+      "url": "https://ghproxy.1888866.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "gh-ddlc-top",
+      "name": "GH DDLC",
+      "url": "https://gh.ddlc.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "cors-isteed-cc",
+      "name": "iSteed CORS",
+      "url": "https://cors.isteed.cc",
+      "url_template": "{node_url}/github.com/{path}",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "hub-gitmirror-com",
+      "name": "GitMirror Hub",
+      "url": "https://hub.gitmirror.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "ghdd-862510-xyz",
+      "name": "GHDD 862510",
+      "url": "https://ghdd.862510.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "gh-jasonzeng-dev",
+      "name": "GH JasonZeng",
+      "url": "https://gh.jasonzeng.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-tbedu-top",
+      "name": "TBEdu Mirror",
+      "url": "https://github.tbedu.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "gh-proxy-linioi-com",
+      "name": "GH-Proxy Linioi",
+      "url": "https://gh-proxy.linioi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "firewall-lxstd-org",
+      "name": "LXSTD Firewall",
+      "url": "https://firewall.lxstd.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "mirrors-chenby-cn",
+      "name": "Chenby Mirrors",
+      "url": "https://mirrors.chenby.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-wuzhij-com",
+      "name": "Wuzhij Mirror",
+      "url": "https://github.wuzhij.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "gitproxy-mrhjx-cn",
+      "name": "Mrhjx GitProxy",
+      "url": "https://gitproxy.mrhjx.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "ghproxy-cxkpro-top",
+      "name": "GHProxy Cxkpro",
+      "url": "https://ghproxy.cxkpro.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "gh-xxooo-cf",
+      "name": "GH XXOOO",
+      "url": "https://gh.xxooo.cf",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "ghproxy-xiaopa-cc",
+      "name": "GHProxy Xiaopa",
+      "url": "https://ghproxy.xiaopa.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "gh-944446-xyz",
+      "name": "GH 944446",
+      "url": "https://gh.944446.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-limoruirui-com",
+      "name": "Limoruirui Mirror",
+      "url": "https://github.limoruirui.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "api-gh-muran-eu-org",
+      "name": "Muran API-GH",
+      "url": "https://api-gh.muran.eu.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "gh-xx9527-cn",
+      "name": "GH 9527",
+      "url": "https://gh.xx9527.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-whrstudio-top",
+      "name": "WHRStudio Mirror",
+      "url": "https://github.whrstudio.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-proxy-class3-fun",
+      "name": "Class3 Proxy",
+      "url": "https://github.proxy.class3.fun",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-acmsz-top",
+      "name": "ACMSZ Mirror",
+      "url": "https://github.acmsz.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-cmsz-dpdns-org",
+      "name": "CMSZ DPDNS",
+      "url": "https://github.cmsz.dpdns.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "ghproxy-fangkuai-fun",
+      "name": "GHProxy Fangkuai",
+      "url": "https://ghproxy.fangkuai.fun",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-dpik-top",
+      "name": "DPIK Mirror",
+      "url": "https://github.dpik.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-3x25-com",
+      "name": "3x25 Mirror",
+      "url": "https://github.3x25.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-akams-cn",
+      "name": "AKAMS Mirror",
+      "url": "https://github.akams.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "bgithub-xyz",
+      "name": "BGitHub",
+      "url": "https://bgithub.xyz",
+      "supports": [
+        "web",
+        "release",
+        "clone"
+      ],
+      "notes": "界面简洁",
+      "category": "web_mirror",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-ur1-fun",
+      "name": "UR1 Mirror",
+      "url": "https://github.ur1.fun",
+      "supports": [
+        "web",
+        "release"
+      ],
+      "notes": "加载速度快",
+      "category": "web_mirror",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "githubfast-com",
+      "name": "GitHubFast",
+      "url": "https://githubfast.com",
+      "supports": [
+        "web",
+        "release",
+        "clone"
+      ],
+      "category": "web_mirror",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "dgithub-xyz",
+      "name": "DGit",
+      "url": "https://dgithub.xyz",
+      "supports": [
+        "web",
+        "release",
+        "clone"
+      ],
+      "category": "web_mirror",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "hub-fastgit-org",
+      "name": "FastGit Hub",
+      "url": "https://hub.fastgit.org",
+      "url_template": "{node_url}/{owner}/{repo}.git",
+      "supports": [
+        "clone"
+      ],
+      "location": "中国香港",
+      "category": "clone_specialized",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "raw-ihtw-moe",
+      "name": "iHTW Raw",
+      "url": "raw.ihtw.moe",
+      "url_template": "https://{node_url}/github.com/{owner}/{repo}/{ref}/{path}",
+      "supports": [
+        "raw"
+      ],
+      "category": "cdn_raw",
+      "removed_at": "2026-10-06T10:50:26Z",
+      "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    }
+  ]
+}

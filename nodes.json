@@ -1,0 +1,1184 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-10-09T02:50:12Z",
+  "total_nodes": 92,
+  "categories": {
+    "universal_proxy": {
+      "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
+      "default_url_template": "{node_url}/{github_url}",
+      "nodes": [
+        {
+          "id": "gh-proxy-com",
+          "name": "GH-Proxy",
+          "url": "https://gh-proxy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "notes": "2.0版本，支持Docker Hub/SourceForge"
+        },
+        {
+          "id": "gh-proxy-org",
+          "name": "GH-Proxy Org",
+          "url": "https://gh-proxy.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "gh-proxy-net",
+          "name": "GH-Proxy Net",
+          "url": "https://gh-proxy.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "ghproxy-net",
+          "name": "GHProxy Net",
+          "url": "https://ghproxy.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "ghfast-top",
+          "name": "GHFast",
+          "url": "https://ghfast.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "gh-con-sh",
+          "name": "GH Con",
+          "url": "https://gh.con.sh",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "github-boki-moe",
+          "name": "Boki Mirror",
+          "url": "https://github.boki.moe",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "fastgit-cc",
+          "name": "FastGit CC",
+          "url": "https://fastgit.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "location": "美国 Cloudflare"
+        },
+        {
+          "id": "slink-ltd",
+          "name": "SLink",
+          "url": "https://slink.ltd",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "down-sciproxy-com",
+          "name": "SciProxy Down",
+          "url": "https://down.sciproxy.com",
+          "url_template": "{node_url}/github.com/{path}",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw"
+          ]
+        },
+        {
+          "id": "gh-monlor-com",
+          "name": "GH Monlor",
+          "url": "https://gh.monlor.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "github-ednovas-xyz",
+          "name": "Ednovas Mirror",
+          "url": "https://github.ednovas.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "ghfile-geekertao-top",
+          "name": "GHFile Geekertao",
+          "url": "https://ghfile.geekertao.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "ghp-keleyaa-com",
+          "name": "GHP Keleyaa",
+          "url": "https://ghp.keleyaa.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "gh-chjina-com",
+          "name": "GH Chjina",
+          "url": "https://gh.chjina.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "ghpxy-hwinzniej-top",
+          "name": "GHPXY Hwinzniej",
+          "url": "https://ghpxy.hwinzniej.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "cdn-crashmc-com",
+          "name": "CrashMC CDN",
+          "url": "https://cdn.crashmc.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "git-yylx-win",
+          "name": "YYLX Git",
+          "url": "https://git.yylx.win",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "gh-zwnes-xyz",
+          "name": "GH Zwnes",
+          "url": "https://gh.zwnes.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "down-npee-cn",
+          "name": "Npee Down",
+          "url": "https://down.npee.cn",
+          "url_template": "{node_url}/?{github_url}",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw"
+          ]
+        },
+        {
+          "id": "gh-proxy-ygxz-in",
+          "name": "GH-Proxy YGXZ",
+          "url": "https://gh-proxy.ygxz.in",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "gh-nxnow-top",
+          "name": "GH Nxnow",
+          "url": "https://gh.nxnow.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "gh-zwy-one",
+          "name": "GH ZWY",
+          "url": "https://gh.zwy.one",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "ghproxy-monkeyray-net",
+          "name": "GHProxy MonkeyRay",
+          "url": "https://ghproxy.monkeyray.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "github-proxy-lixxing-top",
+          "name": "Lixxing Proxy",
+          "url": "https://github-proxy.lixxing.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ]
+        },
+        {
+          "id": "gh-llkk-cc",
+          "name": "Gh",
+          "url": "https://gh.llkk.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wget-la",
+          "name": "Wget",
+          "url": "https://wget.la",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-ddlc-top",
+          "name": "Gh",
+          "url": "https://gh.ddlc.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-idayer-com",
+          "name": "Gh",
+          "url": "https://gh.idayer.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-homeboyc-cn",
+          "name": "ghproxy.homeboyc.cn",
+          "url": "https://ghproxy.homeboyc.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "notes": "来自 driverscope 内置代理"
+        },
+        {
+          "id": "toolwa-com-github",
+          "name": "toolwa.com/github",
+          "url": "https://toolwa.com/github",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw"
+          ],
+          "notes": "来自 driverscope 内置代理，路径格式 /github/{url}"
+        },
+        {
+          "id": "github-akams-cn",
+          "name": "github.akams.cn",
+          "url": "https://github.akams.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "notes": "来自 driverscope 内置代理"
+        },
+        {
+          "id": "30006000-xyz",
+          "name": "30006000",
+          "url": "https://30006000.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cf-ghproxy-cc",
+          "name": "Cf",
+          "url": "https://cf.ghproxy.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "g-blfrp-cn",
+          "name": "G",
+          "url": "https://g.blfrp.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "getgit-love8yun-eu-org",
+          "name": "Getgit",
+          "url": "https://getgit.love8yun.eu.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ggg-clwap-dpdns-org",
+          "name": "Ggg",
+          "url": "https://ggg.clwap.dpdns.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-198962-xyz",
+          "name": "Gh",
+          "url": "https://gh.198962.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-1k-ink",
+          "name": "Gh",
+          "url": "https://gh.1k.ink",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-39-al",
+          "name": "Gh",
+          "url": "https://gh.39.al",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-996986-xyz",
+          "name": "Gh",
+          "url": "https://gh.996986.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-dpik-top",
+          "name": "Gh",
+          "url": "https://gh.dpik.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-halonice-com",
+          "name": "Gh",
+          "url": "https://gh.halonice.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-noki-icu",
+          "name": "Gh",
+          "url": "https://gh.noki.icu",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-padao-fun",
+          "name": "Gh",
+          "url": "https://gh.padao.fun",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-053000-xyz",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.053000.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-cc",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-cn",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-imciel-com",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.imciel.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-mirror-skybyte-me",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.mirror.skybyte.me",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-sakuramoe-dev",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.sakuramoe.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-xzhouqd-com",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.xzhouqd.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "git-669966-xyz",
+          "name": "Git",
+          "url": "https://git.669966.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "git-820828-xyz",
+          "name": "Git",
+          "url": "https://git.820828.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "git-951959483-xyz",
+          "name": "Git",
+          "url": "https://git.951959483.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "git-tangbai-cc",
+          "name": "Git",
+          "url": "https://git.tangbai.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-1ms-xx-kg",
+          "name": "Github",
+          "url": "https://github.1ms.xx.kg",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-788787-xyz",
+          "name": "Github",
+          "url": "https://github.788787.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-880824-xyz",
+          "name": "Github",
+          "url": "https://github.880824.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-chenc-dev",
+          "name": "Github",
+          "url": "https://github.chenc.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-cnxiaobai-com",
+          "name": "Github",
+          "url": "https://github.cnxiaobai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-crdz-eu-org",
+          "name": "Github",
+          "url": "https://github.crdz.eu.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-ihnic-com",
+          "name": "Github",
+          "url": "https://github.ihnic.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-lsdfxdk-nyc-mn",
+          "name": "Github",
+          "url": "https://github.lsdfxdk.nyc.mn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-xxlab-tech",
+          "name": "Github",
+          "url": "https://github.xxlab.tech",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-zjzzy-cloudns-org",
+          "name": "Github",
+          "url": "https://github.zjzzy.cloudns.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-zzrbk-xyz",
+          "name": "Github",
+          "url": "https://github.zzrbk.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitproxy-click",
+          "name": "Gitproxy",
+          "url": "https://gitproxy.click",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gp-871201-xyz",
+          "name": "Gp",
+          "url": "https://gp.871201.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kenyu-ggff-net",
+          "name": "Kenyu",
+          "url": "https://kenyu.ggff.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "proxy-yaoyaoling-net",
+          "name": "Proxy",
+          "url": "https://proxy.yaoyaoling.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tvv-tw",
+          "name": "Tvv",
+          "url": "https://tvv.tw",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-b52m-cn",
+          "name": "Gh",
+          "url": "https://gh.b52m.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dockerproxy-link",
+          "name": "Dockerproxy",
+          "url": "https://dockerproxy.link",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hubp-org",
+          "name": "Hubp",
+          "url": "https://hubp.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "img-shields-io",
+          "name": "Img",
+          "url": "https://img.shields.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "microsoftedge-microsoft-com",
+          "name": "Microsoftedge",
+          "url": "https://microsoftedge.microsoft.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mirror-houlang-cloud",
+          "name": "Mirror",
+          "url": "https://mirror.houlang.cloud",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "t-me",
+          "name": "T",
+          "url": "https://t.me",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "your-domain-com",
+          "name": "Your-domain",
+          "url": "https://your-domain.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yourdomain-com",
+          "name": "Yourdomain",
+          "url": "https://yourdomain.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "atomgit-com",
+          "name": "Atomgit",
+          "url": "https://atomgit.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "comfyit-cn",
+          "name": "Comfyit",
+          "url": "https://comfyit.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "help-obsidian-md",
+          "name": "Help",
+          "url": "https://help.obsidian.md",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "web-4399-com",
+          "name": "Web",
+          "url": "https://web.4399.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        }
+      ]
+    },
+    "web_mirror": {
+      "description": "GitHub网页完整镜像，可直接浏览",
+      "default_url_template": "{node_url}/{path}",
+      "nodes": [
+        {
+          "id": "kkgithub",
+          "name": "KKGitHub",
+          "url": "https://kkgithub.com",
+          "supports": [
+            "web",
+            "release",
+            "clone"
+          ],
+          "notes": "界面与GitHub一致"
+        }
+      ]
+    },
+    "clone_specialized": {
+      "description": "Git Clone专用加速",
+      "default_url_template": "{node_url}/github.com/{owner}/{repo}.git",
+      "nodes": [
+        {
+          "id": "gitclone-com",
+          "name": "GitClone",
+          "url": "https://gitclone.com",
+          "url_template": "{node_url}/github.com/{owner}/{repo}.git",
+          "supports": [
+            "clone"
+          ],
+          "location": "中国杭州"
+        }
+      ]
+    },
+    "cdn_raw": {
+      "description": "CDN加速，仅支持raw/blob文件，不支持release大文件",
+      "default_url_template": "https://{node_url}/gh/{owner}/{repo}@{ref}/{path}",
+      "nodes": [
+        {
+          "id": "jsdelivr-cdn",
+          "name": "jsDelivr CDN",
+          "url": "cdn.jsdelivr.net",
+          "url_template": "https://{node_url}/gh/{owner}/{repo}@{ref}/{path}",
+          "supports": [
+            "raw",
+            "blob"
+          ],
+          "notes": "多CDN(Cloudflare/Fastly/Bunny/GCore)"
+        },
+        {
+          "id": "jsdelivr-fastly",
+          "name": "jsDelivr Fastly",
+          "url": "fastly.jsdelivr.net",
+          "url_template": "https://{node_url}/gh/{owner}/{repo}@{ref}/{path}",
+          "supports": [
+            "raw",
+            "blob"
+          ]
+        },
+        {
+          "id": "jsdelivr-gcore",
+          "name": "jsDelivr GCore",
+          "url": "gcore.jsdelivr.net",
+          "url_template": "https://{node_url}/gh/{owner}/{repo}@{ref}/{path}",
+          "supports": [
+            "raw",
+            "blob"
+          ]
+        },
+        {
+          "id": "jsdelivr-testingcf",
+          "name": "jsDelivr TestingCF",
+          "url": "testingcf.jsdelivr.net",
+          "url_template": "https://{node_url}/gh/{owner}/{repo}@{ref}/{path}",
+          "supports": [
+            "raw",
+            "blob"
+          ]
+        },
+        {
+          "id": "jsdelivr-originfastly",
+          "name": "jsDelivr OriginFastly",
+          "url": "originfastly.jsdelivr.net",
+          "url_template": "https://{node_url}/gh/{owner}/{repo}@{ref}/{path}",
+          "supports": [
+            "raw",
+            "blob"
+          ]
+        }
+      ]
+    }
+  }
+}

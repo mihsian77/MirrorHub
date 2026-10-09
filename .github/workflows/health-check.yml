@@ -1,0 +1,74 @@
+name: Health Check
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时
+  workflow_dispatch:  # 手动触发
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 1. 同步节点（从来源仓库发现新节点 + Code Search 自动发现）
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/sync_nodes.py
+
+      - name: 2. 测速所有节点
+        run: python3 scripts/test_nodes.py
+
+      - name: 3. 更新状态（生命周期管理+自动排序+清理失效）
+        run: python3 scripts/update_status.py
+
+      - name: 4. 动态生成 README（节点排行实时更新）
+        run: python3 scripts/generate_readme.py
+
+      - name: 4b. 生成 active-nodes.json（供外部项目接入）
+        run: python3 scripts/generate_active_nodes.py
+
+      - name: 5. 校验配置
+        run: python3 scripts/validate.py
+
+      - name: 6. 飞书推送状态变化
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: python3 scripts/notify_feishu.py
+
+      - name: 7. 提交更新（覆盖上一次健康检查提交）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "无变化，跳过提交"
+          else
+            LAST_MSG=$(git log -1 --pretty=%s)
+            if [[ "$LAST_MSG" == chore:*自动健康检查* ]]; then
+              echo "上一次是健康检查提交，amend 覆盖（保留中间的开发提交）"
+              git commit --amend -m "chore: 自动健康检查 - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+              git pull --rebase origin main 2>/dev/null || true
+              git push --force-with-lease || git push --force
+            else
+              echo "上一次不是健康检查提交，新建提交"
+              git commit -m "chore: 自动健康检查 - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+              git pull --rebase origin main 2>/dev/null || true
+              git push
+            fi
+          fi
+
+      - name: 8. 清理旧工作流记录（只保留本次）
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/cleanup_workflow_runs.py "${{ github.repository }}" "$GITHUB_TOKEN" "${{ github.run_id }}"
