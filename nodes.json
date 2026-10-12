@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-12T18:21:56Z",
-  "total_nodes": 104,
+  "updated_at": "2026-10-12T18:21:24Z",
+  "total_nodes": 101,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",

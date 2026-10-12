@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-12T18:21:56Z",
+  "updated_at": "2026-10-12T18:21:24Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -2369,13 +2369,13 @@
         "clone"
       ],
       "category": "universal_proxy",
-      "added_at": "2026-10-12T18:20:48Z",
+      "added_at": "2026-10-12T18:20:19Z",
       "source": "auto_sync"
     },
     {
-      "id": "file-xxx-io",
-      "name": "File",
-      "url": "https://file.xxx.io",
+      "id": "claude-com",
+      "name": "Claude",
+      "url": "https://claude.com",
       "supports": [
         "release",
         "archive",
@@ -2384,13 +2384,13 @@
         "clone"
       ],
       "category": "universal_proxy",
-      "added_at": "2026-10-12T18:20:48Z",
+      "added_at": "2026-10-12T18:20:19Z",
       "source": "auto_sync"
     },
     {
-      "id": "git-jetsung-com",
-      "name": "Git",
-      "url": "https://git.jetsung.com",
+      "id": "creativecommons-org",
+      "name": "Creativecommons",
+      "url": "https://creativecommons.org",
       "supports": [
         "release",
         "archive",
@@ -2399,7 +2399,37 @@
         "clone"
       ],
       "category": "universal_proxy",
-      "added_at": "2026-10-12T18:20:48Z",
+      "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dart-dev",
+      "name": "Dart",
+      "url": "https://dart.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "flutter-dev",
+      "name": "Flutter",
+      "url": "https://flutter.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
       "source": "auto_sync"
     },
     {
@@ -2414,7 +2444,22 @@
         "clone"
       ],
       "category": "universal_proxy",
-      "added_at": "2026-10-12T18:20:48Z",
+      "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "learning-analytics-tools-pages-dev",
+      "name": "Learning-analytics-tools",
+      "url": "https://learning-analytics-tools.pages.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
       "source": "auto_sync"
     },
     {
@@ -2429,67 +2474,7 @@
         "clone"
       ],
       "category": "universal_proxy",
-      "added_at": "2026-10-12T18:20:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "myfiles-com",
-      "name": "Myfiles",
-      "url": "https://myfiles.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-12T18:20:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "pzcwy9-mcsslk-xyz",
-      "name": "Pzcwy9",
-      "url": "https://pzcwy9.mcsslk.xyz",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-12T18:20:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "tuijianvpn-com",
-      "name": "Tuijianvpn",
-      "url": "https://tuijianvpn.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-12T18:20:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "xxx-xx",
-      "name": "Xxx",
-      "url": "https://xxx.xx",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-12T18:20:48Z",
+      "added_at": "2026-10-12T18:20:19Z",
       "source": "auto_sync"
     }
   ]

@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-10-12T18:21:56Z",
+  "generated_at": "2026-10-12T18:21:24Z",
   "changes": [
     {
-      "id": "fastfile-asfd-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 702
+      "id": "gh-halonice-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 316
     },
     {
-      "id": "fx4-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 584
-    },
-    {
-      "id": "rmfkb6yg-mikasa-cloud",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 746
+      "id": "gh-b52m-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3141
     }
   ]
 }
