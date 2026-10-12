@@ -59,7 +59,6 @@ jobs:
             git pull --no-rebase -X theirs origin main 2>/dev/null || echo "warn: 合并异常，保留本地提交下轮重试"
             git push || echo "warn: push 失败，保留本地提交下轮重试"
           fi
-          fi
 
       - name: 8. 清理旧工作流记录（只保留本次）
         env:
