@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-12T18:14:43Z",
+  "updated_at": "2026-10-12T18:21:56Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -2355,6 +2355,141 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blog-csdn-net",
+      "name": "Blog",
+      "url": "https://blog.csdn.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "file-xxx-io",
+      "name": "File",
+      "url": "https://file.xxx.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-jetsung-com",
+      "name": "Git",
+      "url": "https://git.jetsung.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "github-rc1844-workers-dev",
+      "name": "Github",
+      "url": "https://github.rc1844.workers.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "my-json-server-typicode-com",
+      "name": "My-json-server",
+      "url": "https://my-json-server.typicode.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "myfiles-com",
+      "name": "Myfiles",
+      "url": "https://myfiles.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pzcwy9-mcsslk-xyz",
+      "name": "Pzcwy9",
+      "url": "https://pzcwy9.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tuijianvpn-com",
+      "name": "Tuijianvpn",
+      "url": "https://tuijianvpn.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xxx-xx",
+      "name": "Xxx",
+      "url": "https://xxx.xx",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:48Z",
       "source": "auto_sync"
     }
   ]

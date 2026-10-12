@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-12T18:14:43Z",
-  "total_nodes": 101,
+  "updated_at": "2026-10-12T18:21:56Z",
+  "total_nodes": 104,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1196,6 +1196,45 @@
           "id": "jbg53qui-tolink-pro",
           "name": "Jbg53qui",
           "url": "https://jbg53qui.tolink.pro",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fastfile-asfd-cn",
+          "name": "Fastfile",
+          "url": "https://fastfile.asfd.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fx4-cn",
+          "name": "Fx4",
+          "url": "https://fx4.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "rmfkb6yg-mikasa-cloud",
+          "name": "Rmfkb6yg",
+          "url": "https://rmfkb6yg.mikasa.cloud",
           "supports": [
             "release",
             "archive",

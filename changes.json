@@ -1,42 +1,23 @@
 {
-  "generated_at": "2026-10-12T18:14:43Z",
+  "generated_at": "2026-10-12T18:21:56Z",
   "changes": [
     {
-      "id": "gh-dpik-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 955
-    },
-    {
-      "id": "opencode-ai",
+      "id": "fastfile-asfd-cn",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 83
+      "latency": 702
     },
     {
-      "id": "ampcode-com",
+      "id": "fx4-cn",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 334
+      "latency": 584
     },
     {
-      "id": "analytics-geekertao-top",
+      "id": "rmfkb6yg-mikasa-cloud",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 544
-    },
-    {
-      "id": "aps-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 439
-    },
-    {
-      "id": "jbg53qui-tolink-pro",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 374
+      "latency": 746
     }
   ]
 }
