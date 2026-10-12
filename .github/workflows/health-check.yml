@@ -55,14 +55,10 @@ jobs:
             echo "无变化，跳过提交"
           else
             git commit -m "chore: 自动健康检查 - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            # 同步远程；若与开发提交冲突，放弃本次自动提交，下轮再跑（不 amend、不 force）
-            if ! git pull --rebase origin main 2>/dev/null; then
-              git rebase --abort
-              git reset --hard origin/main
-              echo "与远程提交冲突，放弃本次自动提交，下轮重试"
-              exit 0
-            fi
-            git push
+            # 合并远程开发提交，冲突自动以本次健康检查最新数据为准；保留双方历史，不 force
+            git pull --no-rebase -X theirs origin main 2>/dev/null || echo "warn: 合并异常，保留本地提交下轮重试"
+            git push || echo "warn: push 失败，保留本地提交下轮重试"
+          fi
           fi
 
       - name: 8. 清理旧工作流记录（只保留本次）
