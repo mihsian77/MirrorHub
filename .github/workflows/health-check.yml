@@ -46,7 +46,7 @@ jobs:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: python3 scripts/notify_feishu.py
 
-      - name: 7. 提交更新（覆盖上一次健康检查提交）
+      - name: 7. 提交更新
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -54,18 +54,15 @@ jobs:
           if git diff --cached --quiet; then
             echo "无变化，跳过提交"
           else
-            LAST_MSG=$(git log -1 --pretty=%s)
-            if [[ "$LAST_MSG" == chore:*自动健康检查* ]]; then
-              echo "上一次是健康检查提交，amend 覆盖（保留中间的开发提交）"
-              git commit --amend -m "chore: 自动健康检查 - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-              git pull --rebase origin main 2>/dev/null || true
-              git push --force-with-lease || git push --force
-            else
-              echo "上一次不是健康检查提交，新建提交"
-              git commit -m "chore: 自动健康检查 - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-              git pull --rebase origin main 2>/dev/null || true
-              git push
+            git commit -m "chore: 自动健康检查 - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            # 同步远程；若与开发提交冲突，放弃本次自动提交，下轮再跑（不 amend、不 force）
+            if ! git pull --rebase origin main 2>/dev/null; then
+              git rebase --abort
+              git reset --hard origin/main
+              echo "与远程提交冲突，放弃本次自动提交，下轮重试"
+              exit 0
             fi
+            git push
           fi
 
       - name: 8. 清理旧工作流记录（只保留本次）
