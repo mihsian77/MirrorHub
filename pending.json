@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-12T18:14:43Z",
+  "updated_at": "2026-10-12T18:21:24Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -2355,6 +2355,126 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blog-csdn-net",
+      "name": "Blog",
+      "url": "https://blog.csdn.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "claude-com",
+      "name": "Claude",
+      "url": "https://claude.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "creativecommons-org",
+      "name": "Creativecommons",
+      "url": "https://creativecommons.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dart-dev",
+      "name": "Dart",
+      "url": "https://dart.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "flutter-dev",
+      "name": "Flutter",
+      "url": "https://flutter.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "github-rc1844-workers-dev",
+      "name": "Github",
+      "url": "https://github.rc1844.workers.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "learning-analytics-tools-pages-dev",
+      "name": "Learning-analytics-tools",
+      "url": "https://learning-analytics-tools.pages.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "my-json-server-typicode-com",
+      "name": "My-json-server",
+      "url": "https://my-json-server.typicode.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:20:19Z",
       "source": "auto_sync"
     }
   ]

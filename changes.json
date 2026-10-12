@@ -1,42 +1,19 @@
 {
-  "generated_at": "2026-10-12T18:14:43Z",
+  "generated_at": "2026-10-12T18:21:24Z",
   "changes": [
     {
-      "id": "gh-dpik-top",
+      "id": "gh-halonice-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 955
+      "latency": 316
     },
     {
-      "id": "opencode-ai",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 83
-    },
-    {
-      "id": "ampcode-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 334
-    },
-    {
-      "id": "analytics-geekertao-top",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 544
-    },
-    {
-      "id": "aps-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 439
-    },
-    {
-      "id": "jbg53qui-tolink-pro",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 374
+      "id": "gh-b52m-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3141
     }
   ]
 }
