@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-09T04:43:33Z",
+  "updated_at": "2026-10-12T18:14:43Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -1293,21 +1293,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "opencode-ai",
-      "name": "Opencode",
-      "url": "https://opencode.ai",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T02:04:09Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "python-org",
       "name": "Python",
       "url": "https://python.org",
@@ -1965,6 +1950,411 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-09T04:42:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "2hf4ut-tosslk-xyz",
+      "name": "2hf4ut",
+      "url": "https://2hf4ut.tosslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-githubcopilot-com",
+      "name": "Api",
+      "url": "https://api.githubcopilot.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aur-archlinux-org",
+      "name": "Aur",
+      "url": "https://aur.archlinux.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blog-geekertao-top",
+      "name": "Blog",
+      "url": "https://blog.geekertao.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dixiepower-outagemap-coop",
+      "name": "Dixiepower",
+      "url": "https://dixiepower.outagemap.coop",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "drupal-org",
+      "name": "Drupal",
+      "url": "https://drupal.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "garkaneenergy-outagemap-coop",
+      "name": "Garkaneenergy",
+      "url": "https://garkaneenergy.outagemap.coop",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "geekertao-top",
+      "name": "Geekertao",
+      "url": "https://geekertao.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gstatic-com",
+      "name": "Gstatic",
+      "url": "https://gstatic.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hc-ping-com",
+      "name": "Hc-ping",
+      "url": "https://hc-ping.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "healthchecks-io",
+      "name": "Healthchecks",
+      "url": "https://healthchecks.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jingyan-baidu-com",
+      "name": "Jingyan",
+      "url": "https://jingyan.baidu.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mohaveelectric-outagemap-coop",
+      "name": "Mohaveelectric",
+      "url": "https://mohaveelectric.outagemap.coop",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "navopache-outagemap-coop",
+      "name": "Navopache",
+      "url": "https://navopache.outagemap.coop",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nodejs-org",
+      "name": "Nodejs",
+      "url": "https://nodejs.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "orymi-net",
+      "name": "Orymi",
+      "url": "https://orymi.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pnpm-io",
+      "name": "Pnpm",
+      "url": "https://pnpm.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "radardavirada-pages-dev",
+      "name": "Radardavirada",
+      "url": "https://radardavirada.pages.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rustup-rs",
+      "name": "Rustup",
+      "url": "https://rustup.rs",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "srpnet-com",
+      "name": "Srpnet",
+      "url": "https://srpnet.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ssvec-org",
+      "name": "Ssvec",
+      "url": "https://ssvec.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "starlinkboost-com",
+      "name": "Starlinkboost",
+      "url": "https://starlinkboost.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tep-com",
+      "name": "Tep",
+      "url": "https://tep.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tools12345-com",
+      "name": "Tools12345",
+      "url": "https://tools12345.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "trico-outagemap-coop",
+      "name": "Trico",
+      "url": "https://trico.outagemap.coop",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "uesaz-com",
+      "name": "Uesaz",
+      "url": "https://uesaz.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ww3-ed3online-org",
+      "name": "Ww3",
+      "url": "https://ww3.ed3online.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-12T18:13:30Z",
       "source": "auto_sync"
     }
   ]

@@ -1,43 +1,42 @@
 {
-  "generated_at": "2026-10-09T04:43:33Z",
+  "generated_at": "2026-10-12T18:14:43Z",
   "changes": [
     {
-      "id": "gitproxy-click",
+      "id": "gh-dpik-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 77
+      "latency": 955
     },
     {
-      "id": "gitclone-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 8942
-    },
-    {
-      "id": "cursor-com",
+      "id": "opencode-ai",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 273
+      "latency": 83
     },
     {
-      "id": "githubstatus-com",
+      "id": "ampcode-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 84
+      "latency": 334
     },
     {
-      "id": "hk-gh-proxy-com",
+      "id": "analytics-geekertao-top",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 358
+      "latency": 544
     },
     {
-      "id": "semantic-release-gitbook-io",
+      "id": "aps-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 2465
+      "latency": 439
+    },
+    {
+      "id": "jbg53qui-tolink-pro",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 374
     }
   ]
 }

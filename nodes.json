@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-09T04:43:33Z",
-  "total_nodes": 96,
+  "updated_at": "2026-10-12T18:14:43Z",
+  "total_nodes": 101,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1131,6 +1131,71 @@
           "id": "semantic-release-gitbook-io",
           "name": "Semantic-release",
           "url": "https://semantic-release.gitbook.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "opencode-ai",
+          "name": "Opencode",
+          "url": "https://opencode.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ampcode-com",
+          "name": "Ampcode",
+          "url": "https://ampcode.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "analytics-geekertao-top",
+          "name": "Analytics",
+          "url": "https://analytics.geekertao.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aps-com",
+          "name": "Aps",
+          "url": "https://aps.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jbg53qui-tolink-pro",
+          "name": "Jbg53qui",
+          "url": "https://jbg53qui.tolink.pro",
           "supports": [
             "release",
             "archive",
