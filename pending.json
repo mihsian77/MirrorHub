@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-13T13:38:40Z",
+  "updated_at": "2026-10-13T22:19:48Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -3075,6 +3075,126 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-13T13:37:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "5xkwwj-tosslk-xyz",
+      "name": "5xkwwj",
+      "url": "https://5xkwwj.tosslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T22:18:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "a-11-oy-com",
+      "name": "A-11-oy",
+      "url": "https://a-11-oy.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T22:18:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "a11oy-net",
+      "name": "A11oy",
+      "url": "https://a11oy.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T22:18:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "proxylist-geonode-com",
+      "name": "Proxylist",
+      "url": "https://proxylist.geonode.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T22:18:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rust-lang-org",
+      "name": "Rust-lang",
+      "url": "https://rust-lang.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T22:18:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tauri-app",
+      "name": "Tauri",
+      "url": "https://tauri.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T22:18:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vpngate-net",
+      "name": "Vpngate",
+      "url": "https://vpngate.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T22:18:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "yoyapai-com",
+      "name": "Yoyapai",
+      "url": "https://yoyapai.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T22:18:38Z",
       "source": "auto_sync"
     }
   ]
