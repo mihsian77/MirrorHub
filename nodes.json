@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-13T00:12:55Z",
-  "total_nodes": 108,
+  "updated_at": "2026-10-13T13:38:40Z",
+  "total_nodes": 110,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1287,6 +1287,32 @@
           "id": "training-ti-com",
           "name": "Training",
           "url": "https://training.ti.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "img-ink",
+          "name": "Img",
+          "url": "https://img.ink",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "proxy-vvvv-ee",
+          "name": "Proxy",
+          "url": "https://proxy.vvvv.ee",
           "supports": [
             "release",
             "archive",

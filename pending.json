@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-13T00:12:55Z",
+  "updated_at": "2026-10-13T13:38:40Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -3000,6 +3000,81 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-ipify-org",
+      "name": "Api",
+      "url": "https://api.ipify.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T13:37:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-spring-io",
+      "name": "Docs",
+      "url": "https://docs.spring.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T13:37:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gerrit-wikimedia-org",
+      "name": "Gerrit",
+      "url": "https://gerrit.wikimedia.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T13:37:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "perplexity-ai",
+      "name": "Perplexity",
+      "url": "https://perplexity.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T13:37:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "update-code-visualstudio-com",
+      "name": "Update",
+      "url": "https://update.code.visualstudio.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T13:37:22Z",
       "source": "auto_sync"
     }
   ]
