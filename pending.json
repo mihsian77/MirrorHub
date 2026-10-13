@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-12T18:21:24Z",
+  "updated_at": "2026-10-13T00:12:55Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -681,21 +681,6 @@
       "id": "github-cn86-dev",
       "name": "Github",
       "url": "https://github.cn86.dev",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "github-dpik-top",
-      "name": "Github",
-      "url": "https://github.dpik.top",
       "supports": [
         "release",
         "archive",
@@ -2475,6 +2460,546 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-12T18:20:19Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "alldatasheet-com",
+      "name": "Alldatasheet",
+      "url": "https://alldatasheet.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "analog-com",
+      "name": "Analog",
+      "url": "https://analog.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "article-murata-com",
+      "name": "Article",
+      "url": "https://article.murata.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "assets-nexperia-com",
+      "name": "Assets",
+      "url": "https://assets.nexperia.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bazel-build",
+      "name": "Bazel",
+      "url": "https://bazel.build",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bilibili-com",
+      "name": "Bilibili",
+      "url": "https://bilibili.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bitsavers-trailing-edge-com",
+      "name": "Bitsavers",
+      "url": "https://bitsavers.trailing-edge.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blog-example-com",
+      "name": "Blog",
+      "url": "https://blog.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "commons-wikimedia-org",
+      "name": "Commons",
+      "url": "https://commons.wikimedia.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "diodes-com",
+      "name": "Diodes",
+      "url": "https://diodes.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "doi-org",
+      "name": "Doi",
+      "url": "https://doi.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "eevblog-com",
+      "name": "Eevblog",
+      "url": "https://eevblog.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "falstad-com",
+      "name": "Falstad",
+      "url": "https://falstad.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forum-allaboutcircuits-com",
+      "name": "Forum",
+      "url": "https://forum.allaboutcircuits.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fossil-scm-org",
+      "name": "Fossil-scm",
+      "url": "https://fossil-scm.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "groups-google-com",
+      "name": "Groups",
+      "url": "https://groups.google.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "img-youtube-com",
+      "name": "Img",
+      "url": "https://img.youtube.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ko-fi-com",
+      "name": "Ko-fi",
+      "url": "https://ko-fi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ngspice-sourceforge-io",
+      "name": "Ngspice",
+      "url": "https://ngspice.sourceforge.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "octopart-com",
+      "name": "Octopart",
+      "url": "https://octopart.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ocw-mit-edu",
+      "name": "Ocw",
+      "url": "https://ocw.mit.edu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "protobuf-dev",
+      "name": "Protobuf",
+      "url": "https://protobuf.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "reddit-com",
+      "name": "Reddit",
+      "url": "https://reddit.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "repo1-maven-org",
+      "name": "Repo1",
+      "url": "https://repo1.maven.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "specialtycircuits-com",
+      "name": "Specialtycircuits",
+      "url": "https://specialtycircuits.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sqlite-org",
+      "name": "Sqlite",
+      "url": "https://sqlite.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tcl-tk",
+      "name": "Tcl",
+      "url": "https://tcl.tk",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ti-com",
+      "name": "Ti",
+      "url": "https://ti.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tinytapeout-com",
+      "name": "Tinytapeout",
+      "url": "https://tinytapeout.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "trendshift-io",
+      "name": "Trendshift",
+      "url": "https://trendshift.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "upload-wikimedia-org",
+      "name": "Upload",
+      "url": "https://upload.wikimedia.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vishay-com",
+      "name": "Vishay",
+      "url": "https://vishay.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "waytoagi-com",
+      "name": "Waytoagi",
+      "url": "https://waytoagi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ww1-microchip-com",
+      "name": "Ww1",
+      "url": "https://ww1.microchip.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "www2-sqlite-org",
+      "name": "Www2",
+      "url": "https://www2.sqlite.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "www3-sqlite-org",
+      "name": "Www3",
+      "url": "https://www3.sqlite.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-13T00:10:57Z",
       "source": "auto_sync"
     }
   ]

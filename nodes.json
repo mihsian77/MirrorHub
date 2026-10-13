@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-12T18:21:24Z",
-  "total_nodes": 101,
+  "updated_at": "2026-10-13T00:12:55Z",
+  "total_nodes": 108,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1235,6 +1235,58 @@
           "id": "rmfkb6yg-mikasa-cloud",
           "name": "Rmfkb6yg",
           "url": "https://rmfkb6yg.mikasa.cloud",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-dpik-top",
+          "name": "Github",
+          "url": "https://github.dpik.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aosmd-com",
+          "name": "Aosmd",
+          "url": "https://aosmd.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "thumb-wikimedia-org",
+          "name": "Thumb",
+          "url": "https://thumb.wikimedia.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "training-ti-com",
+          "name": "Training",
+          "url": "https://training.ti.com",
           "supports": [
             "release",
             "archive",

@@ -1,19 +1,71 @@
 {
-  "generated_at": "2026-10-12T18:21:24Z",
+  "generated_at": "2026-10-13T00:12:55Z",
   "changes": [
     {
-      "id": "gh-halonice-com",
+      "id": "gh-ddlc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 316
+      "latency": 1086
     },
     {
-      "id": "gh-b52m-cn",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3141
+      "latency": 378
+    },
+    {
+      "id": "ghproxy-imciel-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 239
+    },
+    {
+      "id": "fastfile-asfd-cn",
+      "type": "recovered",
+      "from": "unverified",
+      "to": "online",
+      "latency": 741
+    },
+    {
+      "id": "fx4-cn",
+      "type": "recovered",
+      "from": "unverified",
+      "to": "online",
+      "latency": 769
+    },
+    {
+      "id": "rmfkb6yg-mikasa-cloud",
+      "type": "recovered",
+      "from": "unverified",
+      "to": "online",
+      "latency": 544
+    },
+    {
+      "id": "github-dpik-top",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 389
+    },
+    {
+      "id": "aosmd-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 655
+    },
+    {
+      "id": "thumb-wikimedia-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 152
+    },
+    {
+      "id": "training-ti-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 121
     }
   ]
 }
