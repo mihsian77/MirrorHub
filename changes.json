@@ -1,45 +1,36 @@
 {
-  "generated_at": "2026-10-14T16:38:18Z",
+  "generated_at": "2026-10-14T21:20:26Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "gh-proxy-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 609
+      "latency": 265
     },
     {
-      "id": "gh-b52m-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2001
+      "id": "goreportcard-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 67
     },
     {
-      "id": "yourdomain-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 781
+      "id": "msdn-microsoft-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 507
     },
     {
-      "id": "proxy-vvvv-ee",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 262
+      "id": "sub-ikar-eu-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 225
     },
     {
-      "id": "market-tracker-khaki-vercel-app",
+      "id": "wpt-fyi",
       "type": "new_node",
       "category": "universal_proxy",
       "latency": 248
-    },
-    {
-      "id": "ygdj7-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 294
     }
   ]
 }

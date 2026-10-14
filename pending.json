@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-14T16:38:18Z",
+  "updated_at": "2026-10-14T21:20:26Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -3960,6 +3960,216 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "adblock-tester-com",
+      "name": "Adblock-tester",
+      "url": "https://adblock-tester.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "adblock-turtlecute-org",
+      "name": "Adblock",
+      "url": "https://adblock.turtlecute.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "app-element-io",
+      "name": "App",
+      "url": "https://app.element.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blockads-fivefilters-org",
+      "name": "Blockads",
+      "url": "https://blockads.fivefilters.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cli-github-com",
+      "name": "Cli",
+      "url": "https://cli.github.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "community-tc-services-mozilla-com",
+      "name": "Community-tc",
+      "url": "https://community-tc.services.mozilla.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-io",
+      "name": "Git",
+      "url": "https://git.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "komarev-com",
+      "name": "Komarev",
+      "url": "https://komarev.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lists-w3-org",
+      "name": "Lists",
+      "url": "https://lists.w3.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pyup-io",
+      "name": "Pyup",
+      "url": "https://pyup.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "twse-com-tw",
+      "name": "Twse",
+      "url": "https://twse.com.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "w3c-test-org",
+      "name": "W3c-test",
+      "url": "https://w3c-test.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "web-platform-tests-org",
+      "name": "Web-platform-tests",
+      "url": "https://web-platform-tests.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wpt-live",
+      "name": "Wpt",
+      "url": "https://wpt.live",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T21:18:32Z",
       "source": "auto_sync"
     }
   ]

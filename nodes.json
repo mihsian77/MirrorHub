@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-14T16:38:18Z",
-  "total_nodes": 115,
+  "updated_at": "2026-10-14T21:20:26Z",
+  "total_nodes": 119,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1378,6 +1378,58 @@
           "id": "ygdj7-com",
           "name": "Ygdj7",
           "url": "https://ygdj7.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "goreportcard-com",
+          "name": "Goreportcard",
+          "url": "https://goreportcard.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "msdn-microsoft-com",
+          "name": "Msdn",
+          "url": "https://msdn.microsoft.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "sub-ikar-eu-org",
+          "name": "Sub",
+          "url": "https://sub.ikar.eu.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wpt-fyi",
+          "name": "Wpt",
+          "url": "https://wpt.fyi",
           "supports": [
             "release",
             "archive",
