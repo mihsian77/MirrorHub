@@ -1,4 +1,33 @@
 {
-  "generated_at": "2026-10-13T22:19:48Z",
-  "changes": []
+  "generated_at": "2026-10-14T03:40:42Z",
+  "changes": [
+    {
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 173
+    },
+    {
+      "id": "ghproxy-imciel-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 112
+    },
+    {
+      "id": "ghproxy-mirror-skybyte-me",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1608
+    },
+    {
+      "id": "git-669966-xyz",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1022
+    }
+  ]
 }

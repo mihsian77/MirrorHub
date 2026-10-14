@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-13T22:19:48Z",
+  "updated_at": "2026-10-14T03:40:42Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -3195,6 +3195,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-13T22:18:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pan-baidu-com",
+      "name": "Pan",
+      "url": "https://pan.baidu.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T03:39:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vwcejj-tosslk-xyz",
+      "name": "Vwcejj",
+      "url": "https://vwcejj.tosslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T03:39:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xbox-skydevil-xyz",
+      "name": "Xbox",
+      "url": "https://xbox.skydevil.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T03:39:34Z",
       "source": "auto_sync"
     }
   ]
