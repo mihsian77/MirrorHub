@@ -1,33 +1,30 @@
 {
-  "generated_at": "2026-10-14T03:40:42Z",
+  "generated_at": "2026-10-14T11:17:20Z",
   "changes": [
     {
-      "id": "gh-idayer-com",
+      "id": "gh-dpik-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 173
+      "latency": 3056
     },
     {
-      "id": "ghproxy-imciel-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 112
+      "id": "5555-cab",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 20097
     },
     {
-      "id": "ghproxy-mirror-skybyte-me",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1608
+      "id": "axios-http-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 269
     },
     {
-      "id": "git-669966-xyz",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1022
+      "id": "modelscope-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 781
     }
   ]
 }

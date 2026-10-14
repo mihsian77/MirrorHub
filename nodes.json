@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-14T03:40:42Z",
-  "total_nodes": 110,
+  "updated_at": "2026-10-14T11:17:20Z",
+  "total_nodes": 113,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1313,6 +1313,45 @@
           "id": "proxy-vvvv-ee",
           "name": "Proxy",
           "url": "https://proxy.vvvv.ee",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "5555-cab",
+          "name": "5555",
+          "url": "https://5555.cab",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "axios-http-com",
+          "name": "Axios-http",
+          "url": "https://axios-http.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "modelscope-cn",
+          "name": "Modelscope",
+          "url": "https://modelscope.cn",
           "supports": [
             "release",
             "archive",

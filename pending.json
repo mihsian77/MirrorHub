@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-14T03:40:42Z",
+  "updated_at": "2026-10-14T11:17:20Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -330,21 +330,6 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-06T17:26:38Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "5555-cab",
-      "name": "5555",
-      "url": "https://5555.cab",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
       "source": "auto_sync"
     },
     {
@@ -3240,6 +3225,471 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-14T03:39:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-ashbyhq-com",
+      "name": "Api",
+      "url": "https://api.ashbyhq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-lever-co",
+      "name": "Api",
+      "url": "https://api.lever.co",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "boards-api-greenhouse-io",
+      "name": "Boards-api",
+      "url": "https://boards-api.greenhouse.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "colleges-shareware-temperatures-lovers-trycloudflare-com",
+      "name": "Colleges-shareware-temperatures-lovers",
+      "url": "https://colleges-shareware-temperatures-lovers.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-pydantic-dev",
+      "name": "Docs",
+      "url": "https://docs.pydantic.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "eslint-org",
+      "name": "Eslint",
+      "url": "https://eslint.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "extra-lifestyle-aus-warner-trycloudflare-com",
+      "name": "Extra-lifestyle-aus-warner",
+      "url": "https://extra-lifestyle-aus-warner.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fastapi-tiangolo-com",
+      "name": "Fastapi",
+      "url": "https://fastapi.tiangolo.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gets-eval-uniform-vehicle-trycloudflare-com",
+      "name": "Gets-eval-uniform-vehicle",
+      "url": "https://gets-eval-uniform-vehicle.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jobs-ashbyhq-com",
+      "name": "Jobs",
+      "url": "https://jobs.ashbyhq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lucide-dev",
+      "name": "Lucide",
+      "url": "https://lucide.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lxml-de",
+      "name": "Lxml",
+      "url": "https://lxml.de",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openpyxl-readthedocs-io",
+      "name": "Openpyxl",
+      "url": "https://openpyxl.readthedocs.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pandas-pydata-org",
+      "name": "Pandas",
+      "url": "https://pandas.pydata.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "poppler-freedesktop-org",
+      "name": "Poppler",
+      "url": "https://poppler.freedesktop.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "profile-views-proxy-vercel-app",
+      "name": "Profile-views-proxy",
+      "url": "https://profile-views-proxy.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pymupdf-readthedocs-io",
+      "name": "Pymupdf",
+      "url": "https://pymupdf.readthedocs.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pytest-org",
+      "name": "Pytest",
+      "url": "https://pytest.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "qoiid0-mcsslk-xyz",
+      "name": "Qoiid0",
+      "url": "https://qoiid0.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "react-dev",
+      "name": "React",
+      "url": "https://react.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "reactrouter-com",
+      "name": "Reactrouter",
+      "url": "https://reactrouter.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "requests-readthedocs-io",
+      "name": "Requests",
+      "url": "https://requests.readthedocs.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "soma-humor-sit-distinction-trycloudflare-com",
+      "name": "Soma-humor-sit-distinction",
+      "url": "https://soma-humor-sit-distinction.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "special-barbie-schedule-starts-trycloudflare-com",
+      "name": "Special-barbie-schedule-starts",
+      "url": "https://special-barbie-schedule-starts.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tailwindcss-com",
+      "name": "Tailwindcss",
+      "url": "https://tailwindcss.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "taxes-mix-scotia-beach-trycloudflare-com",
+      "name": "Taxes-mix-scotia-beach",
+      "url": "https://taxes-mix-scotia-beach.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tuijianvpn-com",
+      "name": "Tuijianvpn",
+      "url": "https://tuijianvpn.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "typescriptlang-org",
+      "name": "Typescriptlang",
+      "url": "https://typescriptlang.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "uvicorn-org",
+      "name": "Uvicorn",
+      "url": "https://uvicorn.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vite-dev",
+      "name": "Vite",
+      "url": "https://vite.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zustand-demo-pmnd-rs",
+      "name": "Zustand-demo",
+      "url": "https://zustand-demo.pmnd.rs",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T11:15:17Z",
       "source": "auto_sync"
     }
   ]
