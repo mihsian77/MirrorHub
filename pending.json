@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-14T11:17:20Z",
+  "updated_at": "2026-10-14T16:38:18Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -3690,6 +3690,276 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-14T11:15:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "analyze-buxefaex-cc",
+      "name": "Analyze",
+      "url": "https://analyze.buxefaex.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-huangju-net",
+      "name": "Api",
+      "url": "https://api.huangju.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "arxiv-org",
+      "name": "Arxiv",
+      "url": "https://arxiv.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blogs-windows-com",
+      "name": "Blogs",
+      "url": "https://blogs.windows.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-android-com",
+      "name": "Developer",
+      "url": "https://developer.android.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-nvidia-com",
+      "name": "Developer",
+      "url": "https://developer.nvidia.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developers-google-com",
+      "name": "Developers",
+      "url": "https://developers.google.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-flutter-dev",
+      "name": "Docs",
+      "url": "https://docs.flutter.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "goproxy-cn",
+      "name": "Goproxy",
+      "url": "https://goproxy.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "huangju-net",
+      "name": "Huangju",
+      "url": "https://huangju.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "itunes-apple-com",
+      "name": "Itunes",
+      "url": "https://itunes.apple.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jrsoftware-org",
+      "name": "Jrsoftware",
+      "url": "https://jrsoftware.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "libplacebo-org",
+      "name": "Libplacebo",
+      "url": "https://libplacebo.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mediawiki-org",
+      "name": "Mediawiki",
+      "url": "https://mediawiki.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mpv-io",
+      "name": "Mpv",
+      "url": "https://mpv.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nngroup-com",
+      "name": "Nngroup",
+      "url": "https://nngroup.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openaccess-thecvf-com",
+      "name": "Openaccess",
+      "url": "https://openaccess.thecvf.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "play-google-com",
+      "name": "Play",
+      "url": "https://play.google.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-14T16:36:18Z",
       "source": "auto_sync"
     }
   ]

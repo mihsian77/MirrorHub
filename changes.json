@@ -1,30 +1,45 @@
 {
-  "generated_at": "2026-10-14T11:17:20Z",
+  "generated_at": "2026-10-14T16:38:18Z",
   "changes": [
     {
-      "id": "gh-dpik-top",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3056
+      "latency": 609
     },
     {
-      "id": "5555-cab",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 20097
+      "id": "gh-b52m-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2001
     },
     {
-      "id": "axios-http-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 269
-    },
-    {
-      "id": "modelscope-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
+      "id": "yourdomain-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
       "latency": 781
+    },
+    {
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 262
+    },
+    {
+      "id": "market-tracker-khaki-vercel-app",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 248
+    },
+    {
+      "id": "ygdj7-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 294
     }
   ]
 }
