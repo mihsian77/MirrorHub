@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-15T03:21:42Z",
+  "updated_at": "2026-10-15T10:55:36Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -4320,6 +4320,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-15T03:20:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "codeberg-org",
+      "name": "Codeberg",
+      "url": "https://codeberg.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T10:54:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "data-posi-panorama-sg-com",
+      "name": "Data",
+      "url": "https://data.posi.panorama-sg.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T10:54:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "freevpnkeys-com",
+      "name": "Freevpnkeys",
+      "url": "https://freevpnkeys.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T10:54:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "qt-for-youth-vercel-app",
+      "name": "Qt-for-youth",
+      "url": "https://qt-for-youth.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T10:54:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "qt-with-tychicus-vercel-app",
+      "name": "Qt-with-tychicus",
+      "url": "https://qt-with-tychicus.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T10:54:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vercel-com",
+      "name": "Vercel",
+      "url": "https://vercel.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T10:54:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vpnkeys-me",
+      "name": "Vpnkeys",
+      "url": "https://vpnkeys.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T10:54:26Z",
       "source": "auto_sync"
     }
   ]
