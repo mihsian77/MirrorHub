@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-14T21:20:26Z",
+  "updated_at": "2026-10-15T03:21:42Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -4170,6 +4170,156 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-14T21:18:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "7-zip-org",
+      "name": "7-zip",
+      "url": "https://7-zip.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T03:20:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aavvun-mcsslk-xyz",
+      "name": "Aavvun",
+      "url": "https://aavvun.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T03:20:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-openai-com",
+      "name": "Api",
+      "url": "https://api.openai.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T03:20:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kql5gr-tosslk-xyz",
+      "name": "Kql5gr",
+      "url": "https://kql5gr.tosslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T03:20:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "learn-microsoft-com",
+      "name": "Learn",
+      "url": "https://learn.microsoft.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T03:20:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mirror-example-com",
+      "name": "Mirror",
+      "url": "https://mirror.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T03:20:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "proxy-example-com",
+      "name": "Proxy",
+      "url": "https://proxy.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T03:20:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pyinstaller-org",
+      "name": "Pyinstaller",
+      "url": "https://pyinstaller.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T03:20:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "riverbankcomputing-com",
+      "name": "Riverbankcomputing",
+      "url": "https://riverbankcomputing.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T03:20:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "scoop-sh",
+      "name": "Scoop",
+      "url": "https://scoop.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T03:20:35Z",
       "source": "auto_sync"
     }
   ]

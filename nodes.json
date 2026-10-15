@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-14T21:20:26Z",
-  "total_nodes": 119,
+  "updated_at": "2026-10-15T03:21:42Z",
+  "total_nodes": 120,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1430,6 +1430,19 @@
           "id": "wpt-fyi",
           "name": "Wpt",
           "url": "https://wpt.fyi",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "open-bigmodel-cn",
+          "name": "Open",
+          "url": "https://open.bigmodel.cn",
           "supports": [
             "release",
             "archive",
