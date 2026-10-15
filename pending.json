@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-15T16:23:22Z",
+  "updated_at": "2026-10-15T20:59:07Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -4635,6 +4635,66 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "djycop-mcsslk-xyz",
+      "name": "Djycop",
+      "url": "https://djycop.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T20:57:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jma-go-jp",
+      "name": "Jma",
+      "url": "https://jma.go.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T20:57:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kismetwireless-net",
+      "name": "Kismetwireless",
+      "url": "https://kismetwireless.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T20:57:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "supabase-com",
+      "name": "Supabase",
+      "url": "https://supabase.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T20:57:46Z",
       "source": "auto_sync"
     }
   ]
