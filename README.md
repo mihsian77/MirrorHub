@@ -2,7 +2,7 @@
 
 最全 GitHub 加速节点维护仓库。自动发现新节点、自动测速、自动清理失效节点，其他项目远程拉取 JSON 即可接入。
 
-> 📊 数据自动更新于 **2026-10-15T10:55:36Z**，每 6 小时刷新一次。当前 ✅ **106** 在线 / ⚠️ **14** 不稳定 / ⚰️ **37** 已失效归档。
+> 📊 数据自动更新于 **2026-10-15T16:23:22Z**，每 6 小时刷新一次。当前 ✅ **107** 在线 / ⚠️ **13** 不稳定 / ⚰️ **37** 已失效归档。
 
 ## 核心特性
 
@@ -18,134 +18,134 @@
 
 | # | 延迟 | 名称 | 带宽 | 地址 | 分类 |
 |---|------|------|------|------|
-| 1 | 60ms | jsDelivr CDN | - | `cdn.jsdelivr.net` | CDN Raw |
-| 2 | 61ms | Goreportcard | 0.04 MB/s | `https://goreportcard.com` | 通用代理 |
-| 3 | 65ms | Microsoftedge | 0.81 MB/s | `https://microsoftedge.microsoft.com` | 通用代理 |
-| 4 | 82ms | Opencode | - | `https://opencode.ai` | 通用代理 |
-| 5 | 110ms | Githubstatus | 3.88 MB/s | `https://githubstatus.com` | 通用代理 |
-| 6 | 119ms | Thumb | 5.66 MB/s | `https://thumb.wikimedia.org` | 通用代理 |
-| 7 | 119ms | jsDelivr GCore | - | `gcore.jsdelivr.net` | CDN Raw |
-| 8 | 131ms | jsDelivr TestingCF | - | `testingcf.jsdelivr.net` | CDN Raw |
-| 9 | 140ms | Training | 0.28 MB/s | `https://training.ti.com` | 通用代理 |
-| 10 | 146ms | Market-tracker-khaki | - | `https://market-tracker-khaki.vercel.app` | 通用代理 |
-| 11 | 146ms | Sub | 0.26 MB/s | `https://sub.ikar.eu.org` | 通用代理 |
-| 12 | 150ms | Axios-http | 0.92 MB/s | `https://axios-http.com` | 通用代理 |
-| 13 | 165ms | Github | 3.25 MB/s | `https://github.880824.xyz` | 通用代理 |
-| 14 | 166ms | Git | 1.39 MB/s | `https://git.951959483.xyz` | 通用代理 |
-| 15 | 172ms | GH Con | - | `https://gh.con.sh` | 通用代理 |
-| 16 | 172ms | Gp | 0.84 MB/s | `https://gp.871201.xyz` | 通用代理 |
-| 17 | 183ms | GH-Proxy | 1.94 MB/s | `https://gh-proxy.com` | 通用代理 |
-| 18 | 185ms | Gh | 2.17 MB/s | `https://gh.996986.xyz` | 通用代理 |
-| 19 | 192ms | Gh | 3.15 MB/s | `https://gh.198962.xyz` | 通用代理 |
-| 20 | 196ms | Github | 1.36 MB/s | `https://github.zzrbk.xyz` | 通用代理 |
-| 21 | 199ms | Dockerproxy | - | `https://dockerproxy.link` | 通用代理 |
-| 22 | 207ms | GH Monlor | 1.78 MB/s | `https://gh.monlor.com` | 通用代理 |
-| 23 | 207ms | Wpt | - | `https://wpt.fyi` | 通用代理 |
-| 24 | 208ms | Git | 3.43 MB/s | `https://git.820828.xyz` | 通用代理 |
-| 25 | 213ms | Img | - | `https://img.shields.io` | 通用代理 |
-| 26 | 217ms | Cursor | 0.89 MB/s | `https://cursor.com` | 通用代理 |
-| 27 | 217ms | Github | 0.84 MB/s | `https://github.788787.xyz` | 通用代理 |
-| 28 | 224ms | Ampcode | 0.3 MB/s | `https://ampcode.com` | 通用代理 |
-| 29 | 224ms | Gh | 2.57 MB/s | `https://gh.llkk.cc` | 通用代理 |
-| 30 | 224ms | Ghproxy | 0.88 MB/s | `https://ghproxy.xzhouqd.com` | 通用代理 |
-| 31 | 228ms | Gh | 0.7 MB/s | `https://gh.1k.ink` | 通用代理 |
-| 32 | 230ms | Github | 1.29 MB/s | `https://github.ihnic.com` | 通用代理 |
-| 33 | 232ms | Ghproxy | 0.57 MB/s | `https://ghproxy.sakuramoe.dev` | 通用代理 |
-| 34 | 244ms | Open | 0.02 MB/s | `https://open.bigmodel.cn` | 通用代理 |
-| 35 | 255ms | Tvv | 2.45 MB/s | `https://tvv.tw` | 通用代理 |
-| 36 | 263ms | FastGit CC | 2.5 MB/s | `https://fastgit.cc` | 通用代理 |
-| 37 | 264ms | GH-Proxy Net | - | `https://gh-proxy.net` | 通用代理 |
-| 38 | 266ms | Gh | 0.55 MB/s | `https://gh.39.al` | 通用代理 |
-| 39 | 286ms | Github | 0.5 MB/s | `https://github.cnxiaobai.com` | 通用代理 |
-| 40 | 290ms | Msdn | 0.13 MB/s | `https://msdn.microsoft.com` | 通用代理 |
-| 41 | 296ms | Proxy | - | `https://proxy.vvvv.ee` | 通用代理 |
-| 42 | 304ms | SciProxy Down | - | `https://down.sciproxy.com` | 通用代理 |
-| 43 | 310ms | 30006000 | 0.45 MB/s | `https://30006000.xyz` | 通用代理 |
-| 44 | 312ms | Kenyu | 1.38 MB/s | `https://kenyu.ggff.net` | 通用代理 |
-| 45 | 318ms | CrashMC CDN | 3.01 MB/s | `https://cdn.crashmc.com` | 通用代理 |
-| 46 | 318ms | Gitproxy | - | `https://gitproxy.click` | 通用代理 |
-| 47 | 327ms | Npee Down | 0.02 MB/s | `https://down.npee.cn` | 通用代理 |
-| 48 | 338ms | GH Zwnes | - | `https://gh.zwnes.xyz` | 通用代理 |
-| 49 | 345ms | GH-Proxy YGXZ | 0.02 MB/s | `https://gh-proxy.ygxz.in` | 通用代理 |
-| 50 | 356ms | Jbg53qui | - | `https://jbg53qui.tolink.pro` | 通用代理 |
-| 51 | 357ms | Aps | 0.02 MB/s | `https://aps.com` | 通用代理 |
-| 52 | 358ms | Help | - | `https://help.obsidian.md` | 通用代理 |
-| 53 | 364ms | Gh | 0.44 MB/s | `https://gh.padao.fun` | 通用代理 |
-| 54 | 366ms | GH Nxnow | 0.14 MB/s | `https://gh.nxnow.top` | 通用代理 |
-| 55 | 387ms | jsDelivr Fastly | - | `fastly.jsdelivr.net` | CDN Raw |
-| 56 | 404ms | GHProxy Net | 0.1 MB/s | `https://ghproxy.net` | 通用代理 |
-| 57 | 425ms | Gh | 0.62 MB/s | `https://gh.noki.icu` | 通用代理 |
-| 58 | 435ms | Ednovas Mirror | 0.18 MB/s | `https://github.ednovas.xyz` | 通用代理 |
-| 59 | 437ms | Fx4 | - | `https://fx4.cn` | 通用代理 |
-| 60 | 469ms | Aosmd | 0.24 MB/s | `https://aosmd.com` | 通用代理 |
-| 61 | 481ms | Gh | 0.51 MB/s | `https://gh.halonice.com` | 通用代理 |
-| 62 | 484ms | jsDelivr OriginFastly | - | `originfastly.jsdelivr.net` | CDN Raw |
-| 63 | 562ms | Ygdj7 | 0.05 MB/s | `https://ygdj7.com` | 通用代理 |
-| 64 | 570ms | Hubp | 0.01 MB/s | `https://hubp.org` | 通用代理 |
-| 65 | 575ms | Analytics | - | `https://analytics.geekertao.top` | 通用代理 |
-| 66 | 592ms | Rmfkb6yg | - | `https://rmfkb6yg.mikasa.cloud` | 通用代理 |
-| 67 | 594ms | Github | 3.74 MB/s | `https://github.1ms.xx.kg` | 通用代理 |
-| 68 | 630ms | Yourdomain | - | `https://yourdomain.com` | 通用代理 |
-| 69 | 641ms | Hk | 1.39 MB/s | `https://hk.gh-proxy.com` | 通用代理 |
-| 70 | 643ms | Github | 0.31 MB/s | `https://github.xxlab.tech` | 通用代理 |
-| 71 | 703ms | YYLX Git | 0.18 MB/s | `https://git.yylx.win` | 通用代理 |
-| 72 | 706ms | T | 0.03 MB/s | `https://t.me` | 通用代理 |
-| 73 | 722ms | Github | 1.3 MB/s | `https://github.crdz.eu.org` | 通用代理 |
-| 74 | 744ms | Fastfile | 0.79 MB/s | `https://fastfile.asfd.cn` | 通用代理 |
-| 75 | 761ms | Your-domain | 0.05 MB/s | `https://your-domain.com` | 通用代理 |
-| 76 | 768ms | Ghproxy | 0.24 MB/s | `https://ghproxy.053000.xyz` | 通用代理 |
-| 77 | 801ms | Ghproxy | 0.01 MB/s | `https://ghproxy.cn` | 通用代理 |
-| 78 | 833ms | Semantic-release | - | `https://semantic-release.gitbook.io` | 通用代理 |
-| 79 | 865ms | GHFast | 0.15 MB/s | `https://ghfast.top` | 通用代理 |
-| 80 | 871ms | Git | 0.17 MB/s | `https://git.tangbai.cc` | 通用代理 |
-| 81 | 920ms | Mirror | - | `https://mirror.houlang.cloud` | 通用代理 |
-| 82 | 966ms | GH-Proxy Org | 1.9 MB/s | `https://gh-proxy.org` | 通用代理 |
-| 83 | 969ms | Ggg | 0.89 MB/s | `https://ggg.clwap.dpdns.org` | 通用代理 |
-| 84 | 981ms | Modelscope | - | `https://modelscope.cn` | 通用代理 |
-| 85 | 1003ms | Getgit | 0.85 MB/s | `https://getgit.love8yun.eu.org` | 通用代理 |
-| 86 | 1047ms | SLink | 0.05 MB/s | `https://slink.ltd` | 通用代理 |
-| 87 | 1056ms | Web | - | `https://web.4399.com` | 通用代理 |
-| 88 | 1202ms | Gh | 3.3 MB/s | `https://gh.dpik.top` | 通用代理 |
-| 89 | 1303ms | Atomgit | - | `https://atomgit.com` | 通用代理 |
-| 90 | 1324ms | Comfyit | - | `https://comfyit.cn` | 通用代理 |
-| 91 | 1327ms | GHFile Geekertao | 0.8 MB/s | `https://ghfile.geekertao.top` | 通用代理 |
-| 92 | 1346ms | Github | 0.13 MB/s | `https://github.chenc.dev` | 通用代理 |
-| 93 | 1365ms | Ghproxy | 0.24 MB/s | `https://ghproxy.cc` | 通用代理 |
-| 94 | 1506ms | Git | 0.27 MB/s | `https://git.669966.xyz` | 通用代理 |
-| 95 | 1542ms | Cf | 0.23 MB/s | `https://cf.ghproxy.cc` | 通用代理 |
-| 96 | 1664ms | Github | 1.06 MB/s | `https://github.lsdfxdk.nyc.mn` | 通用代理 |
-| 97 | 1789ms | KKGitHub | - | `https://kkgithub.com` | 网页镜像 |
-| 98 | 1862ms | Github | 0.02 MB/s | `https://github.zjzzy.cloudns.org` | 通用代理 |
+| 1 | 43ms | jsDelivr CDN | - | `cdn.jsdelivr.net` | CDN Raw |
+| 2 | 77ms | Goreportcard | 0.02 MB/s | `https://goreportcard.com` | 通用代理 |
+| 3 | 80ms | Microsoftedge | 0.27 MB/s | `https://microsoftedge.microsoft.com` | 通用代理 |
+| 4 | 85ms | Opencode | - | `https://opencode.ai` | 通用代理 |
+| 5 | 97ms | jsDelivr GCore | - | `gcore.jsdelivr.net` | CDN Raw |
+| 6 | 104ms | Githubstatus | 2.11 MB/s | `https://githubstatus.com` | 通用代理 |
+| 7 | 124ms | Thumb | 1.04 MB/s | `https://thumb.wikimedia.org` | 通用代理 |
+| 8 | 127ms | jsDelivr TestingCF | - | `testingcf.jsdelivr.net` | CDN Raw |
+| 9 | 140ms | Training | 0.26 MB/s | `https://training.ti.com` | 通用代理 |
+| 10 | 150ms | Market-tracker-khaki | - | `https://market-tracker-khaki.vercel.app` | 通用代理 |
+| 11 | 155ms | Github | 2.07 MB/s | `https://github.880824.xyz` | 通用代理 |
+| 12 | 160ms | Git | 1.07 MB/s | `https://git.951959483.xyz` | 通用代理 |
+| 13 | 162ms | GH Con | - | `https://gh.con.sh` | 通用代理 |
+| 14 | 164ms | Gp | 1.71 MB/s | `https://gp.871201.xyz` | 通用代理 |
+| 15 | 165ms | Github | 2.28 MB/s | `https://github.zzrbk.xyz` | 通用代理 |
+| 16 | 169ms | Axios-http | 0.32 MB/s | `https://axios-http.com` | 通用代理 |
+| 17 | 174ms | GH-Proxy | 1.34 MB/s | `https://gh-proxy.com` | 通用代理 |
+| 18 | 180ms | GH Monlor | 1.31 MB/s | `https://gh.monlor.com` | 通用代理 |
+| 19 | 181ms | Gh | 2.01 MB/s | `https://gh.996986.xyz` | 通用代理 |
+| 20 | 187ms | Sub | 0.15 MB/s | `https://sub.ikar.eu.org` | 通用代理 |
+| 21 | 188ms | Dockerproxy | - | `https://dockerproxy.link` | 通用代理 |
+| 22 | 190ms | Gh | 2.02 MB/s | `https://gh.198962.xyz` | 通用代理 |
+| 23 | 202ms | Git | 1.72 MB/s | `https://git.820828.xyz` | 通用代理 |
+| 24 | 202ms | Github | 1.42 MB/s | `https://github.788787.xyz` | 通用代理 |
+| 25 | 208ms | Ghproxy | 2.11 MB/s | `https://ghproxy.xzhouqd.com` | 通用代理 |
+| 26 | 213ms | Img | - | `https://img.shields.io` | 通用代理 |
+| 27 | 214ms | Cursor | 0.37 MB/s | `https://cursor.com` | 通用代理 |
+| 28 | 221ms | Ghproxy | 1.48 MB/s | `https://ghproxy.sakuramoe.dev` | 通用代理 |
+| 29 | 223ms | Gh | 0.93 MB/s | `https://gh.llkk.cc` | 通用代理 |
+| 30 | 224ms | Wpt | - | `https://wpt.fyi` | 通用代理 |
+| 31 | 225ms | Ampcode | 0.32 MB/s | `https://ampcode.com` | 通用代理 |
+| 32 | 225ms | Github | 2.09 MB/s | `https://github.ihnic.com` | 通用代理 |
+| 33 | 241ms | Open | 0.02 MB/s | `https://open.bigmodel.cn` | 通用代理 |
+| 34 | 246ms | Gh | 2.04 MB/s | `https://gh.1k.ink` | 通用代理 |
+| 35 | 251ms | Gh | 1.19 MB/s | `https://gh.halonice.com` | 通用代理 |
+| 36 | 252ms | FastGit CC | 1.42 MB/s | `https://fastgit.cc` | 通用代理 |
+| 37 | 253ms | Tvv | 2.08 MB/s | `https://tvv.tw` | 通用代理 |
+| 38 | 258ms | GH-Proxy Net | - | `https://gh-proxy.net` | 通用代理 |
+| 39 | 258ms | Gh | 1.18 MB/s | `https://gh.39.al` | 通用代理 |
+| 40 | 258ms | Help | - | `https://help.obsidian.md` | 通用代理 |
+| 41 | 273ms | Github | 1.52 MB/s | `https://github.cnxiaobai.com` | 通用代理 |
+| 42 | 293ms | CrashMC CDN | 1.55 MB/s | `https://cdn.crashmc.com` | 通用代理 |
+| 43 | 294ms | SciProxy Down | - | `https://down.sciproxy.com` | 通用代理 |
+| 44 | 297ms | 30006000 | 1.36 MB/s | `https://30006000.xyz` | 通用代理 |
+| 45 | 300ms | Proxy | - | `https://proxy.vvvv.ee` | 通用代理 |
+| 46 | 307ms | Npee Down | 0.02 MB/s | `https://down.npee.cn` | 通用代理 |
+| 47 | 337ms | GH-Proxy YGXZ | 0.05 MB/s | `https://gh-proxy.ygxz.in` | 通用代理 |
+| 48 | 341ms | Aps | 0.03 MB/s | `https://aps.com` | 通用代理 |
+| 49 | 346ms | Msdn | 0.04 MB/s | `https://msdn.microsoft.com` | 通用代理 |
+| 50 | 348ms | Jbg53qui | - | `https://jbg53qui.tolink.pro` | 通用代理 |
+| 51 | 349ms | Gitproxy | - | `https://gitproxy.click` | 通用代理 |
+| 52 | 356ms | GH Zwnes | - | `https://gh.zwnes.xyz` | 通用代理 |
+| 53 | 360ms | Kenyu | 1.38 MB/s | `https://kenyu.ggff.net` | 通用代理 |
+| 54 | 361ms | Gh | 2.07 MB/s | `https://gh.padao.fun` | 通用代理 |
+| 55 | 369ms | GH Nxnow | 0.27 MB/s | `https://gh.nxnow.top` | 通用代理 |
+| 56 | 393ms | jsDelivr OriginFastly | - | `originfastly.jsdelivr.net` | CDN Raw |
+| 57 | 404ms | Fx4 | - | `https://fx4.cn` | 通用代理 |
+| 58 | 409ms | GHProxy Net | 0.27 MB/s | `https://ghproxy.net` | 通用代理 |
+| 59 | 428ms | jsDelivr Fastly | - | `fastly.jsdelivr.net` | CDN Raw |
+| 60 | 452ms | Gh | 0.46 MB/s | `https://gh.noki.icu` | 通用代理 |
+| 61 | 455ms | Ednovas Mirror | 1.57 MB/s | `https://github.ednovas.xyz` | 通用代理 |
+| 62 | 489ms | Aosmd | 0.11 MB/s | `https://aosmd.com` | 通用代理 |
+| 63 | 509ms | Ygdj7 | 0.06 MB/s | `https://ygdj7.com` | 通用代理 |
+| 64 | 566ms | Hubp | 0.01 MB/s | `https://hubp.org` | 通用代理 |
+| 65 | 568ms | Github | 2.18 MB/s | `https://github.1ms.xx.kg` | 通用代理 |
+| 66 | 574ms | Analytics | - | `https://analytics.geekertao.top` | 通用代理 |
+| 67 | 578ms | Rmfkb6yg | - | `https://rmfkb6yg.mikasa.cloud` | 通用代理 |
+| 68 | 615ms | Github | 0.58 MB/s | `https://github.xxlab.tech` | 通用代理 |
+| 69 | 635ms | Hk | 1.41 MB/s | `https://hk.gh-proxy.com` | 通用代理 |
+| 70 | 648ms | YYLX Git | 2.12 MB/s | `https://git.yylx.win` | 通用代理 |
+| 71 | 682ms | Yourdomain | - | `https://yourdomain.com` | 通用代理 |
+| 72 | 706ms | Github | 1.99 MB/s | `https://github.crdz.eu.org` | 通用代理 |
+| 73 | 708ms | Your-domain | 0.1 MB/s | `https://your-domain.com` | 通用代理 |
+| 74 | 716ms | T | 0.02 MB/s | `https://t.me` | 通用代理 |
+| 75 | 720ms | Ghproxy | 0.3 MB/s | `https://ghproxy.053000.xyz` | 通用代理 |
+| 76 | 752ms | Fastfile | 1.16 MB/s | `https://fastfile.asfd.cn` | 通用代理 |
+| 77 | 806ms | Ghproxy | 0.01 MB/s | `https://ghproxy.cn` | 通用代理 |
+| 78 | 822ms | Semantic-release | - | `https://semantic-release.gitbook.io` | 通用代理 |
+| 79 | 838ms | GHFast | 1.74 MB/s | `https://ghfast.top` | 通用代理 |
+| 80 | 859ms | Git | 0.23 MB/s | `https://git.tangbai.cc` | 通用代理 |
+| 81 | 893ms | Gh | 1.66 MB/s | `https://gh.dpik.top` | 通用代理 |
+| 82 | 909ms | Mirror | - | `https://mirror.houlang.cloud` | 通用代理 |
+| 83 | 938ms | Modelscope | - | `https://modelscope.cn` | 通用代理 |
+| 84 | 941ms | Ggg | 2.41 MB/s | `https://ggg.clwap.dpdns.org` | 通用代理 |
+| 85 | 948ms | GH-Proxy Org | 1.39 MB/s | `https://gh-proxy.org` | 通用代理 |
+| 86 | 989ms | SLink | 0.11 MB/s | `https://slink.ltd` | 通用代理 |
+| 87 | 998ms | Getgit | 2.34 MB/s | `https://getgit.love8yun.eu.org` | 通用代理 |
+| 88 | 1060ms | Web | - | `https://web.4399.com` | 通用代理 |
+| 89 | 1301ms | Github | 0.17 MB/s | `https://github.chenc.dev` | 通用代理 |
+| 90 | 1312ms | Atomgit | 0.01 MB/s | `https://atomgit.com` | 通用代理 |
+| 91 | 1316ms | GHFile Geekertao | 1.1 MB/s | `https://ghfile.geekertao.top` | 通用代理 |
+| 92 | 1319ms | Ghproxy | 0.33 MB/s | `https://ghproxy.cc` | 通用代理 |
+| 93 | 1385ms | Comfyit | - | `https://comfyit.cn` | 通用代理 |
+| 94 | 1396ms | Git | 0.46 MB/s | `https://git.669966.xyz` | 通用代理 |
+| 95 | 1558ms | Cf | 0.31 MB/s | `https://cf.ghproxy.cc` | 通用代理 |
+| 96 | 1640ms | Github | 1.99 MB/s | `https://github.lsdfxdk.nyc.mn` | 通用代理 |
+| 97 | 1800ms | KKGitHub | - | `https://kkgithub.com` | 网页镜像 |
+| 98 | 1918ms | Github | 0.01 MB/s | `https://github.zjzzy.cloudns.org` | 通用代理 |
 | 99 | 2224ms | Img | - | `https://img.ink` | 通用代理 |
-| 100 | 2399ms | G | 0.05 MB/s | `https://g.blfrp.cn` | 通用代理 |
-| 101 | 2541ms | Wget | 0.02 MB/s | `https://wget.la` | 通用代理 |
-| 102 | 2663ms | Ghproxy | 0.06 MB/s | `https://ghproxy.mirror.skybyte.me` | 通用代理 |
-| 103 | 3249ms | GHProxy MonkeyRay | 0.07 MB/s | `https://ghproxy.monkeyray.net` | 通用代理 |
-| 104 | 3467ms | GitClone | - | `https://gitclone.com` | Clone 专用 |
-| 105 | 6176ms | Proxy | 0.03 MB/s | `https://proxy.yaoyaoling.net` | 通用代理 |
-| 106 | 10808ms | 5555 | 0.05 MB/s | `https://5555.cab` | 通用代理 |
+| 100 | 2560ms | Wget | 0.02 MB/s | `https://wget.la` | 通用代理 |
+| 101 | 2618ms | G | 0.02 MB/s | `https://g.blfrp.cn` | 通用代理 |
+| 102 | 2867ms | GitClone | - | `https://gitclone.com` | Clone 专用 |
+| 103 | 2972ms | Gh | 0.12 MB/s | `https://gh.b52m.cn` | 通用代理 |
+| 104 | 3125ms | Ghproxy | - | `https://ghproxy.mirror.skybyte.me` | 通用代理 |
+| 105 | 3326ms | GHProxy MonkeyRay | 0.06 MB/s | `https://ghproxy.monkeyray.net` | 通用代理 |
+| 106 | 6432ms | Proxy | 0.03 MB/s | `https://proxy.yaoyaoling.net` | 通用代理 |
+| 107 | 10152ms | 5555 | 0.06 MB/s | `https://5555.cab` | 通用代理 |
 
 
-### ⚠️ 不稳定节点（14 个）
+### ⚠️ 不稳定节点（13 个）
 
 连续失败 1-2 次，暂时不可用，后续测速成功将自动恢复。
 
 | 节点 | 连续失败 |
 |------|---------|
-| Boki Mirror (`github-boki-moe`) | 25 次 |
-| GHP Keleyaa (`ghp-keleyaa-com`) | 25 次 |
-| GH Chjina (`gh-chjina-com`) | 25 次 |
-| GHPXY Hwinzniej (`ghpxy-hwinzniej-top`) | 25 次 |
-| GH ZWY (`gh-zwy-one`) | 21 次 |
-| Lixxing Proxy (`github-proxy-lixxing-top`) | 25 次 |
-| Gh (`gh-ddlc-top`) | 8 次 |
-| Gh (`gh-idayer-com`) | 1 次 |
-| ghproxy.homeboyc.cn (`ghproxy-homeboyc-cn`) | 21 次 |
-| toolwa.com/github (`toolwa-com-github`) | 21 次 |
-| github.akams.cn (`github-akams-cn`) | 21 次 |
-| Ghproxy (`ghproxy-imciel-com`) | 1 次 |
-| Gh (`gh-b52m-cn`) | 1 次 |
-| Github (`github-dpik-top`) | 8 次 |
+| Boki Mirror (`github-boki-moe`) | 26 次 |
+| GHP Keleyaa (`ghp-keleyaa-com`) | 26 次 |
+| GH Chjina (`gh-chjina-com`) | 26 次 |
+| GHPXY Hwinzniej (`ghpxy-hwinzniej-top`) | 26 次 |
+| GH ZWY (`gh-zwy-one`) | 22 次 |
+| Lixxing Proxy (`github-proxy-lixxing-top`) | 26 次 |
+| Gh (`gh-ddlc-top`) | 9 次 |
+| Gh (`gh-idayer-com`) | 2 次 |
+| ghproxy.homeboyc.cn (`ghproxy-homeboyc-cn`) | 22 次 |
+| toolwa.com/github (`toolwa-com-github`) | 22 次 |
+| github.akams.cn (`github-akams-cn`) | 22 次 |
+| Ghproxy (`ghproxy-imciel-com`) | 2 次 |
+| Github (`github-dpik-top`) | 9 次 |
 
 ## 节点分类
 

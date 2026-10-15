@@ -6,7 +6,7 @@
   "attribution_text": "节点由 MirrorHub 提供",
   "attribution_url": "https://github.com/mihsian77/MirrorHub",
   "usage_policy": "欢迎接入使用，但请在产品 UI 中保留来源声明。二次分发需遵守 MIT 协议并保留版权声明。",
-  "updated_at": "2026-10-15T10:55:36Z",
+  "updated_at": "2026-10-15T16:23:22Z",
   "total_online": 20,
   "nodes": [
     {
@@ -14,7 +14,7 @@
       "name": "jsDelivr CDN",
       "domain": "cdn.jsdelivr.net",
       "category": "cdn_raw",
-      "latency_ms": 60,
+      "latency_ms": 43,
       "bandwidth_mbps": null
     },
     {
@@ -22,23 +22,31 @@
       "name": "Goreportcard",
       "domain": "goreportcard.com",
       "category": "universal_proxy",
-      "latency_ms": 61,
-      "bandwidth_mbps": 0.04
+      "latency_ms": 77,
+      "bandwidth_mbps": 0.02
     },
     {
       "id": "microsoftedge-microsoft-com",
       "name": "Microsoftedge",
       "domain": "microsoftedge.microsoft.com",
       "category": "universal_proxy",
-      "latency_ms": 65,
-      "bandwidth_mbps": 0.81
+      "latency_ms": 80,
+      "bandwidth_mbps": 0.27
     },
     {
       "id": "opencode-ai",
       "name": "Opencode",
       "domain": "opencode.ai",
       "category": "universal_proxy",
-      "latency_ms": 82,
+      "latency_ms": 85,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "jsdelivr-gcore",
+      "name": "jsDelivr GCore",
+      "domain": "gcore.jsdelivr.net",
+      "category": "cdn_raw",
+      "latency_ms": 97,
       "bandwidth_mbps": null
     },
     {
@@ -46,31 +54,23 @@
       "name": "Githubstatus",
       "domain": "githubstatus.com",
       "category": "universal_proxy",
-      "latency_ms": 110,
-      "bandwidth_mbps": 3.88
-    },
-    {
-      "id": "jsdelivr-gcore",
-      "name": "jsDelivr GCore",
-      "domain": "gcore.jsdelivr.net",
-      "category": "cdn_raw",
-      "latency_ms": 119,
-      "bandwidth_mbps": null
+      "latency_ms": 104,
+      "bandwidth_mbps": 2.11
     },
     {
       "id": "thumb-wikimedia-org",
       "name": "Thumb",
       "domain": "thumb.wikimedia.org",
       "category": "universal_proxy",
-      "latency_ms": 119,
-      "bandwidth_mbps": 5.66
+      "latency_ms": 124,
+      "bandwidth_mbps": 1.04
     },
     {
       "id": "jsdelivr-testingcf",
       "name": "jsDelivr TestingCF",
       "domain": "testingcf.jsdelivr.net",
       "category": "cdn_raw",
-      "latency_ms": 131,
+      "latency_ms": 127,
       "bandwidth_mbps": null
     },
     {
@@ -79,54 +79,38 @@
       "domain": "training.ti.com",
       "category": "universal_proxy",
       "latency_ms": 140,
-      "bandwidth_mbps": 0.28
+      "bandwidth_mbps": 0.26
     },
     {
       "id": "market-tracker-khaki-vercel-app",
       "name": "Market-tracker-khaki",
       "domain": "market-tracker-khaki.vercel.app",
       "category": "universal_proxy",
-      "latency_ms": 146,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "sub-ikar-eu-org",
-      "name": "Sub",
-      "domain": "sub.ikar.eu.org",
-      "category": "universal_proxy",
-      "latency_ms": 146,
-      "bandwidth_mbps": 0.26
-    },
-    {
-      "id": "axios-http-com",
-      "name": "Axios-http",
-      "domain": "axios-http.com",
-      "category": "universal_proxy",
       "latency_ms": 150,
-      "bandwidth_mbps": 0.92
+      "bandwidth_mbps": null
     },
     {
       "id": "github-880824-xyz",
       "name": "Github",
       "domain": "github.880824.xyz",
       "category": "universal_proxy",
-      "latency_ms": 165,
-      "bandwidth_mbps": 3.25
+      "latency_ms": 155,
+      "bandwidth_mbps": 2.07
     },
     {
       "id": "git-951959483-xyz",
       "name": "Git",
       "domain": "git.951959483.xyz",
       "category": "universal_proxy",
-      "latency_ms": 166,
-      "bandwidth_mbps": 1.39
+      "latency_ms": 160,
+      "bandwidth_mbps": 1.07
     },
     {
       "id": "gh-con-sh",
       "name": "GH Con",
       "domain": "gh.con.sh",
       "category": "universal_proxy",
-      "latency_ms": 172,
+      "latency_ms": 162,
       "bandwidth_mbps": null
     },
     {
@@ -134,40 +118,56 @@
       "name": "Gp",
       "domain": "gp.871201.xyz",
       "category": "universal_proxy",
-      "latency_ms": 172,
-      "bandwidth_mbps": 0.84
-    },
-    {
-      "id": "gh-proxy-com",
-      "name": "GH-Proxy",
-      "domain": "gh-proxy.com",
-      "category": "universal_proxy",
-      "latency_ms": 183,
-      "bandwidth_mbps": 1.94
-    },
-    {
-      "id": "gh-996986-xyz",
-      "name": "Gh",
-      "domain": "gh.996986.xyz",
-      "category": "universal_proxy",
-      "latency_ms": 185,
-      "bandwidth_mbps": 2.17
-    },
-    {
-      "id": "gh-198962-xyz",
-      "name": "Gh",
-      "domain": "gh.198962.xyz",
-      "category": "universal_proxy",
-      "latency_ms": 192,
-      "bandwidth_mbps": 3.15
+      "latency_ms": 164,
+      "bandwidth_mbps": 1.71
     },
     {
       "id": "github-zzrbk-xyz",
       "name": "Github",
       "domain": "github.zzrbk.xyz",
       "category": "universal_proxy",
-      "latency_ms": 196,
-      "bandwidth_mbps": 1.36
+      "latency_ms": 165,
+      "bandwidth_mbps": 2.28
+    },
+    {
+      "id": "axios-http-com",
+      "name": "Axios-http",
+      "domain": "axios-http.com",
+      "category": "universal_proxy",
+      "latency_ms": 169,
+      "bandwidth_mbps": 0.32
+    },
+    {
+      "id": "gh-proxy-com",
+      "name": "GH-Proxy",
+      "domain": "gh-proxy.com",
+      "category": "universal_proxy",
+      "latency_ms": 174,
+      "bandwidth_mbps": 1.34
+    },
+    {
+      "id": "gh-monlor-com",
+      "name": "GH Monlor",
+      "domain": "gh.monlor.com",
+      "category": "universal_proxy",
+      "latency_ms": 180,
+      "bandwidth_mbps": 1.31
+    },
+    {
+      "id": "gh-996986-xyz",
+      "name": "Gh",
+      "domain": "gh.996986.xyz",
+      "category": "universal_proxy",
+      "latency_ms": 181,
+      "bandwidth_mbps": 2.01
+    },
+    {
+      "id": "sub-ikar-eu-org",
+      "name": "Sub",
+      "domain": "sub.ikar.eu.org",
+      "category": "universal_proxy",
+      "latency_ms": 187,
+      "bandwidth_mbps": 0.15
     }
   ]
 }

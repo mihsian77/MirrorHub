@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-15T10:55:36Z",
+  "updated_at": "2026-10-15T16:23:22Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -4425,6 +4425,216 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-15T10:54:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "about-gitea-com",
+      "name": "About",
+      "url": "https://about.gitea.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "curl-se",
+      "name": "Curl",
+      "url": "https://curl.se",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-aws-amazon-com",
+      "name": "Docs",
+      "url": "https://docs.aws.amazon.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-docker-com",
+      "name": "Docs",
+      "url": "https://docs.docker.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forgejo-ronzz-org",
+      "name": "Forgejo",
+      "url": "https://forgejo.ronzz.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "get-docker-com",
+      "name": "Get",
+      "url": "https://get.docker.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gitea-example-com",
+      "name": "Gitea",
+      "url": "https://gitea.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "graphql-org",
+      "name": "Graphql",
+      "url": "https://graphql.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "my-destination-url",
+      "name": "My-destination",
+      "url": "https://my-destination.url",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "netron-app",
+      "name": "Netron",
+      "url": "https://netron.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "uploads-github-com",
+      "name": "Uploads",
+      "url": "https://uploads.github.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "w3schools-com",
+      "name": "W3schools",
+      "url": "https://w3schools.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wdhygg-mcsslk-xyz",
+      "name": "Wdhygg",
+      "url": "https://wdhygg.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xui-example-com",
+      "name": "Xui",
+      "url": "https://xui.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-15T16:22:00Z",
       "source": "auto_sync"
     }
   ]
