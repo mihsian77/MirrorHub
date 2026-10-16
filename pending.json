@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-15T20:59:07Z",
+  "updated_at": "2026-10-16T03:17:19Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -4695,6 +4695,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-15T20:57:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "2nn-jp",
+      "name": "2nn",
+      "url": "https://2nn.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T03:15:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "deepseek-com",
+      "name": "Deepseek",
+      "url": "https://deepseek.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T03:15:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "maven-aliyun-com",
+      "name": "Maven",
+      "url": "https://maven.aliyun.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T03:15:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "menu-5ch-io",
+      "name": "Menu",
+      "url": "https://menu.5ch.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T03:15:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ntfy-sh",
+      "name": "Ntfy",
+      "url": "https://ntfy.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T03:15:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "updates-shenfengwl-fun",
+      "name": "Updates",
+      "url": "https://updates.shenfengwl.fun",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T03:15:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "updatesnew-shenfengwl-fun",
+      "name": "Updatesnew",
+      "url": "https://updatesnew.shenfengwl.fun",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T03:15:58Z",
       "source": "auto_sync"
     }
   ]

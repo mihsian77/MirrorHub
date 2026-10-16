@@ -1,4 +1,59 @@
 {
-  "generated_at": "2026-10-15T20:59:07Z",
-  "changes": []
+  "generated_at": "2026-10-16T03:17:19Z",
+  "changes": [
+    {
+      "id": "github-boki-moe",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "ghp-keleyaa-com",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "gh-chjina-com",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "ghpxy-hwinzniej-top",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "github-proxy-lixxing-top",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 281
+    },
+    {
+      "id": "api-solov-cc",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 286
+    },
+    {
+      "id": "xm-solov-cc",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 282
+    }
+  ]
 }

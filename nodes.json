@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-15T20:59:07Z",
-  "total_nodes": 120,
+  "updated_at": "2026-10-16T03:17:19Z",
+  "total_nodes": 117,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -81,18 +81,6 @@
           ]
         },
         {
-          "id": "github-boki-moe",
-          "name": "Boki Mirror",
-          "url": "https://github.boki.moe",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ]
-        },
-        {
           "id": "fastgit-cc",
           "name": "FastGit CC",
           "url": "https://fastgit.cc",
@@ -157,42 +145,6 @@
           "id": "ghfile-geekertao-top",
           "name": "GHFile Geekertao",
           "url": "https://ghfile.geekertao.top",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ]
-        },
-        {
-          "id": "ghp-keleyaa-com",
-          "name": "GHP Keleyaa",
-          "url": "https://ghp.keleyaa.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ]
-        },
-        {
-          "id": "gh-chjina-com",
-          "name": "GH Chjina",
-          "url": "https://gh.chjina.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ]
-        },
-        {
-          "id": "ghpxy-hwinzniej-top",
-          "name": "GHPXY Hwinzniej",
-          "url": "https://ghpxy.hwinzniej.top",
           "supports": [
             "release",
             "archive",
@@ -289,18 +241,6 @@
           "id": "ghproxy-monkeyray-net",
           "name": "GHProxy MonkeyRay",
           "url": "https://ghproxy.monkeyray.net",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ]
-        },
-        {
-          "id": "github-proxy-lixxing-top",
-          "name": "Lixxing Proxy",
-          "url": "https://github-proxy.lixxing.top",
           "supports": [
             "release",
             "archive",
@@ -1443,6 +1383,32 @@
           "id": "open-bigmodel-cn",
           "name": "Open",
           "url": "https://open.bigmodel.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "api-solov-cc",
+          "name": "Api",
+          "url": "https://api.solov.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xm-solov-cc",
+          "name": "Xm",
+          "url": "https://xm.solov.cc",
           "supports": [
             "release",
             "archive",

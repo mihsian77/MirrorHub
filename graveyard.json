@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-06T10:50:26Z",
+  "updated_at": "2026-10-16T03:17:19Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -545,6 +545,86 @@
       "category": "cdn_raw",
       "removed_at": "2026-10-06T10:50:26Z",
       "reason": "连续3次测速失败（初始来源已过时，判定为彻底失效）"
+    },
+    {
+      "id": "github-boki-moe",
+      "name": "Boki Mirror",
+      "url": "https://github.boki.moe",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-16T03:17:19Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-06T17:27:00Z"
+    },
+    {
+      "id": "ghp-keleyaa-com",
+      "name": "GHP Keleyaa",
+      "url": "https://ghp.keleyaa.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-16T03:17:19Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-06T17:27:00Z"
+    },
+    {
+      "id": "gh-chjina-com",
+      "name": "GH Chjina",
+      "url": "https://gh.chjina.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-16T03:17:19Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-06T17:27:00Z"
+    },
+    {
+      "id": "ghpxy-hwinzniej-top",
+      "name": "GHPXY Hwinzniej",
+      "url": "https://ghpxy.hwinzniej.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-16T03:17:19Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-06T17:27:00Z"
+    },
+    {
+      "id": "github-proxy-lixxing-top",
+      "name": "Lixxing Proxy",
+      "url": "https://github-proxy.lixxing.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-16T03:17:19Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-06T17:27:00Z"
     }
   ]
 }
