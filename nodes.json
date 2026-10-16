@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-16T10:46:59Z",
-  "total_nodes": 117,
+  "updated_at": "2026-10-16T16:09:55Z",
+  "total_nodes": 119,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1409,6 +1409,32 @@
           "id": "xm-solov-cc",
           "name": "Xm",
           "url": "https://xm.solov.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "oem-re",
+          "name": "Oem",
+          "url": "https://oem.re",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qm-qq-com",
+          "name": "Qm",
+          "url": "https://qm.qq.com",
           "supports": [
             "release",
             "archive",

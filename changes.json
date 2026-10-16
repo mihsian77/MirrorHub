@@ -1,12 +1,31 @@
 {
-  "generated_at": "2026-10-16T10:46:59Z",
+  "generated_at": "2026-10-16T16:09:55Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 906
+      "latency": 5693
+    },
+    {
+      "id": "gh-b52m-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3826
+    },
+    {
+      "id": "oem-re",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 244
+    },
+    {
+      "id": "qm-qq-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 779
     }
   ]
 }

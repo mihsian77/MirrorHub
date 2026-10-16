@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-16T10:46:59Z",
+  "updated_at": "2026-10-16T16:09:55Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -4980,6 +4980,96 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cos-yituliu-cn",
+      "name": "Cos",
+      "url": "https://cos.yituliu.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T16:07:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ef-yituliu-cn",
+      "name": "Ef",
+      "url": "https://ef.yituliu.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T16:07:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mirrorchyan-com",
+      "name": "Mirrorchyan",
+      "url": "https://mirrorchyan.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T16:07:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "panel-example-com",
+      "name": "Panel",
+      "url": "https://panel.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T16:07:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ui-nuxt-com",
+      "name": "Ui",
+      "url": "https://ui.nuxt.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T16:07:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vuejs-org",
+      "name": "Vuejs",
+      "url": "https://vuejs.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T16:07:58Z",
       "source": "auto_sync"
     }
   ]
