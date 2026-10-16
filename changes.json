@@ -1,31 +1,36 @@
 {
-  "generated_at": "2026-10-16T16:09:55Z",
+  "generated_at": "2026-10-16T20:33:43Z",
   "changes": [
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5693
+      "latency": 1111
     },
     {
-      "id": "gh-b52m-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 3826
-    },
-    {
-      "id": "oem-re",
+      "id": "docs-volcengine-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 244
+      "latency": 1802
     },
     {
-      "id": "qm-qq-com",
+      "id": "game-chozo-net",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 779
+      "latency": 85
+    },
+    {
+      "id": "linkedin-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 42
+    },
+    {
+      "id": "mimo-mi-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 982
     }
   ]
 }

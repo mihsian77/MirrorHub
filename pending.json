@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-16T16:09:55Z",
+  "updated_at": "2026-10-16T20:33:43Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -5070,6 +5070,231 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-16T16:07:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "acme-example",
+      "name": "Acme",
+      "url": "https://acme.example",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "agentskills-io",
+      "name": "Agentskills",
+      "url": "https://agentskills.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-minimax-io",
+      "name": "Api",
+      "url": "https://api.minimax.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-minimaxi-com",
+      "name": "Api",
+      "url": "https://api.minimaxi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-xiaomimimo-com",
+      "name": "Api",
+      "url": "https://api.xiaomimimo.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "apievangelist-com",
+      "name": "Apievangelist",
+      "url": "https://apievangelist.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-crawl4ai-com",
+      "name": "Docs",
+      "url": "https://docs.crawl4ai.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-searxng-org",
+      "name": "Docs",
+      "url": "https://docs.searxng.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-stagehand-dev",
+      "name": "Docs",
+      "url": "https://docs.stagehand.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-k8s-io",
+      "name": "Git",
+      "url": "https://git.k8s.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kubernetes-io",
+      "name": "Kubernetes",
+      "url": "https://kubernetes.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "marcus-podnar-ca",
+      "name": "Marcus",
+      "url": "https://marcus.podnar.ca",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "peach-blender-org",
+      "name": "Peach",
+      "url": "https://peach.blender.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "platform-minimaxi-com",
+      "name": "Platform",
+      "url": "https://platform.minimaxi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "unlicense-org",
+      "name": "Unlicense",
+      "url": "https://unlicense.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T20:32:28Z",
       "source": "auto_sync"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-16T16:09:55Z",
-  "total_nodes": 119,
+  "updated_at": "2026-10-16T20:33:43Z",
+  "total_nodes": 123,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1435,6 +1435,58 @@
           "id": "qm-qq-com",
           "name": "Qm",
           "url": "https://qm.qq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "docs-volcengine-com",
+          "name": "Docs",
+          "url": "https://docs.volcengine.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "game-chozo-net",
+          "name": "Game",
+          "url": "https://game.chozo.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "linkedin-com",
+          "name": "Linkedin",
+          "url": "https://linkedin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mimo-mi-com",
+          "name": "Mimo",
+          "url": "https://mimo.mi.com",
           "supports": [
             "release",
             "archive",
