@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-16T03:17:19Z",
+  "updated_at": "2026-10-16T10:46:59Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -4800,6 +4800,186 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-16T03:15:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developers-cloudflare-com",
+      "name": "Developers",
+      "url": "https://developers.cloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fantasyanime-com",
+      "name": "Fantasyanime",
+      "url": "https://fantasyanime.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ff-buplayground-cn",
+      "name": "Ff",
+      "url": "https://ff.buplayground.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gh-chjina-com",
+      "name": "Gh",
+      "url": "https://gh.chjina.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ghp-keleyaa-com",
+      "name": "Ghp",
+      "url": "https://ghp.keleyaa.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ghpxy-hwinzniej-top",
+      "name": "Ghpxy",
+      "url": "https://ghpxy.hwinzniej.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "github-proxy-lixxing-top",
+      "name": "Github-proxy",
+      "url": "https://github-proxy.lixxing.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "github-boki-moe",
+      "name": "Github",
+      "url": "https://github.boki.moe",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jp-square-enix-com",
+      "name": "Jp",
+      "url": "https://jp.square-enix.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "na-finalfantasy-com",
+      "name": "Na",
+      "url": "https://na.finalfantasy.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "projnexus-main-butvrx-laravel-cloud",
+      "name": "Projnexus-main-butvrx",
+      "url": "https://projnexus-main-butvrx.laravel.cloud",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zlqmsb-tosslk-xyz",
+      "name": "Zlqmsb",
+      "url": "https://zlqmsb.tosslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-16T10:45:42Z",
       "source": "auto_sync"
     }
   ]
