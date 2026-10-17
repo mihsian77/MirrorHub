@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-17T03:08:16Z",
-  "total_nodes": 126,
+  "updated_at": "2026-10-17T10:13:11Z",
+  "total_nodes": 128,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1528,6 +1528,32 @@
           "id": "terranor-no",
           "name": "Terranor",
           "url": "https://terranor.no",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "docs-waveshare-net",
+          "name": "Docs",
+          "url": "https://docs.waveshare.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "framagit-org",
+          "name": "Framagit",
+          "url": "https://framagit.org",
           "supports": [
             "release",
             "archive",
