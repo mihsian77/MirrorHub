@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-16T20:33:43Z",
+  "updated_at": "2026-10-17T03:08:16Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -5295,6 +5295,366 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-16T20:32:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "6d2gai-mcsslk-xyz",
+      "name": "6d2gai",
+      "url": "https://6d2gai.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "amsat-org",
+      "name": "Amsat",
+      "url": "https://amsat.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "asc-csa-gc-ca",
+      "name": "Asc-csa",
+      "url": "https://asc-csa.gc.ca",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "calvalportal-ceos-org",
+      "name": "Calvalportal",
+      "url": "https://calvalportal.ceos.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "capellaspace-com",
+      "name": "Capellaspace",
+      "url": "https://capellaspace.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "celestrak-org",
+      "name": "Celestrak",
+      "url": "https://celestrak.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "earth-esa-int",
+      "name": "Earth",
+      "url": "https://earth.esa.int",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "eoportal-org",
+      "name": "Eoportal",
+      "url": "https://eoportal.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "isprs-archives-copernicus-org",
+      "name": "Isprs-archives",
+      "url": "https://isprs-archives.copernicus.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jdk-java-net",
+      "name": "Jdk",
+      "url": "https://jdk.java.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jeoss-co-jp",
+      "name": "Jeoss",
+      "url": "https://jeoss.co.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "langchain-com",
+      "name": "Langchain",
+      "url": "https://langchain.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "n2yo-com",
+      "name": "N2yo",
+      "url": "https://n2yo.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nrsc-gov-in",
+      "name": "Nrsc",
+      "url": "https://nrsc.gov.in",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pytorch-org",
+      "name": "Pytorch",
+      "url": "https://pytorch.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "redis-io",
+      "name": "Redis",
+      "url": "https://redis.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "research-csiro-au",
+      "name": "Research",
+      "url": "https://research.csiro.au",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sar-iceye-com",
+      "name": "Sar",
+      "url": "https://sar.iceye.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "satpass-3wj-pages-dev",
+      "name": "Satpass-3wj",
+      "url": "https://satpass-3wj.pages.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sentiwiki-copernicus-eu",
+      "name": "Sentiwiki",
+      "url": "https://sentiwiki.copernicus.eu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "space-oscar-wmo-int",
+      "name": "Space",
+      "url": "https://space.oscar.wmo.int",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "spring-io",
+      "name": "Spring",
+      "url": "https://spring.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "support-capellaspace-com",
+      "name": "Support",
+      "url": "https://support.capellaspace.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "synspective-com",
+      "name": "Synspective",
+      "url": "https://synspective.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T03:06:53Z",
       "source": "auto_sync"
     }
   ]

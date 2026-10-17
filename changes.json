@@ -1,36 +1,89 @@
 {
-  "generated_at": "2026-10-16T20:33:43Z",
+  "generated_at": "2026-10-17T03:08:16Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1111
+      "latency": 1522
     },
     {
-      "id": "docs-volcengine-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1802
+      "id": "gh-zwy-one",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
     },
     {
-      "id": "game-chozo-net",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 85
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 424
     },
     {
-      "id": "linkedin-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 42
+      "id": "ghproxy-homeboyc-cn",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
     },
     {
-      "id": "mimo-mi-com",
+      "id": "toolwa-com-github",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "github-akams-cn",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "app-netlify-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 982
+      "latency": 89
+    },
+    {
+      "id": "bailian-console-aliyun-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 424
+    },
+    {
+      "id": "earth-jaxa-jp",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 83
+    },
+    {
+      "id": "i-qps-net",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1355
+    },
+    {
+      "id": "nisar-jpl-nasa-gov",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 259
+    },
+    {
+      "id": "space-track-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 374
+    },
+    {
+      "id": "terranor-no",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1194
     }
   ]
 }

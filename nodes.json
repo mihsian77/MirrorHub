@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-16T20:33:43Z",
-  "total_nodes": 123,
+  "updated_at": "2026-10-17T03:08:16Z",
+  "total_nodes": 126,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -226,18 +226,6 @@
           ]
         },
         {
-          "id": "gh-zwy-one",
-          "name": "GH ZWY",
-          "url": "https://gh.zwy.one",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ]
-        },
-        {
           "id": "ghproxy-monkeyray-net",
           "name": "GHProxy MonkeyRay",
           "url": "https://ghproxy.monkeyray.net",
@@ -300,44 +288,6 @@
             "clone"
           ],
           "source": "auto_sync"
-        },
-        {
-          "id": "ghproxy-homeboyc-cn",
-          "name": "ghproxy.homeboyc.cn",
-          "url": "https://ghproxy.homeboyc.cn",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "notes": "来自 driverscope 内置代理"
-        },
-        {
-          "id": "toolwa-com-github",
-          "name": "toolwa.com/github",
-          "url": "https://toolwa.com/github",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw"
-          ],
-          "notes": "来自 driverscope 内置代理，路径格式 /github/{url}"
-        },
-        {
-          "id": "github-akams-cn",
-          "name": "github.akams.cn",
-          "url": "https://github.akams.cn",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "notes": "来自 driverscope 内置代理"
         },
         {
           "id": "30006000-xyz",
@@ -1487,6 +1437,97 @@
           "id": "mimo-mi-com",
           "name": "Mimo",
           "url": "https://mimo.mi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-netlify-com",
+          "name": "App",
+          "url": "https://app.netlify.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bailian-console-aliyun-com",
+          "name": "Bailian",
+          "url": "https://bailian.console.aliyun.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "earth-jaxa-jp",
+          "name": "Earth",
+          "url": "https://earth.jaxa.jp",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "i-qps-net",
+          "name": "I-qps",
+          "url": "https://i-qps.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nisar-jpl-nasa-gov",
+          "name": "Nisar",
+          "url": "https://nisar.jpl.nasa.gov",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "space-track-org",
+          "name": "Space-track",
+          "url": "https://space-track.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "terranor-no",
+          "name": "Terranor",
+          "url": "https://terranor.no",
           "supports": [
             "release",
             "archive",
