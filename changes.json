@@ -1,31 +1,39 @@
 {
-  "generated_at": "2026-10-17T10:13:11Z",
+  "generated_at": "2026-10-17T15:01:50Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "ghproxy-monkeyray-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 814
+      "latency": 4239
     },
     {
-      "id": "proxy-vvvv-ee",
+      "id": "ghproxy-mirror-skybyte-me",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 87
+      "latency": 6091
     },
     {
-      "id": "docs-waveshare-net",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1044
+      "id": "proxy-yaoyaoling-net",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 8209
     },
     {
-      "id": "framagit-org",
+      "id": "gitclone-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 6589
+    },
+    {
+      "id": "open-feishu-cn",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 851
+      "latency": 685
     }
   ]
 }

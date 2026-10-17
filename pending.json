@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-17T10:13:11Z",
+  "updated_at": "2026-10-17T15:01:50Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -5985,6 +5985,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-17T10:11:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "33gbpc-mcsslk-xyz",
+      "name": "33gbpc",
+      "url": "https://33gbpc.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T15:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "brew-sh",
+      "name": "Brew",
+      "url": "https://brew.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T15:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "chaitin-cn",
+      "name": "Chaitin",
+      "url": "https://chaitin.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T15:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "console-anthropic-com",
+      "name": "Console",
+      "url": "https://console.anthropic.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T15:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "platform-deepseek-com",
+      "name": "Platform",
+      "url": "https://platform.deepseek.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T15:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "registry-npmmirror-com",
+      "name": "Registry",
+      "url": "https://registry.npmmirror.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T15:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tkyio6-tosslk-xyz",
+      "name": "Tkyio6",
+      "url": "https://tkyio6.tosslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T15:00:06Z",
       "source": "auto_sync"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-17T10:13:11Z",
-  "total_nodes": 128,
+  "updated_at": "2026-10-17T15:01:50Z",
+  "total_nodes": 129,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1554,6 +1554,19 @@
           "id": "framagit-org",
           "name": "Framagit",
           "url": "https://framagit.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "open-feishu-cn",
+          "name": "Open",
+          "url": "https://open.feishu.cn",
           "supports": [
             "release",
             "archive",
