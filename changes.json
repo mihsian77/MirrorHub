@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-10-17T15:01:50Z",
+  "generated_at": "2026-10-17T20:13:43Z",
   "changes": [
     {
-      "id": "ghproxy-monkeyray-net",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 4239
-    },
-    {
-      "id": "ghproxy-mirror-skybyte-me",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 6091
-    },
-    {
-      "id": "proxy-yaoyaoling-net",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 8209
-    },
-    {
-      "id": "gitclone-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 6589
-    },
-    {
-      "id": "open-feishu-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 685
+      "latency": 1075
     }
   ]
 }

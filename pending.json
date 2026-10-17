@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-17T15:01:50Z",
+  "updated_at": "2026-10-17T20:13:43Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -6090,6 +6090,81 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-17T15:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "awesome-dsh-plugin-com",
+      "name": "Awesome-dsh-plugin",
+      "url": "https://awesome-dsh-plugin.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T20:10:31Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dcellt-mcsslk-xyz",
+      "name": "Dcellt",
+      "url": "https://dcellt.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T20:10:31Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "one-dash-cloudflare-com",
+      "name": "One",
+      "url": "https://one.dash.cloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T20:10:31Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "redlib-catsarch-com",
+      "name": "Redlib",
+      "url": "https://redlib.catsarch.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T20:10:31Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wa-me",
+      "name": "Wa",
+      "url": "https://wa.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-17T20:10:31Z",
       "source": "auto_sync"
     }
   ]
