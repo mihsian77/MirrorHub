@@ -1,38 +1,43 @@
 {
-  "generated_at": "2026-10-18T15:27:19Z",
+  "generated_at": "2026-10-18T20:11:55Z",
   "changes": [
     {
-      "id": "ghproxy-mirror-skybyte-me",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1463
+      "latency": 5675
     },
     {
-      "id": "git-669966-xyz",
+      "id": "gitclone-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1483
+      "latency": 6575
     },
     {
-      "id": "proxy-vvvv-ee",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 177
-    },
-    {
-      "id": "bee-vs-hornets-pages-dev",
+      "id": "code-leez-tech",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 72
+      "latency": 206
     },
     {
-      "id": "phabricator-wikimedia-org",
+      "id": "fastgpt-leez-tech",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 286
+      "latency": 251
+    },
+    {
+      "id": "hopp-sh",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 193
+    },
+    {
+      "id": "matroska-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1132
     }
   ]
 }

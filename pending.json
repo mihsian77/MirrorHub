@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-18T15:27:19Z",
+  "updated_at": "2026-10-18T20:11:55Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -6810,6 +6810,381 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-18T15:25:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "abc-xxx-com",
+      "name": "Abc",
+      "url": "https://abc.xxx.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "boost-org",
+      "name": "Boost",
+      "url": "https://boost.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "buildbot-mkvtoolnix-download",
+      "name": "Buildbot",
+      "url": "https://buildbot.mkvtoolnix.download",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bunkus-org",
+      "name": "Bunkus",
+      "url": "https://bunkus.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cloudflare-dns-com",
+      "name": "Cloudflare-dns",
+      "url": "https://cloudflare-dns.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dl-matroska-org",
+      "name": "Dl",
+      "url": "https://dl.matroska.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dns-alidns-com",
+      "name": "Dns",
+      "url": "https://dns.alidns.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "downloads-xiph-org",
+      "name": "Downloads",
+      "url": "https://downloads.xiph.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fmt-dev",
+      "name": "Fmt",
+      "url": "https://fmt.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fmtlib-net",
+      "name": "Fmtlib",
+      "url": "https://fmtlib.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forum-doom9-org",
+      "name": "Forum",
+      "url": "https://forum.doom9.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-scm-com",
+      "name": "Git-scm",
+      "url": "https://git-scm.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "help-mkvtoolnix-download",
+      "name": "Help",
+      "url": "https://help.mkvtoolnix.download",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "imagemagick-org",
+      "name": "Imagemagick",
+      "url": "https://imagemagick.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "inkscape-org",
+      "name": "Inkscape",
+      "url": "https://inkscape.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mkvtoolnix-download",
+      "name": "Mkvtoolnix",
+      "url": "https://mkvtoolnix.download",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "po4a-org",
+      "name": "Po4a",
+      "url": "https://po4a.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pugixml-org",
+      "name": "Pugixml",
+      "url": "https://pugixml.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "qt-io",
+      "name": "Qt",
+      "url": "https://qt.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sourceforge-net",
+      "name": "Sourceforge",
+      "url": "https://sourceforge.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "status-leez-tech",
+      "name": "Status",
+      "url": "https://status.leez.tech",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "techbase-kde-org",
+      "name": "Techbase",
+      "url": "https://techbase.kde.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "utfcpp-sourceforge-net",
+      "name": "Utfcpp",
+      "url": "https://utfcpp.sourceforge.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xmlsoft-org",
+      "name": "Xmlsoft",
+      "url": "https://xmlsoft.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zlib-net",
+      "name": "Zlib",
+      "url": "https://zlib.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T20:08:42Z",
       "source": "auto_sync"
     }
   ]

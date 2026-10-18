@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-18T15:27:19Z",
-  "total_nodes": 138,
+  "updated_at": "2026-10-18T20:11:55Z",
+  "total_nodes": 142,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1684,6 +1684,58 @@
           "id": "phabricator-wikimedia-org",
           "name": "Phabricator",
           "url": "https://phabricator.wikimedia.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "code-leez-tech",
+          "name": "Code",
+          "url": "https://code.leez.tech",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fastgpt-leez-tech",
+          "name": "Fastgpt",
+          "url": "https://fastgpt.leez.tech",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hopp-sh",
+          "name": "Hopp",
+          "url": "https://hopp.sh",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "matroska-org",
+          "name": "Matroska",
+          "url": "https://matroska.org",
           "supports": [
             "release",
             "archive",
