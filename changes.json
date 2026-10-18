@@ -1,37 +1,38 @@
 {
-  "generated_at": "2026-10-18T10:28:24Z",
+  "generated_at": "2026-10-18T15:27:19Z",
   "changes": [
     {
-      "id": "git-tangbai-cc",
+      "id": "ghproxy-mirror-skybyte-me",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 968
+      "latency": 1463
     },
     {
-      "id": "gitclone-com",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 6420
+      "latency": 1483
     },
     {
-      "id": "api-everyapi-ai",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 561
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 177
     },
     {
-      "id": "api-niutrans-com",
+      "id": "bee-vs-hornets-pages-dev",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 935
+      "latency": 72
     },
     {
-      "id": "tmt-tencentcloudapi-com",
+      "id": "phabricator-wikimedia-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 269
+      "latency": 286
     }
   ]
 }

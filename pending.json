@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-18T10:28:24Z",
+  "updated_at": "2026-10-18T15:27:19Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -6690,6 +6690,126 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-18T10:26:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "doc-wikimedia-org",
+      "name": "Doc",
+      "url": "https://doc.wikimedia.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T15:25:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "freelamp-com",
+      "name": "Freelamp",
+      "url": "https://freelamp.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T15:25:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ikvba2-mcsslk-xyz",
+      "name": "Ikvba2",
+      "url": "https://ikvba2.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T15:25:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "libera-chat",
+      "name": "Libera",
+      "url": "https://libera.chat",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T15:25:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lists-wikimedia-org",
+      "name": "Lists",
+      "url": "https://lists.wikimedia.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T15:25:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "llmstxt-org",
+      "name": "Llmstxt",
+      "url": "https://llmstxt.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T15:25:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "phaser-io",
+      "name": "Phaser",
+      "url": "https://phaser.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T15:25:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wikimedia-org",
+      "name": "Wikimedia",
+      "url": "https://wikimedia.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T15:25:24Z",
       "source": "auto_sync"
     }
   ]
