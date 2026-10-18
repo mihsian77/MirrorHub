@@ -1,12 +1,64 @@
 {
-  "generated_at": "2026-10-17T20:13:43Z",
+  "generated_at": "2026-10-18T03:13:25Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1075
+      "latency": 629
+    },
+    {
+      "id": "gh-nxnow-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 246
+    },
+    {
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 121
+    },
+    {
+      "id": "gh-b52m-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2962
+    },
+    {
+      "id": "comfyit-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 802
+    },
+    {
+      "id": "lrclib-net",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 137
+    },
+    {
+      "id": "manual-getsurfboard-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 895
+    },
+    {
+      "id": "nssurge-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 256
+    },
+    {
+      "id": "radio-browser-info",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 107
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-17T20:13:43Z",
+  "updated_at": "2026-10-18T03:13:25Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -6165,6 +6165,396 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-17T20:10:31Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "112112789-xyz",
+      "name": "112112789",
+      "url": "https://112112789.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "apt-thebigboss-org",
+      "name": "Apt",
+      "url": "https://apt.thebigboss.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ari7ey-mcsslk-xyz",
+      "name": "Ari7ey",
+      "url": "https://ari7ey.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "c-kilxs-cn",
+      "name": "C",
+      "url": "https://c.kilxs.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "c-xiyou666-xyz",
+      "name": "C",
+      "url": "https://c.xiyou666.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "deepwiki-com",
+      "name": "Deepwiki",
+      "url": "https://deepwiki.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-cfw-lbyczf-com",
+      "name": "Docs",
+      "url": "https://docs.cfw.lbyczf.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fnnas-com",
+      "name": "Fnnas",
+      "url": "https://fnnas.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "freeclashnode-com",
+      "name": "Freeclashnode",
+      "url": "https://freeclashnode.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "futizi-net",
+      "name": "Futizi",
+      "url": "https://futizi.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "geonames-org",
+      "name": "Geonames",
+      "url": "https://geonames.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "getlantern-org",
+      "name": "Getlantern",
+      "url": "https://getlantern.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "go-dev",
+      "name": "Go",
+      "url": "https://go.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "happymao-cat",
+      "name": "Happymao",
+      "url": "https://happymao.cat",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "install-appcenter-ms",
+      "name": "Install",
+      "url": "https://install.appcenter.ms",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nfsq-us",
+      "name": "Nfsq",
+      "url": "https://nfsq.us",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pepy-tech",
+      "name": "Pepy",
+      "url": "https://pepy.tech",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "psiphon3-com",
+      "name": "Psiphon3",
+      "url": "https://psiphon3.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "qv2ray-net",
+      "name": "Qv2ray",
+      "url": "https://qv2ray.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "roamdial-com",
+      "name": "Roamdial",
+      "url": "https://roamdial.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sockscap64-com",
+      "name": "Sockscap64",
+      "url": "https://sockscap64.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "static-pepy-tech",
+      "name": "Static",
+      "url": "https://static.pepy.tech",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "torproject-org",
+      "name": "Torproject",
+      "url": "https://torproject.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "v2ray-com",
+      "name": "V2ray",
+      "url": "https://v2ray.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wireguard-com",
+      "name": "Wireguard",
+      "url": "https://wireguard.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wujieliulan-com",
+      "name": "Wujieliulan",
+      "url": "https://wujieliulan.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T03:09:32Z",
       "source": "auto_sync"
     }
   ]

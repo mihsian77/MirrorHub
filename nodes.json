@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-17T20:13:43Z",
-  "total_nodes": 129,
+  "updated_at": "2026-10-18T03:13:25Z",
+  "total_nodes": 133,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1567,6 +1567,58 @@
           "id": "open-feishu-cn",
           "name": "Open",
           "url": "https://open.feishu.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lrclib-net",
+          "name": "Lrclib",
+          "url": "https://lrclib.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "manual-getsurfboard-com",
+          "name": "Manual",
+          "url": "https://manual.getsurfboard.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nssurge-com",
+          "name": "Nssurge",
+          "url": "https://nssurge.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "radio-browser-info",
+          "name": "Radio-browser",
+          "url": "https://radio-browser.info",
           "supports": [
             "release",
             "archive",
