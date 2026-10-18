@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-18T03:13:25Z",
+  "updated_at": "2026-10-18T10:28:24Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -6555,6 +6555,141 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-18T03:09:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "admin-msime-app",
+      "name": "Admin",
+      "url": "https://admin.msime.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T10:26:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-msime-app",
+      "name": "Api",
+      "url": "https://api.msime.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T10:26:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "appleid-apple-com",
+      "name": "Appleid",
+      "url": "https://appleid.apple.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T10:26:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dos2unix-cn",
+      "name": "Dos2unix",
+      "url": "https://dos2unix.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T10:26:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "msime-app",
+      "name": "Msime",
+      "url": "https://msime.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T10:26:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ollama-com",
+      "name": "Ollama",
+      "url": "https://ollama.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T10:26:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "swagger-io",
+      "name": "Swagger",
+      "url": "https://swagger.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T10:26:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "translator-example-invalid",
+      "name": "Translator",
+      "url": "https://translator.example.invalid",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T10:26:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "usemagpie-ai",
+      "name": "Usemagpie",
+      "url": "https://usemagpie.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-18T10:26:54Z",
       "source": "auto_sync"
     }
   ]

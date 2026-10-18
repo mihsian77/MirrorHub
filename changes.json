@@ -1,64 +1,37 @@
 {
-  "generated_at": "2026-10-18T03:13:25Z",
+  "generated_at": "2026-10-18T10:28:24Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "git-tangbai-cc",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 629
+      "latency": 968
     },
     {
-      "id": "gh-nxnow-top",
+      "id": "gitclone-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 246
+      "latency": 6420
     },
     {
-      "id": "gh-idayer-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 121
-    },
-    {
-      "id": "gh-b52m-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2962
-    },
-    {
-      "id": "comfyit-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 802
-    },
-    {
-      "id": "lrclib-net",
+      "id": "api-everyapi-ai",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 137
+      "latency": 561
     },
     {
-      "id": "manual-getsurfboard-com",
+      "id": "api-niutrans-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 895
+      "latency": 935
     },
     {
-      "id": "nssurge-com",
+      "id": "tmt-tencentcloudapi-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 256
-    },
-    {
-      "id": "radio-browser-info",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 107
+      "latency": 269
     }
   ]
 }

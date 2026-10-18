@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-18T03:13:25Z",
-  "total_nodes": 133,
+  "updated_at": "2026-10-18T10:28:24Z",
+  "total_nodes": 136,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1619,6 +1619,45 @@
           "id": "radio-browser-info",
           "name": "Radio-browser",
           "url": "https://radio-browser.info",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "api-everyapi-ai",
+          "name": "Api",
+          "url": "https://api.everyapi.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "api-niutrans-com",
+          "name": "Api",
+          "url": "https://api.niutrans.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tmt-tencentcloudapi-com",
+          "name": "Tmt",
+          "url": "https://tmt.tencentcloudapi.com",
           "supports": [
             "release",
             "archive",
