@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-19T12:15:51Z",
-  "total_nodes": 148,
+  "updated_at": "2026-10-19T22:02:59Z",
+  "total_nodes": 151,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1814,6 +1814,45 @@
           "id": "twitter-com",
           "name": "Twitter",
           "url": "https://twitter.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aomedia-issues-chromium-org",
+          "name": "Aomedia",
+          "url": "https://aomedia.issues.chromium.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "deno-com",
+          "name": "Deno",
+          "url": "https://deno.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pan-quark-cn",
+          "name": "Pan",
+          "url": "https://pan.quark.cn",
           "supports": [
             "release",
             "archive",

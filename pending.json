@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-19T12:15:51Z",
+  "updated_at": "2026-10-19T22:02:59Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -7455,6 +7455,456 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-19T12:13:12Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aomedia-review-googlesource-com",
+      "name": "Aomedia-review",
+      "url": "https://aomedia-review.googlesource.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aomedia-googlesource-com",
+      "name": "Aomedia",
+      "url": "https://aomedia.googlesource.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aomedia-org",
+      "name": "Aomedia",
+      "url": "https://aomedia.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blog-chromium-org",
+      "name": "Blog",
+      "url": "https://blog.chromium.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bun-sh",
+      "name": "Bun",
+      "url": "https://bun.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "chromium-review-googlesource-com",
+      "name": "Chromium-review",
+      "url": "https://chromium-review.googlesource.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "chromium-googlesource-com",
+      "name": "Chromium",
+      "url": "https://chromium.googlesource.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ci-chromium-org",
+      "name": "Ci",
+      "url": "https://ci.chromium.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "circleci-com",
+      "name": "Circleci",
+      "url": "https://circleci.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "clang-llvm-org",
+      "name": "Clang",
+      "url": "https://clang.llvm.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dev-docs-kicad-org",
+      "name": "Dev-docs",
+      "url": "https://dev-docs.kicad.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-cloud-google-com",
+      "name": "Docs",
+      "url": "https://docs.cloud.google.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-unity3d-com",
+      "name": "Docs",
+      "url": "https://docs.unity3d.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "doxygen-org",
+      "name": "Doxygen",
+      "url": "https://doxygen.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "emscripten-org",
+      "name": "Emscripten",
+      "url": "https://emscripten.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forum-kicad-info",
+      "name": "Forum",
+      "url": "https://forum.kicad.info",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gerrit-review-googlesource-com",
+      "name": "Gerrit-review",
+      "url": "https://gerrit-review.googlesource.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gerritcodereview-com",
+      "name": "Gerritcodereview",
+      "url": "https://gerritcodereview.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hosted-weblate-org",
+      "name": "Hosted",
+      "url": "https://hosted.weblate.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kicad-org",
+      "name": "Kicad",
+      "url": "https://kicad.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "llvm-org",
+      "name": "Llvm",
+      "url": "https://llvm.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "media-xiph-org",
+      "name": "Media",
+      "url": "https://media.xiph.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mise-jdx-dev",
+      "name": "Mise",
+      "url": "https://mise.jdx.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nasm-us",
+      "name": "Nasm",
+      "url": "https://nasm.us",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "perl-org",
+      "name": "Perl",
+      "url": "https://perl.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pofrk3-mcsslk-xyz",
+      "name": "Pofrk3",
+      "url": "https://pofrk3.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "repology-org",
+      "name": "Repology",
+      "url": "https://repology.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "v8-dev",
+      "name": "V8",
+      "url": "https://v8.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "webassembly-org",
+      "name": "Webassembly",
+      "url": "https://webassembly.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "yasm-tortall-net",
+      "name": "Yasm",
+      "url": "https://yasm.tortall.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T22:01:07Z",
       "source": "auto_sync"
     }
   ]

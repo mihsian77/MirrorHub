@@ -1,24 +1,72 @@
 {
-  "generated_at": "2026-10-19T12:15:51Z",
+  "generated_at": "2026-10-19T22:02:59Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "git-tangbai-cc",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1056
+      "latency": 620
     },
     {
-      "id": "bseindia-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1204
+      "id": "gitproxy-click",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 723
     },
     {
-      "id": "twitter-com",
+      "id": "proxy-yaoyaoling-net",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 5603
+    },
+    {
+      "id": "code-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 288
+    },
+    {
+      "id": "fastgpt-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 179
+    },
+    {
+      "id": "status-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 509
+    },
+    {
+      "id": "gitclone-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 9851
+    },
+    {
+      "id": "aomedia-issues-chromium-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 249
+      "latency": 291
+    },
+    {
+      "id": "deno-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 158
+    },
+    {
+      "id": "pan-quark-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2632
     }
   ]
 }
