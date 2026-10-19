@@ -1,64 +1,24 @@
 {
-  "generated_at": "2026-10-19T03:24:57Z",
+  "generated_at": "2026-10-19T12:15:51Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2065
+      "latency": 1056
     },
     {
-      "id": "gh-idayer-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 277
-    },
-    {
-      "id": "ghproxy-imciel-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 146
-    },
-    {
-      "id": "gh-b52m-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 3299
-    },
-    {
-      "id": "comfyit-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1030
-    },
-    {
-      "id": "status-leez-tech",
+      "id": "bseindia-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 121
+      "latency": 1204
     },
     {
-      "id": "invent-kde-org",
+      "id": "twitter-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 846
-    },
-    {
-      "id": "paypal-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 226
-    },
-    {
-      "id": "steamcommunity-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 630
+      "latency": 249
     }
   ]
 }

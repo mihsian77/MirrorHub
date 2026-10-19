@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-19T03:24:57Z",
-  "total_nodes": 146,
+  "updated_at": "2026-10-19T12:15:51Z",
+  "total_nodes": 148,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1788,6 +1788,32 @@
           "id": "steamcommunity-com",
           "name": "Steamcommunity",
           "url": "https://steamcommunity.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bseindia-com",
+          "name": "Bseindia",
+          "url": "https://bseindia.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "twitter-com",
+          "name": "Twitter",
+          "url": "https://twitter.com",
           "supports": [
             "release",
             "archive",

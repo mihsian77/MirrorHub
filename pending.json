@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-19T03:24:57Z",
+  "updated_at": "2026-10-19T12:15:51Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -7305,6 +7305,156 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-19T03:23:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "astro-build",
+      "name": "Astro",
+      "url": "https://astro.build",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T12:13:12Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-astral-sh",
+      "name": "Docs",
+      "url": "https://docs.astral.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T12:13:12Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-astro-build",
+      "name": "Docs",
+      "url": "https://docs.astro.build",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T12:13:12Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "game-leleleling-site",
+      "name": "Game",
+      "url": "https://game.leleleling.site",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T12:13:12Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git1-ingenic-com-cn",
+      "name": "Git1",
+      "url": "https://git1.ingenic.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T12:13:12Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "media-githubusercontent-com",
+      "name": "Media",
+      "url": "https://media.githubusercontent.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T12:13:12Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "prisma-io",
+      "name": "Prisma",
+      "url": "https://prisma.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T12:13:12Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "release-assets-githubusercontent-com",
+      "name": "Release-assets",
+      "url": "https://release-assets.githubusercontent.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T12:13:12Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "todomvc-com",
+      "name": "Todomvc",
+      "url": "https://todomvc.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T12:13:12Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "todomvc-trpc-io",
+      "name": "Todomvc",
+      "url": "https://todomvc.trpc.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T12:13:12Z",
       "source": "auto_sync"
     }
   ]
