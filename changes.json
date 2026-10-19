@@ -1,43 +1,64 @@
 {
-  "generated_at": "2026-10-18T20:11:55Z",
+  "generated_at": "2026-10-19T03:24:57Z",
   "changes": [
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5675
+      "latency": 2065
     },
     {
-      "id": "gitclone-com",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 6575
+      "latency": 277
     },
     {
-      "id": "code-leez-tech",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 206
+      "id": "ghproxy-imciel-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 146
     },
     {
-      "id": "fastgpt-leez-tech",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 251
+      "id": "gh-b52m-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3299
     },
     {
-      "id": "hopp-sh",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 193
+      "id": "comfyit-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1030
     },
     {
-      "id": "matroska-org",
+      "id": "status-leez-tech",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 1132
+      "latency": 121
+    },
+    {
+      "id": "invent-kde-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 846
+    },
+    {
+      "id": "paypal-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 226
+    },
+    {
+      "id": "steamcommunity-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 630
     }
   ]
 }

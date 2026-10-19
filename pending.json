@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-18T20:11:55Z",
+  "updated_at": "2026-10-19T03:24:57Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -7113,21 +7113,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "status-leez-tech",
-      "name": "Status",
-      "url": "https://status.leez.tech",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-18T20:08:42Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "techbase-kde-org",
       "name": "Techbase",
       "url": "https://techbase.kde.org",
@@ -7185,6 +7170,141 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-18T20:08:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cmake-org",
+      "name": "Cmake",
+      "url": "https://cmake.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T03:23:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "code-visualstudio-com",
+      "name": "Code",
+      "url": "https://code.visualstudio.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T03:23:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "doc-qt-io",
+      "name": "Doc",
+      "url": "https://doc.qt.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T03:23:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "download-qelectrotech-org",
+      "name": "Download",
+      "url": "https://download.qelectrotech.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T03:23:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "getgnulinux-org",
+      "name": "Getgnulinux",
+      "url": "https://getgnulinux.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T03:23:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "listengine-tuxfamily-org",
+      "name": "Listengine",
+      "url": "https://listengine.tuxfamily.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T03:23:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "marketplace-visualstudio-com",
+      "name": "Marketplace",
+      "url": "https://marketplace.visualstudio.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T03:23:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "qelectrotech-org",
+      "name": "Qelectrotech",
+      "url": "https://qelectrotech.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T03:23:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tacto-rivul-us",
+      "name": "Tacto",
+      "url": "https://tacto.rivul.us",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-19T03:23:24Z",
       "source": "auto_sync"
     }
   ]

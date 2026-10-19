@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-18T20:11:55Z",
-  "total_nodes": 142,
+  "updated_at": "2026-10-19T03:24:57Z",
+  "total_nodes": 146,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1736,6 +1736,58 @@
           "id": "matroska-org",
           "name": "Matroska",
           "url": "https://matroska.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "status-leez-tech",
+          "name": "Status",
+          "url": "https://status.leez.tech",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "invent-kde-org",
+          "name": "Invent",
+          "url": "https://invent.kde.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "paypal-com",
+          "name": "Paypal",
+          "url": "https://paypal.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "steamcommunity-com",
+          "name": "Steamcommunity",
+          "url": "https://steamcommunity.com",
           "supports": [
             "release",
             "archive",
