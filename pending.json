@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-20T16:26:09Z",
+  "updated_at": "2026-10-20T21:20:20Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -8175,6 +8175,276 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-20T16:23:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "buss-ixiamen-org-cn",
+      "name": "Buss",
+      "url": "https://buss.ixiamen.org.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "chainlesschain-com",
+      "name": "Chainlesschain",
+      "url": "https://chainlesschain.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "claude-ai",
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "datatracker-ietf-org",
+      "name": "Datatracker",
+      "url": "https://datatracker.ietf.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "design-chainlesschain-com",
+      "name": "Design",
+      "url": "https://design.chainlesschain.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-chainlesschain-com",
+      "name": "Docs",
+      "url": "https://docs.chainlesschain.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gh-ddlc-top",
+      "name": "Gh",
+      "url": "https://gh.ddlc.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "github-dpik-top",
+      "name": "Github",
+      "url": "https://github.dpik.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ironhidegames-com",
+      "name": "Ironhidegames",
+      "url": "https://ironhidegames.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "konami-com",
+      "name": "Konami",
+      "url": "https://konami.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nextjs-org",
+      "name": "Nextjs",
+      "url": "https://nextjs.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "open-vsx-org",
+      "name": "Open-vsx",
+      "url": "https://open-vsx.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "plugins-jetbrains-com",
+      "name": "Plugins",
+      "url": "https://plugins.jetbrains.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "postmarketos-org",
+      "name": "Postmarketos",
+      "url": "https://postmarketos.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "registry-npmjs-org",
+      "name": "Registry",
+      "url": "https://registry.npmjs.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vatsim-net",
+      "name": "Vatsim",
+      "url": "https://vatsim.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "worldvideogamehalloffame-org",
+      "name": "Worldvideogamehalloffame",
+      "url": "https://worldvideogamehalloffame.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zttz-eu-org",
+      "name": "Zttz",
+      "url": "https://zttz.eu.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T21:17:10Z",
       "source": "auto_sync"
     }
   ]

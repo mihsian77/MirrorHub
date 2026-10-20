@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-20T16:26:09Z",
-  "total_nodes": 152,
+  "updated_at": "2026-10-20T21:20:20Z",
+  "total_nodes": 153,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1866,6 +1866,19 @@
           "id": "support-apple-com",
           "name": "Support",
           "url": "https://support.apple.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "openttd-org",
+          "name": "Openttd",
+          "url": "https://openttd.org",
           "supports": [
             "release",
             "archive",

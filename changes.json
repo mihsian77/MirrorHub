@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-20T16:26:09Z",
+  "generated_at": "2026-10-20T21:20:20Z",
   "changes": [
     {
-      "id": "gh-ddlc-top",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "gh-b52m-cn",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 4208
+      "latency": 6015
     },
     {
-      "id": "github-dpik-top",
-      "type": "dead",
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
       "from": "unstable",
-      "to": "dead",
-      "failures": 28
+      "to": "online",
+      "latency": 616
     },
     {
-      "id": "support-apple-com",
+      "id": "status-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 481
+    },
+    {
+      "id": "openttd-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 658
+      "latency": 198
     }
   ]
 }
