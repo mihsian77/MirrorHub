@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-20T10:59:38Z",
-  "total_nodes": 153,
+  "updated_at": "2026-10-20T16:26:09Z",
+  "total_nodes": 152,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -254,19 +254,6 @@
           "id": "wget-la",
           "name": "Wget",
           "url": "https://wget.la",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "gh-ddlc-top",
-          "name": "Gh",
-          "url": "https://gh.ddlc.top",
           "supports": [
             "release",
             "archive",
@@ -1135,19 +1122,6 @@
           "source": "auto_sync"
         },
         {
-          "id": "github-dpik-top",
-          "name": "Github",
-          "url": "https://github.dpik.top",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
           "id": "aosmd-com",
           "name": "Aosmd",
           "url": "https://aosmd.com",
@@ -1879,6 +1853,19 @@
           "id": "code-claude-com",
           "name": "Code",
           "url": "https://code.claude.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "support-apple-com",
+          "name": "Support",
+          "url": "https://support.apple.com",
           "supports": [
             "release",
             "archive",

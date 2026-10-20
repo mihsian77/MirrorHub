@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-10-20T10:59:38Z",
+  "generated_at": "2026-10-20T16:26:09Z",
   "changes": [
     {
-      "id": "framagit-org",
+      "id": "gh-ddlc-top",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "gh-b52m-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 632
+      "latency": 4208
     },
     {
-      "id": "code-claude-com",
+      "id": "github-dpik-top",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "support-apple-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 164
+      "latency": 658
     }
   ]
 }

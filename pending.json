@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-20T10:59:38Z",
+  "updated_at": "2026-10-20T16:26:09Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -8130,6 +8130,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-20T10:57:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "help-roonlabs-com",
+      "name": "Help",
+      "url": "https://help.roonlabs.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T16:23:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "optimumg-com",
+      "name": "Optimumg",
+      "url": "https://optimumg.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T16:23:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pkg-go-dev",
+      "name": "Pkg",
+      "url": "https://pkg.go.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T16:23:23Z",
       "source": "auto_sync"
     }
   ]
