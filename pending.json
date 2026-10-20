@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-20T03:33:56Z",
+  "updated_at": "2026-10-20T10:59:38Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -8025,6 +8025,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-20T03:32:05Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "anthropic-com",
+      "name": "Anthropic",
+      "url": "https://anthropic.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T10:57:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "console-tigris-dev",
+      "name": "Console",
+      "url": "https://console.tigris.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T10:57:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developers-openai-com",
+      "name": "Developers",
+      "url": "https://developers.openai.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T10:57:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "playwright-dev",
+      "name": "Playwright",
+      "url": "https://playwright.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T10:57:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "proxylane-dev",
+      "name": "Proxylane",
+      "url": "https://proxylane.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T10:57:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tigrisdata-com",
+      "name": "Tigrisdata",
+      "url": "https://tigrisdata.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T10:57:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vm2api-fkcodex-com",
+      "name": "Vm2api",
+      "url": "https://vm2api.fkcodex.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T10:57:48Z",
       "source": "auto_sync"
     }
   ]

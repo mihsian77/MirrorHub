@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-20T03:33:56Z",
-  "total_nodes": 152,
+  "updated_at": "2026-10-20T10:59:38Z",
+  "total_nodes": 153,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1866,6 +1866,19 @@
           "id": "upyun-com",
           "name": "Upyun",
           "url": "https://upyun.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "code-claude-com",
+          "name": "Code",
+          "url": "https://code.claude.com",
           "supports": [
             "release",
             "archive",

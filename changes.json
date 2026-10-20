@@ -1,32 +1,18 @@
 {
-  "generated_at": "2026-10-20T03:33:56Z",
+  "generated_at": "2026-10-20T10:59:38Z",
   "changes": [
     {
-      "id": "ghproxy-net",
+      "id": "framagit-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 476
+      "latency": 632
     },
     {
-      "id": "ghfile-geekertao-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1755
-    },
-    {
-      "id": "gh-idayer-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 199
-    },
-    {
-      "id": "upyun-com",
+      "id": "code-claude-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 2772
+      "latency": 164
     }
   ]
 }

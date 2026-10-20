@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "checked_at": "2026-10-20T03:33:56Z",
+  "checked_at": "2026-10-20T10:59:38Z",
   "summary": {
-    "total": 152,
-    "online": 143,
-    "unstable": 9,
+    "total": 153,
+    "online": 141,
+    "unstable": 12,
     "offline": 0,
     "dead": 0,
     "unverified": 0
@@ -12,13 +12,12 @@
   "nodes": {
     "gh-proxy-com": {
       "status": "online",
-      "latency_ms": 213,
-      "avg_latency_ms": 198,
+      "latency_ms": 104,
+      "avg_latency_ms": 185,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        239,
         196,
         128,
         103,
@@ -27,19 +26,19 @@
         321,
         191,
         122,
-        213
+        213,
+        104
       ],
-      "bandwidth_mbps": 0.19
+      "bandwidth_mbps": 1.64
     },
     "gh-proxy-org": {
       "status": "online",
-      "latency_ms": 168,
-      "avg_latency_ms": 229,
+      "latency_ms": 293,
+      "avg_latency_ms": 233,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        298,
         194,
         187,
         171,
@@ -48,19 +47,19 @@
         309,
         213,
         303,
-        168
+        168,
+        293
       ],
-      "bandwidth_mbps": 0.19
+      "bandwidth_mbps": 2.25
     },
     "gh-proxy-net": {
       "status": "online",
-      "latency_ms": 291,
-      "avg_latency_ms": 358,
+      "latency_ms": 170,
+      "avg_latency_ms": 369,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        270,
         521,
         505,
         454,
@@ -69,19 +68,19 @@
         379,
         279,
         689,
-        291
+        291,
+        170
       ],
       "bandwidth_mbps": null
     },
     "ghproxy-net": {
       "status": "online",
-      "latency_ms": 476,
-      "avg_latency_ms": 569,
+      "latency_ms": 365,
+      "avg_latency_ms": 568,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        516,
         665,
         572,
         424,
@@ -90,19 +89,19 @@
         499,
         398,
         1513,
-        476
+        476,
+        365
       ],
-      "bandwidth_mbps": null
+      "bandwidth_mbps": 0.23
     },
     "ghfast-top": {
       "status": "online",
-      "latency_ms": 296,
-      "avg_latency_ms": 506,
+      "latency_ms": 331,
+      "avg_latency_ms": 520,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        253,
         402,
         566,
         2364,
@@ -111,19 +110,19 @@
         280,
         281,
         396,
-        296
+        296,
+        331
       ],
-      "bandwidth_mbps": 0.17
+      "bandwidth_mbps": 0.48
     },
     "gh-con-sh": {
       "status": "online",
-      "latency_ms": 212,
-      "avg_latency_ms": 185,
+      "latency_ms": 106,
+      "avg_latency_ms": 183,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        105,
         428,
         117,
         92,
@@ -132,19 +131,19 @@
         226,
         290,
         134,
-        212
+        212,
+        106
       ],
       "bandwidth_mbps": null
     },
     "fastgit-cc": {
       "status": "online",
-      "latency_ms": 264,
-      "avg_latency_ms": 218,
+      "latency_ms": 148,
+      "avg_latency_ms": 221,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        184,
         296,
         162,
         156,
@@ -153,19 +152,19 @@
         257,
         274,
         228,
-        264
+        264,
+        148
       ],
-      "bandwidth_mbps": 0.19
+      "bandwidth_mbps": 1.92
     },
     "slink-ltd": {
       "status": "online",
-      "latency_ms": 562,
-      "avg_latency_ms": 837,
+      "latency_ms": 614,
+      "avg_latency_ms": 534,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        290,
         537,
         524,
         615,
@@ -174,19 +173,19 @@
         486,
         571,
         291,
-        562
+        562,
+        614
       ],
       "bandwidth_mbps": 0.05
     },
     "down-sciproxy-com": {
       "status": "online",
-      "latency_ms": 227,
-      "avg_latency_ms": 217,
+      "latency_ms": 277,
+      "avg_latency_ms": 226,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        136,
         285,
         276,
         246,
@@ -195,19 +194,19 @@
         236,
         259,
         145,
-        227
+        227,
+        277
       ],
       "bandwidth_mbps": null
     },
     "gh-monlor-com": {
       "status": "online",
-      "latency_ms": 225,
-      "avg_latency_ms": 187,
+      "latency_ms": 125,
+      "avg_latency_ms": 188,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        162,
         239,
         145,
         92,
@@ -216,19 +215,19 @@
         194,
         219,
         298,
-        225
+        225,
+        125
       ],
-      "bandwidth_mbps": 0.7
+      "bandwidth_mbps": 1.91
     },
     "github-ednovas-xyz": {
       "status": "online",
-      "latency_ms": 404,
-      "avg_latency_ms": 314,
+      "latency_ms": 329,
+      "avg_latency_ms": 330,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        209,
         426,
         325,
         298,
@@ -237,19 +236,19 @@
         359,
         505,
         139,
-        404
+        404,
+        329
       ],
-      "bandwidth_mbps": 0.2
+      "bandwidth_mbps": 0.72
     },
     "ghfile-geekertao-top": {
       "status": "online",
-      "latency_ms": 1755,
-      "avg_latency_ms": 1002,
+      "latency_ms": 216,
+      "avg_latency_ms": 939,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        729,
         1522,
         806,
         1001,
@@ -258,19 +257,19 @@
         498,
         2065,
         567,
-        1755
+        1755,
+        216
       ],
-      "bandwidth_mbps": 0.24
+      "bandwidth_mbps": 1.85
     },
     "cdn-crashmc-com": {
       "status": "online",
-      "latency_ms": 268,
-      "avg_latency_ms": 236,
+      "latency_ms": 210,
+      "avg_latency_ms": 239,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        122,
         280,
         135,
         134,
@@ -279,19 +278,19 @@
         301,
         304,
         295,
-        268
+        268,
+        210
       ],
-      "bandwidth_mbps": 0.84
+      "bandwidth_mbps": 2.32
     },
     "git-yylx-win": {
       "status": "online",
-      "latency_ms": 482,
-      "avg_latency_ms": 629,
+      "latency_ms": 213,
+      "avg_latency_ms": 635,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        208,
         514,
         183,
         3388,
@@ -300,19 +299,19 @@
         574,
         289,
         444,
-        482
+        482,
+        213
       ],
-      "bandwidth_mbps": 0.2
+      "bandwidth_mbps": 0.47
     },
     "gh-zwnes-xyz": {
       "status": "online",
-      "latency_ms": 242,
-      "avg_latency_ms": 334,
+      "latency_ms": 289,
+      "avg_latency_ms": 272,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        35,
         413,
         331,
         386,
@@ -321,7 +320,8 @@
         412,
         231,
         90,
-        242
+        242,
+        289
       ],
       "bandwidth_mbps": null
     },
@@ -329,8 +329,8 @@
       "status": "unstable",
       "latency_ms": 369,
       "avg_latency_ms": 299,
-      "consecutive_failures": 1,
-      "last_check": "2026-10-20T03:33:56Z",
+      "consecutive_failures": 2,
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": "2026-10-20T03:33:56Z",
       "history": [
         275,
@@ -350,8 +350,8 @@
       "status": "unstable",
       "latency_ms": 349,
       "avg_latency_ms": 282,
-      "consecutive_failures": 8,
-      "last_check": "2026-10-20T03:33:56Z",
+      "consecutive_failures": 9,
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": "2026-10-18T03:13:25Z",
       "history": [
         223,
@@ -369,13 +369,12 @@
     },
     "gh-nxnow-top": {
       "status": "online",
-      "latency_ms": 619,
-      "avg_latency_ms": 446,
+      "latency_ms": 444,
+      "avg_latency_ms": 474,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        179,
         647,
         246,
         311,
@@ -384,19 +383,19 @@
         559,
         789,
         639,
-        619
+        619,
+        444
       ],
-      "bandwidth_mbps": 0.28
+      "bandwidth_mbps": 0.57
     },
     "ghproxy-monkeyray-net": {
       "status": "online",
-      "latency_ms": 4388,
-      "avg_latency_ms": 4156,
+      "latency_ms": 4150,
+      "avg_latency_ms": 4247,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        4239,
         4938,
         3035,
         3001,
@@ -405,19 +404,19 @@
         4195,
         5060,
         4491,
-        4388
+        4388,
+        4150
       ],
       "bandwidth_mbps": 0.08
     },
     "kkgithub": {
       "status": "online",
-      "latency_ms": 1386,
-      "avg_latency_ms": 1699,
+      "latency_ms": 3909,
+      "avg_latency_ms": 1942,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1368,
         1455,
         5427,
         1260,
@@ -426,17 +425,18 @@
         1312,
         1375,
         1122,
-        1386
+        1386,
+        3909
       ],
       "bandwidth_mbps": null
     },
     "gitclone-com": {
-      "status": "online",
+      "status": "unstable",
       "latency_ms": 3984,
       "avg_latency_ms": 4050,
-      "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
-      "first_failed_at": null,
+      "consecutive_failures": 1,
+      "last_check": "2026-10-20T10:59:38Z",
+      "first_failed_at": "2026-10-20T10:59:38Z",
       "history": [
         1623,
         1661,
@@ -453,13 +453,12 @@
     },
     "jsdelivr-cdn": {
       "status": "online",
-      "latency_ms": 517,
-      "avg_latency_ms": 139,
+      "latency_ms": 17,
+      "avg_latency_ms": 113,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        12,
         241,
         21,
         15,
@@ -468,19 +467,19 @@
         61,
         237,
         17,
-        517
+        517,
+        17
       ],
       "bandwidth_mbps": null
     },
     "jsdelivr-fastly": {
       "status": "online",
-      "latency_ms": 220,
-      "avg_latency_ms": 431,
+      "latency_ms": 188,
+      "avg_latency_ms": 413,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        253,
         227,
         306,
         192,
@@ -489,19 +488,19 @@
         157,
         829,
         334,
-        220
+        220,
+        188
       ],
       "bandwidth_mbps": null
     },
     "jsdelivr-gcore": {
       "status": "online",
-      "latency_ms": 172,
-      "avg_latency_ms": 190,
+      "latency_ms": 32,
+      "avg_latency_ms": 186,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        87,
         477,
         39,
         375,
@@ -510,19 +509,19 @@
         431,
         92,
         134,
-        172
+        172,
+        32
       ],
       "bandwidth_mbps": null
     },
     "jsdelivr-testingcf": {
       "status": "online",
-      "latency_ms": 158,
-      "avg_latency_ms": 180,
+      "latency_ms": 140,
+      "avg_latency_ms": 158,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        37,
         479,
         28,
         223,
@@ -531,19 +530,19 @@
         288,
         90,
         34,
-        158
+        158,
+        140
       ],
       "bandwidth_mbps": null
     },
     "jsdelivr-originfastly": {
       "status": "online",
-      "latency_ms": 4975,
-      "avg_latency_ms": 731,
+      "latency_ms": 190,
+      "avg_latency_ms": 716,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        317,
         229,
         122,
         556,
@@ -552,19 +551,19 @@
         391,
         268,
         389,
-        4975
+        4975,
+        190
       ],
       "bandwidth_mbps": null
     },
     "gh-llkk-cc": {
       "status": "online",
-      "latency_ms": 207,
-      "avg_latency_ms": 180,
+      "latency_ms": 161,
+      "avg_latency_ms": 179,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        154,
         166,
         121,
         92,
@@ -573,19 +572,19 @@
         209,
         159,
         260,
-        207
+        207,
+        161
       ],
-      "bandwidth_mbps": 1.05
+      "bandwidth_mbps": 2.49
     },
     "wget-la": {
       "status": "online",
-      "latency_ms": 2254,
-      "avg_latency_ms": 3143,
+      "latency_ms": 3557,
+      "avg_latency_ms": 3137,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        5039,
         2473,
         1533,
         3688,
@@ -594,16 +593,17 @@
         5491,
         2931,
         724,
-        2254
+        2254,
+        3557
       ],
-      "bandwidth_mbps": 0.01
+      "bandwidth_mbps": 0.0
     },
     "gh-ddlc-top": {
       "status": "unstable",
       "latency_ms": 1086,
       "avg_latency_ms": 644,
-      "consecutive_failures": 26,
-      "last_check": "2026-10-20T03:33:56Z",
+      "consecutive_failures": 27,
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": "2026-10-13T13:38:40Z",
       "history": [
         597,
@@ -617,12 +617,12 @@
       "bandwidth_mbps": 1.33
     },
     "gh-idayer-com": {
-      "status": "online",
+      "status": "unstable",
       "latency_ms": 199,
       "avg_latency_ms": 255,
-      "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
-      "first_failed_at": null,
+      "consecutive_failures": 1,
+      "last_check": "2026-10-20T10:59:38Z",
+      "first_failed_at": "2026-10-20T10:59:38Z",
       "history": [
         233,
         170,
@@ -639,13 +639,12 @@
     },
     "30006000-xyz": {
       "status": "online",
-      "latency_ms": 252,
-      "avg_latency_ms": 324,
+      "latency_ms": 290,
+      "avg_latency_ms": 336,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        104,
         295,
         754,
         457,
@@ -654,19 +653,19 @@
         397,
         296,
         244,
-        252
+        252,
+        290
       ],
-      "bandwidth_mbps": 0.77
+      "bandwidth_mbps": 0.52
     },
     "cf-ghproxy-cc": {
       "status": "online",
-      "latency_ms": 1681,
-      "avg_latency_ms": 1586,
+      "latency_ms": 1403,
+      "avg_latency_ms": 1597,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1181,
         1466,
         1256,
         1412,
@@ -675,19 +674,19 @@
         1368,
         1339,
         1191,
-        1681
+        1681,
+        1403
       ],
-      "bandwidth_mbps": 0.22
+      "bandwidth_mbps": 0.24
     },
     "g-blfrp-cn": {
       "status": "online",
-      "latency_ms": 1897,
-      "avg_latency_ms": 1566,
+      "latency_ms": 3754,
+      "avg_latency_ms": 1747,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        931,
         1645,
         1101,
         4964,
@@ -696,19 +695,19 @@
         842,
         1389,
         800,
-        1897
+        1897,
+        3754
       ],
-      "bandwidth_mbps": 0.05
+      "bandwidth_mbps": 0.01
     },
     "getgit-love8yun-eu-org": {
       "status": "online",
-      "latency_ms": 469,
-      "avg_latency_ms": 392,
+      "latency_ms": 205,
+      "avg_latency_ms": 393,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        656,
         287,
         328,
         153,
@@ -717,19 +716,19 @@
         337,
         357,
         207,
-        469
+        469,
+        205
       ],
-      "bandwidth_mbps": 1.58
+      "bandwidth_mbps": 2.74
     },
     "ggg-clwap-dpdns-org": {
       "status": "online",
-      "latency_ms": 259,
-      "avg_latency_ms": 228,
+      "latency_ms": 160,
+      "avg_latency_ms": 229,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        88,
         270,
         157,
         302,
@@ -738,19 +737,19 @@
         207,
         238,
         93,
-        259
+        259,
+        160
       ],
-      "bandwidth_mbps": 1.56
+      "bandwidth_mbps": 3.6
     },
     "gh-198962-xyz": {
       "status": "online",
-      "latency_ms": 197,
-      "avg_latency_ms": 187,
+      "latency_ms": 136,
+      "avg_latency_ms": 188,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        64,
         188,
         94,
         109,
@@ -759,19 +758,19 @@
         221,
         243,
         200,
-        197
+        197,
+        136
       ],
-      "bandwidth_mbps": 1.33
+      "bandwidth_mbps": 3.78
     },
     "gh-1k-ink": {
       "status": "online",
-      "latency_ms": 330,
-      "avg_latency_ms": 261,
+      "latency_ms": 91,
+      "avg_latency_ms": 234,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        245,
         210,
         350,
         326,
@@ -780,19 +779,19 @@
         193,
         158,
         113,
-        330
+        330,
+        91
       ],
-      "bandwidth_mbps": 1.45
+      "bandwidth_mbps": 3.73
     },
     "gh-39-al": {
       "status": "online",
-      "latency_ms": 628,
-      "avg_latency_ms": 780,
+      "latency_ms": 345,
+      "avg_latency_ms": 342,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        107,
         324,
         440,
         452,
@@ -801,19 +800,19 @@
         382,
         222,
         97,
-        628
+        628,
+        345
       ],
-      "bandwidth_mbps": 0.77
+      "bandwidth_mbps": 0.57
     },
     "gh-996986-xyz": {
       "status": "online",
-      "latency_ms": 183,
-      "avg_latency_ms": 175,
+      "latency_ms": 90,
+      "avg_latency_ms": 172,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        120,
         194,
         106,
         83,
@@ -822,19 +821,19 @@
         255,
         194,
         328,
-        183
+        183,
+        90
       ],
-      "bandwidth_mbps": 1.41
+      "bandwidth_mbps": 3.24
     },
     "gh-dpik-top": {
       "status": "online",
-      "latency_ms": 455,
-      "avg_latency_ms": 634,
+      "latency_ms": 314,
+      "avg_latency_ms": 628,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        399,
         783,
         823,
         372,
@@ -843,17 +842,18 @@
         618,
         1327,
         330,
-        455
+        455,
+        314
       ],
-      "bandwidth_mbps": 0.46
+      "bandwidth_mbps": 2.27
     },
     "gh-halonice-com": {
-      "status": "online",
+      "status": "unstable",
       "latency_ms": 223,
       "avg_latency_ms": 199,
-      "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
-      "first_failed_at": null,
+      "consecutive_failures": 1,
+      "last_check": "2026-10-20T10:59:38Z",
+      "first_failed_at": "2026-10-20T10:59:38Z",
       "history": [
         264,
         209,
@@ -870,13 +870,12 @@
     },
     "gh-noki-icu": {
       "status": "online",
-      "latency_ms": 410,
-      "avg_latency_ms": 378,
+      "latency_ms": 296,
+      "avg_latency_ms": 365,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        369,
         324,
         347,
         308,
@@ -885,19 +884,19 @@
         395,
         395,
         333,
-        410
+        410,
+        296
       ],
-      "bandwidth_mbps": 0.58
+      "bandwidth_mbps": 0.83
     },
     "gh-padao-fun": {
       "status": "online",
-      "latency_ms": 272,
-      "avg_latency_ms": 294,
+      "latency_ms": 282,
+      "avg_latency_ms": 309,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        79,
         414,
         513,
         384,
@@ -906,19 +905,19 @@
         461,
         323,
         81,
-        272
+        272,
+        282
       ],
-      "bandwidth_mbps": 0.81
+      "bandwidth_mbps": 0.53
     },
     "ghproxy-053000-xyz": {
       "status": "online",
-      "latency_ms": 437,
-      "avg_latency_ms": 632,
+      "latency_ms": 966,
+      "avg_latency_ms": 660,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        427,
         810,
         542,
         860,
@@ -927,19 +926,19 @@
         539,
         576,
         615,
-        437
+        437,
+        966
       ],
-      "bandwidth_mbps": 0.27
+      "bandwidth_mbps": 0.22
     },
     "ghproxy-cc": {
       "status": "online",
-      "latency_ms": 1285,
-      "avg_latency_ms": 1183,
+      "latency_ms": 1211,
+      "avg_latency_ms": 1207,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1267,
         1321,
         1139,
         1181,
@@ -948,19 +947,19 @@
         1301,
         1064,
         966,
-        1285
+        1285,
+        1211
       ],
-      "bandwidth_mbps": 0.26
+      "bandwidth_mbps": 0.24
     },
     "ghproxy-cn": {
       "status": "online",
-      "latency_ms": 928,
-      "avg_latency_ms": 851,
+      "latency_ms": 492,
+      "avg_latency_ms": 800,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        806,
         779,
         750,
         508,
@@ -969,19 +968,19 @@
         878,
         536,
         1003,
-        928
+        928,
+        492
       ],
       "bandwidth_mbps": 0.01
     },
     "ghproxy-imciel-com": {
       "status": "online",
-      "latency_ms": 170,
-      "avg_latency_ms": 207,
+      "latency_ms": 148,
+      "avg_latency_ms": 197,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        291,
         220,
         218,
         239,
@@ -990,19 +989,19 @@
         146,
         213,
         183,
-        170
+        170,
+        148
       ],
-      "bandwidth_mbps": 1.49
+      "bandwidth_mbps": 3.93
     },
     "ghproxy-mirror-skybyte-me": {
       "status": "online",
-      "latency_ms": 271,
-      "avg_latency_ms": 1519,
+      "latency_ms": 314,
+      "avg_latency_ms": 1392,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1522,
         6091,
         1484,
         1536,
@@ -1011,19 +1010,19 @@
         500,
         438,
         184,
-        271
+        271,
+        314
       ],
-      "bandwidth_mbps": 0.62
+      "bandwidth_mbps": 0.57
     },
     "ghproxy-sakuramoe-dev": {
       "status": "online",
-      "latency_ms": 226,
-      "avg_latency_ms": 224,
+      "latency_ms": 216,
+      "avg_latency_ms": 233,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        148,
         263,
         308,
         330,
@@ -1032,19 +1031,19 @@
         240,
         239,
         138,
-        226
+        226,
+        216
       ],
-      "bandwidth_mbps": 0.88
+      "bandwidth_mbps": 0.57
     },
     "ghproxy-xzhouqd-com": {
       "status": "online",
-      "latency_ms": 206,
-      "avg_latency_ms": 162,
+      "latency_ms": 107,
+      "avg_latency_ms": 158,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        123,
         151,
         128,
         111,
@@ -1053,19 +1052,19 @@
         180,
         238,
         130,
-        206
+        206,
+        107
       ],
-      "bandwidth_mbps": 1.7
+      "bandwidth_mbps": 3.79
     },
     "git-669966-xyz": {
       "status": "online",
-      "latency_ms": 2160,
-      "avg_latency_ms": 1352,
+      "latency_ms": 2211,
+      "avg_latency_ms": 1471,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        906,
         1111,
         814,
         1075,
@@ -1074,19 +1073,19 @@
         2252,
         1056,
         2027,
-        2160
+        2160,
+        2211
       ],
-      "bandwidth_mbps": 0.08
+      "bandwidth_mbps": 0.12
     },
     "git-820828-xyz": {
       "status": "online",
-      "latency_ms": 181,
-      "avg_latency_ms": 140,
+      "latency_ms": 98,
+      "avg_latency_ms": 138,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        106,
         185,
         86,
         77,
@@ -1095,19 +1094,19 @@
         168,
         180,
         112,
-        181
+        181,
+        98
       ],
-      "bandwidth_mbps": 1.6
+      "bandwidth_mbps": 2.99
     },
     "git-951959483-xyz": {
       "status": "online",
-      "latency_ms": 205,
-      "avg_latency_ms": 145,
+      "latency_ms": 103,
+      "avg_latency_ms": 143,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        92,
         171,
         88,
         74,
@@ -1116,16 +1115,17 @@
         162,
         172,
         173,
-        205
+        205,
+        103
       ],
-      "bandwidth_mbps": 1.52
+      "bandwidth_mbps": 3.12
     },
     "git-tangbai-cc": {
       "status": "unstable",
       "latency_ms": 620,
       "avg_latency_ms": 777,
-      "consecutive_failures": 1,
-      "last_check": "2026-10-20T03:33:56Z",
+      "consecutive_failures": 2,
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": "2026-10-20T03:33:56Z",
       "history": [
         724,
@@ -1143,13 +1143,12 @@
     },
     "github-1ms-xx-kg": {
       "status": "online",
-      "latency_ms": 351,
-      "avg_latency_ms": 466,
+      "latency_ms": 213,
+      "avg_latency_ms": 463,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        263,
         335,
         221,
         434,
@@ -1158,19 +1157,19 @@
         333,
         1937,
         311,
-        351
+        351,
+        213
       ],
-      "bandwidth_mbps": 1.23
+      "bandwidth_mbps": 3.3
     },
     "github-788787-xyz": {
       "status": "online",
-      "latency_ms": 204,
-      "avg_latency_ms": 172,
+      "latency_ms": 92,
+      "avg_latency_ms": 171,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        114,
         211,
         91,
         120,
@@ -1179,19 +1178,19 @@
         168,
         184,
         341,
-        204
+        204,
+        92
       ],
-      "bandwidth_mbps": 1.28
+      "bandwidth_mbps": 2.59
     },
     "github-880824-xyz": {
       "status": "online",
-      "latency_ms": 214,
-      "avg_latency_ms": 148,
+      "latency_ms": 76,
+      "avg_latency_ms": 145,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        86,
         171,
         85,
         76,
@@ -1200,19 +1199,19 @@
         198,
         190,
         141,
-        214
+        214,
+        76
       ],
-      "bandwidth_mbps": 1.53
+      "bandwidth_mbps": 3.89
     },
     "github-chenc-dev": {
       "status": "online",
-      "latency_ms": 1312,
-      "avg_latency_ms": 1313,
+      "latency_ms": 1399,
+      "avg_latency_ms": 1326,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        994,
         1385,
         1309,
         1502,
@@ -1221,19 +1220,19 @@
         1397,
         1415,
         1250,
-        1312
+        1312,
+        1399
       ],
-      "bandwidth_mbps": 0.15
+      "bandwidth_mbps": 0.12
     },
     "github-cnxiaobai-com": {
       "status": "online",
-      "latency_ms": 395,
-      "avg_latency_ms": 266,
+      "latency_ms": 281,
+      "avg_latency_ms": 282,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        174,
         245,
         435,
         391,
@@ -1242,19 +1241,19 @@
         266,
         257,
         95,
-        395
+        395,
+        281
       ],
-      "bandwidth_mbps": 1.0
+      "bandwidth_mbps": 0.51
     },
     "github-crdz-eu-org": {
       "status": "online",
-      "latency_ms": 439,
-      "avg_latency_ms": 599,
+      "latency_ms": 754,
+      "avg_latency_ms": 647,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        178,
         841,
         2478,
         256,
@@ -1263,19 +1262,19 @@
         288,
         420,
         188,
-        439
+        439,
+        754
       ],
-      "bandwidth_mbps": 1.45
+      "bandwidth_mbps": 3.19
     },
     "github-ihnic-com": {
       "status": "online",
-      "latency_ms": 193,
+      "latency_ms": 104,
       "avg_latency_ms": 164,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        136,
         180,
         121,
         141,
@@ -1284,19 +1283,19 @@
         178,
         203,
         152,
-        193
+        193,
+        104
       ],
-      "bandwidth_mbps": 0.99
+      "bandwidth_mbps": 3.46
     },
     "github-lsdfxdk-nyc-mn": {
       "status": "online",
-      "latency_ms": 841,
-      "avg_latency_ms": 463,
+      "latency_ms": 740,
+      "avg_latency_ms": 516,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        163,
         767,
         425,
         253,
@@ -1305,19 +1304,19 @@
         439,
         502,
         866,
-        841
+        841,
+        740
       ],
-      "bandwidth_mbps": 1.58
+      "bandwidth_mbps": 3.45
     },
     "github-xxlab-tech": {
       "status": "online",
-      "latency_ms": 513,
-      "avg_latency_ms": 659,
+      "latency_ms": 805,
+      "avg_latency_ms": 690,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        644,
         661,
         741,
         754,
@@ -1326,19 +1325,19 @@
         1010,
         591,
         377,
-        513
+        513,
+        805
       ],
-      "bandwidth_mbps": 0.2
+      "bandwidth_mbps": 0.22
     },
     "github-zjzzy-cloudns-org": {
       "status": "online",
-      "latency_ms": 1421,
-      "avg_latency_ms": 1453,
+      "latency_ms": 970,
+      "avg_latency_ms": 1388,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1904,
         1347,
         1169,
         1027,
@@ -1347,19 +1346,19 @@
         1427,
         1390,
         1620,
-        1421
+        1421,
+        970
       ],
       "bandwidth_mbps": 0.02
     },
     "github-zzrbk-xyz": {
       "status": "online",
-      "latency_ms": 195,
-      "avg_latency_ms": 150,
+      "latency_ms": 119,
+      "avg_latency_ms": 152,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        145,
         176,
         145,
         77,
@@ -1368,19 +1367,19 @@
         200,
         186,
         111,
-        195
+        195,
+        119
       ],
-      "bandwidth_mbps": 1.21
+      "bandwidth_mbps": 2.95
     },
     "gitproxy-click": {
       "status": "online",
-      "latency_ms": 210,
-      "avg_latency_ms": 319,
+      "latency_ms": 396,
+      "avg_latency_ms": 341,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        199,
         111,
         481,
         409,
@@ -1389,19 +1388,19 @@
         167,
         394,
         723,
-        210
+        210,
+        396
       ],
       "bandwidth_mbps": null
     },
     "gp-871201-xyz": {
       "status": "online",
-      "latency_ms": 227,
-      "avg_latency_ms": 159,
+      "latency_ms": 87,
+      "avg_latency_ms": 155,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        78,
         203,
         115,
         94,
@@ -1410,19 +1409,19 @@
         175,
         178,
         171,
-        227
+        227,
+        87
       ],
-      "bandwidth_mbps": 1.44
+      "bandwidth_mbps": 2.98
     },
     "kenyu-ggff-net": {
       "status": "online",
-      "latency_ms": 235,
-      "avg_latency_ms": 229,
+      "latency_ms": 185,
+      "avg_latency_ms": 237,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        171,
         281,
         207,
         256,
@@ -1431,16 +1430,17 @@
         253,
         293,
         194,
-        235
+        235,
+        185
       ],
-      "bandwidth_mbps": 1.51
+      "bandwidth_mbps": 2.92
     },
     "proxy-yaoyaoling-net": {
       "status": "unstable",
       "latency_ms": 5603,
       "avg_latency_ms": 6189,
-      "consecutive_failures": 1,
-      "last_check": "2026-10-20T03:33:56Z",
+      "consecutive_failures": 2,
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": "2026-10-20T03:33:56Z",
       "history": [
         8509,
@@ -1458,13 +1458,12 @@
     },
     "tvv-tw": {
       "status": "online",
-      "latency_ms": 186,
-      "avg_latency_ms": 159,
+      "latency_ms": 193,
+      "avg_latency_ms": 160,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        179,
         155,
         155,
         88,
@@ -1473,16 +1472,17 @@
         155,
         174,
         132,
-        186
+        186,
+        193
       ],
-      "bandwidth_mbps": 1.72
+      "bandwidth_mbps": 3.05
     },
     "gh-b52m-cn": {
       "status": "unstable",
       "latency_ms": 3299,
       "avg_latency_ms": 3191,
-      "consecutive_failures": 3,
-      "last_check": "2026-10-20T03:33:56Z",
+      "consecutive_failures": 4,
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": "2026-10-19T12:15:51Z",
       "history": [
         2382,
@@ -1500,13 +1500,12 @@
     },
     "dockerproxy-link": {
       "status": "online",
-      "latency_ms": 185,
-      "avg_latency_ms": 157,
+      "latency_ms": 96,
+      "avg_latency_ms": 156,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        143,
         174,
         90,
         102,
@@ -1515,19 +1514,19 @@
         231,
         195,
         169,
-        185
+        185,
+        96
       ],
       "bandwidth_mbps": null
     },
     "hubp-org": {
       "status": "online",
-      "latency_ms": 708,
-      "avg_latency_ms": 549,
+      "latency_ms": 350,
+      "avg_latency_ms": 530,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        395,
         509,
         427,
         479,
@@ -1536,19 +1535,19 @@
         654,
         580,
         579,
-        708
+        708,
+        350
       ],
-      "bandwidth_mbps": 0.01
+      "bandwidth_mbps": 0.02
     },
     "img-shields-io": {
       "status": "online",
-      "latency_ms": 163,
-      "avg_latency_ms": 198,
+      "latency_ms": 43,
+      "avg_latency_ms": 190,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        314,
         269,
         34,
         34,
@@ -1557,19 +1556,19 @@
         242,
         229,
         321,
-        163
+        163,
+        43
       ],
       "bandwidth_mbps": null
     },
     "microsoftedge-microsoft-com": {
       "status": "online",
-      "latency_ms": 110,
-      "avg_latency_ms": 69,
+      "latency_ms": 43,
+      "avg_latency_ms": 62,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        78,
         56,
         57,
         39,
@@ -1578,19 +1577,19 @@
         58,
         58,
         75,
-        110
+        110,
+        43
       ],
-      "bandwidth_mbps": 0.37
+      "bandwidth_mbps": 0.94
     },
     "mirror-houlang-cloud": {
       "status": "online",
-      "latency_ms": 641,
-      "avg_latency_ms": 701,
+      "latency_ms": 758,
+      "avg_latency_ms": 707,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        619,
         598,
         959,
         758,
@@ -1599,19 +1598,19 @@
         700,
         896,
         598,
-        641
+        641,
+        758
       ],
       "bandwidth_mbps": null
     },
     "t-me": {
       "status": "online",
-      "latency_ms": 804,
-      "avg_latency_ms": 777,
+      "latency_ms": 585,
+      "avg_latency_ms": 754,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        951,
         720,
         556,
         562,
@@ -1620,19 +1619,19 @@
         704,
         724,
         923,
-        804
+        804,
+        585
       ],
-      "bandwidth_mbps": 0.02
+      "bandwidth_mbps": 0.03
     },
     "your-domain-com": {
       "status": "online",
-      "latency_ms": 479,
-      "avg_latency_ms": 816,
+      "latency_ms": 490,
+      "avg_latency_ms": 450,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        310,
         471,
         508,
         513,
@@ -1641,19 +1640,19 @@
         451,
         454,
         292,
-        479
+        479,
+        490
       ],
-      "bandwidth_mbps": 0.04
+      "bandwidth_mbps": 0.02
     },
     "yourdomain-com": {
       "status": "online",
-      "latency_ms": 426,
-      "avg_latency_ms": 634,
+      "latency_ms": 310,
+      "avg_latency_ms": 583,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        840,
         806,
         343,
         462,
@@ -1662,19 +1661,19 @@
         505,
         793,
         399,
-        426
+        426,
+        310
       ],
       "bandwidth_mbps": null
     },
     "atomgit-com": {
       "status": "online",
-      "latency_ms": 1315,
-      "avg_latency_ms": 1290,
+      "latency_ms": 1546,
+      "avg_latency_ms": 1331,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1067,
         1416,
         1527,
         1555,
@@ -1683,20 +1682,20 @@
         1471,
         1366,
         1093,
-        1315
+        1315,
+        1546
       ],
-      "bandwidth_mbps": 0.01
+      "bandwidth_mbps": 0.0
     },
     "comfyit-cn": {
       "status": "online",
-      "latency_ms": 672,
-      "avg_latency_ms": 1168,
+      "latency_ms": 1843,
+      "avg_latency_ms": 1190,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1066,
         694,
         1015,
         802,
@@ -1705,19 +1704,19 @@
         1030,
         1681,
         1923,
-        672
+        672,
+        1843
       ]
     },
     "help-obsidian-md": {
       "status": "online",
-      "latency_ms": 205,
-      "avg_latency_ms": 212,
+      "latency_ms": 136,
+      "avg_latency_ms": 215,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        70,
         311,
         486,
         132,
@@ -1726,19 +1725,19 @@
         435,
         201,
         83,
-        205
+        205,
+        136
       ]
     },
     "web-4399-com": {
       "status": "online",
-      "latency_ms": 676,
-      "avg_latency_ms": 808,
+      "latency_ms": 1102,
+      "avg_latency_ms": 770,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        761,
         789,
         556,
         1124,
@@ -1747,19 +1746,19 @@
         333,
         926,
         444,
-        676
+        676,
+        1102
       ]
     },
     "cursor-com": {
       "status": "online",
-      "latency_ms": 316,
-      "avg_latency_ms": 232,
-      "bandwidth_mbps": 0.36,
+      "latency_ms": 175,
+      "avg_latency_ms": 219,
+      "bandwidth_mbps": 1.21,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        149,
         298,
         113,
         148,
@@ -1768,19 +1767,19 @@
         269,
         253,
         163,
-        316
+        316,
+        175
       ]
     },
     "githubstatus-com": {
       "status": "online",
-      "latency_ms": 160,
-      "avg_latency_ms": 108,
-      "bandwidth_mbps": 0.77,
+      "latency_ms": 91,
+      "avg_latency_ms": 111,
+      "bandwidth_mbps": 2.65,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        35,
         200,
         57,
         33,
@@ -1789,19 +1788,19 @@
         199,
         129,
         37,
-        160
+        160,
+        91
       ]
     },
     "hk-gh-proxy-com": {
       "status": "online",
-      "latency_ms": 346,
-      "avg_latency_ms": 342,
-      "bandwidth_mbps": 0.69,
+      "latency_ms": 103,
+      "avg_latency_ms": 323,
+      "bandwidth_mbps": 1.35,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        661,
         393,
         220,
         287,
@@ -1810,19 +1809,19 @@
         383,
         327,
         144,
-        346
+        346,
+        103
       ]
     },
     "semantic-release-gitbook-io": {
       "status": "online",
-      "latency_ms": 621,
-      "avg_latency_ms": 581,
+      "latency_ms": 1129,
+      "avg_latency_ms": 636,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        425,
         674,
         407,
         362,
@@ -1831,19 +1830,19 @@
         651,
         719,
         457,
-        621
+        621,
+        1129
       ]
     },
     "opencode-ai": {
       "status": "online",
-      "latency_ms": 116,
-      "avg_latency_ms": 78,
+      "latency_ms": 69,
+      "avg_latency_ms": 75,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        91,
         61,
         55,
         51,
@@ -1852,19 +1851,19 @@
         60,
         78,
         97,
-        116
+        116,
+        69
       ]
     },
     "ampcode-com": {
       "status": "online",
-      "latency_ms": 206,
+      "latency_ms": 143,
       "avg_latency_ms": 220,
-      "bandwidth_mbps": 0.24,
+      "bandwidth_mbps": 0.26,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        212,
         286,
         185,
         161,
@@ -1873,19 +1872,19 @@
         207,
         258,
         192,
-        206
+        206,
+        143
       ]
     },
     "analytics-geekertao-top": {
       "status": "online",
-      "latency_ms": 517,
-      "avg_latency_ms": 545,
+      "latency_ms": 616,
+      "avg_latency_ms": 556,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        464,
         608,
         613,
         618,
@@ -1894,19 +1893,19 @@
         537,
         593,
         447,
-        517
+        517,
+        616
       ]
     },
     "aps-com": {
       "status": "online",
-      "latency_ms": 629,
-      "avg_latency_ms": 501,
+      "latency_ms": 295,
+      "avg_latency_ms": 507,
       "bandwidth_mbps": 0.04,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        204,
         376,
         737,
         695,
@@ -1915,19 +1914,19 @@
         763,
         321,
         520,
-        629
+        629,
+        295
       ]
     },
     "jbg53qui-tolink-pro": {
       "status": "online",
-      "latency_ms": 356,
-      "avg_latency_ms": 339,
+      "latency_ms": 288,
+      "avg_latency_ms": 340,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        291,
         451,
         315,
         287,
@@ -1936,18 +1935,18 @@
         369,
         331,
         261,
-        356
+        356,
+        288
       ]
     },
     "fastfile-asfd-cn": {
       "status": "online",
-      "latency_ms": 774,
-      "avg_latency_ms": 665,
+      "latency_ms": 617,
+      "avg_latency_ms": 666,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        704,
         806,
         663,
         551,
@@ -1956,19 +1955,19 @@
         470,
         526,
         600,
-        774
+        774,
+        617
       ],
-      "bandwidth_mbps": 1.29
+      "bandwidth_mbps": 1.02
     },
     "fx4-cn": {
       "status": "online",
-      "latency_ms": 187,
-      "avg_latency_ms": 296,
+      "latency_ms": 342,
+      "avg_latency_ms": 312,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        114,
         604,
         379,
         315,
@@ -1977,19 +1976,19 @@
         412,
         352,
         278,
-        187
+        187,
+        342
       ],
       "bandwidth_mbps": null
     },
     "rmfkb6yg-mikasa-cloud": {
       "status": "online",
-      "latency_ms": 547,
-      "avg_latency_ms": 467,
+      "latency_ms": 518,
+      "avg_latency_ms": 477,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        412,
         582,
         575,
         517,
@@ -1998,7 +1997,8 @@
         567,
         328,
         415,
-        547
+        547,
+        518
       ],
       "bandwidth_mbps": null
     },
@@ -2007,8 +2007,8 @@
       "latency_ms": 389,
       "avg_latency_ms": 389,
       "bandwidth_mbps": 0.97,
-      "consecutive_failures": 26,
-      "last_check": "2026-10-20T03:33:56Z",
+      "consecutive_failures": 27,
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": "2026-10-13T13:38:40Z",
       "history": [
         389
@@ -2016,14 +2016,13 @@
     },
     "aosmd-com": {
       "status": "online",
-      "latency_ms": 796,
-      "avg_latency_ms": 569,
-      "bandwidth_mbps": 0.11,
+      "latency_ms": 298,
+      "avg_latency_ms": 522,
+      "bandwidth_mbps": 0.44,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        666,
         530,
         264,
         216,
@@ -2032,19 +2031,19 @@
         471,
         583,
         710,
-        796
+        796,
+        298
       ]
     },
     "thumb-wikimedia-org": {
       "status": "online",
-      "latency_ms": 247,
-      "avg_latency_ms": 135,
-      "bandwidth_mbps": 0.72,
+      "latency_ms": 28,
+      "avg_latency_ms": 121,
+      "bandwidth_mbps": 6.44,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        40,
         165,
         33,
         31,
@@ -2053,19 +2052,19 @@
         170,
         168,
         41,
-        247
+        247,
+        28
       ]
     },
     "training-ti-com": {
       "status": "online",
-      "latency_ms": 160,
-      "avg_latency_ms": 157,
-      "bandwidth_mbps": 0.13,
+      "latency_ms": 98,
+      "avg_latency_ms": 156,
+      "bandwidth_mbps": 0.25,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        221,
         163,
         77,
         128,
@@ -2074,19 +2073,19 @@
         151,
         234,
         169,
-        160
+        160,
+        98
       ]
     },
     "img-ink": {
       "status": "online",
-      "latency_ms": 2098,
-      "avg_latency_ms": 2318,
+      "latency_ms": 2453,
+      "avg_latency_ms": 2278,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        3052,
         1783,
         2587,
         2464,
@@ -2095,7 +2094,8 @@
         1670,
         2035,
         1597,
-        2098
+        2098,
+        2453
       ]
     },
     "proxy-vvvv-ee": {
@@ -2103,8 +2103,8 @@
       "latency_ms": 161,
       "avg_latency_ms": 573,
       "bandwidth_mbps": null,
-      "consecutive_failures": 1,
-      "last_check": "2026-10-20T03:33:56Z",
+      "consecutive_failures": 2,
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": "2026-10-20T03:33:56Z",
       "history": [
         480,
@@ -2121,14 +2121,13 @@
     },
     "5555-cab": {
       "status": "online",
-      "latency_ms": 10254,
-      "avg_latency_ms": 7817,
-      "bandwidth_mbps": 0.04,
+      "latency_ms": 4831,
+      "avg_latency_ms": 7385,
+      "bandwidth_mbps": 0.06,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        7807,
         8138,
         9669,
         8944,
@@ -2137,19 +2136,19 @@
         9190,
         6878,
         6292,
-        10254
+        10254,
+        4831
       ]
     },
     "axios-http-com": {
       "status": "online",
-      "latency_ms": 332,
-      "avg_latency_ms": 223,
-      "bandwidth_mbps": 0.4,
+      "latency_ms": 55,
+      "avg_latency_ms": 204,
+      "bandwidth_mbps": 1.78,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        71,
         302,
         135,
         57,
@@ -2158,19 +2157,19 @@
         234,
         263,
         177,
-        332
+        332,
+        55
       ]
     },
     "modelscope-cn": {
       "status": "online",
-      "latency_ms": 764,
-      "avg_latency_ms": 915,
+      "latency_ms": 2024,
+      "avg_latency_ms": 1026,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        596,
         690,
         1039,
         1061,
@@ -2179,19 +2178,19 @@
         1303,
         1278,
         633,
-        764
+        764,
+        2024
       ]
     },
     "market-tracker-khaki-vercel-app": {
       "status": "online",
-      "latency_ms": 252,
-      "avg_latency_ms": 204,
+      "latency_ms": 133,
+      "avg_latency_ms": 202,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        88,
         309,
         81,
         171,
@@ -2200,19 +2199,19 @@
         314,
         342,
         42,
-        252
+        252,
+        133
       ]
     },
     "ygdj7-com": {
       "status": "online",
-      "latency_ms": 584,
-      "avg_latency_ms": 511,
+      "latency_ms": 562,
+      "avg_latency_ms": 518,
       "bandwidth_mbps": 0.04,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        245,
         556,
         566,
         590,
@@ -2221,19 +2220,19 @@
         542,
         598,
         465,
-        584
+        584,
+        562
       ]
     },
     "goreportcard-com": {
       "status": "online",
-      "latency_ms": 139,
-      "avg_latency_ms": 132,
-      "bandwidth_mbps": 0.02,
+      "latency_ms": 45,
+      "avg_latency_ms": 125,
+      "bandwidth_mbps": 0.05,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        116,
         196,
         81,
         69,
@@ -2242,19 +2241,19 @@
         121,
         148,
         96,
-        139
+        139,
+        45
       ]
     },
     "msdn-microsoft-com": {
       "status": "online",
-      "latency_ms": 643,
-      "avg_latency_ms": 488,
-      "bandwidth_mbps": 0.04,
+      "latency_ms": 171,
+      "avg_latency_ms": 458,
+      "bandwidth_mbps": 0.14,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        404,
         968,
         221,
         176,
@@ -2263,19 +2262,19 @@
         514,
         655,
         282,
-        643
+        643,
+        171
       ]
     },
     "sub-ikar-eu-org": {
       "status": "online",
-      "latency_ms": 380,
-      "avg_latency_ms": 239,
-      "bandwidth_mbps": 0.11,
+      "latency_ms": 96,
+      "avg_latency_ms": 223,
+      "bandwidth_mbps": 0.49,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        139,
         333,
         132,
         156,
@@ -2284,19 +2283,19 @@
         276,
         299,
         176,
-        380
+        380,
+        96
       ]
     },
     "wpt-fyi": {
       "status": "online",
-      "latency_ms": 327,
-      "avg_latency_ms": 279,
+      "latency_ms": 173,
+      "avg_latency_ms": 271,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        321,
         416,
         166,
         181,
@@ -2305,19 +2304,19 @@
         219,
         230,
         443,
-        327
+        327,
+        173
       ]
     },
     "open-bigmodel-cn": {
       "status": "online",
-      "latency_ms": 262,
-      "avg_latency_ms": 280,
+      "latency_ms": 251,
+      "avg_latency_ms": 282,
       "bandwidth_mbps": 0.02,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        192,
         309,
         259,
         509,
@@ -2326,19 +2325,19 @@
         306,
         293,
         175,
-        262
+        262,
+        251
       ]
     },
     "api-solov-cc": {
       "status": "online",
-      "latency_ms": 393,
-      "avg_latency_ms": 215,
-      "bandwidth_mbps": 0.08,
+      "latency_ms": 356,
+      "avg_latency_ms": 240,
+      "bandwidth_mbps": 0.05,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        120,
         187,
         371,
         340,
@@ -2347,19 +2346,19 @@
         221,
         231,
         129,
-        393
+        393,
+        356
       ]
     },
     "xm-solov-cc": {
       "status": "online",
-      "latency_ms": 281,
-      "avg_latency_ms": 226,
+      "latency_ms": 117,
+      "avg_latency_ms": 224,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        167,
         202,
         346,
         342,
@@ -2368,19 +2367,19 @@
         191,
         197,
         204,
-        281
+        281,
+        117
       ]
     },
     "oem-re": {
       "status": "online",
-      "latency_ms": 221,
-      "avg_latency_ms": 299,
+      "latency_ms": 277,
+      "avg_latency_ms": 311,
       "bandwidth_mbps": 0.02,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        452,
         344,
         220,
         317,
@@ -2389,19 +2388,19 @@
         341,
         316,
         409,
-        221
+        221,
+        277
       ]
     },
     "qm-qq-com": {
       "status": "online",
-      "latency_ms": 676,
-      "avg_latency_ms": 705,
+      "latency_ms": 825,
+      "avg_latency_ms": 721,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        613,
         728,
         826,
         820,
@@ -2410,19 +2409,19 @@
         734,
         768,
         620,
-        676
+        676,
+        825
       ]
     },
     "docs-volcengine-com": {
       "status": "online",
-      "latency_ms": 1714,
-      "avg_latency_ms": 1939,
+      "latency_ms": 1859,
+      "avg_latency_ms": 1866,
       "bandwidth_mbps": 0.01,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1099,
         1923,
         1961,
         1843,
@@ -2431,19 +2430,19 @@
         1780,
         2261,
         1148,
-        1714
+        1714,
+        1859
       ]
     },
     "game-chozo-net": {
       "status": "online",
-      "latency_ms": 154,
-      "avg_latency_ms": 81,
+      "latency_ms": 55,
+      "avg_latency_ms": 82,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        85,
         62,
         45,
         39,
@@ -2452,19 +2451,19 @@
         112,
         112,
         44,
-        154
+        154,
+        55
       ]
     },
     "linkedin-com": {
       "status": "online",
-      "latency_ms": 144,
-      "avg_latency_ms": 82,
-      "bandwidth_mbps": 0.14,
+      "latency_ms": 32,
+      "avg_latency_ms": 73,
+      "bandwidth_mbps": 0.48,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        82,
         66,
         36,
         37,
@@ -2473,19 +2472,19 @@
         88,
         69,
         76,
-        144
+        144,
+        32
       ]
     },
     "mimo-mi-com": {
       "status": "online",
-      "latency_ms": 853,
-      "avg_latency_ms": 921,
-      "bandwidth_mbps": 0.19,
+      "latency_ms": 917,
+      "avg_latency_ms": 927,
+      "bandwidth_mbps": 0.15,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        756,
         975,
         1057,
         1047,
@@ -2494,19 +2493,19 @@
         1033,
         894,
         841,
-        853
+        853,
+        917
       ]
     },
     "app-netlify-com": {
       "status": "online",
-      "latency_ms": 133,
-      "avg_latency_ms": 119,
-      "bandwidth_mbps": 0.05,
+      "latency_ms": 42,
+      "avg_latency_ms": 111,
+      "bandwidth_mbps": 0.16,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        81,
         121,
         79,
         65,
@@ -2515,19 +2514,19 @@
         141,
         130,
         91,
-        133
+        133,
+        42
       ]
     },
     "bailian-console-aliyun-com": {
       "status": "online",
-      "latency_ms": 150,
-      "avg_latency_ms": 324,
-      "bandwidth_mbps": 0.1,
+      "latency_ms": 618,
+      "avg_latency_ms": 355,
+      "bandwidth_mbps": 0.04,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        196,
         437,
         412,
         788,
@@ -2536,19 +2535,19 @@
         257,
         429,
         51,
-        150
+        150,
+        618
       ]
     },
     "earth-jaxa-jp": {
       "status": "online",
-      "latency_ms": 139,
-      "avg_latency_ms": 94,
+      "latency_ms": 71,
+      "avg_latency_ms": 86,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        60,
         130,
         51,
         49,
@@ -2557,19 +2556,19 @@
         137,
         114,
         32,
-        139
+        139,
+        71
       ]
     },
     "i-qps-net": {
       "status": "online",
-      "latency_ms": 1440,
-      "avg_latency_ms": 1616,
-      "bandwidth_mbps": 0.03,
+      "latency_ms": 1762,
+      "avg_latency_ms": 1633,
+      "bandwidth_mbps": 0.02,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1356,
         1862,
         1978,
         1773,
@@ -2578,19 +2577,19 @@
         1742,
         1678,
         1303,
-        1440
+        1440,
+        1762
       ]
     },
     "nisar-jpl-nasa-gov": {
       "status": "online",
-      "latency_ms": 338,
-      "avg_latency_ms": 249,
-      "bandwidth_mbps": 0.75,
+      "latency_ms": 279,
+      "avg_latency_ms": 260,
+      "bandwidth_mbps": 0.87,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        145,
         276,
         300,
         277,
@@ -2599,19 +2598,19 @@
         251,
         272,
         136,
-        338
+        338,
+        279
       ]
     },
     "space-track-org": {
       "status": "online",
-      "latency_ms": 344,
-      "avg_latency_ms": 312,
+      "latency_ms": 425,
+      "avg_latency_ms": 338,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        284,
         336,
         297,
         231,
@@ -2620,19 +2619,19 @@
         296,
         301,
         305,
-        344
+        344,
+        425
       ]
     },
     "terranor-no": {
       "status": "online",
-      "latency_ms": 1701,
-      "avg_latency_ms": 1358,
+      "latency_ms": 769,
+      "avg_latency_ms": 1293,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1312,
         1698,
         818,
         1237,
@@ -2641,19 +2640,19 @@
         1034,
         1493,
         1427,
-        1701
+        1701,
+        769
       ]
     },
     "docs-waveshare-net": {
       "status": "online",
-      "latency_ms": 1098,
-      "avg_latency_ms": 1147,
-      "bandwidth_mbps": 0.01,
+      "latency_ms": 1349,
+      "avg_latency_ms": 1175,
+      "bandwidth_mbps": 0.0,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        1041,
         1106,
         1273,
         1300,
@@ -2662,19 +2661,19 @@
         1165,
         1200,
         1160,
-        1098
+        1098,
+        1349
       ]
     },
     "framagit-org": {
-      "status": "unstable",
-      "latency_ms": 961,
-      "avg_latency_ms": 826,
-      "bandwidth_mbps": 0.0,
-      "consecutive_failures": 1,
-      "last_check": "2026-10-20T03:33:56Z",
-      "first_failed_at": "2026-10-20T03:33:56Z",
+      "status": "online",
+      "latency_ms": 632,
+      "avg_latency_ms": 808,
+      "bandwidth_mbps": 0.01,
+      "consecutive_failures": 0,
+      "last_check": "2026-10-20T10:59:38Z",
+      "first_failed_at": null,
       "history": [
-        851,
         939,
         756,
         817,
@@ -2683,19 +2682,19 @@
         771,
         772,
         784,
-        961
+        961,
+        632
       ]
     },
     "open-feishu-cn": {
       "status": "online",
-      "latency_ms": 551,
-      "avg_latency_ms": 552,
+      "latency_ms": 424,
+      "avg_latency_ms": 540,
       "bandwidth_mbps": 0.02,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        685,
         435,
         390,
         597,
@@ -2704,16 +2703,17 @@
         466,
         933,
         454,
-        551
+        551,
+        424
       ]
     },
     "lrclib-net": {
       "status": "online",
-      "latency_ms": 229,
-      "avg_latency_ms": 207,
+      "latency_ms": 137,
+      "avg_latency_ms": 199,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         137,
@@ -2723,16 +2723,17 @@
         192,
         261,
         272,
-        229
+        229,
+        137
       ]
     },
     "manual-getsurfboard-com": {
       "status": "online",
-      "latency_ms": 341,
-      "avg_latency_ms": 387,
+      "latency_ms": 194,
+      "avg_latency_ms": 366,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         895,
@@ -2742,16 +2743,17 @@
         329,
         298,
         331,
-        341
+        341,
+        194
       ]
     },
     "nssurge-com": {
       "status": "online",
-      "latency_ms": 277,
-      "avg_latency_ms": 210,
+      "latency_ms": 250,
+      "avg_latency_ms": 215,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         256,
@@ -2761,16 +2763,17 @@
         281,
         154,
         199,
-        277
+        277,
+        250
       ]
     },
     "radio-browser-info": {
       "status": "online",
-      "latency_ms": 376,
-      "avg_latency_ms": 242,
-      "bandwidth_mbps": 0.02,
+      "latency_ms": 104,
+      "avg_latency_ms": 227,
+      "bandwidth_mbps": 0.06,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         107,
@@ -2780,16 +2783,17 @@
         428,
         277,
         109,
-        376
+        376,
+        104
       ]
     },
     "api-everyapi-ai": {
       "status": "online",
-      "latency_ms": 498,
-      "avg_latency_ms": 405,
-      "bandwidth_mbps": 0.02,
+      "latency_ms": 194,
+      "avg_latency_ms": 378,
+      "bandwidth_mbps": 0.03,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         561,
@@ -2798,16 +2802,17 @@
         489,
         523,
         360,
-        498
+        498,
+        194
       ]
     },
     "api-niutrans-com": {
       "status": "online",
-      "latency_ms": 687,
-      "avg_latency_ms": 766,
+      "latency_ms": 940,
+      "avg_latency_ms": 788,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         935,
@@ -2816,16 +2821,17 @@
         807,
         801,
         672,
-        687
+        687,
+        940
       ]
     },
     "tmt-tencentcloudapi-com": {
       "status": "online",
-      "latency_ms": 78,
-      "avg_latency_ms": 176,
+      "latency_ms": 434,
+      "avg_latency_ms": 208,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         269,
@@ -2834,16 +2840,17 @@
         158,
         217,
         128,
-        78
+        78,
+        434
       ]
     },
     "bee-vs-hornets-pages-dev": {
       "status": "online",
-      "latency_ms": 112,
-      "avg_latency_ms": 100,
+      "latency_ms": 64,
+      "avg_latency_ms": 95,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         72,
@@ -2851,16 +2858,17 @@
         142,
         119,
         47,
-        112
+        112,
+        64
       ]
     },
     "phabricator-wikimedia-org": {
       "status": "online",
-      "latency_ms": 394,
-      "avg_latency_ms": 283,
-      "bandwidth_mbps": 0.03,
+      "latency_ms": 98,
+      "avg_latency_ms": 256,
+      "bandwidth_mbps": 0.11,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         286,
@@ -2868,79 +2876,84 @@
         203,
         216,
         391,
-        394
+        394,
+        98
       ]
     },
     "code-leez-tech": {
       "status": "online",
-      "latency_ms": 683,
-      "avg_latency_ms": 400,
+      "latency_ms": 313,
+      "avg_latency_ms": 383,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         206,
         425,
         288,
-        683
+        683,
+        313
       ]
     },
     "fastgpt-leez-tech": {
       "status": "online",
-      "latency_ms": 183,
-      "avg_latency_ms": 178,
+      "latency_ms": 245,
+      "avg_latency_ms": 192,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         251,
         101,
         179,
-        183
+        183,
+        245
       ]
     },
     "hopp-sh": {
       "status": "online",
-      "latency_ms": 255,
-      "avg_latency_ms": 224,
-      "bandwidth_mbps": 0.02,
+      "latency_ms": 84,
+      "avg_latency_ms": 201,
+      "bandwidth_mbps": 0.05,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         193,
         367,
         198,
         108,
-        255
+        255,
+        84
       ]
     },
     "matroska-org": {
       "status": "online",
-      "latency_ms": 1261,
-      "avg_latency_ms": 1221,
-      "bandwidth_mbps": 0.0,
+      "latency_ms": 890,
+      "avg_latency_ms": 1166,
+      "bandwidth_mbps": 0.01,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         1132,
         1124,
         1168,
         1421,
-        1261
+        1261,
+        890
       ]
     },
     "status-leez-tech": {
-      "status": "online",
+      "status": "unstable",
       "latency_ms": 80,
       "avg_latency_ms": 237,
       "bandwidth_mbps": null,
-      "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
-      "first_failed_at": null,
+      "consecutive_failures": 1,
+      "last_check": "2026-10-20T10:59:38Z",
+      "first_failed_at": "2026-10-20T10:59:38Z",
       "history": [
         121,
         509,
@@ -2949,271 +2962,290 @@
     },
     "invent-kde-org": {
       "status": "online",
-      "latency_ms": 963,
-      "avg_latency_ms": 921,
-      "bandwidth_mbps": 0.01,
+      "latency_ms": 710,
+      "avg_latency_ms": 879,
+      "bandwidth_mbps": 0.02,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         846,
         841,
         1034,
-        963
+        963,
+        710
       ]
     },
     "paypal-com": {
       "status": "online",
-      "latency_ms": 263,
-      "avg_latency_ms": 230,
-      "bandwidth_mbps": 0.03,
+      "latency_ms": 178,
+      "avg_latency_ms": 220,
+      "bandwidth_mbps": 0.04,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         226,
         228,
         204,
-        263
+        263,
+        178
       ]
     },
     "steamcommunity-com": {
       "status": "online",
-      "latency_ms": 418,
-      "avg_latency_ms": 402,
-      "bandwidth_mbps": 0.07,
+      "latency_ms": 261,
+      "avg_latency_ms": 374,
+      "bandwidth_mbps": 0.21,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         630,
         335,
         227,
-        418
+        418,
+        261
       ]
     },
     "bseindia-com": {
       "status": "online",
-      "latency_ms": 438,
-      "avg_latency_ms": 664,
-      "bandwidth_mbps": 0.03,
+      "latency_ms": 326,
+      "avg_latency_ms": 580,
+      "bandwidth_mbps": 0.04,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         1204,
         350,
-        438
+        438,
+        326
       ]
     },
     "twitter-com": {
       "status": "online",
-      "latency_ms": 267,
-      "avg_latency_ms": 220,
-      "bandwidth_mbps": 0.63,
+      "latency_ms": 137,
+      "avg_latency_ms": 199,
+      "bandwidth_mbps": 1.05,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         249,
         143,
-        267
+        267,
+        137
       ]
     },
     "aomedia-issues-chromium-org": {
       "status": "online",
-      "latency_ms": 762,
-      "avg_latency_ms": 526,
-      "bandwidth_mbps": 0.1,
+      "latency_ms": 208,
+      "avg_latency_ms": 420,
+      "bandwidth_mbps": 0.34,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         291,
-        762
+        762,
+        208
       ]
     },
     "deno-com": {
       "status": "online",
-      "latency_ms": 86,
-      "avg_latency_ms": 122,
-      "bandwidth_mbps": 0.42,
+      "latency_ms": 58,
+      "avg_latency_ms": 101,
+      "bandwidth_mbps": 0.58,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         158,
-        86
+        86,
+        58
       ]
     },
     "pan-quark-cn": {
       "status": "online",
-      "latency_ms": 2901,
-      "avg_latency_ms": 2766,
+      "latency_ms": 3328,
+      "avg_latency_ms": 2954,
       "bandwidth_mbps": null,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
         2632,
-        2901
+        2901,
+        3328
       ]
     },
     "upyun-com": {
       "status": "online",
-      "latency_ms": 2772,
-      "avg_latency_ms": 2772,
+      "latency_ms": 2437,
+      "avg_latency_ms": 2604,
       "bandwidth_mbps": 0.0,
       "consecutive_failures": 0,
-      "last_check": "2026-10-20T03:33:56Z",
+      "last_check": "2026-10-20T10:59:38Z",
       "first_failed_at": null,
       "history": [
-        2772
+        2772,
+        2437
+      ]
+    },
+    "code-claude-com": {
+      "status": "online",
+      "latency_ms": 164,
+      "avg_latency_ms": 164,
+      "bandwidth_mbps": 1.34,
+      "consecutive_failures": 0,
+      "last_check": "2026-10-20T10:59:38Z",
+      "first_failed_at": null,
+      "history": [
+        164
       ]
     }
   },
   "sorted_by_latency": [
     "microsoftedge-microsoft-com",
+    "linkedin-com",
     "opencode-ai",
     "game-chozo-net",
-    "linkedin-com",
     "earth-jaxa-jp",
     "bee-vs-hornets-pages-dev",
+    "deno-com",
     "githubstatus-com",
     "app-netlify-com",
-    "deno-com",
-    "goreportcard-com",
-    "thumb-wikimedia-org",
     "jsdelivr-cdn",
+    "thumb-wikimedia-org",
+    "goreportcard-com",
     "git-820828-xyz",
     "git-951959483-xyz",
     "github-880824-xyz",
     "github-zzrbk-xyz",
+    "gp-871201-xyz",
     "dockerproxy-link",
     "training-ti-com",
-    "gp-871201-xyz",
-    "tvv-tw",
+    "jsdelivr-testingcf",
     "ghproxy-xzhouqd-com",
+    "tvv-tw",
     "github-ihnic-com",
+    "code-claude-com",
     "github-788787-xyz",
     "gh-996986-xyz",
-    "tmt-tencentcloudapi-com",
-    "fastgpt-leez-tech",
-    "jsdelivr-testingcf",
     "gh-llkk-cc",
     "gh-con-sh",
+    "gh-proxy-com",
+    "jsdelivr-gcore",
     "gh-monlor-com",
     "gh-198962-xyz",
-    "jsdelivr-gcore",
-    "gh-proxy-com",
     "img-shields-io",
-    "gh-halonice-com",
-    "market-tracker-khaki-vercel-app",
+    "fastgpt-leez-tech",
     "ghproxy-imciel-com",
     "lrclib-net",
-    "nssurge-com",
-    "help-obsidian-md",
-    "api-solov-cc",
-    "down-sciproxy-com",
-    "fastgit-cc",
-    "ampcode-com",
     "twitter-com",
-    "axios-http-com",
-    "ghproxy-sakuramoe-dev",
     "hopp-sh",
+    "market-tracker-khaki-vercel-app",
+    "axios-http-com",
+    "tmt-tencentcloudapi-com",
+    "help-obsidian-md",
+    "nssurge-com",
+    "cursor-com",
+    "ampcode-com",
+    "paypal-com",
+    "fastgit-cc",
+    "sub-ikar-eu-org",
     "xm-solov-cc",
+    "down-sciproxy-com",
+    "radio-browser-info",
     "ggg-clwap-dpdns-org",
     "gh-proxy-org",
-    "kenyu-ggff-net",
-    "paypal-com",
-    "cursor-com",
-    "cdn-crashmc-com",
-    "status-leez-tech",
-    "sub-ikar-eu-org",
-    "radio-browser-info",
-    "nisar-jpl-nasa-gov",
-    "gh-idayer-com",
+    "ghproxy-sakuramoe-dev",
     "gh-1k-ink",
-    "github-cnxiaobai-com",
-    "wpt-fyi",
-    "open-bigmodel-cn",
+    "kenyu-ggff-net",
+    "cdn-crashmc-com",
+    "api-solov-cc",
     "phabricator-wikimedia-org",
-    "gh-padao-fun",
-    "fx4-cn",
-    "oem-re",
-    "space-track-org",
-    "github-ednovas-xyz",
-    "gitproxy-click",
-    "30006000-xyz",
-    "bailian-console-aliyun-com",
+    "nisar-jpl-nasa-gov",
+    "wpt-fyi",
     "gh-zwnes-xyz",
-    "jbg53qui-tolink-pro",
+    "github-cnxiaobai-com",
+    "open-bigmodel-cn",
+    "gh-padao-fun",
+    "oem-re",
+    "fx4-cn",
     "hk-gh-proxy-com",
-    "gh-proxy-net",
+    "github-ednovas-xyz",
+    "30006000-xyz",
+    "space-track-org",
+    "jbg53qui-tolink-pro",
+    "gitproxy-click",
+    "gh-39-al",
+    "bailian-console-aliyun-com",
     "gh-noki-icu",
     "manual-getsurfboard-com",
-    "getgit-love8yun-eu-org",
-    "code-leez-tech",
+    "gh-proxy-net",
     "steamcommunity-com",
     "api-everyapi-ai",
+    "code-leez-tech",
+    "getgit-love8yun-eu-org",
     "jsdelivr-fastly",
-    "gh-nxnow-top",
-    "github-lsdfxdk-nyc-mn",
-    "github-1ms-xx-kg",
-    "rmfkb6yg-mikasa-cloud",
-    "msdn-microsoft-com",
-    "aps-com",
-    "ghfast-top",
-    "ygdj7-com",
     "aomedia-issues-chromium-org",
-    "analytics-geekertao-top",
-    "hubp-org",
-    "open-feishu-cn",
-    "ghproxy-net",
+    "your-domain-com",
+    "msdn-microsoft-com",
+    "github-1ms-xx-kg",
+    "gh-nxnow-top",
+    "rmfkb6yg-mikasa-cloud",
+    "aps-com",
+    "github-lsdfxdk-nyc-mn",
+    "ygdj7-com",
+    "ghfast-top",
     "aosmd-com",
+    "hubp-org",
+    "slink-ltd",
+    "open-feishu-cn",
+    "analytics-geekertao-top",
+    "ghproxy-net",
+    "bseindia-com",
+    "yourdomain-com",
+    "gh-dpik-top",
+    "git-yylx-win",
     "semantic-release-gitbook-io",
     "github-crdz-eu-org",
-    "git-yylx-win",
     "ghproxy-053000-xyz",
-    "gh-dpik-top",
-    "yourdomain-com",
-    "github-xxlab-tech",
-    "bseindia-com",
     "fastfile-asfd-cn",
+    "github-xxlab-tech",
     "mirror-houlang-cloud",
-    "qm-qq-com",
     "jsdelivr-originfastly",
-    "api-niutrans-com",
+    "qm-qq-com",
     "t-me",
-    "gh-39-al",
     "web-4399-com",
-    "your-domain-com",
-    "slink-ltd",
+    "api-niutrans-com",
     "ghproxy-cn",
-    "modelscope-cn",
-    "mimo-mi-com",
+    "framagit-org",
     "invent-kde-org",
+    "mimo-mi-com",
     "ghfile-geekertao-top",
+    "modelscope-cn",
+    "matroska-org",
     "docs-waveshare-net",
     "comfyit-cn",
     "ghproxy-cc",
-    "matroska-org",
-    "atomgit-com",
-    "github-chenc-dev",
-    "git-669966-xyz",
     "terranor-no",
+    "github-chenc-dev",
+    "atomgit-com",
     "github-zjzzy-cloudns-org",
     "ghproxy-mirror-skybyte-me",
-    "g-blfrp-cn",
+    "git-669966-xyz",
     "cf-ghproxy-cc",
     "i-qps-net",
-    "kkgithub",
+    "g-blfrp-cn",
     "docs-volcengine-com",
+    "kkgithub",
     "img-ink",
-    "pan-quark-cn",
     "upyun-com",
+    "pan-quark-cn",
     "wget-la",
-    "gitclone-com",
     "ghproxy-monkeyray-net",
     "5555-cab"
   ]
