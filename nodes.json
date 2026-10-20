@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-19T22:02:59Z",
-  "total_nodes": 151,
+  "updated_at": "2026-10-20T03:33:56Z",
+  "total_nodes": 152,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1853,6 +1853,19 @@
           "id": "pan-quark-cn",
           "name": "Pan",
           "url": "https://pan.quark.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "upyun-com",
+          "name": "Upyun",
+          "url": "https://upyun.com",
           "supports": [
             "release",
             "archive",

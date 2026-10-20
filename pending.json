@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-19T22:02:59Z",
+  "updated_at": "2026-10-20T03:33:56Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -7905,6 +7905,126 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-19T22:01:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blog-caodong-me",
+      "name": "Blog",
+      "url": "https://blog.caodong.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T03:32:05Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "giscus-app",
+      "name": "Giscus",
+      "url": "https://giscus.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T03:32:05Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "htmls-ruddy-vercel-app",
+      "name": "Htmls-ruddy",
+      "url": "https://htmls-ruddy.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T03:32:05Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "iconoplasm-brinedew-bio",
+      "name": "Iconoplasm",
+      "url": "https://iconoplasm.brinedew.bio",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T03:32:05Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "learn-chatgpt-com",
+      "name": "Learn",
+      "url": "https://learn.chatgpt.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T03:32:05Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "oqhzth-mcsslk-xyz",
+      "name": "Oqhzth",
+      "url": "https://oqhzth.mcsslk.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T03:32:05Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pages-github-com",
+      "name": "Pages",
+      "url": "https://pages.github.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T03:32:05Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "theme-next-js-org",
+      "name": "Theme-next",
+      "url": "https://theme-next.js.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-20T03:32:05Z",
       "source": "auto_sync"
     }
   ]

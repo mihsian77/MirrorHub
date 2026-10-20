@@ -1,72 +1,32 @@
 {
-  "generated_at": "2026-10-19T22:02:59Z",
+  "generated_at": "2026-10-20T03:33:56Z",
   "changes": [
     {
-      "id": "git-tangbai-cc",
+      "id": "ghproxy-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 620
+      "latency": 476
     },
     {
-      "id": "gitproxy-click",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 723
+      "latency": 1755
     },
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5603
+      "latency": 199
     },
     {
-      "id": "code-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 288
-    },
-    {
-      "id": "fastgpt-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 179
-    },
-    {
-      "id": "status-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 509
-    },
-    {
-      "id": "gitclone-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 9851
-    },
-    {
-      "id": "aomedia-issues-chromium-org",
+      "id": "upyun-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 291
-    },
-    {
-      "id": "deno-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 158
-    },
-    {
-      "id": "pan-quark-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 2632
+      "latency": 2772
     }
   ]
 }
