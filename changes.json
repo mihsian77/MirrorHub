@@ -1,25 +1,59 @@
 {
-  "generated_at": "2026-10-21T03:28:36Z",
+  "generated_at": "2026-10-21T11:15:42Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 382
-    },
-    {
-      "id": "comfyit-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 940
-    },
-    {
-      "id": "store-steampowered-com",
+      "id": "aliexpress-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 491
+      "latency": 1067
+    },
+    {
+      "id": "ark-intel-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 424
+    },
+    {
+      "id": "contrib-rocks",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 242
+    },
+    {
+      "id": "coreos-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 361
+    },
+    {
+      "id": "docs-transifex-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 859
+    },
+    {
+      "id": "fund-eastmoney-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 752
+    },
+    {
+      "id": "kuroutoshikou-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 224
+    },
+    {
+      "id": "stockapp-finance-qq-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 490
+    },
+    {
+      "id": "zebrunner-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 173
     }
   ]
 }

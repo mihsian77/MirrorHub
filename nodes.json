@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-21T03:28:36Z",
-  "total_nodes": 154,
+  "updated_at": "2026-10-21T11:15:42Z",
+  "total_nodes": 163,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1892,6 +1892,123 @@
           "id": "store-steampowered-com",
           "name": "Store",
           "url": "https://store.steampowered.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aliexpress-com",
+          "name": "Aliexpress",
+          "url": "https://aliexpress.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ark-intel-com",
+          "name": "Ark",
+          "url": "https://ark.intel.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "contrib-rocks",
+          "name": "Contrib",
+          "url": "https://contrib.rocks",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "coreos-com",
+          "name": "Coreos",
+          "url": "https://coreos.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "docs-transifex-com",
+          "name": "Docs",
+          "url": "https://docs.transifex.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fund-eastmoney-com",
+          "name": "Fund",
+          "url": "https://fund.eastmoney.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kuroutoshikou-com",
+          "name": "Kuroutoshikou",
+          "url": "https://kuroutoshikou.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "stockapp-finance-qq-com",
+          "name": "Stockapp",
+          "url": "https://stockapp.finance.qq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zebrunner-com",
+          "name": "Zebrunner",
+          "url": "https://zebrunner.com",
           "supports": [
             "release",
             "archive",

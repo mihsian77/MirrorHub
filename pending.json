@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-21T03:28:36Z",
+  "updated_at": "2026-10-21T11:15:42Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -8640,6 +8640,576 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "adata-com",
+      "name": "Adata",
+      "url": "https://adata.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "amd-com",
+      "name": "Amd",
+      "url": "https://amd.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "asus-com",
+      "name": "Asus",
+      "url": "https://asus.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "beta-dixi-token-top",
+      "name": "Beta",
+      "url": "https://beta.dixi-token.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "binance-com",
+      "name": "Binance",
+      "url": "https://binance.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "chartjs-org",
+      "name": "Chartjs",
+      "url": "https://chartjs.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "codespaces-new",
+      "name": "Codespaces",
+      "url": "https://codespaces.new",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "coinbase-com",
+      "name": "Coinbase",
+      "url": "https://coinbase.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "coingecko-com",
+      "name": "Coingecko",
+      "url": "https://coingecko.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "corsair-com",
+      "name": "Corsair",
+      "url": "https://corsair.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cyberagent-co-jp",
+      "name": "Cyberagent",
+      "url": "https://cyberagent.co.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cygwin-com",
+      "name": "Cygwin",
+      "url": "https://cygwin.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-chrome-com",
+      "name": "Developer",
+      "url": "https://developer.chrome.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "echarts-apache-org",
+      "name": "Echarts",
+      "url": "https://echarts.apache.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "finance-sina-com-cn",
+      "name": "Finance",
+      "url": "https://finance.sina.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "frankfurter-dev",
+      "name": "Frankfurter",
+      "url": "https://frankfurter.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "freedesktop-org",
+      "name": "Freedesktop",
+      "url": "https://freedesktop.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "goodandready-app",
+      "name": "Goodandready",
+      "url": "https://goodandready.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "graphicsmagick-org",
+      "name": "Graphicsmagick",
+      "url": "https://graphicsmagick.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "htmx-org",
+      "name": "Htmx",
+      "url": "https://htmx.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ianker-com",
+      "name": "Ianker",
+      "url": "https://ianker.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kiro-dev",
+      "name": "Kiro",
+      "url": "https://kiro.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "monoprice-com",
+      "name": "Monoprice",
+      "url": "https://monoprice.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "msi-com",
+      "name": "Msi",
+      "url": "https://msi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mybatis-org",
+      "name": "Mybatis",
+      "url": "https://mybatis.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "opencollective-com",
+      "name": "Opencollective",
+      "url": "https://opencollective.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openjdk-org",
+      "name": "Openjdk",
+      "url": "https://openjdk.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "performance-headspin-io",
+      "name": "Performance",
+      "url": "https://performance.headspin.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "plugable-com",
+      "name": "Plugable",
+      "url": "https://plugable.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "projects-ow2-org",
+      "name": "Projects",
+      "url": "https://projects.ow2.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rethinkdb-com",
+      "name": "Rethinkdb",
+      "url": "https://rethinkdb.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sge-com-cn",
+      "name": "Sge",
+      "url": "https://sge.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "startech-com",
+      "name": "Startech",
+      "url": "https://startech.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "system-talks-co-jp",
+      "name": "System-talks",
+      "url": "https://system-talks.co.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "thymeleaf-org",
+      "name": "Thymeleaf",
+      "url": "https://thymeleaf.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "transifex-com",
+      "name": "Transifex",
+      "url": "https://transifex.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xigmatek-com",
+      "name": "Xigmatek",
+      "url": "https://xigmatek.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zeromq-org",
+      "name": "Zeromq",
+      "url": "https://zeromq.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T11:13:38Z",
       "source": "auto_sync"
     }
   ]
