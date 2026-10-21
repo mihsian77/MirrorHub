@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-21T11:15:42Z",
-  "total_nodes": 163,
+  "updated_at": "2026-10-21T16:41:44Z",
+  "total_nodes": 167,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -2009,6 +2009,58 @@
           "id": "zebrunner-com",
           "name": "Zebrunner",
           "url": "https://zebrunner.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "crypto-funding-arbitrage-pages-dev",
+          "name": "Crypto-funding-arbitrage",
+          "url": "https://crypto-funding-arbitrage.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "resume-5lv-pages-dev",
+          "name": "Resume-5lv",
+          "url": "https://resume-5lv.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wordpaper-pages-dev",
+          "name": "Wordpaper",
+          "url": "https://wordpaper.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "x-com",
+          "name": "X",
+          "url": "https://x.com",
           "supports": [
             "release",
             "archive",

@@ -1,59 +1,43 @@
 {
-  "generated_at": "2026-10-21T11:15:42Z",
+  "generated_at": "2026-10-21T16:41:44Z",
   "changes": [
     {
-      "id": "aliexpress-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1067
+      "id": "proxy-yaoyaoling-net",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 6603
     },
     {
-      "id": "ark-intel-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 424
+      "id": "phabricator-wikimedia-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 90
     },
     {
-      "id": "contrib-rocks",
+      "id": "crypto-funding-arbitrage-pages-dev",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 242
+      "latency": 114
     },
     {
-      "id": "coreos-com",
+      "id": "resume-5lv-pages-dev",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 361
+      "latency": 98
     },
     {
-      "id": "docs-transifex-com",
+      "id": "wordpaper-pages-dev",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 859
+      "latency": 81
     },
     {
-      "id": "fund-eastmoney-com",
+      "id": "x-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 752
-    },
-    {
-      "id": "kuroutoshikou-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 224
-    },
-    {
-      "id": "stockapp-finance-qq-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 490
-    },
-    {
-      "id": "zebrunner-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 173
+      "latency": 90
     }
   ]
 }

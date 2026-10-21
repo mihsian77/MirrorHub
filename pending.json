@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-21T11:15:42Z",
+  "updated_at": "2026-10-21T16:41:44Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -9210,6 +9210,321 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-21T11:13:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "airnet-blog-pages-dev",
+      "name": "Airnet-blog",
+      "url": "https://airnet-blog.pages.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-accept-dhlparcel-nl",
+      "name": "Api-accept",
+      "url": "https://api-accept.dhlparcel.nl",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-gw-dhlparcel-nl",
+      "name": "Api-gw",
+      "url": "https://api-gw.dhlparcel.nl",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "automattic-com",
+      "name": "Automattic",
+      "url": "https://automattic.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "buymeacoffee-com",
+      "name": "Buymeacoffee",
+      "url": "https://buymeacoffee.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cf-pages-is-a-dev",
+      "name": "Cf-pages",
+      "url": "https://cf-pages.is-a.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "chaestblog-pages-dev",
+      "name": "Chaestblog",
+      "url": "https://chaestblog.pages.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dailytrade-cc-cd",
+      "name": "Dailytrade",
+      "url": "https://dailytrade.cc.cd",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fresearch-cc-cd",
+      "name": "Fresearch",
+      "url": "https://fresearch.cc.cd",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "github-readme-stats-vercel-app",
+      "name": "Github-readme-stats",
+      "url": "https://github-readme-stats.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hackerone-com",
+      "name": "Hackerone",
+      "url": "https://hackerone.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hermes-ubuntu-4gb-fsn1-1-taildac2ce-ts-net",
+      "name": "Hermes-ubuntu-4gb-fsn1-1",
+      "url": "https://hermes-ubuntu-4gb-fsn1-1.taildac2ce.ts.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "media-giphy-com",
+      "name": "Media",
+      "url": "https://media.giphy.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "packagist-org",
+      "name": "Packagist",
+      "url": "https://packagist.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "predict-pulse-signal-harbor-workers-dev",
+      "name": "Predict-pulse",
+      "url": "https://predict-pulse.signal-harbor.workers.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "public-api-wordpress-com",
+      "name": "Public-api",
+      "url": "https://public-api.wordpress.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "remotion-dev",
+      "name": "Remotion",
+      "url": "https://remotion.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "signal-harbor-terminal-signal-harbor-workers-dev",
+      "name": "Signal-harbor-terminal",
+      "url": "https://signal-harbor-terminal.signal-harbor.workers.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "skillicons-dev",
+      "name": "Skillicons",
+      "url": "https://skillicons.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "streak-stats-demolab-com",
+      "name": "Streak-stats",
+      "url": "https://streak-stats.demolab.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wordpress-com",
+      "name": "Wordpress",
+      "url": "https://wordpress.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T16:39:45Z",
       "source": "auto_sync"
     }
   ]
