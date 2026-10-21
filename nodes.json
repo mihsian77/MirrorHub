@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-20T21:20:20Z",
-  "total_nodes": 153,
+  "updated_at": "2026-10-21T03:28:36Z",
+  "total_nodes": 154,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1879,6 +1879,19 @@
           "id": "openttd-org",
           "name": "Openttd",
           "url": "https://openttd.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "store-steampowered-com",
+          "name": "Store",
+          "url": "https://store.steampowered.com",
           "supports": [
             "release",
             "archive",

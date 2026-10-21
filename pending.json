@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-20T21:20:20Z",
+  "updated_at": "2026-10-21T03:28:36Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -8445,6 +8445,201 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-20T21:17:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "akshare-akfamily-xyz",
+      "name": "Akshare",
+      "url": "https://akshare.akfamily.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-data-gov",
+      "name": "Api",
+      "url": "https://api.data.gov",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cyberjapandata-gsi-go-jp",
+      "name": "Cyberjapandata",
+      "url": "https://cyberjapandata.gsi.go.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-valvesoftware-com",
+      "name": "Developer",
+      "url": "https://developer.valvesoftware.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "geospatial-jp",
+      "name": "Geospatial",
+      "url": "https://geospatial.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "grainmarket-com-cn",
+      "name": "Grainmarket",
+      "url": "https://grainmarket.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "maps-gsi-go-jp",
+      "name": "Maps",
+      "url": "https://maps.gsi.go.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "metaquest001-gigach-net",
+      "name": "Metaquest001",
+      "url": "https://metaquest001.gigach.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ncp-mysteel-com",
+      "name": "Ncp",
+      "url": "https://ncp.mysteel.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "okazakiglider-jp",
+      "name": "Okazakiglider",
+      "url": "https://okazakiglider.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "quickstats-nass-usda-gov",
+      "name": "Quickstats",
+      "url": "https://quickstats.nass.usda.gov",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "search-mysteel-com",
+      "name": "Search",
+      "url": "https://search.mysteel.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xt-yangzhu-vip",
+      "name": "Xt",
+      "url": "https://xt.yangzhu.vip",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T03:25:52Z",
       "source": "auto_sync"
     }
   ]

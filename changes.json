@@ -1,32 +1,25 @@
 {
-  "generated_at": "2026-10-20T21:20:20Z",
+  "generated_at": "2026-10-21T03:28:36Z",
   "changes": [
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 6015
+      "latency": 382
     },
     {
-      "id": "proxy-vvvv-ee",
+      "id": "comfyit-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 616
+      "latency": 940
     },
     {
-      "id": "status-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 481
-    },
-    {
-      "id": "openttd-org",
+      "id": "store-steampowered-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 198
+      "latency": 491
     }
   ]
 }
