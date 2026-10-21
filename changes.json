@@ -1,43 +1,25 @@
 {
-  "generated_at": "2026-10-21T16:41:44Z",
+  "generated_at": "2026-10-21T21:19:00Z",
   "changes": [
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "gh-b52m-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 6603
+      "latency": 3259
     },
     {
-      "id": "phabricator-wikimedia-org",
+      "id": "proxy-vvvv-ee",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 90
+      "latency": 554
     },
     {
-      "id": "crypto-funding-arbitrage-pages-dev",
+      "id": "dandiarchive-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 114
-    },
-    {
-      "id": "resume-5lv-pages-dev",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 98
-    },
-    {
-      "id": "wordpaper-pages-dev",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 81
-    },
-    {
-      "id": "x-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 90
+      "latency": 195
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-21T16:41:44Z",
+  "updated_at": "2026-10-21T21:19:00Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -9525,6 +9525,96 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-21T16:39:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "chev-me",
+      "name": "Chev",
+      "url": "https://chev.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T21:16:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "datalad-org",
+      "name": "Datalad",
+      "url": "https://datalad.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T21:16:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-dandiarchive-org",
+      "name": "Docs",
+      "url": "https://docs.dandiarchive.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T21:16:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "handbook-datalad-org",
+      "name": "Handbook",
+      "url": "https://handbook.datalad.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T21:16:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nmap-org",
+      "name": "Nmap",
+      "url": "https://nmap.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T21:16:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "your-machine-tailxxxxx-ts-net",
+      "name": "Your-machine",
+      "url": "https://your-machine.tailxxxxx.ts.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-21T21:16:52Z",
       "source": "auto_sync"
     }
   ]
