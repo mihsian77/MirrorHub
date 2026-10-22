@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-22T03:27:17Z",
-  "total_nodes": 169,
+  "updated_at": "2026-10-22T11:14:22Z",
+  "total_nodes": 170,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -2087,6 +2087,19 @@
           "id": "agoramarket-purrtechllc-com",
           "name": "Agoramarket",
           "url": "https://agoramarket.purrtechllc.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitcode-com",
+          "name": "Gitcode",
+          "url": "https://gitcode.com",
           "supports": [
             "release",
             "archive",

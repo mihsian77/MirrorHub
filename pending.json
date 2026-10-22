@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-22T03:27:17Z",
+  "updated_at": "2026-10-22T11:14:22Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -9705,6 +9705,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-22T03:25:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "academic-detective-top",
+      "name": "Academic-detective",
+      "url": "https://academic-detective.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T11:12:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vitejs-dev",
+      "name": "Vitejs",
+      "url": "https://vitejs.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T11:12:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wails-io",
+      "name": "Wails",
+      "url": "https://wails.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T11:12:14Z",
       "source": "auto_sync"
     }
   ]
