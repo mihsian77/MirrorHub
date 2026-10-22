@@ -1,25 +1,32 @@
 {
-  "generated_at": "2026-10-21T21:19:00Z",
+  "generated_at": "2026-10-22T03:27:17Z",
   "changes": [
     {
-      "id": "gh-b52m-cn",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3259
+      "latency": 424
     },
     {
-      "id": "proxy-vvvv-ee",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 554
+      "latency": 234
     },
     {
-      "id": "dandiarchive-org",
+      "id": "i-qps-net",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1220
+    },
+    {
+      "id": "agoramarket-purrtechllc-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 195
+      "latency": 257
     }
   ]
 }

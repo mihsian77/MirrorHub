@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-21T21:19:00Z",
+  "updated_at": "2026-10-22T03:27:17Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -9615,6 +9615,96 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-21T21:16:52Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dashscope-aliyuncs-com",
+      "name": "Dashscope",
+      "url": "https://dashscope.aliyuncs.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T03:25:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forge-nebutra-com",
+      "name": "Forge",
+      "url": "https://forge.nebutra.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T03:25:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ghcr-io",
+      "name": "Ghcr",
+      "url": "https://ghcr.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T03:25:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "linux-do",
+      "name": "Linux",
+      "url": "https://linux.do",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T03:25:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nebutra-com",
+      "name": "Nebutra",
+      "url": "https://nebutra.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T03:25:07Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "semver-org",
+      "name": "Semver",
+      "url": "https://semver.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T03:25:07Z",
       "source": "auto_sync"
     }
   ]

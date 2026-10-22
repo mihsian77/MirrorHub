@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-21T21:19:00Z",
-  "total_nodes": 168,
+  "updated_at": "2026-10-22T03:27:17Z",
+  "total_nodes": 169,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -2074,6 +2074,19 @@
           "id": "dandiarchive-org",
           "name": "Dandiarchive",
           "url": "https://dandiarchive.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agoramarket-purrtechllc-com",
+          "name": "Agoramarket",
+          "url": "https://agoramarket.purrtechllc.com",
           "supports": [
             "release",
             "archive",
