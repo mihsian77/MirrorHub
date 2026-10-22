@@ -6,7 +6,7 @@
   "attribution_text": "节点由 MirrorHub 提供",
   "attribution_url": "https://github.com/mihsian77/MirrorHub",
   "usage_policy": "欢迎接入使用，但请在产品 UI 中保留来源声明。二次分发需遵守 MIT 协议并保留版权声明。",
-  "updated_at": "2026-10-22T16:42:42Z",
+  "updated_at": "2026-10-22T21:15:11Z",
   "total_online": 20,
   "nodes": [
     {
@@ -14,39 +14,47 @@
       "name": "Microsoftedge",
       "domain": "microsoftedge.microsoft.com",
       "category": "universal_proxy",
-      "latency_ms": 64,
-      "bandwidth_mbps": 0.62
+      "latency_ms": 56,
+      "bandwidth_mbps": 1.23
     },
     {
       "id": "deno-com",
       "name": "Deno",
       "domain": "deno.com",
       "category": "universal_proxy",
-      "latency_ms": 69,
-      "bandwidth_mbps": 0.53
-    },
-    {
-      "id": "opencode-ai",
-      "name": "Opencode",
-      "domain": "opencode.ai",
-      "category": "universal_proxy",
-      "latency_ms": 81,
-      "bandwidth_mbps": null
+      "latency_ms": 67,
+      "bandwidth_mbps": 0.47
     },
     {
       "id": "linkedin-com",
       "name": "Linkedin",
       "domain": "linkedin.com",
       "category": "universal_proxy",
-      "latency_ms": 81,
-      "bandwidth_mbps": 0.43
+      "latency_ms": 71,
+      "bandwidth_mbps": 0.47
+    },
+    {
+      "id": "opencode-ai",
+      "name": "Opencode",
+      "domain": "opencode.ai",
+      "category": "universal_proxy",
+      "latency_ms": 76,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "jsdelivr-cdn",
+      "name": "jsDelivr CDN",
+      "domain": "cdn.jsdelivr.net",
+      "category": "cdn_raw",
+      "latency_ms": 92,
+      "bandwidth_mbps": null
     },
     {
       "id": "earth-jaxa-jp",
       "name": "Earth",
       "domain": "earth.jaxa.jp",
       "category": "universal_proxy",
-      "latency_ms": 102,
+      "latency_ms": 95,
       "bandwidth_mbps": null
     },
     {
@@ -54,63 +62,63 @@
       "name": "App",
       "domain": "app.netlify.com",
       "category": "universal_proxy",
-      "latency_ms": 105,
-      "bandwidth_mbps": 0.23
+      "latency_ms": 101,
+      "bandwidth_mbps": 0.17
     },
     {
       "id": "x-com",
       "name": "X",
       "domain": "x.com",
       "category": "universal_proxy",
-      "latency_ms": 110,
-      "bandwidth_mbps": 1.53
+      "latency_ms": 103,
+      "bandwidth_mbps": 1.49
     },
     {
       "id": "resume-5lv-pages-dev",
       "name": "Resume-5lv",
       "domain": "resume-5lv.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 116,
-      "bandwidth_mbps": 0.14
-    },
-    {
-      "id": "bee-vs-hornets-pages-dev",
-      "name": "Bee-vs-hornets",
-      "domain": "bee-vs-hornets.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 122,
-      "bandwidth_mbps": null
+      "latency_ms": 110,
+      "bandwidth_mbps": 0.23
     },
     {
       "id": "githubstatus-com",
       "name": "Githubstatus",
       "domain": "githubstatus.com",
       "category": "universal_proxy",
-      "latency_ms": 123,
-      "bandwidth_mbps": 2.5
+      "latency_ms": 113,
+      "bandwidth_mbps": 2.39
+    },
+    {
+      "id": "bee-vs-hornets-pages-dev",
+      "name": "Bee-vs-hornets",
+      "domain": "bee-vs-hornets.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 119,
+      "bandwidth_mbps": null
     },
     {
       "id": "crypto-funding-arbitrage-pages-dev",
       "name": "Crypto-funding-arbitrage",
       "domain": "crypto-funding-arbitrage.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 125,
-      "bandwidth_mbps": 0.06
+      "latency_ms": 120,
+      "bandwidth_mbps": 0.1
     },
     {
-      "id": "jsdelivr-cdn",
-      "name": "jsDelivr CDN",
-      "domain": "cdn.jsdelivr.net",
-      "category": "cdn_raw",
-      "latency_ms": 137,
-      "bandwidth_mbps": null
+      "id": "thumb-wikimedia-org",
+      "name": "Thumb",
+      "domain": "thumb.wikimedia.org",
+      "category": "universal_proxy",
+      "latency_ms": 123,
+      "bandwidth_mbps": 6.41
     },
     {
       "id": "jsdelivr-testingcf",
       "name": "jsDelivr TestingCF",
       "domain": "testingcf.jsdelivr.net",
       "category": "cdn_raw",
-      "latency_ms": 138,
+      "latency_ms": 128,
       "bandwidth_mbps": null
     },
     {
@@ -118,39 +126,31 @@
       "name": "Game",
       "domain": "game.chozo.net",
       "category": "universal_proxy",
-      "latency_ms": 140,
+      "latency_ms": 132,
       "bandwidth_mbps": null
-    },
-    {
-      "id": "thumb-wikimedia-org",
-      "name": "Thumb",
-      "domain": "thumb.wikimedia.org",
-      "category": "universal_proxy",
-      "latency_ms": 143,
-      "bandwidth_mbps": 6.24
     },
     {
       "id": "wordpaper-pages-dev",
       "name": "Wordpaper",
       "domain": "wordpaper.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 145,
-      "bandwidth_mbps": 0.3
+      "latency_ms": 134,
+      "bandwidth_mbps": 0.49
     },
     {
       "id": "zebrunner-com",
       "name": "Zebrunner",
       "domain": "zebrunner.com",
       "category": "universal_proxy",
-      "latency_ms": 148,
-      "bandwidth_mbps": 1.76
+      "latency_ms": 137,
+      "bandwidth_mbps": 2.81
     },
     {
       "id": "jsdelivr-gcore",
       "name": "jsDelivr GCore",
       "domain": "gcore.jsdelivr.net",
       "category": "cdn_raw",
-      "latency_ms": 154,
+      "latency_ms": 142,
       "bandwidth_mbps": null
     },
     {
@@ -158,16 +158,16 @@
       "name": "Goreportcard",
       "domain": "goreportcard.com",
       "category": "universal_proxy",
-      "latency_ms": 160,
-      "bandwidth_mbps": 0.05
+      "latency_ms": 154,
+      "bandwidth_mbps": 0.08
     },
     {
       "id": "gh-proxy-com",
       "name": "GH-Proxy",
       "domain": "gh-proxy.com",
       "category": "universal_proxy",
-      "latency_ms": 167,
-      "bandwidth_mbps": 1.04
+      "latency_ms": 157,
+      "bandwidth_mbps": 1.41
     }
   ]
 }

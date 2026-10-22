@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-22T16:42:42Z",
+  "updated_at": "2026-10-22T21:15:11Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -9780,6 +9780,66 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-22T16:40:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "donate-opencfg-xyz",
+      "name": "Donate",
+      "url": "https://donate.opencfg.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T21:13:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ki-berufsumstieg-de",
+      "name": "Ki",
+      "url": "https://ki.berufsumstieg.de",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T21:13:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "minatodroid-mods-jp",
+      "name": "Minatodroid",
+      "url": "https://minatodroid.mods.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T21:13:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "your-proxy-example",
+      "name": "Your-proxy",
+      "url": "https://your-proxy.example",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T21:13:24Z",
       "source": "auto_sync"
     }
   ]

@@ -1,25 +1,19 @@
 {
-  "generated_at": "2026-10-22T16:42:42Z",
+  "generated_at": "2026-10-22T21:15:11Z",
   "changes": [
     {
-      "id": "ghproxy-net",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 316
+      "latency": 5641
     },
     {
-      "id": "proxy-vvvv-ee",
+      "id": "gh-b52m-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 428
-    },
-    {
-      "id": "projects-ow2-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 291
+      "latency": 3154
     }
   ]
 }
