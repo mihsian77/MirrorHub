@@ -1,60 +1,25 @@
 {
-  "generated_at": "2026-10-22T11:14:22Z",
+  "generated_at": "2026-10-22T16:42:42Z",
   "changes": [
     {
-      "id": "github-ednovas-xyz",
+      "id": "ghproxy-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 583
+      "latency": 316
     },
     {
-      "id": "gh-39-al",
+      "id": "proxy-vvvv-ee",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 427
+      "latency": 428
     },
     {
-      "id": "git-669966-xyz",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1857
-    },
-    {
-      "id": "5555-cab",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 18679
-    },
-    {
-      "id": "status-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 226
-    },
-    {
-      "id": "aomedia-issues-chromium-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 306
-    },
-    {
-      "id": "gitclone-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1773
-    },
-    {
-      "id": "gitcode-com",
+      "id": "projects-ow2-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 1199
+      "latency": 291
     }
   ]
 }

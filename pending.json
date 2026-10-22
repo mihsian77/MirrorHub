@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-22T11:14:22Z",
+  "updated_at": "2026-10-22T16:42:42Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -9078,21 +9078,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "projects-ow2-org",
-      "name": "Projects",
-      "url": "https://projects.ow2.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-21T11:13:38Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "rethinkdb-com",
       "name": "Rethinkdb",
       "url": "https://rethinkdb.com",
@@ -9750,6 +9735,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-22T11:12:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "deepseek-stream",
+      "name": "Deepseek",
+      "url": "https://deepseek.stream",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T16:40:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dsh-plugin-org",
+      "name": "Dsh-plugin",
+      "url": "https://dsh-plugin.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T16:40:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "game-icons-net",
+      "name": "Game-icons",
+      "url": "https://game-icons.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-22T16:40:45Z",
       "source": "auto_sync"
     }
   ]
