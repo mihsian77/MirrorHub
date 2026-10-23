@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-22T21:15:11Z",
+  "updated_at": "2026-10-23T03:33:03Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -9840,6 +9840,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-22T21:13:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "accounts-google-com",
+      "name": "Accounts",
+      "url": "https://accounts.google.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T03:30:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-tenant-ghe-com",
+      "name": "Api",
+      "url": "https://api.tenant.ghe.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T03:30:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "clientsradar-com",
+      "name": "Clientsradar",
+      "url": "https://clientsradar.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T03:30:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ghe-example-com",
+      "name": "Ghe",
+      "url": "https://ghe.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T03:30:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gyan-dev",
+      "name": "Gyan",
+      "url": "https://gyan.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T03:30:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "telescope-ac",
+      "name": "Telescope",
+      "url": "https://telescope.ac",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T03:30:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vpnkeys-hashnode-dev",
+      "name": "Vpnkeys",
+      "url": "https://vpnkeys.hashnode.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T03:30:24Z",
       "source": "auto_sync"
     }
   ]

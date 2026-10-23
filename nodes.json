@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-22T21:15:11Z",
-  "total_nodes": 171,
+  "updated_at": "2026-10-23T03:33:03Z",
+  "total_nodes": 172,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -2113,6 +2113,19 @@
           "id": "projects-ow2-org",
           "name": "Projects",
           "url": "https://projects.ow2.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitea-mirror-raylabs-io",
+          "name": "Gitea-mirror",
+          "url": "https://gitea-mirror.raylabs.io",
           "supports": [
             "release",
             "archive",

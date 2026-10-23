@@ -1,19 +1,25 @@
 {
-  "generated_at": "2026-10-22T21:15:11Z",
+  "generated_at": "2026-10-23T03:33:03Z",
   "changes": [
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5641
+      "latency": 636
     },
     {
-      "id": "gh-b52m-cn",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3154
+      "latency": 190
+    },
+    {
+      "id": "gitea-mirror-raylabs-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 92
     }
   ]
 }
