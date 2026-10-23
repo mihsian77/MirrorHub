@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-23T11:05:51Z",
+  "updated_at": "2026-10-23T16:33:01Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -9975,6 +9975,66 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-23T11:03:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "apis-ryankes-eu",
+      "name": "Apis",
+      "url": "https://apis.ryankes.eu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T16:30:50Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "codecov-io",
+      "name": "Codecov",
+      "url": "https://codecov.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T16:30:50Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-example-org",
+      "name": "Git",
+      "url": "https://git.example.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T16:30:50Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gitlab-example-com",
+      "name": "Gitlab",
+      "url": "https://gitlab.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T16:30:50Z",
       "source": "auto_sync"
     }
   ]

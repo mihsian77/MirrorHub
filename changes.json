@@ -1,38 +1,12 @@
 {
-  "generated_at": "2026-10-23T11:05:51Z",
+  "generated_at": "2026-10-23T16:33:01Z",
   "changes": [
     {
-      "id": "g-blfrp-cn",
+      "id": "proxy-vvvv-ee",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2962
-    },
-    {
-      "id": "git-669966-xyz",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1216
-    },
-    {
-      "id": "status-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 450
-    },
-    {
-      "id": "doxygen-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 227
-    },
-    {
-      "id": "sct-ftqq-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1075
+      "latency": 466
     }
   ]
 }
