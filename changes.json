@@ -1,12 +1,58 @@
 {
-  "generated_at": "2026-10-23T16:33:01Z",
+  "generated_at": "2026-10-23T21:03:30Z",
   "changes": [
     {
-      "id": "proxy-vvvv-ee",
+      "id": "ghproxy-mirror-skybyte-me",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 466
+      "latency": 1674
+    },
+    {
+      "id": "proxy-yaoyaoling-net",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 5669
+    },
+    {
+      "id": "gh-b52m-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3391
+    },
+    {
+      "id": "mirror-houlang-cloud",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 603
+    },
+    {
+      "id": "comfyit-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 762
+    },
+    {
+      "id": "app-codecov-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 237
+    },
+    {
+      "id": "godocs-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 92
+    },
+    {
+      "id": "tiktok-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 420
     }
   ]
 }
