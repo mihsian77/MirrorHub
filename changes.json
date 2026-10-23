@@ -1,25 +1,38 @@
 {
-  "generated_at": "2026-10-23T03:33:03Z",
+  "generated_at": "2026-10-23T11:05:51Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "g-blfrp-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 636
+      "latency": 2962
     },
     {
-      "id": "gh-idayer-com",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 190
+      "latency": 1216
     },
     {
-      "id": "gitea-mirror-raylabs-io",
+      "id": "status-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 450
+    },
+    {
+      "id": "doxygen-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 92
+      "latency": 227
+    },
+    {
+      "id": "sct-ftqq-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1075
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-23T03:33:03Z",
+  "updated_at": "2026-10-23T11:05:51Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -7653,21 +7653,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "doxygen-org",
-      "name": "Doxygen",
-      "url": "https://doxygen.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-19T22:01:07Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "emscripten-org",
       "name": "Emscripten",
       "url": "https://emscripten.org",
@@ -9945,6 +9930,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-23T03:30:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-telegram-org",
+      "name": "Api",
+      "url": "https://api.telegram.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T11:03:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "deb-nodesource-com",
+      "name": "Deb",
+      "url": "https://deb.nodesource.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T11:03:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lp-example-com",
+      "name": "Lp",
+      "url": "https://lp.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-23T11:03:46Z",
       "source": "auto_sync"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-23T03:33:03Z",
-  "total_nodes": 172,
+  "updated_at": "2026-10-23T11:05:51Z",
+  "total_nodes": 174,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -2126,6 +2126,32 @@
           "id": "gitea-mirror-raylabs-io",
           "name": "Gitea-mirror",
           "url": "https://gitea-mirror.raylabs.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "doxygen-org",
+          "name": "Doxygen",
+          "url": "https://doxygen.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "sct-ftqq-com",
+          "name": "Sct",
+          "url": "https://sct.ftqq.com",
           "supports": [
             "release",
             "archive",
