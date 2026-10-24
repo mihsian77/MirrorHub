@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-10-24T10:24:26Z",
+  "generated_at": "2026-10-24T15:29:51Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "code-leez-tech",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1079
+      "latency": 562
     },
     {
-      "id": "youtu-be",
+      "id": "status-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 455
+    },
+    {
+      "id": "mobilevc-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 903
+    },
+    {
+      "id": "bestdori-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 347
+      "latency": 124
     }
   ]
 }

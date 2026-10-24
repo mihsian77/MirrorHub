@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-24T10:24:26Z",
+  "updated_at": "2026-10-24T15:29:51Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -22620,6 +22620,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bangdream-museum-analytics-xxx-workers-dev",
+      "name": "Bangdream-museum-analytics",
+      "url": "https://bangdream-museum-analytics.xxx.workers.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T15:25:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bangdream-museum-community-xxx-workers-dev",
+      "name": "Bangdream-museum-community",
+      "url": "https://bangdream-museum-community.xxx.workers.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T15:25:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "count-getloli-com",
+      "name": "Count",
+      "url": "https://count.getloli.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T15:25:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hunter-qianxin-com",
+      "name": "Hunter",
+      "url": "https://hunter.qianxin.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T15:25:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "quake-360-net",
+      "name": "Quake",
+      "url": "https://quake.360.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T15:25:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "starchart-cc",
+      "name": "Starchart",
+      "url": "https://starchart.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T15:25:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sub-example-com",
+      "name": "Sub",
+      "url": "https://sub.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T15:25:35Z",
       "source": "auto_sync"
     }
   ]

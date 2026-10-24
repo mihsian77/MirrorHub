@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-24T10:24:26Z",
-  "total_nodes": 369,
+  "updated_at": "2026-10-24T15:29:51Z",
+  "total_nodes": 370,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4687,6 +4687,19 @@
           "id": "youtu-be",
           "name": "Youtu",
           "url": "https://youtu.be",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bestdori-com",
+          "name": "Bestdori",
+          "url": "https://bestdori.com",
           "supports": [
             "release",
             "archive",
