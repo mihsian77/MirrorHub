@@ -6,64 +6,16 @@
   "attribution_text": "节点由 MirrorHub 提供",
   "attribution_url": "https://github.com/mihsian77/MirrorHub",
   "usage_policy": "欢迎接入使用，但请在产品 UI 中保留来源声明。二次分发需遵守 MIT 协议并保留版权声明。",
-  "updated_at": "2026-10-24T03:28:21Z",
+  "updated_at": "2026-10-24T10:24:26Z",
   "total_online": 20,
   "nodes": [
-    {
-      "id": "shiori-v1-vercel-app",
-      "name": "Shiori-v1",
-      "domain": "shiori-v1.vercel.app",
-      "category": "universal_proxy",
-      "latency_ms": 41,
-      "bandwidth_mbps": 0.06
-    },
-    {
-      "id": "binance-alpha-ten-vercel-app",
-      "name": "Binance-alpha-ten",
-      "domain": "binance-alpha-ten.vercel.app",
-      "category": "universal_proxy",
-      "latency_ms": 44,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "ai-trend-publish-vercel-app",
-      "name": "Ai-trend-publish",
-      "domain": "ai-trend-publish.vercel.app",
-      "category": "universal_proxy",
-      "latency_ms": 49,
-      "bandwidth_mbps": 0.09
-    },
     {
       "id": "microsoftedge-microsoft-com",
       "name": "Microsoftedge",
       "domain": "microsoftedge.microsoft.com",
       "category": "universal_proxy",
-      "latency_ms": 50,
-      "bandwidth_mbps": 0.36
-    },
-    {
-      "id": "weibo-archiver-chilfish-top",
-      "name": "Weibo-archiver",
-      "domain": "weibo-archiver.chilfish.top",
-      "category": "universal_proxy",
-      "latency_ms": 52,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "nextup-resource-vercel-app",
-      "name": "Nextup-resource",
-      "domain": "nextup-resource.vercel.app",
-      "category": "universal_proxy",
-      "latency_ms": 53,
-      "bandwidth_mbps": 0.09
-    },
-    {
-      "id": "agents-hyper-space",
-      "name": "Agents",
-      "domain": "agents.hyper.space",
-      "category": "universal_proxy",
-      "latency_ms": 55,
-      "bandwidth_mbps": null
+      "latency_ms": 54,
+      "bandwidth_mbps": 0.6
     },
     {
       "id": "leereilly-net",
@@ -74,11 +26,27 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "kighelper-cloud-pages-dev",
+      "name": "Kighelper-cloud",
+      "domain": "kighelper-cloud.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 62,
+      "bandwidth_mbps": 0.12
+    },
+    {
+      "id": "linkedin-com",
+      "name": "Linkedin",
+      "domain": "linkedin.com",
+      "category": "universal_proxy",
+      "latency_ms": 68,
+      "bandwidth_mbps": 0.14
+    },
+    {
       "id": "freegrid-web-pages-dev",
       "name": "Freegrid-web",
       "domain": "freegrid-web.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 56,
+      "latency_ms": 69,
       "bandwidth_mbps": null
     },
     {
@@ -86,79 +54,15 @@
       "name": "Huly-mcp",
       "domain": "huly-mcp.dearlordylord.com",
       "category": "universal_proxy",
-      "latency_ms": 57,
-      "bandwidth_mbps": 0.22
-    },
-    {
-      "id": "kighelper-cloud-pages-dev",
-      "name": "Kighelper-cloud",
-      "domain": "kighelper-cloud.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 62,
-      "bandwidth_mbps": 0.16
-    },
-    {
-      "id": "alas-nanoda-work",
-      "name": "Alas",
-      "domain": "alas.nanoda.work",
-      "category": "universal_proxy",
-      "latency_ms": 63,
-      "bandwidth_mbps": 1.38
-    },
-    {
-      "id": "gitnexus-vercel-app",
-      "name": "Gitnexus",
-      "domain": "gitnexus.vercel.app",
-      "category": "universal_proxy",
-      "latency_ms": 63,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "linkedin-com",
-      "name": "Linkedin",
-      "domain": "linkedin.com",
-      "category": "universal_proxy",
-      "latency_ms": 65,
-      "bandwidth_mbps": 0.17
-    },
-    {
-      "id": "capitalcompanion-ai",
-      "name": "Capitalcompanion",
-      "domain": "capitalcompanion.ai",
-      "category": "universal_proxy",
-      "latency_ms": 65,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "vibeholding-pages-dev",
-      "name": "Vibeholding",
-      "domain": "vibeholding.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 66,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "demo-confabulous-dev",
-      "name": "Demo",
-      "domain": "demo.confabulous.dev",
-      "category": "universal_proxy",
-      "latency_ms": 67,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "dilo-d14-pages-dev",
-      "name": "Dilo-d14",
-      "domain": "dilo-d14.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 68,
-      "bandwidth_mbps": 0.24
+      "latency_ms": 70,
+      "bandwidth_mbps": 0.21
     },
     {
       "id": "opencode-ai",
       "name": "Opencode",
       "domain": "opencode.ai",
       "category": "universal_proxy",
-      "latency_ms": 76,
+      "latency_ms": 74,
       "bandwidth_mbps": null
     },
     {
@@ -166,8 +70,104 @@
       "name": "Deno",
       "domain": "deno.com",
       "category": "universal_proxy",
-      "latency_ms": 77,
+      "latency_ms": 75,
+      "bandwidth_mbps": 0.87
+    },
+    {
+      "id": "dilo-d14-pages-dev",
+      "name": "Dilo-d14",
+      "domain": "dilo-d14.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 80,
       "bandwidth_mbps": 0.22
+    },
+    {
+      "id": "jsdelivr-cdn",
+      "name": "jsDelivr CDN",
+      "domain": "cdn.jsdelivr.net",
+      "category": "cdn_raw",
+      "latency_ms": 83,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "alas-nanoda-work",
+      "name": "Alas",
+      "domain": "alas.nanoda.work",
+      "category": "universal_proxy",
+      "latency_ms": 84,
+      "bandwidth_mbps": 1.01
+    },
+    {
+      "id": "vibeholding-pages-dev",
+      "name": "Vibeholding",
+      "domain": "vibeholding.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 85,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "app-openpencil-dev",
+      "name": "App",
+      "domain": "app.openpencil.dev",
+      "category": "universal_proxy",
+      "latency_ms": 86,
+      "bandwidth_mbps": 0.04
+    },
+    {
+      "id": "zen-ai-pentest-pages-dev",
+      "name": "Zen-ai-pentest",
+      "domain": "zen-ai-pentest.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 86,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "xjtu-nyxf-study-material-pages-dev",
+      "name": "Xjtu-nyxf-study-material",
+      "domain": "xjtu-nyxf-study-material.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 88,
+      "bandwidth_mbps": 0.18
+    },
+    {
+      "id": "tools-realtime-ai-chat",
+      "name": "Tools",
+      "domain": "tools.realtime-ai.chat",
+      "category": "universal_proxy",
+      "latency_ms": 91,
+      "bandwidth_mbps": 2.08
+    },
+    {
+      "id": "x-com",
+      "name": "X",
+      "domain": "x.com",
+      "category": "universal_proxy",
+      "latency_ms": 95,
+      "bandwidth_mbps": 1.37
+    },
+    {
+      "id": "caw-rocks",
+      "name": "Caw",
+      "domain": "caw.rocks",
+      "category": "universal_proxy",
+      "latency_ms": 95,
+      "bandwidth_mbps": 0.1
+    },
+    {
+      "id": "glass-goose-cc-cd",
+      "name": "Glass",
+      "domain": "glass.goose.cc.cd",
+      "category": "universal_proxy",
+      "latency_ms": 96,
+      "bandwidth_mbps": 0.23
+    },
+    {
+      "id": "vibesql-org",
+      "name": "Vibesql",
+      "domain": "vibesql.org",
+      "category": "universal_proxy",
+      "latency_ms": 96,
+      "bandwidth_mbps": 0.13
     }
   ]
 }

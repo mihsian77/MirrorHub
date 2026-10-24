@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-24T03:28:21Z",
+  "updated_at": "2026-10-24T10:24:26Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -22353,21 +22353,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "youtu-be",
-      "name": "Youtu",
-      "url": "https://youtu.be",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "youufis-oicp-net",
       "name": "Youufis",
       "url": "https://youufis.oicp.net",
@@ -22425,6 +22410,216 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-24T03:24:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ai-pydantic-dev",
+      "name": "Ai",
+      "url": "https://ai.pydantic.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-atlassian-com",
+      "name": "Developer",
+      "url": "https://developer.atlassian.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-pytest-org",
+      "name": "Docs",
+      "url": "https://docs.pytest.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "github-profile-trophy-vercel-app",
+      "name": "Github-profile-trophy",
+      "url": "https://github-profile-trophy.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "github-readme-activity-graph-vercel-app",
+      "name": "Github-readme-activity-graph",
+      "url": "https://github-readme-activity-graph.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hatch-pypa-io",
+      "name": "Hatch",
+      "url": "https://hatch.pypa.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "modelcontextprotocol-io",
+      "name": "Modelcontextprotocol",
+      "url": "https://modelcontextprotocol.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mypy-lang-org",
+      "name": "Mypy-lang",
+      "url": "https://mypy-lang.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "opentelemetry-io",
+      "name": "Opentelemetry",
+      "url": "https://opentelemetry.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "python-jsonschema-readthedocs-io",
+      "name": "Python-jsonschema",
+      "url": "https://python-jsonschema.readthedocs.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pyyaml-org",
+      "name": "Pyyaml",
+      "url": "https://pyyaml.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "referencing-readthedocs-io",
+      "name": "Referencing",
+      "url": "https://referencing.readthedocs.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "registry-modelcontextprotocol-io",
+      "name": "Registry",
+      "url": "https://registry.modelcontextprotocol.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "shizuku-rikka-app",
+      "name": "Shizuku",
+      "url": "https://shizuku.rikka.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T10:20:18Z",
       "source": "auto_sync"
     }
   ]

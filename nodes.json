@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-24T03:28:21Z",
-  "total_nodes": 368,
+  "updated_at": "2026-10-24T10:24:26Z",
+  "total_nodes": 369,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4674,6 +4674,19 @@
           "id": "zuckerbot-ai",
           "name": "Zuckerbot",
           "url": "https://zuckerbot.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "youtu-be",
+          "name": "Youtu",
+          "url": "https://youtu.be",
           "supports": [
             "release",
             "archive",
