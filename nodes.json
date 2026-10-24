@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-24T15:29:51Z",
-  "total_nodes": 370,
+  "updated_at": "2026-10-24T20:20:15Z",
+  "total_nodes": 372,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4700,6 +4700,32 @@
           "id": "bestdori-com",
           "name": "Bestdori",
           "url": "https://bestdori.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "weishucdn-jiangjiangze-icu",
+          "name": "Weishucdn",
+          "url": "https://weishucdn.jiangjiangze.icu",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "you-piccalc-com",
+          "name": "You",
+          "url": "https://you.piccalc.com",
           "supports": [
             "release",
             "archive",

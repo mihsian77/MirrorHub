@@ -1,32 +1,45 @@
 {
-  "generated_at": "2026-10-24T15:29:51Z",
+  "generated_at": "2026-10-24T20:20:15Z",
   "changes": [
     {
-      "id": "code-leez-tech",
+      "id": "git-yylx-win",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 562
+      "latency": 452
     },
     {
-      "id": "status-leez-tech",
+      "id": "ghproxy-mirror-skybyte-me",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 455
+      "latency": 1667
     },
     {
-      "id": "mobilevc-top",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 903
+      "latency": 5601
     },
     {
-      "id": "bestdori-com",
+      "id": "flashtype-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 154
+    },
+    {
+      "id": "weishucdn-jiangjiangze-icu",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 124
+      "latency": 414
+    },
+    {
+      "id": "you-piccalc-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 162
     }
   ]
 }

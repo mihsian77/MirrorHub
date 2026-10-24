@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-24T15:29:51Z",
+  "updated_at": "2026-10-24T20:20:15Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -1896,21 +1896,6 @@
       "id": "security-debian-org",
       "name": "Security",
       "url": "https://security.debian.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T04:42:27Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "weishucdn-jiangjiangze-icu",
-      "name": "Weishucdn",
-      "url": "https://weishucdn.jiangjiangze.icu",
       "supports": [
         "release",
         "archive",
@@ -10266,21 +10251,6 @@
       "id": "web-facebook-com",
       "name": "Web",
       "url": "https://web.facebook.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-23T21:01:34Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "you-piccalc-com",
-      "name": "You",
-      "url": "https://you.piccalc.com",
       "supports": [
         "release",
         "archive",
@@ -22725,6 +22695,246 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-24T15:25:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "a16z-com",
+      "name": "A16z",
+      "url": "https://a16z.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "acquirersmultiple-com",
+      "name": "Acquirersmultiple",
+      "url": "https://acquirersmultiple.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "allinpodcast-co",
+      "name": "Allinpodcast",
+      "url": "https://allinpodcast.co",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "capitalallocators-com",
+      "name": "Capitalallocators",
+      "url": "https://capitalallocators.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "deepmind-com",
+      "name": "Deepmind",
+      "url": "https://deepmind.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "deepmind-google",
+      "name": "Deepmind",
+      "url": "https://deepmind.google",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dwarkesh-com",
+      "name": "Dwarkesh",
+      "url": "https://dwarkesh.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "joincolossus-com",
+      "name": "Joincolossus",
+      "url": "https://joincolossus.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "latent-space",
+      "name": "Latent",
+      "url": "https://latent.space",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lennysnewsletter-com",
+      "name": "Lennysnewsletter",
+      "url": "https://lennysnewsletter.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lexfridman-com",
+      "name": "Lexfridman",
+      "url": "https://lexfridman.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "meta-wikimedia-org",
+      "name": "Meta",
+      "url": "https://meta.wikimedia.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nav-al",
+      "name": "Nav",
+      "url": "https://nav.al",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openai-com",
+      "name": "Openai",
+      "url": "https://openai.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sharptech-fm",
+      "name": "Sharptech",
+      "url": "https://sharptech.fm",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "stratechery-com",
+      "name": "Stratechery",
+      "url": "https://stratechery.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-24T20:16:39Z",
       "source": "auto_sync"
     }
   ]
