@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-23T21:03:30Z",
-  "total_nodes": 177,
+  "updated_at": "2026-10-24T03:28:21Z",
+  "total_nodes": 368,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -2191,6 +2191,2489 @@
           "id": "tiktok-com",
           "name": "Tiktok",
           "url": "https://tiktok.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "3d-set-visualizer-vercel-app",
+          "name": "3d-set-visualizer",
+          "url": "https://3d-set-visualizer.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agent-assistant-ten-vercel-app",
+          "name": "Agent-assistant-ten",
+          "url": "https://agent-assistant-ten.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agent-room-com",
+          "name": "Agent-room",
+          "url": "https://agent-room.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agentic-iloveagile-me",
+          "name": "Agentic",
+          "url": "https://agentic.iloveagile.me",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agenticcorporation-net",
+          "name": "Agenticcorporation",
+          "url": "https://agenticcorporation.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agentkey-app",
+          "name": "Agentkey",
+          "url": "https://agentkey.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agentlimb-com",
+          "name": "Agentlimb",
+          "url": "https://agentlimb.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agents-hyper-space",
+          "name": "Agents",
+          "url": "https://agents.hyper.space",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agoracitizen-app",
+          "name": "Agoracitizen",
+          "url": "https://agoracitizen.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ai-trend-publish-vercel-app",
+          "name": "Ai-trend-publish",
+          "url": "https://ai-trend-publish.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ai-watch-dev",
+          "name": "Ai-watch",
+          "url": "https://ai-watch.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aiblackboxfc-com",
+          "name": "Aiblackboxfc",
+          "url": "https://aiblackboxfc.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aicoin-com",
+          "name": "Aicoin",
+          "url": "https://aicoin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aif-cutcode-dev",
+          "name": "Aif",
+          "url": "https://aif.cutcode.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aistack-to",
+          "name": "Aistack",
+          "url": "https://aistack.to",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aixt-llingfei-com",
+          "name": "Aixt",
+          "url": "https://aixt.llingfei.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aka-ms",
+          "name": "Aka",
+          "url": "https://aka.ms",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "alas-nanoda-work",
+          "name": "Alas",
+          "url": "https://alas.nanoda.work",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "anh-sirrus-cc",
+          "name": "Anh",
+          "url": "https://anh.sirrus.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-agent-swarm-dev",
+          "name": "App",
+          "url": "https://app.agent-swarm.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-baro-jigjoy-ai",
+          "name": "App",
+          "url": "https://app.baro.jigjoy.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-catgo-ucsd-org",
+          "name": "App",
+          "url": "https://app.catgo-ucsd.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-flashcards-open-source-app-com",
+          "name": "App",
+          "url": "https://app.flashcards-open-source-app.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-happy-next-com",
+          "name": "App",
+          "url": "https://app.happy-next.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-opencastor-com",
+          "name": "App",
+          "url": "https://app.opencastor.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-openpencil-dev",
+          "name": "App",
+          "url": "https://app.openpencil.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-verifywise-ai",
+          "name": "App",
+          "url": "https://app.verifywise.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "atomcode-atomgit-com",
+          "name": "Atomcode",
+          "url": "https://atomcode.atomgit.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "autonomi-dev",
+          "name": "Autonomi",
+          "url": "https://autonomi.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "axislab-top",
+          "name": "Axislab",
+          "url": "https://axislab.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "axonhub-onrender-com",
+          "name": "Axonhub",
+          "url": "https://axonhub.onrender.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "b23-tv",
+          "name": "B23",
+          "url": "https://b23.tv",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bananaslides-online",
+          "name": "Bananaslides",
+          "url": "https://bananaslides.online",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bible-ai-explorer-vercel-app",
+          "name": "Bible-ai-explorer",
+          "url": "https://bible-ai-explorer.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "binance-alpha-ten-vercel-app",
+          "name": "Binance-alpha-ten",
+          "url": "https://binance-alpha-ten.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "blitzos-com",
+          "name": "Blitzos",
+          "url": "https://blitzos.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bolt2github-com",
+          "name": "Bolt2github",
+          "url": "https://bolt2github.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "boxento-app",
+          "name": "Boxento",
+          "url": "https://boxento.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "build-cloudflare-dev",
+          "name": "Build",
+          "url": "https://build.cloudflare.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "builders-gate-com",
+          "name": "Builders-gate",
+          "url": "https://builders-gate.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "capitalcompanion-ai",
+          "name": "Capitalcompanion",
+          "url": "https://capitalcompanion.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "caw-rocks",
+          "name": "Caw",
+          "url": "https://caw.rocks",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cbrowser-ai",
+          "name": "Cbrowser",
+          "url": "https://cbrowser.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ccgather-com",
+          "name": "Ccgather",
+          "url": "https://ccgather.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chops-md",
+          "name": "Chops",
+          "url": "https://chops.md",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cinegen-kappa-vercel-app",
+          "name": "Cinegen-kappa",
+          "url": "https://cinegen-kappa.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "claude-megabyte-space",
+          "name": "Claude",
+          "url": "https://claude.megabyte.space",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "clawbiz-io",
+          "name": "Clawbiz",
+          "url": "https://clawbiz.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "clayrune-io",
+          "name": "Clayrune",
+          "url": "https://clayrune.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cloddsbot-com",
+          "name": "Cloddsbot",
+          "url": "https://cloddsbot.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "clypra-abdulkabirmusa-com",
+          "name": "Clypra",
+          "url": "https://clypra.abdulkabirmusa.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "codeeraser-dev",
+          "name": "Codeeraser",
+          "url": "https://codeeraser.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "codeflying-app",
+          "name": "Codeflying",
+          "url": "https://codeflying.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "codevibeforyou-netlify-app",
+          "name": "Codevibeforyou",
+          "url": "https://codevibeforyou.netlify.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cody-todyle-com",
+          "name": "Cody",
+          "url": "https://cody.todyle.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "coffeecli-com",
+          "name": "Coffeecli",
+          "url": "https://coffeecli.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cognitum-one",
+          "name": "Cognitum",
+          "url": "https://cognitum.one",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "components-dereekb-com",
+          "name": "Components",
+          "url": "https://components.dereekb.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "congressmcp-lawgiver-ai",
+          "name": "Congressmcp",
+          "url": "https://congressmcp.lawgiver.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "console-kubestellar-io",
+          "name": "Console",
+          "url": "https://console.kubestellar.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "costrict-ai",
+          "name": "Costrict",
+          "url": "https://costrict.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cpfly-top",
+          "name": "Cpfly",
+          "url": "https://cpfly.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "data-openecon-ai",
+          "name": "Data",
+          "url": "https://data.openecon.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "demo-public-dev-scalebase-io",
+          "name": "Demo-public",
+          "url": "https://demo-public.dev.scalebase.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "demo-confabulous-dev",
+          "name": "Demo",
+          "url": "https://demo.confabulous.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "demo-edgeever-org",
+          "name": "Demo",
+          "url": "https://demo.edgeever.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "demo-mcphub-app",
+          "name": "Demo",
+          "url": "https://demo.mcphub.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "demo-nocobase-com",
+          "name": "Demo",
+          "url": "https://demo.nocobase.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "demo-welink-click",
+          "name": "Demo",
+          "url": "https://demo.welink.click",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "demo-whodb-com",
+          "name": "Demo",
+          "url": "https://demo.whodb.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dilo-d14-pages-dev",
+          "name": "Dilo-d14",
+          "url": "https://dilo-d14.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "discord-gg",
+          "name": "Discord",
+          "url": "https://discord.gg",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "docs-cloudbase-net",
+          "name": "Docs",
+          "url": "https://docs.cloudbase.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dreamgraph-nofs-ai",
+          "name": "Dreamgraph",
+          "url": "https://dreamgraph.nofs.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "easyboardgame-top",
+          "name": "Easyboardgame",
+          "url": "https://easyboardgame.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "erp-kacon-ai",
+          "name": "Erp",
+          "url": "https://erp.kacon.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "flashtype-com",
+          "name": "Flashtype",
+          "url": "https://flashtype.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "forklaunch-com",
+          "name": "Forklaunch",
+          "url": "https://forklaunch.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "freegrid-web-pages-dev",
+          "name": "Freegrid-web",
+          "url": "https://freegrid-web.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "freeport-network",
+          "name": "Freeport",
+          "url": "https://freeport.network",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fxin-cc",
+          "name": "Fxin",
+          "url": "https://fxin.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gbs-wanzij-cn",
+          "name": "Gbs",
+          "url": "https://gbs.wanzij.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "geohao-com",
+          "name": "Geohao",
+          "url": "https://geohao.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "getorigin-io",
+          "name": "Getorigin",
+          "url": "https://getorigin.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ginlix-ai",
+          "name": "Ginlix",
+          "url": "https://ginlix.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitnexus-vercel-app",
+          "name": "Gitnexus",
+          "url": "https://gitnexus.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "glass-goose-cc-cd",
+          "name": "Glass",
+          "url": "https://glass.goose.cc.cd",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gleanapp-cn",
+          "name": "Gleanapp",
+          "url": "https://gleanapp.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "green-wells-connect-vercel-app",
+          "name": "Green-wells-connect",
+          "url": "https://green-wells-connect.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gsd-vinny-dev",
+          "name": "Gsd",
+          "url": "https://gsd.vinny.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hevolve-ai",
+          "name": "Hevolve",
+          "url": "https://hevolve.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "heycall-e-com",
+          "name": "Heycall-e",
+          "url": "https://heycall-e.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "holyclaude-coderluii-dev",
+          "name": "Holyclaude",
+          "url": "https://holyclaude.coderluii.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "honeymeta-com",
+          "name": "Honeymeta",
+          "url": "https://honeymeta.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hub-decision-ai",
+          "name": "Hub",
+          "url": "https://hub.decision.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "huly-mcp-dearlordylord-com",
+          "name": "Huly-mcp",
+          "url": "https://huly-mcp.dearlordylord.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "im-codes",
+          "name": "Im",
+          "url": "https://im.codes",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "impeccable-style",
+          "name": "Impeccable",
+          "url": "https://impeccable.style",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "impro-social",
+          "name": "Impro",
+          "url": "https://impro.social",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "internhack-xyz",
+          "name": "Internhack",
+          "url": "https://internhack.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ipradar-huxiao0207-dpdns-org",
+          "name": "Ipradar",
+          "url": "https://ipradar.huxiao0207.dpdns.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jinguyuan-cloud",
+          "name": "Jinguyuan",
+          "url": "https://jinguyuan.cloud",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jolli-ai",
+          "name": "Jolli",
+          "url": "https://jolli.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kighelper-cloud-pages-dev",
+          "name": "Kighelper-cloud",
+          "url": "https://kighelper-cloud.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kw-aigc-cn",
+          "name": "Kw-aigc",
+          "url": "https://kw-aigc.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "l4d2-laoyutang-cn",
+          "name": "L4d2",
+          "url": "https://l4d2.laoyutang.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "labas-rogasper-com",
+          "name": "Labas",
+          "url": "https://labas.rogasper.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lawyer-yu-netlify-app",
+          "name": "Lawyer-yu",
+          "url": "https://lawyer-yu.netlify.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "leankg-onrender-com",
+          "name": "Leankg",
+          "url": "https://leankg.onrender.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lecvdemarius-netlify-app",
+          "name": "Lecvdemarius",
+          "url": "https://lecvdemarius.netlify.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "leereilly-net",
+          "name": "Leereilly",
+          "url": "https://leereilly.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "local-mcp-com",
+          "name": "Local-mcp",
+          "url": "https://local-mcp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lucky-appinn-com",
+          "name": "Lucky",
+          "url": "https://lucky.appinn.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "luna-diamondfsd-com",
+          "name": "Luna",
+          "url": "https://luna.diamondfsd.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mantishack-com",
+          "name": "Mantishack",
+          "url": "https://mantishack.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "maplecode-art",
+          "name": "Maplecode",
+          "url": "https://maplecode.art",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mcp-x-com",
+          "name": "Mcp-x",
+          "url": "https://mcp-x.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "md-yhsun-cn",
+          "name": "Md",
+          "url": "https://md.yhsun.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "meetonmemory-vercel-app",
+          "name": "Meetonmemory",
+          "url": "https://meetonmemory.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "memstack-pro",
+          "name": "Memstack",
+          "url": "https://memstack.pro",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mh-site19-ddns-net",
+          "name": "Mh",
+          "url": "https://mh.site19.ddns.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "miaozitie-80wdb-com",
+          "name": "Miaozitie",
+          "url": "https://miaozitie.80wdb.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "microcoreos-com",
+          "name": "Microcoreos",
+          "url": "https://microcoreos.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "misaligned-top",
+          "name": "Misaligned",
+          "url": "https://misaligned.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "miu2d-com",
+          "name": "Miu2d",
+          "url": "https://miu2d.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mobilevc-top",
+          "name": "Mobilevc",
+          "url": "https://mobilevc.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "muggletest-com",
+          "name": "Muggletest",
+          "url": "https://muggletest.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "music-cli-luongnv-com",
+          "name": "Music-cli",
+          "url": "https://music-cli.luongnv.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nanobananaeditor-dev",
+          "name": "Nanobananaeditor",
+          "url": "https://nanobananaeditor.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "neudrive-ai",
+          "name": "Neudrive",
+          "url": "https://neudrive.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nextclaw-io",
+          "name": "Nextclaw",
+          "url": "https://nextclaw.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nextup-resource-vercel-app",
+          "name": "Nextup-resource",
+          "url": "https://nextup-resource.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nezha-hanshutx-com",
+          "name": "Nezha",
+          "url": "https://nezha.hanshutx.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nikkigallery-vip",
+          "name": "Nikkigallery",
+          "url": "https://nikkigallery.vip",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nyx-chrono-ai-fun",
+          "name": "Nyx",
+          "url": "https://nyx.chrono-ai.fun",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ode-fun",
+          "name": "Ode",
+          "url": "https://ode.fun",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "onetwin-cn",
+          "name": "Onetwin",
+          "url": "https://onetwin.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "open-prep-ai-vercel-app",
+          "name": "Open-prep-ai",
+          "url": "https://open-prep-ai.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "opencovibe-com",
+          "name": "Opencovibe",
+          "url": "https://opencovibe.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "openpua-ai",
+          "name": "Openpua",
+          "url": "https://openpua.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "opensunsama-com",
+          "name": "Opensunsama",
+          "url": "https://opensunsama.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "opentakeoff-kentucky-ai-com",
+          "name": "Opentakeoff",
+          "url": "https://opentakeoff.kentucky-ai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "opresume-pages-dev",
+          "name": "Opresume",
+          "url": "https://opresume.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "os-ryo-lu",
+          "name": "Os",
+          "url": "https://os.ryo.lu",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "paper-mulanai-com",
+          "name": "Paper",
+          "url": "https://paper.mulanai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "patchworkos-com",
+          "name": "Patchworkos",
+          "url": "https://patchworkos.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "peer-learning-liart-vercel-app",
+          "name": "Peer-learning-liart",
+          "url": "https://peer-learning-liart.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pew-md",
+          "name": "Pew",
+          "url": "https://pew.md",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pidash-airepublic-com",
+          "name": "Pidash",
+          "url": "https://pidash.airepublic.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "play-templatical-com",
+          "name": "Play",
+          "url": "https://play.templatical.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "polgarand-org",
+          "name": "Polgarand",
+          "url": "https://polgarand.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "readsync-org",
+          "name": "Readsync",
+          "url": "https://readsync.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "reminder-dev",
+          "name": "Reminder",
+          "url": "https://reminder.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "safedocx-com",
+          "name": "Safedocx",
+          "url": "https://safedocx.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "serac-build",
+          "name": "Serac",
+          "url": "https://serac.build",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "serverkit-ai",
+          "name": "Serverkit",
+          "url": "https://serverkit.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "shiori-v1-vercel-app",
+          "name": "Shiori-v1",
+          "url": "https://shiori-v1.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "sink-gamas-workers-dev",
+          "name": "Sink",
+          "url": "https://sink.gamas.workers.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "smith-attck-com",
+          "name": "Smith",
+          "url": "https://smith.attck.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "so-252035-xyz",
+          "name": "So",
+          "url": "https://so.252035.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "sprite-gorest-ai",
+          "name": "Sprite",
+          "url": "https://sprite.gorest.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "taozhiyy-top",
+          "name": "Taozhiyy",
+          "url": "https://taozhiyy.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "testfather-cn",
+          "name": "Testfather",
+          "url": "https://testfather.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "themolt-net",
+          "name": "Themolt",
+          "url": "https://themolt.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tieba-baidu-com",
+          "name": "Tieba",
+          "url": "https://tieba.baidu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tms-logisticsx-app",
+          "name": "Tms",
+          "url": "https://tms.logisticsx.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tokei-lanshuagent-com",
+          "name": "Tokei",
+          "url": "https://tokei.lanshuagent.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tools-realtime-ai-chat",
+          "name": "Tools",
+          "url": "https://tools.realtime-ai.chat",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tracely-studio-xyz",
+          "name": "Tracely-studio",
+          "url": "https://tracely-studio.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "trysquash-dev",
+          "name": "Trysquash",
+          "url": "https://trysquash.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tsukuyomi-rozx-moe",
+          "name": "Tsukuyomi",
+          "url": "https://tsukuyomi.rozx.moe",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "turborepo-starter-kit-web-vercel-app",
+          "name": "Turborepo-starter-kit-web",
+          "url": "https://turborepo-starter-kit-web.vercel.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "umami-mcp-macawls-dev",
+          "name": "Umami-mcp",
+          "url": "https://umami-mcp.macawls.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "v-douyin-com",
+          "name": "V",
+          "url": "https://v.douyin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vhs-charm-sh",
+          "name": "Vhs",
+          "url": "https://vhs.charm.sh",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vibe-demonrain-top",
+          "name": "Vibe",
+          "url": "https://vibe.demonrain.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vibeholding-pages-dev",
+          "name": "Vibeholding",
+          "url": "https://vibeholding.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vibesql-org",
+          "name": "Vibesql",
+          "url": "https://vibesql.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vibetrading-wiki",
+          "name": "Vibetrading",
+          "url": "https://vibetrading.wiki",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "visionmemorymcp-com",
+          "name": "Visionmemorymcp",
+          "url": "https://visionmemorymcp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vmflow-xyz",
+          "name": "Vmflow",
+          "url": "https://vmflow.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "weaverse-io",
+          "name": "Weaverse",
+          "url": "https://weaverse.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "weibo-archiver-chilfish-top",
+          "name": "Weibo-archiver",
+          "url": "https://weibo-archiver.chilfish.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wesight-ai",
+          "name": "Wesight",
+          "url": "https://wesight.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wings-nopejs-me",
+          "name": "Wings",
+          "url": "https://wings.nopejs.me",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wl-do",
+          "name": "Wl",
+          "url": "https://wl.do",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xjtu-nyxf-study-material-pages-dev",
+          "name": "Xjtu-nyxf-study-material",
+          "url": "https://xjtu-nyxf-study-material.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yibiao-pro",
+          "name": "Yibiao",
+          "url": "https://yibiao.pro",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yoyo-yolog-dev",
+          "name": "Yoyo",
+          "url": "https://yoyo.yolog.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zen-ai-pentest-pages-dev",
+          "name": "Zen-ai-pentest",
+          "url": "https://zen-ai-pentest.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zuckerbot-ai",
+          "name": "Zuckerbot",
+          "url": "https://zuckerbot.ai",
           "supports": [
             "release",
             "archive",
