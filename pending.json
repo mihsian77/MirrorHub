@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-24T20:20:15Z",
+  "updated_at": "2026-10-25T03:23:30Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -22935,6 +22935,486 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-24T20:16:39Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-danmu-icu",
+      "name": "Api",
+      "url": "https://api.danmu.icu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cdnstatic-tencentcs-com",
+      "name": "Cdnstatic",
+      "url": "https://cdnstatic.tencentcs.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cloud-tencent-cn",
+      "name": "Cloud",
+      "url": "https://cloud.tencent.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "coderabbit-ai",
+      "name": "Coderabbit",
+      "url": "https://coderabbit.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cookie-butler-do-u-me",
+      "name": "Cookie-butler",
+      "url": "https://cookie-butler.do-u.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dandanplay-com",
+      "name": "Dandanplay",
+      "url": "https://dandanplay.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "danmu-56uxi-com",
+      "name": "Danmu",
+      "url": "https://danmu.56uxi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dm-lxlad-com",
+      "name": "Dm",
+      "url": "https://dm.lxlad.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dm-video-qq-com",
+      "name": "Dm",
+      "url": "https://dm.video.qq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dmku-hls-one",
+      "name": "Dmku",
+      "url": "https://dmku.hls.one",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "doc-dandanplay-com",
+      "name": "Doc",
+      "url": "https://doc.dandanplay.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "edgeone-cloud-tencent-com",
+      "name": "Edgeone",
+      "url": "https://edgeone.cloud.tencent.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fc-lyz05-cn",
+      "name": "Fc",
+      "url": "https://fc.lyz05.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gctf-tfdh-top",
+      "name": "Gctf",
+      "url": "https://gctf.tfdh.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "goatcounter-com",
+      "name": "Goatcounter",
+      "url": "https://goatcounter.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gsi-go-jp",
+      "name": "Gsi",
+      "url": "https://gsi.go.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "i-mji-rip",
+      "name": "I",
+      "url": "https://i.mji.rip",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "iqiyi-com",
+      "name": "Iqiyi",
+      "url": "https://iqiyi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "netlify-com",
+      "name": "Netlify",
+      "url": "https://netlify.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ocjs-org",
+      "name": "Ocjs",
+      "url": "https://ocjs.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "opendatacommons-org",
+      "name": "Opendatacommons",
+      "url": "https://opendatacommons.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openfreemap-org",
+      "name": "Openfreemap",
+      "url": "https://openfreemap.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openmaptiles-org",
+      "name": "Openmaptiles",
+      "url": "https://openmaptiles.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openstreetmap-org",
+      "name": "Openstreetmap",
+      "url": "https://openstreetmap.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pages-edgeone-ai",
+      "name": "Pages",
+      "url": "https://pages.edgeone.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "podman-io",
+      "name": "Podman",
+      "url": "https://podman.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "se-678-ooo",
+      "name": "Se",
+      "url": "https://se.678.ooo",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "themoviedb-org",
+      "name": "Themoviedb",
+      "url": "https://themoviedb.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "trendsift-site",
+      "name": "Trendsift",
+      "url": "https://trendsift.site",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ugnas-com",
+      "name": "Ugnas",
+      "url": "https://ugnas.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "v-qq-com",
+      "name": "V",
+      "url": "https://v.qq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zy-jinchancaiji-com",
+      "name": "Zy",
+      "url": "https://zy.jinchancaiji.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T03:19:56Z",
       "source": "auto_sync"
     }
   ]

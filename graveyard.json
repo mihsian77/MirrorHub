@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-20T16:26:09Z",
+  "updated_at": "2026-10-25T03:23:30Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -725,6 +725,22 @@
       "removed_at": "2026-10-20T16:26:09Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-13T13:38:40Z"
+    },
+    {
+      "id": "gh-proxy-ygxz-in",
+      "name": "GH-Proxy YGXZ",
+      "url": "https://gh-proxy.ygxz.in",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-25T03:23:30Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-18T03:13:25Z"
     }
   ]
 }

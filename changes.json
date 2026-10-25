@@ -1,45 +1,57 @@
 {
-  "generated_at": "2026-10-24T20:20:15Z",
+  "generated_at": "2026-10-25T03:23:30Z",
   "changes": [
     {
-      "id": "git-yylx-win",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 452
+      "latency": 1431
     },
     {
-      "id": "ghproxy-mirror-skybyte-me",
+      "id": "gh-proxy-ygxz-in",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1667
+      "latency": 175
     },
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "youtu-be",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5601
+      "latency": 207
     },
     {
-      "id": "flashtype-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 154
-    },
-    {
-      "id": "weishucdn-jiangjiangze-icu",
+      "id": "bks-indevs-in",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 414
+      "latency": 915
     },
     {
-      "id": "you-piccalc-com",
+      "id": "caiji-cyou",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 162
+      "latency": 456
+    },
+    {
+      "id": "console-cloud-tencent-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1265
+    },
+    {
+      "id": "sonarcloud-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 429
     }
   ]
 }

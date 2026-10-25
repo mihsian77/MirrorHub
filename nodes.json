@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-24T20:20:15Z",
-  "total_nodes": 372,
+  "updated_at": "2026-10-25T03:23:30Z",
+  "total_nodes": 375,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -199,18 +199,6 @@
             "archive",
             "blob",
             "raw"
-          ]
-        },
-        {
-          "id": "gh-proxy-ygxz-in",
-          "name": "GH-Proxy YGXZ",
-          "url": "https://gh-proxy.ygxz.in",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
           ]
         },
         {
@@ -4726,6 +4714,58 @@
           "id": "you-piccalc-com",
           "name": "You",
           "url": "https://you.piccalc.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bks-indevs-in",
+          "name": "Bks",
+          "url": "https://bks.indevs.in",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "caiji-cyou",
+          "name": "Caiji",
+          "url": "https://caiji.cyou",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "console-cloud-tencent-com",
+          "name": "Console",
+          "url": "https://console.cloud.tencent.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "sonarcloud-io",
+          "name": "Sonarcloud",
+          "url": "https://sonarcloud.io",
           "supports": [
             "release",
             "archive",
