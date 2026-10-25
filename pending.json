@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-25T10:52:35Z",
+  "updated_at": "2026-10-25T15:39:56Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -22083,21 +22083,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "worldofclaudecraft-com",
-      "name": "Worldofclaudecraft",
-      "url": "https://worldofclaudecraft.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "wps-ai-llteac-cn",
       "name": "Wps-ai",
       "url": "https://wps-ai.llteac.cn",
@@ -23460,6 +23445,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-25T10:47:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "123av-com",
+      "name": "123av",
+      "url": "https://123av.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T15:35:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "host-docker-internal",
+      "name": "Host",
+      "url": "https://host.docker.internal",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T15:35:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "javbus-com",
+      "name": "Javbus",
+      "url": "https://javbus.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T15:35:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "javdb-com",
+      "name": "Javdb",
+      "url": "https://javdb.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T15:35:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jellyfin-org",
+      "name": "Jellyfin",
+      "url": "https://jellyfin.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T15:35:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "missav-ws",
+      "name": "Missav",
+      "url": "https://missav.ws",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T15:35:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "opencv-org",
+      "name": "Opencv",
+      "url": "https://opencv.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T15:35:41Z",
       "source": "auto_sync"
     }
   ]

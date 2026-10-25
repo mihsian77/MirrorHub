@@ -1,24 +1,51 @@
 {
-  "generated_at": "2026-10-25T10:52:35Z",
+  "generated_at": "2026-10-25T15:39:56Z",
   "changes": [
     {
-      "id": "gitproxy-click",
+      "id": "git-tangbai-cc",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 538
+      "latency": 688
     },
     {
-      "id": "electronforge-io",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 778
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 361
     },
     {
-      "id": "gpui-rs",
+      "id": "projects-ow2-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 378
+    },
+    {
+      "id": "flashtype-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 370
+    },
+    {
+      "id": "worldofclaudecraft-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 73
+      "latency": 272
+    },
+    {
+      "id": "adult-contents-fc2-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 366
+    },
+    {
+      "id": "chinamnos-ftac-dpdns-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 679
     }
   ]
 }
