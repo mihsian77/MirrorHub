@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-25T15:39:56Z",
-  "total_nodes": 380,
+  "updated_at": "2026-10-25T20:28:13Z",
+  "total_nodes": 381,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4831,6 +4831,19 @@
           "id": "chinamnos-ftac-dpdns-org",
           "name": "Chinamnos",
           "url": "https://chinamnos.ftac.dpdns.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "task-sarwarxsami-me",
+          "name": "Task",
+          "url": "https://task.sarwarxsami.me",
           "supports": [
             "release",
             "archive",

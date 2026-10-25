@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-25T15:39:56Z",
+  "updated_at": "2026-10-25T20:28:13Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -23550,6 +23550,96 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-25T15:35:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "atriaeponym-com",
+      "name": "Atriaeponym",
+      "url": "https://atriaeponym.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T20:24:29Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dl-google-com",
+      "name": "Dl",
+      "url": "https://dl.google.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T20:24:29Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "en-sge-com-cn",
+      "name": "En",
+      "url": "https://en.sge.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T20:24:29Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gold-org",
+      "name": "Gold",
+      "url": "https://gold.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T20:24:29Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gpt-live-demo-0922-qc-azurewebsites-net",
+      "name": "Gpt-live-demo-0922-qc",
+      "url": "https://gpt-live-demo-0922-qc.azurewebsites.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T20:24:29Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "otexts-com",
+      "name": "Otexts",
+      "url": "https://otexts.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T20:24:29Z",
       "source": "auto_sync"
     }
   ]
