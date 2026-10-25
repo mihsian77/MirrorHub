@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-25T03:23:30Z",
+  "updated_at": "2026-10-25T10:52:35Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -23415,6 +23415,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-25T03:19:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "electronjs-org",
+      "name": "Electronjs",
+      "url": "https://electronjs.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T10:47:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gh-proxy-ygxz-in",
+      "name": "Gh-proxy",
+      "url": "https://gh-proxy.ygxz.in",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T10:47:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gpui-kit-com",
+      "name": "Gpui-kit",
+      "url": "https://gpui-kit.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-25T10:47:14Z",
       "source": "auto_sync"
     }
   ]

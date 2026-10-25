@@ -1,57 +1,24 @@
 {
-  "generated_at": "2026-10-25T03:23:30Z",
+  "generated_at": "2026-10-25T10:52:35Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "gitproxy-click",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1431
+      "latency": 538
     },
     {
-      "id": "gh-proxy-ygxz-in",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "gh-idayer-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 175
-    },
-    {
-      "id": "youtu-be",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 207
-    },
-    {
-      "id": "bks-indevs-in",
+      "id": "electronforge-io",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 915
+      "latency": 778
     },
     {
-      "id": "caiji-cyou",
+      "id": "gpui-rs",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 456
-    },
-    {
-      "id": "console-cloud-tencent-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1265
-    },
-    {
-      "id": "sonarcloud-io",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 429
+      "latency": 73
     }
   ]
 }

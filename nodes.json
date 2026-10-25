@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-25T03:23:30Z",
-  "total_nodes": 375,
+  "updated_at": "2026-10-25T10:52:35Z",
+  "total_nodes": 377,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4766,6 +4766,32 @@
           "id": "sonarcloud-io",
           "name": "Sonarcloud",
           "url": "https://sonarcloud.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "electronforge-io",
+          "name": "Electronforge",
+          "url": "https://electronforge.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gpui-rs",
+          "name": "Gpui",
+          "url": "https://gpui.rs",
           "supports": [
             "release",
             "archive",
