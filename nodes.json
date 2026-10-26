@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-25T20:28:13Z",
-  "total_nodes": 381,
+  "updated_at": "2026-10-26T03:25:30Z",
+  "total_nodes": 382,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4844,6 +4844,19 @@
           "id": "task-sarwarxsami-me",
           "name": "Task",
           "url": "https://task.sarwarxsami.me",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "osf-io",
+          "name": "Osf",
+          "url": "https://osf.io",
           "supports": [
             "release",
             "archive",
