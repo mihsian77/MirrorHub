@@ -1,25 +1,40 @@
 {
-  "generated_at": "2026-10-26T12:22:34Z",
+  "generated_at": "2026-10-26T22:23:29Z",
   "changes": [
     {
-      "id": "gh-b52m-cn",
+      "id": "ghproxy-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 4351
+      "latency": 450
     },
     {
-      "id": "adult-contents-fc2-com",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 455
+      "latency": 1329
     },
     {
-      "id": "sina-dev",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 512
+      "id": "proxy-yaoyaoling-net",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 5637
+    },
+    {
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 383
+    },
+    {
+      "id": "flashtype-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 379
     }
   ]
 }

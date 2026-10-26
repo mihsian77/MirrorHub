@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-26T12:22:34Z",
+  "updated_at": "2026-10-26T22:23:29Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -23715,6 +23715,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-26T12:18:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "build-scripts-immortalwrt-org",
+      "name": "Build-scripts",
+      "url": "https://build-scripts.immortalwrt.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-26T22:19:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "storybook-js-org",
+      "name": "Storybook",
+      "url": "https://storybook.js.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-26T22:19:13Z",
       "source": "auto_sync"
     }
   ]
