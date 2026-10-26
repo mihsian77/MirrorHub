@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-26T03:25:30Z",
+  "updated_at": "2026-10-26T12:22:34Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -23670,6 +23670,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-26T03:21:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "catppuccin-com",
+      "name": "Catppuccin",
+      "url": "https://catppuccin.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-26T12:18:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "codemirror-net",
+      "name": "Codemirror",
+      "url": "https://codemirror.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-26T12:18:24Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "typora-io",
+      "name": "Typora",
+      "url": "https://typora.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-26T12:18:24Z",
       "source": "auto_sync"
     }
   ]

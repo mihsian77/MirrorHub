@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-26T03:25:30Z",
-  "total_nodes": 382,
+  "updated_at": "2026-10-26T12:22:34Z",
+  "total_nodes": 383,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4857,6 +4857,19 @@
           "id": "osf-io",
           "name": "Osf",
           "url": "https://osf.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "sina-dev",
+          "name": "Sina",
+          "url": "https://sina.dev",
           "supports": [
             "release",
             "archive",

@@ -1,53 +1,25 @@
 {
-  "generated_at": "2026-10-26T03:25:30Z",
+  "generated_at": "2026-10-26T12:22:34Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "gh-b52m-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2043
+      "latency": 4351
     },
     {
-      "id": "gh-idayer-com",
+      "id": "adult-contents-fc2-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 291
+      "latency": 455
     },
     {
-      "id": "git-669966-xyz",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1081
-    },
-    {
-      "id": "code-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 85
-    },
-    {
-      "id": "fastgpt-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 379
-    },
-    {
-      "id": "dreamgraph-nofs-ai",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 416
-    },
-    {
-      "id": "osf-io",
+      "id": "sina-dev",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 157
+      "latency": 512
     }
   ]
 }

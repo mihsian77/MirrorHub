@@ -6,7 +6,7 @@
   "attribution_text": "节点由 MirrorHub 提供",
   "attribution_url": "https://github.com/mihsian77/MirrorHub",
   "usage_policy": "欢迎接入使用，但请在产品 UI 中保留来源声明。二次分发需遵守 MIT 协议并保留版权声明。",
-  "updated_at": "2026-10-26T03:25:30Z",
+  "updated_at": "2026-10-26T12:22:34Z",
   "total_online": 20,
   "nodes": [
     {
@@ -14,15 +14,7 @@
       "name": "jsDelivr CDN",
       "domain": "cdn.jsdelivr.net",
       "category": "cdn_raw",
-      "latency_ms": 45,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "leereilly-net",
-      "name": "Leereilly",
-      "domain": "leereilly.net",
-      "category": "universal_proxy",
-      "latency_ms": 61,
+      "latency_ms": 50,
       "bandwidth_mbps": null
     },
     {
@@ -30,16 +22,32 @@
       "name": "Microsoftedge",
       "domain": "microsoftedge.microsoft.com",
       "category": "universal_proxy",
-      "latency_ms": 64,
-      "bandwidth_mbps": 0.6
+      "latency_ms": 60,
+      "bandwidth_mbps": 0.17
+    },
+    {
+      "id": "leereilly-net",
+      "name": "Leereilly",
+      "domain": "leereilly.net",
+      "category": "universal_proxy",
+      "latency_ms": 60,
+      "bandwidth_mbps": null
     },
     {
       "id": "opencode-ai",
       "name": "Opencode",
       "domain": "opencode.ai",
       "category": "universal_proxy",
-      "latency_ms": 70,
+      "latency_ms": 69,
       "bandwidth_mbps": null
+    },
+    {
+      "id": "linkedin-com",
+      "name": "Linkedin",
+      "domain": "linkedin.com",
+      "category": "universal_proxy",
+      "latency_ms": 78,
+      "bandwidth_mbps": 0.51
     },
     {
       "id": "deno-com",
@@ -47,28 +55,60 @@
       "domain": "deno.com",
       "category": "universal_proxy",
       "latency_ms": 80,
-      "bandwidth_mbps": 0.92
+      "bandwidth_mbps": 0.55
     },
     {
-      "id": "linkedin-com",
-      "name": "Linkedin",
-      "domain": "linkedin.com",
+      "id": "game-chozo-net",
+      "name": "Game",
+      "domain": "game.chozo.net",
       "category": "universal_proxy",
-      "latency_ms": 83,
-      "bandwidth_mbps": 0.18
+      "latency_ms": 82,
+      "bandwidth_mbps": null
     },
     {
       "id": "dilo-d14-pages-dev",
       "name": "Dilo-d14",
       "domain": "dilo-d14.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 86,
-      "bandwidth_mbps": 0.19
+      "latency_ms": 84,
+      "bandwidth_mbps": 0.13
     },
     {
       "id": "freegrid-web-pages-dev",
       "name": "Freegrid-web",
       "domain": "freegrid-web.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 87,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "getorigin-io",
+      "name": "Getorigin",
+      "domain": "getorigin.io",
+      "category": "universal_proxy",
+      "latency_ms": 87,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "img-shields-io",
+      "name": "Img",
+      "domain": "img.shields.io",
+      "category": "universal_proxy",
+      "latency_ms": 88,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "vibeholding-pages-dev",
+      "name": "Vibeholding",
+      "domain": "vibeholding.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 88,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "vmflow-xyz",
+      "name": "Vmflow",
+      "domain": "vmflow.xyz",
       "category": "universal_proxy",
       "latency_ms": 88,
       "bandwidth_mbps": null
@@ -82,92 +122,52 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "vibeholding-pages-dev",
-      "name": "Vibeholding",
-      "domain": "vibeholding.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 91,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "img-shields-io",
-      "name": "Img",
-      "domain": "img.shields.io",
+      "id": "x-com",
+      "name": "X",
+      "domain": "x.com",
       "category": "universal_proxy",
       "latency_ms": 92,
-      "bandwidth_mbps": null
+      "bandwidth_mbps": 0.93
     },
     {
-      "id": "game-chozo-net",
-      "name": "Game",
-      "domain": "game.chozo.net",
+      "id": "osf-io",
+      "name": "Osf",
+      "domain": "osf.io",
       "category": "universal_proxy",
       "latency_ms": 92,
-      "bandwidth_mbps": null
+      "bandwidth_mbps": 0.08
+    },
+    {
+      "id": "githubstatus-com",
+      "name": "Githubstatus",
+      "domain": "githubstatus.com",
+      "category": "universal_proxy",
+      "latency_ms": 94,
+      "bandwidth_mbps": 2.4
     },
     {
       "id": "huly-mcp-dearlordylord-com",
       "name": "Huly-mcp",
       "domain": "huly-mcp.dearlordylord.com",
       "category": "universal_proxy",
-      "latency_ms": 92,
-      "bandwidth_mbps": 0.17
-    },
-    {
-      "id": "vmflow-xyz",
-      "name": "Vmflow",
-      "domain": "vmflow.xyz",
-      "category": "universal_proxy",
-      "latency_ms": 92,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "getorigin-io",
-      "name": "Getorigin",
-      "domain": "getorigin.io",
-      "category": "universal_proxy",
       "latency_ms": 94,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "wordpaper-pages-dev",
-      "name": "Wordpaper",
-      "domain": "wordpaper.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 96,
-      "bandwidth_mbps": 0.29
-    },
-    {
-      "id": "x-com",
-      "name": "X",
-      "domain": "x.com",
-      "category": "universal_proxy",
-      "latency_ms": 96,
-      "bandwidth_mbps": 1.25
+      "bandwidth_mbps": 0.06
     },
     {
       "id": "kighelper-cloud-pages-dev",
       "name": "Kighelper-cloud",
       "domain": "kighelper-cloud.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 98,
-      "bandwidth_mbps": 0.08
+      "latency_ms": 94,
+      "bandwidth_mbps": 0.1
     },
     {
-      "id": "xjtu-nyxf-study-material-pages-dev",
-      "name": "Xjtu-nyxf-study-material",
-      "domain": "xjtu-nyxf-study-material.pages.dev",
+      "id": "wordpaper-pages-dev",
+      "name": "Wordpaper",
+      "domain": "wordpaper.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 98,
-      "bandwidth_mbps": 0.13
-    },
-    {
-      "id": "opresume-pages-dev",
-      "name": "Opresume",
-      "domain": "opresume.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 100,
-      "bandwidth_mbps": 0.56
+      "latency_ms": 95,
+      "bandwidth_mbps": 0.33
     }
   ]
 }
