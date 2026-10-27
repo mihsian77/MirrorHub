@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-26T22:23:29Z",
+  "updated_at": "2026-10-27T03:54:01Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -23745,6 +23745,126 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-26T22:19:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "android-googlesource-com",
+      "name": "Android",
+      "url": "https://android.googlesource.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T03:49:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "crates-io",
+      "name": "Crates",
+      "url": "https://crates.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T03:49:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "doc-rust-lang-org",
+      "name": "Doc",
+      "url": "https://doc.rust-lang.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T03:49:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "introduce-hologramagent-jianfgit-xyz",
+      "name": "Introduce",
+      "url": "https://introduce.hologramagent.jianfgit.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T03:49:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mysql-com",
+      "name": "Mysql",
+      "url": "https://mysql.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T03:49:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openrouter-ai",
+      "name": "Openrouter",
+      "url": "https://openrouter.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T03:49:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sdk-hologramagent-jianfgit-xyz",
+      "name": "Sdk",
+      "url": "https://sdk.hologramagent.jianfgit.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T03:49:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tailscale-com",
+      "name": "Tailscale",
+      "url": "https://tailscale.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T03:49:42Z",
       "source": "auto_sync"
     }
   ]

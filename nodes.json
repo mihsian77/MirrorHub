@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-26T22:23:29Z",
-  "total_nodes": 383,
+  "updated_at": "2026-10-27T03:54:01Z",
+  "total_nodes": 384,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -187,18 +187,6 @@
             "blob",
             "raw",
             "clone"
-          ]
-        },
-        {
-          "id": "down-npee-cn",
-          "name": "Npee Down",
-          "url": "https://down.npee.cn",
-          "url_template": "{node_url}/?{github_url}",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw"
           ]
         },
         {
@@ -4870,6 +4858,32 @@
           "id": "sina-dev",
           "name": "Sina",
           "url": "https://sina.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kece-zheco68-asia",
+          "name": "Kece",
+          "url": "https://kece.zheco68.asia",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "provider-com",
+          "name": "Provider",
+          "url": "https://provider.com",
           "supports": [
             "release",
             "archive",

@@ -1,40 +1,38 @@
 {
-  "generated_at": "2026-10-26T22:23:29Z",
+  "generated_at": "2026-10-27T03:54:01Z",
   "changes": [
     {
-      "id": "ghproxy-net",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 450
+      "latency": 327
     },
     {
-      "id": "git-669966-xyz",
-      "type": "recovered",
+      "id": "down-npee-cn",
+      "type": "dead",
       "from": "unstable",
-      "to": "online",
-      "latency": 1329
+      "to": "dead",
+      "failures": 28
     },
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5637
+      "latency": 390
     },
     {
-      "id": "proxy-vvvv-ee",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 383
+      "id": "kece-zheco68-asia",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 846
     },
     {
-      "id": "flashtype-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 379
+      "id": "provider-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2329
     }
   ]
 }

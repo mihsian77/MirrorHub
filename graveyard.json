@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-25T03:23:30Z",
+  "updated_at": "2026-10-27T03:54:01Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -741,6 +741,22 @@
       "removed_at": "2026-10-25T03:23:30Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-18T03:13:25Z"
+    },
+    {
+      "id": "down-npee-cn",
+      "name": "Npee Down",
+      "url": "https://down.npee.cn",
+      "url_template": "{node_url}/?{github_url}",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-10-27T03:54:01Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-20T03:33:56Z"
     }
   ]
 }
