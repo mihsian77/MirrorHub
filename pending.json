@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-27T03:54:01Z",
+  "updated_at": "2026-10-27T11:42:49Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -23865,6 +23865,621 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-27T03:49:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "360-javascriptviewer-com",
+      "name": "360-javascriptviewer",
+      "url": "https://360-javascriptviewer.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "about-gitlab-com",
+      "name": "About",
+      "url": "https://about.gitlab.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ancient-co-jp",
+      "name": "Ancient",
+      "url": "https://ancient.co.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-your-domain-com",
+      "name": "Api",
+      "url": "https://api.your-domain.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "complang-tuwien-ac-at",
+      "name": "Complang",
+      "url": "https://complang.tuwien.ac.at",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "debian-org",
+      "name": "Debian",
+      "url": "https://debian.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "doc-gitlab-com",
+      "name": "Doc",
+      "url": "https://doc.gitlab.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "down-npee-cn",
+      "name": "Down",
+      "url": "https://down.npee.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "download-docker-com",
+      "name": "Download",
+      "url": "https://download.docker.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fedora-lyrasis-org",
+      "name": "Fedora",
+      "url": "https://fedora.lyrasis.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forum-tezosagora-org",
+      "name": "Forum",
+      "url": "https://forum.tezosagora.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gohugo-io",
+      "name": "Gohugo",
+      "url": "https://gohugo.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "grafana-com",
+      "name": "Grafana",
+      "url": "https://grafana.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "handle-net",
+      "name": "Handle",
+      "url": "https://handle.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "httpd-apache-org",
+      "name": "Httpd",
+      "url": "https://httpd.apache.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "i-ibb-co",
+      "name": "I",
+      "url": "https://i.ibb.co",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ibb-co",
+      "name": "Ibb",
+      "url": "https://ibb.co",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "iipimage-sourceforge-io",
+      "name": "Iipimage",
+      "url": "https://iipimage.sourceforge.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "imgbb-com",
+      "name": "Imgbb",
+      "url": "https://imgbb.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ldap-account-manager-org",
+      "name": "Ldap-account-manager",
+      "url": "https://ldap-account-manager.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "libvips-org",
+      "name": "Libvips",
+      "url": "https://libvips.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lists-gnu-org",
+      "name": "Lists",
+      "url": "https://lists.gnu.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mariadb-org",
+      "name": "Mariadb",
+      "url": "https://mariadb.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mojolicious-org",
+      "name": "Mojolicious",
+      "url": "https://mojolicious.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mongodb-com",
+      "name": "Mongodb",
+      "url": "https://mongodb.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nuxt-com",
+      "name": "Nuxt",
+      "url": "https://nuxt.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "octez-tezos-com",
+      "name": "Octez",
+      "url": "https://octez.tezos.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "onitama-tv",
+      "name": "Onitama",
+      "url": "https://onitama.tv",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openldap-org",
+      "name": "Openldap",
+      "url": "https://openldap.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "panel-your-domain-com",
+      "name": "Panel",
+      "url": "https://panel.your-domain.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "phaidra-org",
+      "name": "Phaidra",
+      "url": "https://phaidra.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "s3-amazonaws-com",
+      "name": "S3",
+      "url": "https://s3.amazonaws.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "s3-mydomain-com",
+      "name": "S3",
+      "url": "https://s3.mydomain.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "shibboleth-net",
+      "name": "Shibboleth",
+      "url": "https://shibboleth.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "solr-apache-org",
+      "name": "Solr",
+      "url": "https://solr.apache.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tezos-com",
+      "name": "Tezos",
+      "url": "https://tezos.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "theforth-net",
+      "name": "Theforth",
+      "url": "https://theforth.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tika-apache-org",
+      "name": "Tika",
+      "url": "https://tika.apache.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ubuntu-com",
+      "name": "Ubuntu",
+      "url": "https://ubuntu.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "videojs-org",
+      "name": "Videojs",
+      "url": "https://videojs.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zid-univie-ac-at",
+      "name": "Zid",
+      "url": "https://zid.univie.ac.at",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T11:38:42Z",
       "source": "auto_sync"
     }
   ]

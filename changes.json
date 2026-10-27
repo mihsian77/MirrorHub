@@ -1,38 +1,76 @@
 {
-  "generated_at": "2026-10-27T03:54:01Z",
+  "generated_at": "2026-10-27T11:42:49Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 327
-    },
-    {
-      "id": "down-npee-cn",
+      "id": "gh-halonice-com",
       "type": "dead",
       "from": "unstable",
       "to": "dead",
       "failures": 28
     },
     {
-      "id": "gh-idayer-com",
+      "id": "code-leez-tech",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 390
+      "latency": 406
     },
     {
-      "id": "kece-zheco68-asia",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 846
+      "id": "status-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 250
     },
     {
-      "id": "provider-com",
+      "id": "mobilevc-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1284
+    },
+    {
+      "id": "adult-contents-fc2-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 469
+    },
+    {
+      "id": "certbot-eff-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 2329
+      "latency": 375
+    },
+    {
+      "id": "dbgate-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1060
+    },
+    {
+      "id": "git-net2o-de",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2152
+    },
+    {
+      "id": "gitlab-phaidra-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1151
+    },
+    {
+      "id": "savannah-gnu-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 145
+    },
+    {
+      "id": "travis-ci-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 143
     }
   ]
 }

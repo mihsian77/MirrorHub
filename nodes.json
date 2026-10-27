@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-27T03:54:01Z",
-  "total_nodes": 384,
+  "updated_at": "2026-10-27T11:42:49Z",
+  "total_nodes": 389,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -373,19 +373,6 @@
           "id": "gh-dpik-top",
           "name": "Gh",
           "url": "https://gh.dpik.top",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "gh-halonice-com",
-          "name": "Gh",
-          "url": "https://gh.halonice.com",
           "supports": [
             "release",
             "archive",
@@ -4884,6 +4871,84 @@
           "id": "provider-com",
           "name": "Provider",
           "url": "https://provider.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "certbot-eff-org",
+          "name": "Certbot",
+          "url": "https://certbot.eff.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dbgate-org",
+          "name": "Dbgate",
+          "url": "https://dbgate.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "git-net2o-de",
+          "name": "Git",
+          "url": "https://git.net2o.de",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitlab-phaidra-org",
+          "name": "Gitlab",
+          "url": "https://gitlab.phaidra.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "savannah-gnu-org",
+          "name": "Savannah",
+          "url": "https://savannah.gnu.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "travis-ci-org",
+          "name": "Travis-ci",
+          "url": "https://travis-ci.org",
           "supports": [
             "release",
             "archive",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-27T03:54:01Z",
+  "updated_at": "2026-10-27T11:42:49Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -757,6 +757,23 @@
       "removed_at": "2026-10-27T03:54:01Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-20T03:33:56Z"
+    },
+    {
+      "id": "gh-halonice-com",
+      "name": "Gh",
+      "url": "https://gh.halonice.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-10-27T11:42:49Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-20T10:59:38Z"
     }
   ]
 }
