@@ -1,76 +1,83 @@
 {
-  "generated_at": "2026-10-27T11:42:49Z",
+  "generated_at": "2026-10-27T17:35:25Z",
   "changes": [
     {
-      "id": "gh-halonice-com",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "code-leez-tech",
+      "id": "git-yylx-win",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 406
+      "latency": 184
     },
     {
-      "id": "status-leez-tech",
+      "id": "wget-la",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 250
+      "latency": 3308
     },
     {
-      "id": "mobilevc-top",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1284
+      "latency": 5556
     },
     {
-      "id": "adult-contents-fc2-com",
+      "id": "mirror-houlang-cloud",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 469
+      "latency": 519
     },
     {
-      "id": "certbot-eff-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 375
+      "id": "aistack-to",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1269
     },
     {
-      "id": "dbgate-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1060
+      "id": "easyboardgame-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 419
     },
     {
-      "id": "git-net2o-de",
+      "id": "caiji-maotaizy-cc",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 2152
+      "latency": 1311
     },
     {
-      "id": "gitlab-phaidra-org",
+      "id": "cfkua-wokaotianshi-eu-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 1151
+      "latency": 526
     },
     {
-      "id": "savannah-gnu-org",
+      "id": "cherryai-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 145
+      "latency": 201
     },
     {
-      "id": "travis-ci-org",
+      "id": "cumora-ai",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 143
+      "latency": 190
+    },
+    {
+      "id": "dimagent-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1053
+    },
+    {
+      "id": "v4-gh-proxy-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 552
     }
   ]
 }

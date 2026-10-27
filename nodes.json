@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-27T11:42:49Z",
-  "total_nodes": 389,
+  "updated_at": "2026-10-27T17:35:25Z",
+  "total_nodes": 395,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4949,6 +4949,84 @@
           "id": "travis-ci-org",
           "name": "Travis-ci",
           "url": "https://travis-ci.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "caiji-maotaizy-cc",
+          "name": "Caiji",
+          "url": "https://caiji.maotaizy.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cfkua-wokaotianshi-eu-org",
+          "name": "Cfkua",
+          "url": "https://cfkua.wokaotianshi.eu.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cherryai-com",
+          "name": "Cherryai",
+          "url": "https://cherryai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cumora-ai",
+          "name": "Cumora",
+          "url": "https://cumora.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dimagent-com",
+          "name": "Dimagent",
+          "url": "https://dimagent.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "v4-gh-proxy-org",
+          "name": "V4",
+          "url": "https://v4.gh-proxy.org",
           "supports": [
             "release",
             "archive",

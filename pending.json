@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-27T11:42:49Z",
+  "updated_at": "2026-10-27T17:35:25Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -24480,6 +24480,501 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-27T11:38:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "apifox-com",
+      "name": "Apifox",
+      "url": "https://apifox.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "astrlink-com",
+      "name": "Astrlink",
+      "url": "https://astrlink.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bast-sh",
+      "name": "Bast",
+      "url": "https://bast.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "clauge-in",
+      "name": "Clauge",
+      "url": "https://clauge.in",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "confirmo-love",
+      "name": "Confirmo",
+      "url": "https://confirmo.love",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dbine-com",
+      "name": "Dbine",
+      "url": "https://dbine.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "duo-ai-portfolio-furklr-chatgpt-site",
+      "name": "Duo-ai-portfolio",
+      "url": "https://duo-ai-portfolio.furklr.chatgpt.site",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fizzy-do",
+      "name": "Fizzy",
+      "url": "https://fizzy.do",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gh-halonice-com",
+      "name": "Gh",
+      "url": "https://gh.halonice.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "haoxg-net",
+      "name": "Haoxg",
+      "url": "https://haoxg.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hatoba-fog-moe",
+      "name": "Hatoba",
+      "url": "https://hatoba.fog.moe",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kero-sh",
+      "name": "Kero",
+      "url": "https://kero.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lazycat-cloud",
+      "name": "Lazycat",
+      "url": "https://lazycat.cloud",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lody-ai",
+      "name": "Lody",
+      "url": "https://lody.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mem-nowledge-co",
+      "name": "Mem",
+      "url": "https://mem.nowledge.co",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "memoh-ai",
+      "name": "Memoh",
+      "url": "https://memoh.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mimo-xiaomi-com",
+      "name": "Mimo",
+      "url": "https://mimo.xiaomi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "music-egoist-dev",
+      "name": "Music",
+      "url": "https://music.egoist.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "obdev-at",
+      "name": "Obdev",
+      "url": "https://obdev.at",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "office-elygpui-com",
+      "name": "Office",
+      "url": "https://office.elygpui.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "open-compute-dev",
+      "name": "Open-compute",
+      "url": "https://open-compute.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pi-in-go-dev",
+      "name": "Pi-in-go",
+      "url": "https://pi-in-go.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pinchtab-com",
+      "name": "Pinchtab",
+      "url": "https://pinchtab.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pluely-com",
+      "name": "Pluely",
+      "url": "https://pluely.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "qianjiapp-com",
+      "name": "Qianjiapp",
+      "url": "https://qianjiapp.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rexadb-app",
+      "name": "Rexadb",
+      "url": "https://rexadb.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "saber-adil-hanney-org",
+      "name": "Saber",
+      "url": "https://saber.adil.hanney.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "thinkrail-ai",
+      "name": "Thinkrail",
+      "url": "https://thinkrail.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "uniclipboard-app",
+      "name": "Uniclipboard",
+      "url": "https://uniclipboard.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "virtualhere-com",
+      "name": "Virtualhere",
+      "url": "https://virtualhere.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xerj-org",
+      "name": "Xerj",
+      "url": "https://xerj.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zcode-z-ai",
+      "name": "Zcode",
+      "url": "https://zcode.z.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zeron-sh",
+      "name": "Zeron",
+      "url": "https://zeron.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-27T17:30:13Z",
       "source": "auto_sync"
     }
   ]
