@@ -1,83 +1,19 @@
 {
-  "generated_at": "2026-10-27T17:35:25Z",
+  "generated_at": "2026-10-27T21:54:41Z",
   "changes": [
     {
-      "id": "git-yylx-win",
+      "id": "axonhub-onrender-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 184
+      "latency": 222
     },
     {
-      "id": "wget-la",
+      "id": "flashtype-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3308
-    },
-    {
-      "id": "proxy-yaoyaoling-net",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 5556
-    },
-    {
-      "id": "mirror-houlang-cloud",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 519
-    },
-    {
-      "id": "aistack-to",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1269
-    },
-    {
-      "id": "easyboardgame-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 419
-    },
-    {
-      "id": "caiji-maotaizy-cc",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1311
-    },
-    {
-      "id": "cfkua-wokaotianshi-eu-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 526
-    },
-    {
-      "id": "cherryai-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 201
-    },
-    {
-      "id": "cumora-ai",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 190
-    },
-    {
-      "id": "dimagent-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1053
-    },
-    {
-      "id": "v4-gh-proxy-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 552
+      "latency": 304
     }
   ]
 }
