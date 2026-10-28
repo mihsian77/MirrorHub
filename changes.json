@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-10-27T21:54:41Z",
+  "generated_at": "2026-10-28T04:18:29Z",
   "changes": [
     {
-      "id": "axonhub-onrender-com",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 222
+      "latency": 3360
     },
     {
-      "id": "flashtype-com",
+      "id": "github-chenc-dev",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 304
+      "latency": 1350
+    },
+    {
+      "id": "fastgpt-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 247
+    },
+    {
+      "id": "adult-contents-fc2-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 615
+    },
+    {
+      "id": "gh-223456-xyz",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2486
     }
   ]
 }

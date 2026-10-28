@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-27T21:54:41Z",
+  "updated_at": "2026-10-28T04:18:29Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -24975,6 +24975,81 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-27T17:30:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-kernel-org",
+      "name": "Docs",
+      "url": "https://docs.kernel.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T04:08:51Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dotnet-microsoft-com",
+      "name": "Dotnet",
+      "url": "https://dotnet.microsoft.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T04:08:51Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-yoctoproject-org",
+      "name": "Git",
+      "url": "https://git.yoctoproject.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T04:08:51Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "msdl-microsoft-com",
+      "name": "Msdl",
+      "url": "https://msdl.microsoft.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T04:08:51Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openembedded-org",
+      "name": "Openembedded",
+      "url": "https://openembedded.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T04:08:51Z",
       "source": "auto_sync"
     }
   ]

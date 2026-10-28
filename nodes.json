@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-27T21:54:41Z",
-  "total_nodes": 395,
+  "updated_at": "2026-10-28T04:18:29Z",
+  "total_nodes": 396,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5027,6 +5027,19 @@
           "id": "v4-gh-proxy-org",
           "name": "V4",
           "url": "https://v4.gh-proxy.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-223456-xyz",
+          "name": "Gh",
+          "url": "https://gh.223456.xyz",
           "supports": [
             "release",
             "archive",
