@@ -6,7 +6,7 @@
   "attribution_text": "节点由 MirrorHub 提供",
   "attribution_url": "https://github.com/mihsian77/MirrorHub",
   "usage_policy": "欢迎接入使用，但请在产品 UI 中保留来源声明。二次分发需遵守 MIT 协议并保留版权声明。",
-  "updated_at": "2026-10-28T04:18:29Z",
+  "updated_at": "2026-10-28T12:15:15Z",
   "total_online": 20,
   "nodes": [
     {
@@ -14,31 +14,23 @@
       "name": "Microsoftedge",
       "domain": "microsoftedge.microsoft.com",
       "category": "universal_proxy",
-      "latency_ms": 58,
-      "bandwidth_mbps": 0.86
-    },
-    {
-      "id": "jsdelivr-cdn",
-      "name": "jsDelivr CDN",
-      "domain": "cdn.jsdelivr.net",
-      "category": "cdn_raw",
-      "latency_ms": 62,
-      "bandwidth_mbps": null
+      "latency_ms": 64,
+      "bandwidth_mbps": 0.19
     },
     {
       "id": "linkedin-com",
       "name": "Linkedin",
       "domain": "linkedin.com",
       "category": "universal_proxy",
-      "latency_ms": 67,
-      "bandwidth_mbps": 0.51
+      "latency_ms": 71,
+      "bandwidth_mbps": 0.13
     },
     {
       "id": "opencode-ai",
       "name": "Opencode",
       "domain": "opencode.ai",
       "category": "universal_proxy",
-      "latency_ms": 73,
+      "latency_ms": 78,
       "bandwidth_mbps": null
     },
     {
@@ -62,23 +54,15 @@
       "name": "Leereilly",
       "domain": "leereilly.net",
       "category": "universal_proxy",
-      "latency_ms": 80,
+      "latency_ms": 82,
       "bandwidth_mbps": null
-    },
-    {
-      "id": "deno-com",
-      "name": "Deno",
-      "domain": "deno.com",
-      "category": "universal_proxy",
-      "latency_ms": 81,
-      "bandwidth_mbps": 0.42
     },
     {
       "id": "earth-jaxa-jp",
       "name": "Earth",
       "domain": "earth.jaxa.jp",
       "category": "universal_proxy",
-      "latency_ms": 86,
+      "latency_ms": 85,
       "bandwidth_mbps": null
     },
     {
@@ -90,51 +74,27 @@
       "bandwidth_mbps": null
     },
     {
+      "id": "img-shields-io",
+      "name": "Img",
+      "domain": "img.shields.io",
+      "category": "universal_proxy",
+      "latency_ms": 88,
+      "bandwidth_mbps": null
+    },
+    {
       "id": "app-netlify-com",
       "name": "App",
       "domain": "app.netlify.com",
       "category": "universal_proxy",
-      "latency_ms": 90,
-      "bandwidth_mbps": 0.11
+      "latency_ms": 94,
+      "bandwidth_mbps": 0.08
     },
     {
-      "id": "godocs-io",
-      "name": "Godocs",
-      "domain": "godocs.io",
-      "category": "universal_proxy",
-      "latency_ms": 91,
-      "bandwidth_mbps": 0.18
-    },
-    {
-      "id": "x-com",
-      "name": "X",
-      "domain": "x.com",
-      "category": "universal_proxy",
-      "latency_ms": 99,
-      "bandwidth_mbps": 0.57
-    },
-    {
-      "id": "freegrid-web-pages-dev",
-      "name": "Freegrid-web",
-      "domain": "freegrid-web.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 100,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "lawyer-yu-netlify-app",
-      "name": "Lawyer-yu",
-      "domain": "lawyer-yu.netlify.app",
-      "category": "universal_proxy",
-      "latency_ms": 100,
-      "bandwidth_mbps": 0.22
-    },
-    {
-      "id": "codevibeforyou-netlify-app",
-      "name": "Codevibeforyou",
-      "domain": "codevibeforyou.netlify.app",
-      "category": "universal_proxy",
-      "latency_ms": 103,
+      "id": "jsdelivr-cdn",
+      "name": "jsDelivr CDN",
+      "domain": "cdn.jsdelivr.net",
+      "category": "cdn_raw",
+      "latency_ms": 96,
       "bandwidth_mbps": null
     },
     {
@@ -142,8 +102,56 @@
       "name": "Githubstatus",
       "domain": "githubstatus.com",
       "category": "universal_proxy",
-      "latency_ms": 105,
-      "bandwidth_mbps": 1.69
+      "latency_ms": 97,
+      "bandwidth_mbps": 2.26
+    },
+    {
+      "id": "deno-com",
+      "name": "Deno",
+      "domain": "deno.com",
+      "category": "universal_proxy",
+      "latency_ms": 97,
+      "bandwidth_mbps": 0.19
+    },
+    {
+      "id": "godocs-io",
+      "name": "Godocs",
+      "domain": "godocs.io",
+      "category": "universal_proxy",
+      "latency_ms": 97,
+      "bandwidth_mbps": 0.05
+    },
+    {
+      "id": "x-com",
+      "name": "X",
+      "domain": "x.com",
+      "category": "universal_proxy",
+      "latency_ms": 98,
+      "bandwidth_mbps": 1.31
+    },
+    {
+      "id": "lawyer-yu-netlify-app",
+      "name": "Lawyer-yu",
+      "domain": "lawyer-yu.netlify.app",
+      "category": "universal_proxy",
+      "latency_ms": 101,
+      "bandwidth_mbps": 0.06
+    },
+    {
+      "id": "freegrid-web-pages-dev",
+      "name": "Freegrid-web",
+      "domain": "freegrid-web.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 102,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "codevibeforyou-netlify-app",
+      "name": "Codevibeforyou",
+      "domain": "codevibeforyou.netlify.app",
+      "category": "universal_proxy",
+      "latency_ms": 104,
+      "bandwidth_mbps": null
     },
     {
       "id": "xjtu-nyxf-study-material-pages-dev",
@@ -151,22 +159,14 @@
       "domain": "xjtu-nyxf-study-material.pages.dev",
       "category": "universal_proxy",
       "latency_ms": 112,
-      "bandwidth_mbps": 0.0
-    },
-    {
-      "id": "vibeholding-pages-dev",
-      "name": "Vibeholding",
-      "domain": "vibeholding.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 115,
-      "bandwidth_mbps": null
+      "bandwidth_mbps": 0.16
     },
     {
       "id": "bee-vs-hornets-pages-dev",
       "name": "Bee-vs-hornets",
       "domain": "bee-vs-hornets.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 117,
+      "latency_ms": 116,
       "bandwidth_mbps": null
     }
   ]

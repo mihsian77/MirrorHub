@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-28T04:18:29Z",
+  "updated_at": "2026-10-28T12:15:15Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -25050,6 +25050,246 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-28T04:08:51Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "104-com-tw",
+      "name": "104",
+      "url": "https://104.com.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ai-sdk-dev",
+      "name": "Ai-sdk",
+      "url": "https://ai-sdk.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-anthropic-com",
+      "name": "Api",
+      "url": "https://api.anthropic.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "better-auth-com",
+      "name": "Better-auth",
+      "url": "https://better-auth.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "data-gcis-nat-gov-tw",
+      "name": "Data",
+      "url": "https://data.gcis.nat.gov.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "data-gov-tw",
+      "name": "Data",
+      "url": "https://data.gov.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dgpa-gov-tw",
+      "name": "Dgpa",
+      "url": "https://dgpa.gov.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-snowflake-com",
+      "name": "Docs",
+      "url": "https://docs.snowflake.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "eip-fia-gov-tw",
+      "name": "Eip",
+      "url": "https://eip.fia.gov.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "findbiz-nat-gov-tw",
+      "name": "Findbiz",
+      "url": "https://findbiz.nat.gov.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mirrors-tuna-tsinghua-edu-cn",
+      "name": "Mirrors",
+      "url": "https://mirrors.tuna.tsinghua.edu.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mopsov-twse-com-tw",
+      "name": "Mopsov",
+      "url": "https://mopsov.twse.com.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "murmur-proxy-you-workers-dev",
+      "name": "Murmur-proxy",
+      "url": "https://murmur-proxy.you.workers.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sparkle-project-org",
+      "name": "Sparkle-project",
+      "url": "https://sparkle-project.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "token-actions-githubusercontent-com",
+      "name": "Token",
+      "url": "https://token.actions.githubusercontent.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "trade-gov-tw",
+      "name": "Trade",
+      "url": "https://trade.gov.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T12:10:36Z",
       "source": "auto_sync"
     }
   ]
