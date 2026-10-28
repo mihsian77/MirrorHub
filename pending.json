@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-28T12:15:15Z",
+  "updated_at": "2026-10-28T22:18:42Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -25290,6 +25290,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-28T12:10:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lyjw-me",
+      "name": "Lyjw",
+      "url": "https://lyjw.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T22:12:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lyjw131-com",
+      "name": "Lyjw131",
+      "url": "https://lyjw131.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T22:12:57Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mythiccraft-io",
+      "name": "Mythiccraft",
+      "url": "https://mythiccraft.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-28T22:12:57Z",
       "source": "auto_sync"
     }
   ]

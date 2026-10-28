@@ -1,86 +1,40 @@
 {
-  "generated_at": "2026-10-28T12:15:15Z",
+  "generated_at": "2026-10-28T22:18:42Z",
   "changes": [
     {
-      "id": "getgit-love8yun-eu-org",
+      "id": "g-blfrp-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 440
+      "latency": 1042
     },
     {
-      "id": "ghproxy-mirror-skybyte-me",
+      "id": "comfyit-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1845
+      "latency": 990
     },
     {
-      "id": "img-shields-io",
+      "id": "proxy-vvvv-ee",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 112
+      "latency": 1032
     },
     {
-      "id": "caw-rocks",
+      "id": "axonhub-onrender-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 124
+      "latency": 168
     },
     {
-      "id": "opresume-pages-dev",
+      "id": "adult-contents-fc2-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 126
-    },
-    {
-      "id": "pew-md",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 975
-    },
-    {
-      "id": "umami-mcp-macawls-dev",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 733
-    },
-    {
-      "id": "you-piccalc-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 370
-    },
-    {
-      "id": "electronforge-io",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 461
-    },
-    {
-      "id": "company-g0v-ronny-tw",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 462
-    },
-    {
-      "id": "data-ntpc-gov-tw",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 591
-    },
-    {
-      "id": "fbfh-trade-gov-tw",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1299
+      "latency": 615
     }
   ]
 }
