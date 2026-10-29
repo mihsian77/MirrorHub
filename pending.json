@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-29T12:26:07Z",
+  "updated_at": "2026-10-29T22:33:15Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -25635,6 +25635,186 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-29T12:20:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "doxygen-nl",
+      "name": "Doxygen",
+      "url": "https://doxygen.nl",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "graphviz-org",
+      "name": "Graphviz",
+      "url": "https://graphviz.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lwn-net",
+      "name": "Lwn",
+      "url": "https://lwn.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mesonbuild-com",
+      "name": "Mesonbuild",
+      "url": "https://mesonbuild.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mixamo-com",
+      "name": "Mixamo",
+      "url": "https://mixamo.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ninja-build-org",
+      "name": "Ninja-build",
+      "url": "https://ninja-build.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "streams-videolan-org",
+      "name": "Streams",
+      "url": "https://streams.videolan.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "videolan-videolan-me",
+      "name": "Videolan",
+      "url": "https://videolan.videolan.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vrm-dev",
+      "name": "Vrm",
+      "url": "https://vrm.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "web-libera-chat",
+      "name": "Web",
+      "url": "https://web.libera.chat",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wiki-videolan-org",
+      "name": "Wiki",
+      "url": "https://wiki.videolan.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "workflow-liteya-ru",
+      "name": "Workflow",
+      "url": "https://workflow.liteya.ru",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T22:27:44Z",
       "source": "auto_sync"
     }
   ]

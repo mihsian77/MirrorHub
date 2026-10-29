@@ -1,19 +1,25 @@
 {
-  "generated_at": "2026-10-29T12:26:07Z",
+  "generated_at": "2026-10-29T22:33:15Z",
   "changes": [
     {
-      "id": "comfyit-cn",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2334
+      "latency": 5571
     },
     {
-      "id": "mobilevc-top",
+      "id": "flashtype-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1214
+      "latency": 244
+    },
+    {
+      "id": "code-videolan-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 384
     }
   ]
 }
