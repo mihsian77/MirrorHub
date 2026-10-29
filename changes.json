@@ -1,40 +1,19 @@
 {
-  "generated_at": "2026-10-29T04:36:27Z",
+  "generated_at": "2026-10-29T12:26:07Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "comfyit-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 732
+      "latency": 2334
     },
     {
-      "id": "gh-idayer-com",
+      "id": "mobilevc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 375
-    },
-    {
-      "id": "git-669966-xyz",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2268
-    },
-    {
-      "id": "app-happy-next-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 760
-    },
-    {
-      "id": "gitclone-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1607
+      "latency": 1214
     }
   ]
 }

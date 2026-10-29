@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-29T04:36:27Z",
+  "updated_at": "2026-10-29T12:26:07Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -25545,6 +25545,96 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-29T04:31:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "case-ydtgo-top",
+      "name": "Case",
+      "url": "https://case.ydtgo.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T12:20:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "console-github-auth-something-run-app",
+      "name": "Console-github-auth-something",
+      "url": "https://console-github-auth-something.run.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T12:20:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cyassure-eu",
+      "name": "Cyassure",
+      "url": "https://cyassure.eu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T12:20:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "desktop-github-com",
+      "name": "Desktop",
+      "url": "https://desktop.github.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T12:20:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "producthunt-com",
+      "name": "Producthunt",
+      "url": "https://producthunt.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T12:20:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "trustmrr-com",
+      "name": "Trustmrr",
+      "url": "https://trustmrr.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-29T12:20:41Z",
       "source": "auto_sync"
     }
   ]
