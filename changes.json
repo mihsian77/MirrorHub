@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-28T22:18:42Z",
+  "generated_at": "2026-10-29T04:36:27Z",
   "changes": [
     {
-      "id": "g-blfrp-cn",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1042
+      "latency": 732
     },
     {
-      "id": "comfyit-cn",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 990
+      "latency": 375
     },
     {
-      "id": "proxy-vvvv-ee",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1032
+      "latency": 2268
     },
     {
-      "id": "axonhub-onrender-com",
+      "id": "app-happy-next-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 168
+      "latency": 760
     },
     {
-      "id": "adult-contents-fc2-com",
+      "id": "gitclone-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 615
+      "latency": 1607
     }
   ]
 }
