@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-29T22:33:15Z",
-  "total_nodes": 400,
+  "updated_at": "2026-10-30T04:34:51Z",
+  "total_nodes": 399,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1140,19 +1140,6 @@
           "id": "proxy-vvvv-ee",
           "name": "Proxy",
           "url": "https://proxy.vvvv.ee",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "5555-cab",
-          "name": "5555",
-          "url": "https://5555.cab",
           "supports": [
             "release",
             "archive",

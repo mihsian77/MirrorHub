@@ -1,25 +1,47 @@
 {
-  "generated_at": "2026-10-29T22:33:15Z",
+  "generated_at": "2026-10-30T04:34:51Z",
   "changes": [
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5571
+      "latency": 1921
     },
     {
-      "id": "flashtype-com",
+      "id": "gh-nxnow-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 244
+      "latency": 416
     },
     {
-      "id": "code-videolan-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 384
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 183
+    },
+    {
+      "id": "git-669966-xyz",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1037
+    },
+    {
+      "id": "5555-cab",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "dreamgraph-nofs-ai",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 383
     }
   ]
 }
