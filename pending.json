@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-30T12:15:33Z",
+  "updated_at": "2026-10-30T22:01:55Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -25860,6 +25860,21 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-30T12:11:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "deutschland-de",
+      "name": "Deutschland",
+      "url": "https://deutschland.de",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-30T21:57:04Z",
       "source": "auto_sync"
     }
   ]

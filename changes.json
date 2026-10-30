@@ -1,44 +1,51 @@
 {
-  "generated_at": "2026-10-30T12:15:33Z",
+  "generated_at": "2026-10-30T22:01:55Z",
   "changes": [
     {
-      "id": "ghproxy-net",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 6437
+      "latency": 5541
     },
     {
-      "id": "flashtype-com",
+      "id": "mobilevc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 99
+      "latency": 1006
     },
     {
-      "id": "adult-contents-fc2-com",
+      "id": "git-net2o-de",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 514
+      "latency": 9551
     },
     {
-      "id": "tcl-tk",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 2648
+      "id": "savannah-gnu-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 368
     },
     {
-      "id": "api-river-ai",
+      "id": "console-tencentcloud-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 407
+      "latency": 851
     },
     {
-      "id": "docs-scriptcat-org",
+      "id": "esa-console-aliyun-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 207
+      "latency": 1018
+    },
+    {
+      "id": "ihk-de",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1221
     }
   ]
 }

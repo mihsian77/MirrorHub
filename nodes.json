@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-30T12:15:33Z",
-  "total_nodes": 402,
+  "updated_at": "2026-10-30T22:01:55Z",
+  "total_nodes": 405,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5118,6 +5118,45 @@
           "id": "docs-scriptcat-org",
           "name": "Docs",
           "url": "https://docs.scriptcat.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "console-tencentcloud-com",
+          "name": "Console",
+          "url": "https://console.tencentcloud.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "esa-console-aliyun-com",
+          "name": "Esa",
+          "url": "https://esa.console.aliyun.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ihk-de",
+          "name": "Ihk",
+          "url": "https://ihk.de",
           "supports": [
             "release",
             "archive",
