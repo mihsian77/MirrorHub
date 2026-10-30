@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-30T04:34:51Z",
+  "updated_at": "2026-10-30T12:15:33Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -2811,21 +2811,6 @@
       "id": "sqlite-org",
       "name": "Sqlite",
       "url": "https://sqlite.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-13T00:10:57Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "tcl-tk",
-      "name": "Tcl",
-      "url": "https://tcl.tk",
       "supports": [
         "release",
         "archive",
@@ -25815,6 +25800,66 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-29T22:27:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "5555-cab",
+      "name": "5555",
+      "url": "https://5555.cab",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-30T12:11:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cx-icodef-com",
+      "name": "Cx",
+      "url": "https://cx.icodef.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-30T12:11:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hex-rays-com",
+      "name": "Hex-rays",
+      "url": "https://hex-rays.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-30T12:11:13Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "httpbin-org",
+      "name": "Httpbin",
+      "url": "https://httpbin.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-30T12:11:13Z",
       "source": "auto_sync"
     }
   ]

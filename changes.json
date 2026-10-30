@@ -1,47 +1,44 @@
 {
-  "generated_at": "2026-10-30T04:34:51Z",
+  "generated_at": "2026-10-30T12:15:33Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "ghproxy-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1921
+      "latency": 6437
     },
     {
-      "id": "gh-nxnow-top",
+      "id": "flashtype-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 416
+      "latency": 99
     },
     {
-      "id": "gh-idayer-com",
+      "id": "adult-contents-fc2-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 183
+      "latency": 514
     },
     {
-      "id": "git-669966-xyz",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1037
+      "id": "tcl-tk",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2648
     },
     {
-      "id": "5555-cab",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
+      "id": "api-river-ai",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 407
     },
     {
-      "id": "dreamgraph-nofs-ai",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 383
+      "id": "docs-scriptcat-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 207
     }
   ]
 }

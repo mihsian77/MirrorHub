@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-30T04:34:51Z",
-  "total_nodes": 399,
+  "updated_at": "2026-10-30T12:15:33Z",
+  "total_nodes": 402,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5079,6 +5079,45 @@
           "id": "code-videolan-org",
           "name": "Code",
           "url": "https://code.videolan.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tcl-tk",
+          "name": "Tcl",
+          "url": "https://tcl.tk",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "api-river-ai",
+          "name": "Api",
+          "url": "https://api.river.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "docs-scriptcat-org",
+          "name": "Docs",
+          "url": "https://docs.scriptcat.org",
           "supports": [
             "release",
             "archive",
