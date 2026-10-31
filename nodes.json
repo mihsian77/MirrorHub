@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-30T22:01:55Z",
-  "total_nodes": 405,
+  "updated_at": "2026-10-31T04:18:10Z",
+  "total_nodes": 407,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5157,6 +5157,32 @@
           "id": "ihk-de",
           "name": "Ihk",
           "url": "https://ihk.de",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "free-cn-eu-org",
+          "name": "Free",
+          "url": "https://free.cn.eu.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "megacrit-com",
+          "name": "Megacrit",
+          "url": "https://megacrit.com",
           "supports": [
             "release",
             "archive",

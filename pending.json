@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-30T22:01:55Z",
+  "updated_at": "2026-10-31T04:18:10Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -336,21 +336,6 @@
       "id": "code-hub-hk-freexy-top",
       "name": "Code-hub-hk",
       "url": "https://code-hub-hk.freexy.top",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "free-cn-eu-org",
-      "name": "Free",
-      "url": "https://free.cn.eu.org",
       "supports": [
         "release",
         "archive",
@@ -25875,6 +25860,96 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-30T21:57:04Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "agentclientprotocol-com",
+      "name": "Agentclientprotocol",
+      "url": "https://agentclientprotocol.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T04:12:37Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "freekeys-host67-com",
+      "name": "Freekeys",
+      "url": "https://freekeys.host67.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T04:12:37Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "glas-su",
+      "name": "Glas",
+      "url": "https://glas.su",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T04:12:37Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "redirect-host67-com",
+      "name": "Redirect",
+      "url": "https://redirect.host67.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T04:12:37Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "telegra-ph",
+      "name": "Telegra",
+      "url": "https://telegra.ph",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T04:12:37Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "v-example-com",
+      "name": "V",
+      "url": "https://v.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T04:12:37Z",
       "source": "auto_sync"
     }
   ]
