@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-31T16:56:50Z",
-  "total_nodes": 410,
+  "updated_at": "2026-10-31T21:05:37Z",
+  "total_nodes": 411,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5222,6 +5222,19 @@
           "id": "web-archive-org",
           "name": "Web",
           "url": "https://web.archive.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tools-ietf-org",
+          "name": "Tools",
+          "url": "https://tools.ietf.org",
           "supports": [
             "release",
             "archive",

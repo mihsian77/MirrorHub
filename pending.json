@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-31T16:56:50Z",
+  "updated_at": "2026-10-31T21:05:37Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -26265,6 +26265,156 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ai-example-com",
+      "name": "Ai",
+      "url": "https://ai.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T21:00:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "apt-example-com",
+      "name": "Apt",
+      "url": "https://apt.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T21:00:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "civitai-example-com",
+      "name": "Civitai",
+      "url": "https://civitai.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T21:00:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docker-example-com",
+      "name": "Docker",
+      "url": "https://docker.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T21:00:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-typesafe-ai",
+      "name": "Docs",
+      "url": "https://docs.typesafe.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T21:00:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "findagent-cloud",
+      "name": "Findagent",
+      "url": "https://findagent.cloud",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T21:00:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "geminicli-com",
+      "name": "Geminicli",
+      "url": "https://geminicli.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T21:00:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hf-example-com",
+      "name": "Hf",
+      "url": "https://hf.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T21:00:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "paulbakaus-com",
+      "name": "Paulbakaus",
+      "url": "https://paulbakaus.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T21:00:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "unicode-org",
+      "name": "Unicode",
+      "url": "https://unicode.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T21:00:27Z",
       "source": "auto_sync"
     }
   ]

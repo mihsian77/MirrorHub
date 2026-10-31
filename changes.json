@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-10-31T16:56:50Z",
+  "generated_at": "2026-10-31T21:05:37Z",
   "changes": [
     {
-      "id": "doc-libsodium-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1792
+      "id": "git-669966-xyz",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 853
     },
     {
-      "id": "docs-anthropic-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 318
+      "id": "proxy-yaoyaoling-net",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 5567
     },
     {
-      "id": "web-archive-org",
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 134
+    },
+    {
+      "id": "code-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 536
+    },
+    {
+      "id": "status-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 117
+    },
+    {
+      "id": "flashtype-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 506
+    },
+    {
+      "id": "tools-ietf-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 1130
+      "latency": 296
     }
   ]
 }
