@@ -1,46 +1,23 @@
 {
-  "generated_at": "2026-10-31T11:48:03Z",
+  "generated_at": "2026-10-31T16:56:50Z",
   "changes": [
     {
-      "id": "gh-nxnow-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 516
-    },
-    {
-      "id": "proxy-vvvv-ee",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 615
-    },
-    {
-      "id": "doxygen-org",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "agenticcorporation-net",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 312
-    },
-    {
-      "id": "demo-mcphub-app",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 104
-    },
-    {
-      "id": "openchamber-dev",
+      "id": "doc-libsodium-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 99
+      "latency": 1792
+    },
+    {
+      "id": "docs-anthropic-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 318
+    },
+    {
+      "id": "web-archive-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1130
     }
   ]
 }

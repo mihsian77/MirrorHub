@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-31T11:48:03Z",
-  "total_nodes": 407,
+  "updated_at": "2026-10-31T16:56:50Z",
+  "total_nodes": 410,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5183,6 +5183,45 @@
           "id": "openchamber-dev",
           "name": "Openchamber",
           "url": "https://openchamber.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "doc-libsodium-org",
+          "name": "Doc",
+          "url": "https://doc.libsodium.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "docs-anthropic-com",
+          "name": "Docs",
+          "url": "https://docs.anthropic.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "web-archive-org",
+          "name": "Web",
+          "url": "https://web.archive.org",
           "supports": [
             "release",
             "archive",

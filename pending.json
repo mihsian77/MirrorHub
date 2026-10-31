@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-31T11:48:03Z",
+  "updated_at": "2026-10-31T16:56:50Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -25980,6 +25980,291 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-31T11:43:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "account1-localhost",
+      "name": "Account1",
+      "url": "https://account1.localhost",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bun-com",
+      "name": "Bun",
+      "url": "https://bun.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "competitions-cr-yp-to",
+      "name": "Competitions",
+      "url": "https://competitions.cr.yp.to",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "default-localhost",
+      "name": "Default",
+      "url": "https://default.localhost",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-microsoft-com",
+      "name": "Docs",
+      "url": "https://docs.microsoft.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "e-gkd-li",
+      "name": "E",
+      "url": "https://e.gkd.li",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "elysiajs-com",
+      "name": "Elysiajs",
+      "url": "https://elysiajs.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "eprint-iacr-org",
+      "name": "Eprint",
+      "url": "https://eprint.iacr.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gitbook-com",
+      "name": "Gitbook",
+      "url": "https://gitbook.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gkd-li",
+      "name": "Gkd",
+      "url": "https://gkd.li",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "monocypher-org",
+      "name": "Monocypher",
+      "url": "https://monocypher.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nacl-cr-yp-to",
+      "name": "Nacl",
+      "url": "https://nacl.cr.yp.to",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nsec-rocks",
+      "name": "Nsec",
+      "url": "https://nsec.rocks",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nuget-org",
+      "name": "Nuget",
+      "url": "https://nuget.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "privateinternetaccess-com",
+      "name": "Privateinternetaccess",
+      "url": "https://privateinternetaccess.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "proxies-st",
+      "name": "Proxies",
+      "url": "https://proxies.st",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tuta-com",
+      "name": "Tuta",
+      "url": "https://tuta.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "v2-tauri-app",
+      "name": "V2",
+      "url": "https://v2.tauri.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vmbunny-io",
+      "name": "Vmbunny",
+      "url": "https://vmbunny.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T16:51:22Z",
       "source": "auto_sync"
     }
   ]
