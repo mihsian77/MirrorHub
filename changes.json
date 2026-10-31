@@ -1,59 +1,46 @@
 {
-  "generated_at": "2026-10-31T04:18:10Z",
+  "generated_at": "2026-10-31T11:48:03Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "gh-nxnow-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 728
+      "latency": 516
     },
     {
-      "id": "gh-idayer-com",
+      "id": "proxy-vvvv-ee",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 196
+      "latency": 615
     },
     {
-      "id": "gh-39-al",
+      "id": "doxygen-org",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "agenticcorporation-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 885
+      "latency": 312
     },
     {
-      "id": "git-669966-xyz",
+      "id": "demo-mcphub-app",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 474
+      "latency": 104
     },
     {
-      "id": "fastgpt-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 679
-    },
-    {
-      "id": "flashtype-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 353
-    },
-    {
-      "id": "free-cn-eu-org",
+      "id": "openchamber-dev",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 2708
-    },
-    {
-      "id": "megacrit-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 117
+      "latency": 99
     }
   ]
 }

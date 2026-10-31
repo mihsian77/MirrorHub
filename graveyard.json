@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-30T04:34:51Z",
+  "updated_at": "2026-10-31T11:48:03Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -791,6 +791,23 @@
       "removed_at": "2026-10-30T04:34:51Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-22T16:42:42Z"
+    },
+    {
+      "id": "doxygen-org",
+      "name": "Doxygen",
+      "url": "https://doxygen.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-10-31T11:48:03Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-23T16:33:01Z"
     }
   ]
 }

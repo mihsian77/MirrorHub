@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-31T04:18:10Z",
+  "updated_at": "2026-10-31T11:48:03Z",
   "total_nodes": 407,
   "categories": {
     "universal_proxy": {
@@ -2076,19 +2076,6 @@
           "id": "gitea-mirror-raylabs-io",
           "name": "Gitea-mirror",
           "url": "https://gitea-mirror.raylabs.io",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "doxygen-org",
-          "name": "Doxygen",
-          "url": "https://doxygen.org",
           "supports": [
             "release",
             "archive",
@@ -5183,6 +5170,19 @@
           "id": "megacrit-com",
           "name": "Megacrit",
           "url": "https://megacrit.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "openchamber-dev",
+          "name": "Openchamber",
+          "url": "https://openchamber.dev",
           "supports": [
             "release",
             "archive",

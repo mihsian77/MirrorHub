@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-31T04:18:10Z",
+  "updated_at": "2026-10-31T11:48:03Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -25950,6 +25950,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-31T04:12:37Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dagshund-806de7-gitlab-io",
+      "name": "Dagshund-806de7",
+      "url": "https://dagshund-806de7.gitlab.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T11:43:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-databricks-com",
+      "name": "Docs",
+      "url": "https://docs.databricks.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-10-31T11:43:17Z",
       "source": "auto_sync"
     }
   ]
