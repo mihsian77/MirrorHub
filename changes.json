@@ -1,24 +1,47 @@
 {
-  "generated_at": "2026-11-01T12:48:56Z",
+  "generated_at": "2026-11-01T21:48:05Z",
   "changes": [
     {
-      "id": "git-net2o-de",
+      "id": "g-blfrp-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 8817
+      "latency": 1212
     },
     {
-      "id": "dplayer-diandian-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 2143
+      "id": "proxy-yaoyaoling-net",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 5553
     },
     {
-      "id": "vaultproject-io",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 811
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 178
+    },
+    {
+      "id": "code-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 618
+    },
+    {
+      "id": "fastgpt-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 592
+    },
+    {
+      "id": "status-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 586
     }
   ]
 }

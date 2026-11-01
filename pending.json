@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-01T12:48:56Z",
+  "updated_at": "2026-11-01T21:48:05Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -26925,6 +26925,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "a-wikimedia-cli-toolforge-org",
+      "name": "A-wikimedia-cli",
+      "url": "https://a-wikimedia-cli.toolforge.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T21:43:16Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-siliconflow-cn",
+      "name": "Api",
+      "url": "https://api.siliconflow.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T21:43:16Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "appassets-androidplatform-net",
+      "name": "Appassets",
+      "url": "https://appassets.androidplatform.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T21:43:16Z",
       "source": "auto_sync"
     }
   ]
