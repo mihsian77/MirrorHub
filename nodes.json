@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-31T21:05:37Z",
-  "total_nodes": 411,
+  "updated_at": "2026-11-01T04:37:01Z",
+  "total_nodes": 414,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5235,6 +5235,45 @@
           "id": "tools-ietf-org",
           "name": "Tools",
           "url": "https://tools.ietf.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "proxy-scdn-io",
+          "name": "Proxy",
+          "url": "https://proxy.scdn.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tomcat1235-nyc-mn",
+          "name": "Tomcat1235",
+          "url": "https://tomcat1235.nyc.mn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wandoukj-eu-org",
+          "name": "Wandoukj",
+          "url": "https://wandoukj.eu.org",
           "supports": [
             "release",
             "archive",

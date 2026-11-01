@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-31T21:05:37Z",
+  "updated_at": "2026-11-01T04:37:01Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -26415,6 +26415,351 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-31T21:00:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "anyi555-com",
+      "name": "Anyi555",
+      "url": "https://anyi555.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "applc-cc",
+      "name": "Applc",
+      "url": "https://applc.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "appleid-22ne-com",
+      "name": "Appleid",
+      "url": "https://appleid.22ne.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ccbaohe-com",
+      "name": "Ccbaohe",
+      "url": "https://ccbaohe.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "drive-google-com",
+      "name": "Drive",
+      "url": "https://drive.google.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ermao-net",
+      "name": "Ermao",
+      "url": "https://ermao.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fn3-170809-xyz",
+      "name": "Fn3",
+      "url": "https://fn3.170809.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "free-338558-xyz",
+      "name": "Free",
+      "url": "https://free.338558.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "free-iosapp-icu",
+      "name": "Free",
+      "url": "https://free.iosapp.icu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "google-co-jp",
+      "name": "Google",
+      "url": "https://google.co.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "id-jincaii-com",
+      "name": "Id",
+      "url": "https://id.jincaii.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "id88888888-com",
+      "name": "Id88888888",
+      "url": "https://id88888888.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "idfree-top",
+      "name": "Idfree",
+      "url": "https://idfree.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "idshare001-me",
+      "name": "Idshare001",
+      "url": "https://idshare001.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "info-flagcounter-com",
+      "name": "Info",
+      "url": "https://info.flagcounter.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ios-wwkejishe-top",
+      "name": "Ios",
+      "url": "https://ios.wwkejishe.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lanhaiblog-com",
+      "name": "Lanhaiblog",
+      "url": "https://lanhaiblog.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nginx-org",
+      "name": "Nginx",
+      "url": "https://nginx.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "s11-flagcounter-com",
+      "name": "S11",
+      "url": "https://s11.flagcounter.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "the-most-interesting-online",
+      "name": "The-most-interesting",
+      "url": "https://the-most-interesting.online",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "visualstudio-microsoft-com",
+      "name": "Visualstudio",
+      "url": "https://visualstudio.microsoft.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vpnnew-net",
+      "name": "Vpnnew",
+      "url": "https://vpnnew.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wgjsq-net",
+      "name": "Wgjsq",
+      "url": "https://wgjsq.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T04:32:45Z",
       "source": "auto_sync"
     }
   ]
