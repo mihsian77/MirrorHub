@@ -1,58 +1,24 @@
 {
-  "generated_at": "2026-11-01T04:37:01Z",
+  "generated_at": "2026-11-01T12:48:56Z",
   "changes": [
     {
-      "id": "ghfast-top",
+      "id": "git-net2o-de",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 359
+      "latency": 8817
     },
     {
-      "id": "ghfile-geekertao-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 392
-    },
-    {
-      "id": "gh-idayer-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 202
-    },
-    {
-      "id": "cf-ghproxy-cc",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1138
-    },
-    {
-      "id": "ghproxy-cc",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1248
-    },
-    {
-      "id": "proxy-scdn-io",
+      "id": "dplayer-diandian-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 655
+      "latency": 2143
     },
     {
-      "id": "tomcat1235-nyc-mn",
+      "id": "vaultproject-io",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 167
-    },
-    {
-      "id": "wandoukj-eu-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 264
+      "latency": 811
     }
   ]
 }

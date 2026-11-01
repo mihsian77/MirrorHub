@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-01T04:37:01Z",
-  "total_nodes": 414,
+  "updated_at": "2026-11-01T12:48:56Z",
+  "total_nodes": 416,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5274,6 +5274,32 @@
           "id": "wandoukj-eu-org",
           "name": "Wandoukj",
           "url": "https://wandoukj.eu.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dplayer-diandian-com",
+          "name": "Dplayer",
+          "url": "https://dplayer.diandian.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vaultproject-io",
+          "name": "Vaultproject",
+          "url": "https://vaultproject.io",
           "supports": [
             "release",
             "archive",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-01T04:37:01Z",
+  "updated_at": "2026-11-01T12:48:56Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -26760,6 +26760,171 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-01T04:32:45Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "baomidou-com",
+      "name": "Baomidou",
+      "url": "https://baomidou.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blog-wjqserver-com",
+      "name": "Blog",
+      "url": "https://blog.wjqserver.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bouncycastle-org",
+      "name": "Bouncycastle",
+      "url": "https://bouncycastle.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-apple-com",
+      "name": "Developer",
+      "url": "https://developer.apple.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "element-plus-org",
+      "name": "Element-plus",
+      "url": "https://element-plus.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "min-io",
+      "name": "Min",
+      "url": "https://min.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pinia-vuejs-org",
+      "name": "Pinia",
+      "url": "https://pinia.vuejs.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "playstation-com",
+      "name": "Playstation",
+      "url": "https://playstation.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "polyfork-dev",
+      "name": "Polyfork",
+      "url": "https://polyfork.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wjqserver-docs-pages-dev",
+      "name": "Wjqserver-docs",
+      "url": "https://wjqserver-docs.pages.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xinyuesha-friends-api-pages-dev",
+      "name": "Xinyuesha-friends-api",
+      "url": "https://xinyuesha-friends-api.pages.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-01T12:43:10Z",
       "source": "auto_sync"
     }
   ]
