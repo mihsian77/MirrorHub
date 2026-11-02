@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-01T21:48:05Z",
-  "total_nodes": 416,
+  "updated_at": "2026-11-02T04:41:08Z",
+  "total_nodes": 417,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5300,6 +5300,19 @@
           "id": "vaultproject-io",
           "name": "Vaultproject",
           "url": "https://vaultproject.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "slack-kubernetes-io",
+          "name": "Slack",
+          "url": "https://slack.kubernetes.io",
           "supports": [
             "release",
             "archive",

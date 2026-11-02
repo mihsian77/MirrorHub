@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-01T21:48:05Z",
+  "updated_at": "2026-11-02T04:41:08Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -10176,21 +10176,6 @@
       "id": "scorecard-dev",
       "name": "Scorecard",
       "url": "https://scorecard.dev",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-23T21:01:34Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "slack-kubernetes-io",
-      "name": "Slack",
-      "url": "https://slack.kubernetes.io",
       "supports": [
         "release",
         "archive",
@@ -26970,6 +26955,21 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-01T21:43:16Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-scorecard-dev",
+      "name": "Api",
+      "url": "https://api.scorecard.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-02T04:35:56Z",
       "source": "auto_sync"
     }
   ]

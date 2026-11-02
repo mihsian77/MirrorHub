@@ -1,47 +1,32 @@
 {
-  "generated_at": "2026-11-01T21:48:05Z",
+  "generated_at": "2026-11-02T04:41:08Z",
   "changes": [
     {
-      "id": "g-blfrp-cn",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1212
+      "latency": 3344
     },
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5553
+      "latency": 208
     },
     {
-      "id": "proxy-vvvv-ee",
+      "id": "git-net2o-de",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 178
+      "latency": 6115
     },
     {
-      "id": "code-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 618
-    },
-    {
-      "id": "fastgpt-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 592
-    },
-    {
-      "id": "status-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 586
+      "id": "slack-kubernetes-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 241
     }
   ]
 }
