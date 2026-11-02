@@ -1,32 +1,52 @@
 {
-  "generated_at": "2026-11-02T04:41:08Z",
+  "generated_at": "2026-11-02T14:54:28Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3344
+      "latency": 3352
     },
     {
-      "id": "gh-idayer-com",
+      "id": "code-leez-tech",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 208
+      "latency": 454
     },
     {
-      "id": "git-net2o-de",
+      "id": "fastgpt-leez-tech",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 6115
+      "latency": 541
     },
     {
-      "id": "slack-kubernetes-io",
+      "id": "status-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 259
+    },
+    {
+      "id": "maplecode-art",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "ghproxy-cfd",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 241
+      "latency": 116
+    },
+    {
+      "id": "oapi-dingtalk-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 557
     }
   ]
 }

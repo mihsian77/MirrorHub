@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-02T04:41:08Z",
-  "total_nodes": 417,
+  "updated_at": "2026-11-02T14:54:28Z",
+  "total_nodes": 418,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -3633,19 +3633,6 @@
           "source": "auto_sync"
         },
         {
-          "id": "maplecode-art",
-          "name": "Maplecode",
-          "url": "https://maplecode.art",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
           "id": "mcp-x-com",
           "name": "Mcp-x",
           "url": "https://mcp-x.com",
@@ -5313,6 +5300,32 @@
           "id": "slack-kubernetes-io",
           "name": "Slack",
           "url": "https://slack.kubernetes.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-cfd",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.cfd",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "oapi-dingtalk-com",
+          "name": "Oapi",
+          "url": "https://oapi.dingtalk.com",
           "supports": [
             "release",
             "archive",

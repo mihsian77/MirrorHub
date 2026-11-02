@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-31T11:48:03Z",
+  "updated_at": "2026-11-02T14:54:28Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -808,6 +808,23 @@
       "removed_at": "2026-10-31T11:48:03Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-23T16:33:01Z"
+    },
+    {
+      "id": "maplecode-art",
+      "name": "Maplecode",
+      "url": "https://maplecode.art",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-02T14:54:28Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-25T10:52:35Z"
     }
   ]
 }

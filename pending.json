@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-02T04:41:08Z",
+  "updated_at": "2026-11-02T14:54:28Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -96,21 +96,6 @@
       "id": "ghproxy-cxkpro-top",
       "name": "Ghproxy",
       "url": "https://ghproxy.cxkpro.top",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-06T17:26:38Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "ghproxy-cfd",
-      "name": "Ghproxy",
-      "url": "https://ghproxy.cfd",
       "supports": [
         "release",
         "archive",
@@ -26970,6 +26955,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-02T04:35:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "easyssh-cn",
+      "name": "Easyssh",
+      "url": "https://easyssh.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-02T14:49:49Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "esm-sh",
+      "name": "Esm",
+      "url": "https://esm.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-02T14:49:49Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "swift-org",
+      "name": "Swift",
+      "url": "https://swift.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-02T14:49:49Z",
       "source": "auto_sync"
     }
   ]
