@@ -1,66 +1,60 @@
 {
-  "generated_at": "2026-11-03T13:46:24Z",
+  "generated_at": "2026-11-03T22:59:57Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "ghproxy-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1115
+      "latency": 631
     },
     {
-      "id": "semantic-release-gitbook-io",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 907
-    },
-    {
-      "id": "axonhub-onrender-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 147
-    },
-    {
-      "id": "flashtype-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 505
-    },
-    {
-      "id": "youtu-be",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 292
-    },
-    {
-      "id": "doc-libsodium-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1411
-    },
-    {
-      "id": "gitclone-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2962
-    },
-    {
-      "id": "5555-cab",
+      "id": "aistudio-google-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 17662
+      "latency": 528
     },
     {
-      "id": "gitlab-heigit-org",
+      "id": "eng-3385e-firebaseapp-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 1157
+      "latency": 140
+    },
+    {
+      "id": "eng-3385e-web-app",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 148
+    },
+    {
+      "id": "gh-404cafe-fun",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 207
+    },
+    {
+      "id": "gh-noki-eu-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 676
+    },
+    {
+      "id": "gh-sixyin-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 497
+    },
+    {
+      "id": "ghproxy-vip",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 158
+    },
+    {
+      "id": "hub-glowp-xyz",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 496
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-03T13:46:24Z",
-  "total_nodes": 422,
+  "updated_at": "2026-11-03T22:59:57Z",
+  "total_nodes": 430,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5379,6 +5379,110 @@
           "id": "gitlab-heigit-org",
           "name": "Gitlab",
           "url": "https://gitlab.heigit.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aistudio-google-com",
+          "name": "Aistudio",
+          "url": "https://aistudio.google.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "eng-3385e-firebaseapp-com",
+          "name": "Eng-3385e",
+          "url": "https://eng-3385e.firebaseapp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "eng-3385e-web-app",
+          "name": "Eng-3385e",
+          "url": "https://eng-3385e.web.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-404cafe-fun",
+          "name": "Gh",
+          "url": "https://gh.404cafe.fun",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-noki-eu-org",
+          "name": "Gh",
+          "url": "https://gh.noki.eu.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-sixyin-com",
+          "name": "Gh",
+          "url": "https://gh.sixyin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-vip",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.vip",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hub-glowp-xyz",
+          "name": "Hub",
+          "url": "https://hub.glowp.xyz",
           "supports": [
             "release",
             "archive",

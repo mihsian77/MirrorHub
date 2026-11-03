@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-03T13:46:24Z",
+  "updated_at": "2026-11-03T22:59:57Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -27135,6 +27135,156 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-03T13:40:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "anaconda-org",
+      "name": "Anaconda",
+      "url": "https://anaconda.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T22:55:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "insights-linuxfoundation-org",
+      "name": "Insights",
+      "url": "https://insights.linuxfoundation.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T22:55:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "m365-localhost",
+      "name": "M365",
+      "url": "https://m365.localhost",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T22:55:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mail-python-org",
+      "name": "Mail",
+      "url": "https://mail.python.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T22:55:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "numfocus-org",
+      "name": "Numfocus",
+      "url": "https://numfocus.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T22:55:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "numpy-org",
+      "name": "Numpy",
+      "url": "https://numpy.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T22:55:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "opensource-guide",
+      "name": "Opensource",
+      "url": "https://opensource.guide",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T22:55:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "proxy-gitwarp-top",
+      "name": "Proxy",
+      "url": "https://proxy.gitwarp.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T22:55:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "stackoverflow-com",
+      "name": "Stackoverflow",
+      "url": "https://stackoverflow.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T22:55:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "toolhub-bot-cd",
+      "name": "Toolhub",
+      "url": "https://toolhub.bot.cd",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T22:55:54Z",
       "source": "auto_sync"
     }
   ]
