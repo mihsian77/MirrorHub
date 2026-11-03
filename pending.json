@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-03T00:39:02Z",
+  "updated_at": "2026-11-03T13:46:24Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -25728,21 +25728,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "5555-cab",
-      "name": "5555",
-      "url": "https://5555.cab",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-30T12:11:13Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "cx-icodef-com",
       "name": "Cx",
       "url": "https://cx.icodef.com",
@@ -27135,6 +27120,21 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gh-zwnes-xyz",
+      "name": "Gh",
+      "url": "https://gh.zwnes.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T13:40:32Z",
       "source": "auto_sync"
     }
   ]

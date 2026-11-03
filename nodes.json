@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-03T00:39:02Z",
-  "total_nodes": 420,
+  "updated_at": "2026-11-03T13:46:24Z",
+  "total_nodes": 422,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5353,6 +5353,32 @@
           "id": "docs-uxway-app",
           "name": "Docs",
           "url": "https://docs.uxway.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "5555-cab",
+          "name": "5555",
+          "url": "https://5555.cab",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitlab-heigit-org",
+          "name": "Gitlab",
+          "url": "https://gitlab.heigit.org",
           "supports": [
             "release",
             "archive",
