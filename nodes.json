@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-02T14:54:28Z",
-  "total_nodes": 418,
+  "updated_at": "2026-11-03T00:39:02Z",
+  "total_nodes": 420,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -169,18 +169,6 @@
           "id": "git-yylx-win",
           "name": "YYLX Git",
           "url": "https://git.yylx.win",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ]
-        },
-        {
-          "id": "gh-zwnes-xyz",
-          "name": "GH Zwnes",
-          "url": "https://gh.zwnes.xyz",
           "supports": [
             "release",
             "archive",
@@ -5326,6 +5314,45 @@
           "id": "oapi-dingtalk-com",
           "name": "Oapi",
           "url": "https://oapi.dingtalk.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-ddlc-top",
+          "name": "Gh",
+          "url": "https://gh.ddlc.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-dpik-top",
+          "name": "Github",
+          "url": "https://github.dpik.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "docs-uxway-app",
+          "name": "Docs",
+          "url": "https://docs.uxway.app",
           "supports": [
             "release",
             "archive",

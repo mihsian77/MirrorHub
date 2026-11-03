@@ -1,52 +1,72 @@
 {
-  "generated_at": "2026-11-02T14:54:28Z",
+  "generated_at": "2026-11-03T00:39:02Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "github-ednovas-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3352
+      "latency": 323
     },
     {
-      "id": "code-leez-tech",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 454
+      "latency": 586
     },
     {
-      "id": "fastgpt-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 541
-    },
-    {
-      "id": "status-leez-tech",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 259
-    },
-    {
-      "id": "maplecode-art",
+      "id": "gh-zwnes-xyz",
       "type": "dead",
       "from": "unstable",
       "to": "dead",
       "failures": 28
     },
     {
-      "id": "ghproxy-cfd",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 116
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 204
     },
     {
-      "id": "oapi-dingtalk-com",
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 456
+    },
+    {
+      "id": "adult-contents-fc2-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 492
+    },
+    {
+      "id": "dimagent-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1217
+    },
+    {
+      "id": "gh-ddlc-top",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 557
+      "latency": 776
+    },
+    {
+      "id": "github-dpik-top",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 335
+    },
+    {
+      "id": "docs-uxway-app",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 223
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-02T14:54:28Z",
+  "updated_at": "2026-11-03T00:39:02Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -825,6 +825,22 @@
       "removed_at": "2026-11-02T14:54:28Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-25T10:52:35Z"
+    },
+    {
+      "id": "gh-zwnes-xyz",
+      "name": "GH Zwnes",
+      "url": "https://gh.zwnes.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "removed_at": "2026-11-03T00:39:02Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-25T15:39:56Z"
     }
   ]
 }

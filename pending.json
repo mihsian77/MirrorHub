@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-02T14:54:28Z",
+  "updated_at": "2026-11-03T00:39:02Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -8181,36 +8181,6 @@
       "id": "docs-chainlesschain-com",
       "name": "Docs",
       "url": "https://docs.chainlesschain.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-20T21:17:10Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "gh-ddlc-top",
-      "name": "Gh",
-      "url": "https://gh.ddlc.top",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-20T21:17:10Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "github-dpik-top",
-      "name": "Github",
-      "url": "https://github.dpik.top",
       "supports": [
         "release",
         "archive",
@@ -27000,6 +26970,171 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-02T14:49:49Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "behdad-org",
+      "name": "Behdad",
+      "url": "https://behdad.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-github-com",
+      "name": "Developer",
+      "url": "https://developer.github.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "files-hub-com",
+      "name": "Files-hub",
+      "url": "https://files-hub.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "freesound-org",
+      "name": "Freesound",
+      "url": "https://freesound.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "harfbuzz-world-cc",
+      "name": "Harfbuzz-world",
+      "url": "https://harfbuzz-world.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "libarchive-org",
+      "name": "Libarchive",
+      "url": "https://libarchive.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "prezi-com",
+      "name": "Prezi",
+      "url": "https://prezi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "scan-coverity-com",
+      "name": "Scan",
+      "url": "https://scan.coverity.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "streamlit-io",
+      "name": "Streamlit",
+      "url": "https://streamlit.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "v-p-n-trade",
+      "name": "V-p-n",
+      "url": "https://v-p-n.trade",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xkcd-com",
+      "name": "Xkcd",
+      "url": "https://xkcd.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-03T00:32:41Z",
       "source": "auto_sync"
     }
   ]
