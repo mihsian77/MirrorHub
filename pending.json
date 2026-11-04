@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-04T13:58:42Z",
+  "updated_at": "2026-11-04T23:20:36Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -12456,21 +12456,6 @@
       "id": "chatbotx-io",
       "name": "Chatbotx",
       "url": "https://chatbotx.io",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "chatgpt-com",
-      "name": "Chatgpt",
-      "url": "https://chatgpt.com",
       "supports": [
         "release",
         "archive",
@@ -32793,21 +32778,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "jwebmp-com",
-      "name": "Jwebmp",
-      "url": "https://jwebmp.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "jwrapper-com",
       "name": "Jwrapper",
       "url": "https://jwrapper.com",
@@ -37155,6 +37125,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-04T13:49:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "oss-zyall-com",
+      "name": "Oss",
+      "url": "https://oss.zyall.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-04T23:14:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xget-xi-xu-me",
+      "name": "Xget",
+      "url": "https://xget.xi-xu.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-04T23:14:00Z",
       "source": "auto_sync"
     }
   ]

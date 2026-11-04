@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-04T13:58:42Z",
-  "total_nodes": 513,
+  "updated_at": "2026-11-04T23:20:36Z",
+  "total_nodes": 518,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6562,6 +6562,71 @@
           "id": "zhuanlan-zhihu-com",
           "name": "Zhuanlan",
           "url": "https://zhuanlan.zhihu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chatgpt-com",
+          "name": "Chatgpt",
+          "url": "https://chatgpt.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jwebmp-com",
+          "name": "Jwebmp",
+          "url": "https://jwebmp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cdn-gh-proxy-org",
+          "name": "Cdn",
+          "url": "https://cdn.gh-proxy.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "edgeone-gh-proxy-org",
+          "name": "Edgeone",
+          "url": "https://edgeone.gh-proxy.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-it",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.it",
           "supports": [
             "release",
             "archive",
