@@ -1,33 +1,523 @@
 {
-  "generated_at": "2026-11-04T05:01:12Z",
+  "generated_at": "2026-11-04T13:58:42Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2082
+      "latency": 964
     },
     {
-      "id": "gh-idayer-com",
+      "id": "flashtype-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 202
+      "latency": 293
     },
     {
-      "id": "proxy-vvvv-ee",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
+      "id": "adv-co-jp",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1601
+    },
+    {
+      "id": "agitar-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 485
+    },
+    {
+      "id": "akiroio-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1172
+    },
+    {
+      "id": "appdynamics-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 377
+    },
+    {
+      "id": "axibase-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 867
+    },
+    {
+      "id": "axonivy-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 663
+    },
+    {
+      "id": "bestofbi-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 163
+    },
+    {
+      "id": "bisguard-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 302
+    },
+    {
+      "id": "cloud-google-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 179
+    },
+    {
+      "id": "clougence-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1637
+    },
+    {
+      "id": "code-usgs-gov",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 460
+    },
+    {
+      "id": "core-telegram-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 443
+    },
+    {
+      "id": "cs-waikato-ac-nz",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2425
+    },
+    {
+      "id": "datamelt-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 353
+    },
+    {
+      "id": "datastax-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 824
+    },
+    {
+      "id": "datomic-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 483
+    },
+    {
+      "id": "db-jodd-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1517
+    },
+    {
+      "id": "dbschema-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 917
+    },
+    {
+      "id": "developer-jdcloud-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 5203
+    },
+    {
+      "id": "doc-sibvisions-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 557
+    },
+    {
+      "id": "docs-chartsql-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 867
+    },
+    {
+      "id": "docs-tibco-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 179
+    },
+    {
+      "id": "drjava-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1128
+    },
+    {
+      "id": "easyxls-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 456
+    },
+    {
+      "id": "eclipse-dev",
+      "type": "new_node",
+      "category": "universal_proxy",
       "latency": 899
     },
     {
-      "id": "worldofclaudecraft-com",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
+      "id": "f2bpm-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1679
+    },
+    {
+      "id": "forgerock-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 772
+    },
+    {
+      "id": "gitlab-ow2-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 644
+    },
+    {
+      "id": "gitlab-pasteur-fr",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 566
+    },
+    {
+      "id": "gradle-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 387
+    },
+    {
+      "id": "grafana-nav-cloud-nais-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2442
+    },
+    {
+      "id": "groovy-lang-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 879
+    },
+    {
+      "id": "gvsu-edu",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 216
+    },
+    {
+      "id": "infoq-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2314
+    },
+    {
+      "id": "informat-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 3439
+    },
+    {
+      "id": "ireasoning-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 192
+    },
+    {
+      "id": "isi-edu",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 379
+    },
+    {
+      "id": "jadasite-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2352
+    },
+    {
+      "id": "jahia-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2117
+    },
+    {
+      "id": "jboltai-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1126
+    },
+    {
+      "id": "jfxstore-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1040
+    },
+    {
+      "id": "jonas-ow2-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 386
+    },
+    {
+      "id": "jpro-one",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 685
+    },
+    {
+      "id": "kalix-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 343
+    },
+    {
+      "id": "lagarto-jodd-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1153
+    },
+    {
+      "id": "libusb-java-ch",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 544
+    },
+    {
+      "id": "lightlycode-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 3313
+    },
+    {
+      "id": "lkkushan-gitbook-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1250
+    },
+    {
+      "id": "maplesoft-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1439
+    },
+    {
+      "id": "mdma-dev",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1406
+    },
+    {
+      "id": "mt4j-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 612
+    },
+    {
+      "id": "mxnet-apache-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 642
+    },
+    {
+      "id": "my-oschina-net",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2154
+    },
+    {
+      "id": "naiveadmin-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 893
+    },
+    {
+      "id": "oci-pronghorn-gitbook-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1196
+    },
+    {
+      "id": "oreports-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 128
+    },
+    {
+      "id": "paymentcomponents-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 774
+    },
+    {
+      "id": "petite-jodd-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 873
+    },
+    {
+      "id": "pnfsoftware-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 194
+    },
+    {
+      "id": "primeton-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1805
+    },
+    {
+      "id": "props-jodd-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 864
+    },
+    {
+      "id": "proxetta-jodd-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 882
+    },
+    {
+      "id": "pulse-commerce-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 783
+    },
+    {
+      "id": "repsy-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 120
+    },
+    {
+      "id": "romaframework-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1030
+    },
+    {
+      "id": "sanguinesoftwares-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1116
+    },
+    {
+      "id": "sencha-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 998
+    },
+    {
+      "id": "shopjsp-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2844
+    },
+    {
+      "id": "springboot-generator-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 895
+    },
+    {
+      "id": "structure101-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 877
+    },
+    {
+      "id": "teambition-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1444
+    },
+    {
+      "id": "tech-meituan-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1231
+    },
+    {
+      "id": "threadmine-dev",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 516
+    },
+    {
+      "id": "tjf-totvs-com-br",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 217
+    },
+    {
+      "id": "tmaxsoft-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1582
+    },
+    {
+      "id": "tongtech-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 3706
+    },
+    {
+      "id": "tridium-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 422
+    },
+    {
+      "id": "vatrasoft-de",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 405
+    },
+    {
+      "id": "vidocq-dev",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 126
+    },
+    {
+      "id": "visionx-sibvisions-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2679
+    },
+    {
+      "id": "visual-paradigm-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 549
+    },
+    {
+      "id": "wiki-mozilla-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 119
+    },
+    {
+      "id": "wiki-wocommunity-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2493
+    },
+    {
+      "id": "zhuanlan-zhihu-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1083
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-04T05:01:12Z",
-  "total_nodes": 429,
+  "updated_at": "2026-11-04T13:58:42Z",
+  "total_nodes": 513,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5470,6 +5470,1098 @@
           "id": "hub-glowp-xyz",
           "name": "Hub",
           "url": "https://hub.glowp.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "adv-co-jp",
+          "name": "Adv",
+          "url": "https://adv.co.jp",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agitar-com",
+          "name": "Agitar",
+          "url": "https://agitar.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "akiroio-com",
+          "name": "Akiroio",
+          "url": "https://akiroio.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "appdynamics-com",
+          "name": "Appdynamics",
+          "url": "https://appdynamics.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "axibase-com",
+          "name": "Axibase",
+          "url": "https://axibase.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "axonivy-com",
+          "name": "Axonivy",
+          "url": "https://axonivy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bestofbi-com",
+          "name": "Bestofbi",
+          "url": "https://bestofbi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bisguard-com",
+          "name": "Bisguard",
+          "url": "https://bisguard.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cloud-google-com",
+          "name": "Cloud",
+          "url": "https://cloud.google.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "clougence-com",
+          "name": "Clougence",
+          "url": "https://clougence.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "code-usgs-gov",
+          "name": "Code",
+          "url": "https://code.usgs.gov",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "core-telegram-org",
+          "name": "Core",
+          "url": "https://core.telegram.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cs-waikato-ac-nz",
+          "name": "Cs",
+          "url": "https://cs.waikato.ac.nz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "datamelt-org",
+          "name": "Datamelt",
+          "url": "https://datamelt.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "datastax-com",
+          "name": "Datastax",
+          "url": "https://datastax.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "datomic-com",
+          "name": "Datomic",
+          "url": "https://datomic.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "db-jodd-org",
+          "name": "Db",
+          "url": "https://db.jodd.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dbschema-com",
+          "name": "Dbschema",
+          "url": "https://dbschema.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "developer-jdcloud-com",
+          "name": "Developer",
+          "url": "https://developer.jdcloud.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "doc-sibvisions-com",
+          "name": "Doc",
+          "url": "https://doc.sibvisions.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "docs-chartsql-com",
+          "name": "Docs",
+          "url": "https://docs.chartsql.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "docs-tibco-com",
+          "name": "Docs",
+          "url": "https://docs.tibco.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "drjava-org",
+          "name": "Drjava",
+          "url": "https://drjava.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "easyxls-com",
+          "name": "Easyxls",
+          "url": "https://easyxls.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "eclipse-dev",
+          "name": "Eclipse",
+          "url": "https://eclipse.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "f2bpm-com",
+          "name": "F2bpm",
+          "url": "https://f2bpm.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "forgerock-com",
+          "name": "Forgerock",
+          "url": "https://forgerock.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitlab-ow2-org",
+          "name": "Gitlab",
+          "url": "https://gitlab.ow2.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitlab-pasteur-fr",
+          "name": "Gitlab",
+          "url": "https://gitlab.pasteur.fr",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gradle-org",
+          "name": "Gradle",
+          "url": "https://gradle.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "grafana-nav-cloud-nais-io",
+          "name": "Grafana",
+          "url": "https://grafana.nav.cloud.nais.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "groovy-lang-org",
+          "name": "Groovy-lang",
+          "url": "https://groovy-lang.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gvsu-edu",
+          "name": "Gvsu",
+          "url": "https://gvsu.edu",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "infoq-cn",
+          "name": "Infoq",
+          "url": "https://infoq.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "informat-cn",
+          "name": "Informat",
+          "url": "https://informat.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ireasoning-com",
+          "name": "Ireasoning",
+          "url": "https://ireasoning.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "isi-edu",
+          "name": "Isi",
+          "url": "https://isi.edu",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jadasite-com",
+          "name": "Jadasite",
+          "url": "https://jadasite.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jahia-com",
+          "name": "Jahia",
+          "url": "https://jahia.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jboltai-com",
+          "name": "Jboltai",
+          "url": "https://jboltai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jfxstore-com",
+          "name": "Jfxstore",
+          "url": "https://jfxstore.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jonas-ow2-org",
+          "name": "Jonas",
+          "url": "https://jonas.ow2.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jpro-one",
+          "name": "Jpro",
+          "url": "https://jpro.one",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kalix-io",
+          "name": "Kalix",
+          "url": "https://kalix.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lagarto-jodd-org",
+          "name": "Lagarto",
+          "url": "https://lagarto.jodd.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "libusb-java-ch",
+          "name": "Libusb-java",
+          "url": "https://libusb-java.ch",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lightlycode-com",
+          "name": "Lightlycode",
+          "url": "https://lightlycode.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lkkushan-gitbook-io",
+          "name": "Lkkushan",
+          "url": "https://lkkushan.gitbook.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "maplesoft-com",
+          "name": "Maplesoft",
+          "url": "https://maplesoft.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mdma-dev",
+          "name": "Mdma",
+          "url": "https://mdma.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mt4j-org",
+          "name": "Mt4j",
+          "url": "https://mt4j.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mxnet-apache-org",
+          "name": "Mxnet",
+          "url": "https://mxnet.apache.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "my-oschina-net",
+          "name": "My",
+          "url": "https://my.oschina.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "naiveadmin-com",
+          "name": "Naiveadmin",
+          "url": "https://naiveadmin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "oci-pronghorn-gitbook-io",
+          "name": "Oci-pronghorn",
+          "url": "https://oci-pronghorn.gitbook.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "oreports-com",
+          "name": "Oreports",
+          "url": "https://oreports.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "paymentcomponents-com",
+          "name": "Paymentcomponents",
+          "url": "https://paymentcomponents.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "petite-jodd-org",
+          "name": "Petite",
+          "url": "https://petite.jodd.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pnfsoftware-com",
+          "name": "Pnfsoftware",
+          "url": "https://pnfsoftware.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "primeton-com",
+          "name": "Primeton",
+          "url": "https://primeton.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "props-jodd-org",
+          "name": "Props",
+          "url": "https://props.jodd.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "proxetta-jodd-org",
+          "name": "Proxetta",
+          "url": "https://proxetta.jodd.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pulse-commerce-com",
+          "name": "Pulse-commerce",
+          "url": "https://pulse-commerce.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "repsy-io",
+          "name": "Repsy",
+          "url": "https://repsy.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "romaframework-org",
+          "name": "Romaframework",
+          "url": "https://romaframework.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "sanguinesoftwares-com",
+          "name": "Sanguinesoftwares",
+          "url": "https://sanguinesoftwares.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "sencha-com",
+          "name": "Sencha",
+          "url": "https://sencha.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "shopjsp-com",
+          "name": "Shopjsp",
+          "url": "https://shopjsp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "springboot-generator-com",
+          "name": "Springboot-generator",
+          "url": "https://springboot-generator.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "structure101-com",
+          "name": "Structure101",
+          "url": "https://structure101.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "teambition-com",
+          "name": "Teambition",
+          "url": "https://teambition.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tech-meituan-com",
+          "name": "Tech",
+          "url": "https://tech.meituan.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "threadmine-dev",
+          "name": "Threadmine",
+          "url": "https://threadmine.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tjf-totvs-com-br",
+          "name": "Tjf",
+          "url": "https://tjf.totvs.com.br",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tmaxsoft-com",
+          "name": "Tmaxsoft",
+          "url": "https://tmaxsoft.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tongtech-com",
+          "name": "Tongtech",
+          "url": "https://tongtech.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tridium-com",
+          "name": "Tridium",
+          "url": "https://tridium.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vatrasoft-de",
+          "name": "Vatrasoft",
+          "url": "https://vatrasoft.de",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vidocq-dev",
+          "name": "Vidocq",
+          "url": "https://vidocq.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "visionx-sibvisions-com",
+          "name": "Visionx",
+          "url": "https://visionx.sibvisions.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "visual-paradigm-com",
+          "name": "Visual-paradigm",
+          "url": "https://visual-paradigm.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wiki-mozilla-org",
+          "name": "Wiki",
+          "url": "https://wiki.mozilla.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wiki-wocommunity-org",
+          "name": "Wiki",
+          "url": "https://wiki.wocommunity.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zhuanlan-zhihu-com",
+          "name": "Zhuanlan",
+          "url": "https://zhuanlan.zhihu.com",
           "supports": [
             "release",
             "archive",
