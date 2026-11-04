@@ -1,60 +1,33 @@
 {
-  "generated_at": "2026-11-03T22:59:57Z",
+  "generated_at": "2026-11-04T05:01:12Z",
   "changes": [
     {
-      "id": "ghproxy-net",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 631
+      "latency": 2082
     },
     {
-      "id": "aistudio-google-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 528
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 202
     },
     {
-      "id": "eng-3385e-firebaseapp-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 140
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 899
     },
     {
-      "id": "eng-3385e-web-app",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 148
-    },
-    {
-      "id": "gh-404cafe-fun",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 207
-    },
-    {
-      "id": "gh-noki-eu-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 676
-    },
-    {
-      "id": "gh-sixyin-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 497
-    },
-    {
-      "id": "ghproxy-vip",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 158
-    },
-    {
-      "id": "hub-glowp-xyz",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 496
+      "id": "worldofclaudecraft-com",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
     }
   ]
 }

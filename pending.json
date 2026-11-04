@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-03T22:59:57Z",
+  "updated_at": "2026-11-04T05:01:12Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -27285,6 +27285,66 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-03T22:55:54Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-emdashcms-com",
+      "name": "Docs",
+      "url": "https://docs.emdashcms.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-04T04:56:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forgejo-perny-dev",
+      "name": "Forgejo",
+      "url": "https://forgejo.perny.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-04T04:56:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "maplecode-art",
+      "name": "Maplecode",
+      "url": "https://maplecode.art",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-04T04:56:30Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "studio-hudkit-net",
+      "name": "Studio",
+      "url": "https://studio.hudkit.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-04T04:56:30Z",
       "source": "auto_sync"
     }
   ]

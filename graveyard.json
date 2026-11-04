@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-03T00:39:02Z",
+  "updated_at": "2026-11-04T05:01:12Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -841,6 +841,23 @@
       "removed_at": "2026-11-03T00:39:02Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-25T15:39:56Z"
+    },
+    {
+      "id": "worldofclaudecraft-com",
+      "name": "Worldofclaudecraft",
+      "url": "https://worldofclaudecraft.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-04T05:01:12Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-26T12:22:34Z"
     }
   ]
 }
