@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-04T23:20:36Z",
+  "updated_at": "2026-11-05T05:24:07Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -21723,21 +21723,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "vulnetix-com",
-      "name": "Vulnetix",
-      "url": "https://vulnetix.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "walicode-xiaofuge-cn",
       "name": "Walicode",
       "url": "https://walicode.xiaofuge.cn",
@@ -37155,6 +37140,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-04T23:14:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-gateway-example",
+      "name": "Git-gateway",
+      "url": "https://git-gateway.example",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T05:16:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "man-openbsd-org",
+      "name": "Man",
+      "url": "https://man.openbsd.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T05:16:38Z",
       "source": "auto_sync"
     }
   ]

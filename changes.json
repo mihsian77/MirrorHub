@@ -1,42 +1,53 @@
 {
-  "generated_at": "2026-11-04T23:20:36Z",
+  "generated_at": "2026-11-05T05:24:07Z",
   "changes": [
     {
-      "id": "gh-dpik-top",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 468
+      "latency": 445
     },
     {
-      "id": "chatgpt-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 122
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 212
     },
     {
-      "id": "jwebmp-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 285
+      "id": "git-669966-xyz",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1919
     },
     {
-      "id": "cdn-gh-proxy-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 202
+      "id": "axonhub-onrender-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 298
     },
     {
-      "id": "edgeone-gh-proxy-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 138
+      "id": "drjava-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 938
     },
     {
-      "id": "ghproxy-it",
+      "id": "groovy-lang-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 773
+    },
+    {
+      "id": "vulnetix-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 558
+      "latency": 1106
     }
   ]
 }

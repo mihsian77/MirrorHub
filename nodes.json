@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-04T23:20:36Z",
-  "total_nodes": 518,
+  "updated_at": "2026-11-05T05:24:07Z",
+  "total_nodes": 519,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6627,6 +6627,19 @@
           "id": "ghproxy-it",
           "name": "Ghproxy",
           "url": "https://ghproxy.it",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vulnetix-com",
+          "name": "Vulnetix",
+          "url": "https://vulnetix.com",
           "supports": [
             "release",
             "archive",
