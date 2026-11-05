@@ -1,53 +1,76 @@
 {
-  "generated_at": "2026-11-05T05:24:07Z",
+  "generated_at": "2026-11-05T14:08:37Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "proxy-vvvv-ee",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 445
+      "latency": 853
     },
     {
-      "id": "gh-idayer-com",
+      "id": "mobilevc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 212
+      "latency": 1235
     },
     {
-      "id": "git-669966-xyz",
+      "id": "adult-contents-fc2-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1919
+      "latency": 449
     },
     {
-      "id": "axonhub-onrender-com",
+      "id": "proxy-scdn-io",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 298
+      "latency": 709
     },
     {
-      "id": "drjava-org",
+      "id": "lightlycode-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 938
+      "latency": 3515
     },
     {
-      "id": "groovy-lang-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 773
-    },
-    {
-      "id": "vulnetix-com",
+      "id": "web4j-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 1106
+      "latency": 137
+    },
+    {
+      "id": "4kf9kfxujfhg2-space-mcode-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1396
+    },
+    {
+      "id": "app-snowflake-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 31
+    },
+    {
+      "id": "community-snowflake-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 642
+    },
+    {
+      "id": "npmmirror-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1188
+    },
+    {
+      "id": "taigi-life-islands-cjs-1359-chatgpt-site",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 185
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-05T05:24:07Z",
+  "updated_at": "2026-11-05T14:08:37Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -36633,21 +36633,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "web4j-com",
-      "name": "Web4j",
-      "url": "https://web4j.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "webdavsystem-com",
       "name": "Webdavsystem",
       "url": "https://webdavsystem.com",
@@ -37170,6 +37155,186 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-05T05:16:38Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ai-api-d-robotics-cc",
+      "name": "Ai-api",
+      "url": "https://ai-api.d-robotics.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "archive-d-robotics-cc",
+      "name": "Archive",
+      "url": "https://archive.d-robotics.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-d-robotics-cc",
+      "name": "Developer",
+      "url": "https://developer.d-robotics.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gw-example",
+      "name": "Gw",
+      "url": "https://gw.example",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lol-sw-game-qq-com",
+      "name": "Lol",
+      "url": "https://lol.sw.game.qq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lpl-qq-com",
+      "name": "Lpl",
+      "url": "https://lpl.qq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pixi-sh",
+      "name": "Pixi",
+      "url": "https://pixi.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sdk-d-robotics-cc",
+      "name": "Sdk",
+      "url": "https://sdk.d-robotics.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "snowsight-mycorp-test",
+      "name": "Snowsight",
+      "url": "https://snowsight.mycorp.test",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "travis-ci-com",
+      "name": "Travis-ci",
+      "url": "https://travis-ci.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vv-video-qq-com",
+      "name": "Vv",
+      "url": "https://vv.video.qq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wakatime-com",
+      "name": "Wakatime",
+      "url": "https://wakatime.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-05T14:01:47Z",
       "source": "auto_sync"
     }
   ]

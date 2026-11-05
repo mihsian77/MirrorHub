@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-05T05:24:07Z",
-  "total_nodes": 519,
+  "updated_at": "2026-11-05T14:08:37Z",
+  "total_nodes": 525,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6640,6 +6640,84 @@
           "id": "vulnetix-com",
           "name": "Vulnetix",
           "url": "https://vulnetix.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "web4j-com",
+          "name": "Web4j",
+          "url": "https://web4j.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "4kf9kfxujfhg2-space-mcode-cn",
+          "name": "4kf9kfxujfhg2",
+          "url": "https://4kf9kfxujfhg2.space.mcode.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-snowflake-com",
+          "name": "App",
+          "url": "https://app.snowflake.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "community-snowflake-com",
+          "name": "Community",
+          "url": "https://community.snowflake.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "npmmirror-com",
+          "name": "Npmmirror",
+          "url": "https://npmmirror.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "taigi-life-islands-cjs-1359-chatgpt-site",
+          "name": "Taigi-life-islands",
+          "url": "https://taigi-life-islands.cjs-1359.chatgpt.site",
           "supports": [
             "release",
             "archive",
