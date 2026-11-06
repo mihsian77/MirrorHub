@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-06T05:22:27Z",
-  "total_nodes": 526,
+  "updated_at": "2026-11-06T13:53:19Z",
+  "total_nodes": 528,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -3312,19 +3312,6 @@
           "id": "heycall-e-com",
           "name": "Heycall-e",
           "url": "https://heycall-e.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "holyclaude-coderluii-dev",
-          "name": "Holyclaude",
-          "url": "https://holyclaude.coderluii.dev",
           "supports": [
             "release",
             "archive",
@@ -6731,6 +6718,45 @@
           "id": "104-com-tw",
           "name": "104",
           "url": "https://104.com.tw",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "doubao-com",
+          "name": "Doubao",
+          "url": "https://doubao.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "douyin-com",
+          "name": "Douyin",
+          "url": "https://douyin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vt-tiktok-com",
+          "name": "Vt",
+          "url": "https://vt.tiktok.com",
           "supports": [
             "release",
             "archive",

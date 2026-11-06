@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-04T05:01:12Z",
+  "updated_at": "2026-11-06T13:53:19Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -858,6 +858,23 @@
       "removed_at": "2026-11-04T05:01:12Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-26T12:22:34Z"
+    },
+    {
+      "id": "holyclaude-coderluii-dev",
+      "name": "Holyclaude",
+      "url": "https://holyclaude.coderluii.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-06T13:53:19Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-28T04:18:29Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-06T05:22:27Z",
+  "updated_at": "2026-11-06T13:53:19Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -37350,6 +37350,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-06T05:16:05Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "df-loki-delve-office-com",
+      "name": "Df",
+      "url": "https://df.loki.delve.office.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-06T13:46:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "iesdouyin-com",
+      "name": "Iesdouyin",
+      "url": "https://iesdouyin.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-06T13:46:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "instagram-com",
+      "name": "Instagram",
+      "url": "https://instagram.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-06T13:46:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kuaishou-com",
+      "name": "Kuaishou",
+      "url": "https://kuaishou.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-06T13:46:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "loki-delve-office-com",
+      "name": "Loki",
+      "url": "https://loki.delve.office.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-06T13:46:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "msit-loki-delve-office-com",
+      "name": "Msit",
+      "url": "https://msit.loki.delve.office.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-06T13:46:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "v-kuaishou-com",
+      "name": "V",
+      "url": "https://v.kuaishou.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-06T13:46:23Z",
       "source": "auto_sync"
     }
   ]
