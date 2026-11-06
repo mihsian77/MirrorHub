@@ -1,76 +1,53 @@
 {
-  "generated_at": "2026-11-05T14:08:37Z",
+  "generated_at": "2026-11-06T05:22:27Z",
   "changes": [
     {
-      "id": "proxy-vvvv-ee",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 853
+      "latency": 1203
     },
     {
-      "id": "mobilevc-top",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1235
+      "latency": 178
     },
     {
-      "id": "adult-contents-fc2-com",
+      "id": "git-tangbai-cc",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 449
+      "latency": 631
     },
     {
-      "id": "proxy-scdn-io",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 709
+      "latency": 7593
     },
     {
-      "id": "lightlycode-com",
+      "id": "axonhub-onrender-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3515
+      "latency": 150
     },
     {
-      "id": "web4j-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 137
+      "id": "jpro-one",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 648
     },
     {
-      "id": "4kf9kfxujfhg2-space-mcode-cn",
+      "id": "104-com-tw",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 1396
-    },
-    {
-      "id": "app-snowflake-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 31
-    },
-    {
-      "id": "community-snowflake-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 642
-    },
-    {
-      "id": "npmmirror-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1188
-    },
-    {
-      "id": "taigi-life-islands-cjs-1359-chatgpt-site",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 185
+      "latency": 1234
     }
   ]
 }

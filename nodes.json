@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-05T14:08:37Z",
-  "total_nodes": 525,
+  "updated_at": "2026-11-06T05:22:27Z",
+  "total_nodes": 526,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6718,6 +6718,19 @@
           "id": "taigi-life-islands-cjs-1359-chatgpt-site",
           "name": "Taigi-life-islands",
           "url": "https://taigi-life-islands.cjs-1359.chatgpt.site",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "104-com-tw",
+          "name": "104",
+          "url": "https://104.com.tw",
           "supports": [
             "release",
             "archive",
