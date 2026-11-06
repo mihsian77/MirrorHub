@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-06T13:53:19Z",
+  "updated_at": "2026-11-06T22:51:15Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -15486,21 +15486,6 @@
       "id": "ion-rogerluo-dev",
       "name": "Ion",
       "url": "https://ion.rogerluo.dev",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "ipaslogo-com",
-      "name": "Ipaslogo",
-      "url": "https://ipaslogo.com",
       "supports": [
         "release",
         "archive",
@@ -37398,21 +37383,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "kuaishou-com",
-      "name": "Kuaishou",
-      "url": "https://kuaishou.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-06T13:46:23Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "loki-delve-office-com",
       "name": "Loki",
       "url": "https://loki.delve.office.com",
@@ -37455,6 +37425,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-06T13:46:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "doco-cd",
+      "name": "Doco",
+      "url": "https://doco.cd",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-06T22:44:15Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "duckdb-org",
+      "name": "Duckdb",
+      "url": "https://duckdb.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-06T22:44:15Z",
       "source": "auto_sync"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-06T13:53:19Z",
-  "total_nodes": 528,
+  "updated_at": "2026-11-06T22:51:15Z",
+  "total_nodes": 530,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6757,6 +6757,32 @@
           "id": "vt-tiktok-com",
           "name": "Vt",
           "url": "https://vt.tiktok.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ipaslogo-com",
+          "name": "Ipaslogo",
+          "url": "https://ipaslogo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kuaishou-com",
+          "name": "Kuaishou",
+          "url": "https://kuaishou.com",
           "supports": [
             "release",
             "archive",

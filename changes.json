@@ -1,44 +1,52 @@
 {
-  "generated_at": "2026-11-06T13:53:19Z",
+  "generated_at": "2026-11-06T22:51:15Z",
   "changes": [
     {
-      "id": "proxy-vvvv-ee",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 279
+      "latency": 1230
     },
     {
-      "id": "fastgpt-leez-tech",
+      "id": "comfyit-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 264
+      "latency": 679
     },
     {
-      "id": "holyclaude-coderluii-dev",
-      "type": "dead",
+      "id": "ygdj7-com",
+      "type": "recovered",
       "from": "unstable",
-      "to": "dead",
-      "failures": 28
+      "to": "online",
+      "latency": 594
     },
     {
-      "id": "doubao-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1894
+      "id": "axonhub-onrender-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 181
     },
     {
-      "id": "douyin-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 2026
+      "id": "gitlab-phaidra-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1538
     },
     {
-      "id": "vt-tiktok-com",
+      "id": "ipaslogo-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 829
+      "latency": 357
+    },
+    {
+      "id": "kuaishou-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 3750
     }
   ]
 }
