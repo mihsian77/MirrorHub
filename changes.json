@@ -1,115 +1,66 @@
 {
-  "generated_at": "2026-11-07T12:36:22Z",
+  "generated_at": "2026-11-07T21:35:11Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "g-blfrp-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 883
+      "latency": 1134
     },
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "gh-b52m-cn",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "code-leez-tech",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 9029
+      "latency": 218
     },
     {
-      "id": "proxy-vvvv-ee",
+      "id": "status-leez-tech",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 433
+      "latency": 225
     },
     {
-      "id": "demo-nocobase-com",
+      "id": "internhack-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 666
+      "latency": 842
     },
     {
-      "id": "docs-cloudbase-net",
+      "id": "youtu-be",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1507
+      "latency": 284
     },
     {
-      "id": "honeymeta-com",
+      "id": "jwebmp-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1165
+      "latency": 7660
     },
     {
-      "id": "jinguyuan-cloud",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1359
-    },
-    {
-      "id": "nikkigallery-vip",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1365
-    },
-    {
-      "id": "adult-contents-fc2-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 456
-    },
-    {
-      "id": "5555-cab",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 9450
-    },
-    {
-      "id": "lightlycode-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2428
-    },
-    {
-      "id": "shopjsp-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2623
-    },
-    {
-      "id": "tridium-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 393
-    },
-    {
-      "id": "4kf9kfxujfhg2-space-mcode-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2039
-    },
-    {
-      "id": "bsr-twse-com-tw",
+      "id": "unhaut-epizy-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 779
+      "latency": 638
     },
     {
-      "id": "mopsov-twse-com-tw",
+      "id": "wiki-easyrpg-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 779
+      "latency": 607
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-07T12:36:22Z",
+  "updated_at": "2026-11-07T21:35:11Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -37515,6 +37515,201 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-07T12:29:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ci-easyrpg-org",
+      "name": "Ci",
+      "url": "https://ci.easyrpg.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "community-easyrpg-org",
+      "name": "Community",
+      "url": "https://community.easyrpg.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "easyrpg-org",
+      "name": "Easyrpg",
+      "url": "https://easyrpg.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "homebrewloongarch64-site",
+      "name": "Homebrewloongarch64",
+      "url": "https://homebrewloongarch64.site",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hubp-tbedu-top",
+      "name": "Hubp",
+      "url": "https://hubp.tbedu.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "incompetech-com",
+      "name": "Incompetech",
+      "url": "https://incompetech.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kiwiirc-com",
+      "name": "Kiwiirc",
+      "url": "https://kiwiirc.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kldp-net",
+      "name": "Kldp",
+      "url": "https://kldp.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "librosa-org",
+      "name": "Librosa",
+      "url": "https://librosa.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "loongson-cn",
+      "name": "Loongson",
+      "url": "https://loongson.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openlab-ring-gr-jp",
+      "name": "Openlab",
+      "url": "https://openlab.ring.gr.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "people-mpi-inf-mpg-de",
+      "name": "People",
+      "url": "https://people.mpi-inf.mpg.de",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wenq-org",
+      "name": "Wenq",
+      "url": "https://wenq.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T21:28:35Z",
       "source": "auto_sync"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-07T12:36:22Z",
-  "total_nodes": 532,
+  "updated_at": "2026-11-07T21:35:11Z",
+  "total_nodes": 533,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -738,19 +738,6 @@
           "id": "tvv-tw",
           "name": "Tvv",
           "url": "https://tvv.tw",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "gh-b52m-cn",
-          "name": "Gh",
-          "url": "https://gh.b52m.cn",
           "supports": [
             "release",
             "archive",
@@ -6809,6 +6796,32 @@
           "id": "mopsov-twse-com-tw",
           "name": "Mopsov",
           "url": "https://mopsov.twse.com.tw",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "unhaut-epizy-com",
+          "name": "Unhaut",
+          "url": "https://unhaut.epizy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wiki-easyrpg-org",
+          "name": "Wiki",
+          "url": "https://wiki.easyrpg.org",
           "supports": [
             "release",
             "archive",
