@@ -1,52 +1,40 @@
 {
-  "generated_at": "2026-11-06T22:51:15Z",
+  "generated_at": "2026-11-07T04:54:20Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1230
+      "latency": 1144
     },
     {
-      "id": "comfyit-cn",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 679
+      "latency": 257
     },
     {
-      "id": "ygdj7-com",
+      "id": "groovy-lang-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 594
+      "latency": 725
     },
     {
-      "id": "axonhub-onrender-com",
+      "id": "mdma-dev",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 181
+      "latency": 419
     },
     {
-      "id": "gitlab-phaidra-org",
+      "id": "gitclone-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1538
-    },
-    {
-      "id": "ipaslogo-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 357
-    },
-    {
-      "id": "kuaishou-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 3750
+      "latency": 1455
     }
   ]
 }

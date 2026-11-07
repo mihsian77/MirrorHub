@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-06T22:51:15Z",
+  "updated_at": "2026-11-07T04:54:20Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -37455,6 +37455,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-06T22:44:15Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-npmjs-com",
+      "name": "Docs",
+      "url": "https://docs.npmjs.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T04:46:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gruntjs-com",
+      "name": "Gruntjs",
+      "url": "https://gruntjs.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T04:46:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "js-dos-com",
+      "name": "Js-dos",
+      "url": "https://js-dos.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T04:46:36Z",
       "source": "auto_sync"
     }
   ]
