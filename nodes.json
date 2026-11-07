@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-07T04:54:20Z",
-  "total_nodes": 530,
+  "updated_at": "2026-11-07T12:36:22Z",
+  "total_nodes": 532,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6783,6 +6783,32 @@
           "id": "kuaishou-com",
           "name": "Kuaishou",
           "url": "https://kuaishou.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bsr-twse-com-tw",
+          "name": "Bsr",
+          "url": "https://bsr.twse.com.tw",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mopsov-twse-com-tw",
+          "name": "Mopsov",
+          "url": "https://mopsov.twse.com.tw",
           "supports": [
             "release",
             "archive",

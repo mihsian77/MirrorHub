@@ -1,40 +1,115 @@
 {
-  "generated_at": "2026-11-07T04:54:20Z",
+  "generated_at": "2026-11-07T12:36:22Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1144
+      "latency": 883
     },
     {
-      "id": "gh-idayer-com",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 257
+      "latency": 9029
     },
     {
-      "id": "groovy-lang-org",
+      "id": "proxy-vvvv-ee",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 725
+      "latency": 433
     },
     {
-      "id": "mdma-dev",
+      "id": "demo-nocobase-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 419
+      "latency": 666
     },
     {
-      "id": "gitclone-com",
+      "id": "docs-cloudbase-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1455
+      "latency": 1507
+    },
+    {
+      "id": "honeymeta-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1165
+    },
+    {
+      "id": "jinguyuan-cloud",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1359
+    },
+    {
+      "id": "nikkigallery-vip",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1365
+    },
+    {
+      "id": "adult-contents-fc2-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 456
+    },
+    {
+      "id": "5555-cab",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 9450
+    },
+    {
+      "id": "lightlycode-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2428
+    },
+    {
+      "id": "shopjsp-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2623
+    },
+    {
+      "id": "tridium-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 393
+    },
+    {
+      "id": "4kf9kfxujfhg2-space-mcode-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2039
+    },
+    {
+      "id": "bsr-twse-com-tw",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 779
+    },
+    {
+      "id": "mopsov-twse-com-tw",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 779
     }
   ]
 }

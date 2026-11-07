@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-07T04:54:20Z",
+  "updated_at": "2026-11-07T12:36:22Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -1665,21 +1665,6 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-09T02:48:02Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "bsr-twse-com-tw",
-      "name": "Bsr",
-      "url": "https://bsr.twse.com.tw",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T04:42:27Z",
       "source": "auto_sync"
     },
     {
@@ -25068,21 +25053,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "mopsov-twse-com-tw",
-      "name": "Mopsov",
-      "url": "https://mopsov.twse.com.tw",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-28T12:10:36Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "murmur-proxy-you-workers-dev",
       "name": "Murmur-proxy",
       "url": "https://murmur-proxy.you.workers.dev",
@@ -37500,6 +37470,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-07T04:46:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-nvidia-com",
+      "name": "Docs",
+      "url": "https://docs.nvidia.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T12:29:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "insta360-com",
+      "name": "Insta360",
+      "url": "https://insta360.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T12:29:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pspagnolo-jimdofree-com",
+      "name": "Pspagnolo",
+      "url": "https://pspagnolo.jimdofree.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-07T12:29:59Z",
       "source": "auto_sync"
     }
   ]
