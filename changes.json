@@ -1,53 +1,51 @@
 {
-  "generated_at": "2026-11-08T12:55:35Z",
+  "generated_at": "2026-11-08T21:48:36Z",
   "changes": [
     {
-      "id": "gh-nxnow-top",
+      "id": "gh-llkk-cc",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 329
+      "latency": 5626
     },
     {
-      "id": "proxy-vvvv-ee",
+      "id": "comfyit-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 451
+      "latency": 983
     },
     {
-      "id": "pan-quark-cn",
+      "id": "lightlycode-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3327
+      "latency": 2190
     },
     {
-      "id": "readsync-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 91
-    },
-    {
-      "id": "adult-contents-fc2-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 516
-    },
-    {
-      "id": "4kf9kfxujfhg2-space-mcode-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1405
-    },
-    {
-      "id": "dsh-jiangjiangze-icu",
+      "id": "drupal-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 88
+      "latency": 236
+    },
+    {
+      "id": "git-drupalcode-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 179
+    },
+    {
+      "id": "twitch-tv",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 112
     }
   ]
 }

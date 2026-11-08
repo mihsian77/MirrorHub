@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-08T12:55:35Z",
+  "updated_at": "2026-11-08T21:48:36Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -37875,6 +37875,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-08T12:48:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "oreki-net",
+      "name": "Oreki",
+      "url": "https://oreki.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T21:42:03Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xn--kpuo4jd6z-cn",
+      "name": "Xn--kpuo4jd6z",
+      "url": "https://xn--kpuo4jd6z.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T21:42:03Z",
       "source": "auto_sync"
     }
   ]

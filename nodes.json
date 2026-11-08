@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-08T12:55:35Z",
-  "total_nodes": 532,
+  "updated_at": "2026-11-08T21:48:36Z",
+  "total_nodes": 534,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -200,19 +200,6 @@
             "raw",
             "clone"
           ]
-        },
-        {
-          "id": "gh-llkk-cc",
-          "name": "Gh",
-          "url": "https://gh.llkk.cc",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
         },
         {
           "id": "wget-la",
@@ -6809,6 +6796,45 @@
           "id": "dsh-jiangjiangze-icu",
           "name": "Dsh",
           "url": "https://dsh.jiangjiangze.icu",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "drupal-com",
+          "name": "Drupal",
+          "url": "https://drupal.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "git-drupalcode-org",
+          "name": "Git",
+          "url": "https://git.drupalcode.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "twitch-tv",
+          "name": "Twitch",
+          "url": "https://twitch.tv",
           "supports": [
             "release",
             "archive",
