@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-08T04:43:26Z",
+  "updated_at": "2026-11-08T12:55:35Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -37755,6 +37755,126 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-08T04:37:02Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "a-ruri-com",
+      "name": "A-ruri",
+      "url": "https://a-ruri.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T12:48:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-edik-cn",
+      "name": "Git",
+      "url": "https://git.edik.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T12:48:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "isocpp-org",
+      "name": "Isocpp",
+      "url": "https://isocpp.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T12:48:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "live-sysinternals-com",
+      "name": "Live",
+      "url": "https://live.sysinternals.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T12:48:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nologin-tools",
+      "name": "Nologin",
+      "url": "https://nologin.tools",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T12:48:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "q23213ddssd-dpdns-org",
+      "name": "Q23213ddssd",
+      "url": "https://q23213ddssd.dpdns.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T12:48:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tjwiki-com",
+      "name": "Tjwiki",
+      "url": "https://tjwiki.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T12:48:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "your-domain",
+      "name": "Your",
+      "url": "https://your.domain",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T12:48:43Z",
       "source": "auto_sync"
     }
   ]

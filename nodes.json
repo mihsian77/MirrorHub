@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-08T04:43:26Z",
-  "total_nodes": 531,
+  "updated_at": "2026-11-08T12:55:35Z",
+  "total_nodes": 532,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6796,6 +6796,19 @@
           "id": "wiki-easyrpg-org",
           "name": "Wiki",
           "url": "https://wiki.easyrpg.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dsh-jiangjiangze-icu",
+          "name": "Dsh",
+          "url": "https://dsh.jiangjiangze.icu",
           "supports": [
             "release",
             "archive",
