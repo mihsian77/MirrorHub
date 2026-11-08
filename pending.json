@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-07T21:35:11Z",
+  "updated_at": "2026-11-08T04:43:26Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -37710,6 +37710,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-07T21:28:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bonnie-studios-itch-io",
+      "name": "Bonnie-studios",
+      "url": "https://bonnie-studios.itch.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T04:37:02Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gh-b52m-cn",
+      "name": "Gh",
+      "url": "https://gh.b52m.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T04:37:02Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "github-upload-proxy-d-pn",
+      "name": "Github-upload-proxy",
+      "url": "https://github-upload-proxy.d.pn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-08T04:37:02Z",
       "source": "auto_sync"
     }
   ]

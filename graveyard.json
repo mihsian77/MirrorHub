@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-07T21:35:11Z",
+  "updated_at": "2026-11-08T04:43:26Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -892,6 +892,40 @@
       "removed_at": "2026-11-07T21:35:11Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-29T12:26:07Z"
+    },
+    {
+      "id": "nssurge-com",
+      "name": "Nssurge",
+      "url": "https://nssurge.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-08T04:43:26Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-29T22:33:15Z"
+    },
+    {
+      "id": "aomedia-issues-chromium-org",
+      "name": "Aomedia",
+      "url": "https://aomedia.issues.chromium.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-08T04:43:26Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-29T22:33:15Z"
     }
   ]
 }

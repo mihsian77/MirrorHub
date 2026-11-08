@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-07T21:35:11Z",
-  "total_nodes": 533,
+  "updated_at": "2026-11-08T04:43:26Z",
+  "total_nodes": 531,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1502,19 +1502,6 @@
           "source": "auto_sync"
         },
         {
-          "id": "nssurge-com",
-          "name": "Nssurge",
-          "url": "https://nssurge.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
           "id": "radio-browser-info",
           "name": "Radio-browser",
           "url": "https://radio-browser.info",
@@ -1713,19 +1700,6 @@
           "id": "twitter-com",
           "name": "Twitter",
           "url": "https://twitter.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "aomedia-issues-chromium-org",
-          "name": "Aomedia",
-          "url": "https://aomedia.issues.chromium.org",
           "supports": [
             "release",
             "archive",
