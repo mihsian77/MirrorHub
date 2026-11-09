@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-08T21:48:36Z",
-  "total_nodes": 534,
+  "updated_at": "2026-11-09T04:54:00Z",
+  "total_nodes": 536,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6835,6 +6835,32 @@
           "id": "twitch-tv",
           "name": "Twitch",
           "url": "https://twitch.tv",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "anyplot-ai",
+          "name": "Anyplot",
+          "url": "https://anyplot.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "support-iluvatar-com",
+          "name": "Support",
+          "url": "https://support.iluvatar.com",
           "supports": [
             "release",
             "archive",

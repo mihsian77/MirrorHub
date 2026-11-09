@@ -1,51 +1,59 @@
 {
-  "generated_at": "2026-11-08T21:48:36Z",
+  "generated_at": "2026-11-09T04:54:00Z",
   "changes": [
     {
-      "id": "gh-llkk-cc",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "proxy-yaoyaoling-net",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5626
+      "latency": 334
     },
     {
-      "id": "comfyit-cn",
+      "id": "gh-nxnow-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 983
+      "latency": 122
     },
     {
-      "id": "lightlycode-com",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2190
+      "latency": 132
     },
     {
-      "id": "drupal-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 236
+      "id": "git-669966-xyz",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1169
     },
     {
-      "id": "git-drupalcode-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 179
+      "id": "mirror-houlang-cloud",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 774
     },
     {
-      "id": "twitch-tv",
+      "id": "adult-contents-fc2-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 614
+    },
+    {
+      "id": "anyplot-ai",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 112
+      "latency": 162
+    },
+    {
+      "id": "support-iluvatar-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 961
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-08T21:48:36Z",
+  "updated_at": "2026-11-09T04:54:00Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -11361,21 +11361,6 @@
       "id": "anycap-ai",
       "name": "Anycap",
       "url": "https://anycap.ai",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "anyplot-ai",
-      "name": "Anyplot",
-      "url": "https://anyplot.ai",
       "supports": [
         "release",
         "archive",
@@ -37905,6 +37890,216 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-08T21:42:03Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-deepseek1024-com",
+      "name": "Api",
+      "url": "https://api.deepseek1024.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bsc-publicnode-com",
+      "name": "Bsc",
+      "url": "https://bsc.publicnode.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cambricon-com",
+      "name": "Cambricon",
+      "url": "https://cambricon.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "comfy-org",
+      "name": "Comfy",
+      "url": "https://comfy.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fast-bsc-rpc-com",
+      "name": "Fast",
+      "url": "https://fast.bsc-rpc.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gh-llkk-cc",
+      "name": "Gh",
+      "url": "https://gh.llkk.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kdocs-cn",
+      "name": "Kdocs",
+      "url": "https://kdocs.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "m3-material-io",
+      "name": "M3",
+      "url": "https://m3.material.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nintendo-com",
+      "name": "Nintendo",
+      "url": "https://nintendo.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nssurge-com",
+      "name": "Nssurge",
+      "url": "https://nssurge.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "polyformproject-org",
+      "name": "Polyformproject",
+      "url": "https://polyformproject.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rocm-nightlies-amd-com",
+      "name": "Rocm",
+      "url": "https://rocm.nightlies.amd.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wasm-rip",
+      "name": "Wasm",
+      "url": "https://wasm.rip",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wiki-openssl-org",
+      "name": "Wiki",
+      "url": "https://wiki.openssl.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T04:47:32Z",
       "source": "auto_sync"
     }
   ]
