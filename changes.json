@@ -1,59 +1,66 @@
 {
-  "generated_at": "2026-11-09T04:54:00Z",
+  "generated_at": "2026-11-09T15:23:50Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "down-sciproxy-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 334
+      "latency": 267
     },
     {
-      "id": "gh-nxnow-top",
+      "id": "ghproxy-monkeyray-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 122
+      "latency": 3447
     },
     {
-      "id": "gh-idayer-com",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 132
+      "latency": 8267
     },
     {
-      "id": "git-669966-xyz",
+      "id": "sub-ikar-eu-org",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "code-leez-tech",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1169
+      "latency": 181
     },
     {
-      "id": "mirror-houlang-cloud",
+      "id": "axonhub-onrender-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 774
+      "latency": 151
     },
     {
-      "id": "adult-contents-fc2-com",
+      "id": "leankg-onrender-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 614
+      "latency": 2621
     },
     {
-      "id": "anyplot-ai",
+      "id": "proxylist-geonode-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 162
+      "latency": 578
     },
     {
-      "id": "support-iluvatar-com",
+      "id": "shields-io",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 961
+      "latency": 98
     }
   ]
 }

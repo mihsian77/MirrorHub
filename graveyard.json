@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-08T21:48:36Z",
+  "updated_at": "2026-11-09T15:23:50Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -943,6 +943,23 @@
       "removed_at": "2026-11-08T21:48:36Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-30T12:15:33Z"
+    },
+    {
+      "id": "sub-ikar-eu-org",
+      "name": "Sub",
+      "url": "https://sub.ikar.eu.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-09T15:23:50Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-31T04:18:10Z"
     }
   ]
 }

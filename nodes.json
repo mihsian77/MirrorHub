@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-09T04:54:00Z",
-  "total_nodes": 536,
+  "updated_at": "2026-11-09T15:23:50Z",
+  "total_nodes": 537,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -1180,19 +1180,6 @@
           "id": "msdn-microsoft-com",
           "name": "Msdn",
           "url": "https://msdn.microsoft.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "sub-ikar-eu-org",
-          "name": "Sub",
-          "url": "https://sub.ikar.eu.org",
           "supports": [
             "release",
             "archive",
@@ -6861,6 +6848,32 @@
           "id": "support-iluvatar-com",
           "name": "Support",
           "url": "https://support.iluvatar.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "proxylist-geonode-com",
+          "name": "Proxylist",
+          "url": "https://proxylist.geonode.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "shields-io",
+          "name": "Shields",
+          "url": "https://shields.io",
           "supports": [
             "release",
             "archive",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-09T04:54:00Z",
+  "updated_at": "2026-11-09T15:23:50Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -3021,21 +3021,6 @@
       "id": "a11oy-net",
       "name": "A11oy",
       "url": "https://a11oy.net",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-13T22:18:38Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "proxylist-geonode-com",
-      "name": "Proxylist",
-      "url": "https://proxylist.geonode.com",
       "supports": [
         "release",
         "archive",
@@ -38100,6 +38085,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-09T04:47:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ethereum-magicians-org",
+      "name": "Ethereum-magicians",
+      "url": "https://ethereum-magicians.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T15:16:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ethereum-rpc-publicnode-com",
+      "name": "Ethereum-rpc",
+      "url": "https://ethereum-rpc.publicnode.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-09T15:16:47Z",
       "source": "auto_sync"
     }
   ]
