@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-10T01:20:01Z",
+  "updated_at": "2026-11-10T14:30:51Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -38148,21 +38148,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "bugs-freebsd-org",
-      "name": "Bugs",
-      "url": "https://bugs.freebsd.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-10T01:12:36Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "bugs-launchpad-net",
       "name": "Bugs",
       "url": "https://bugs.launchpad.net",
@@ -38475,6 +38460,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-justwoker-icu",
+      "name": "Api",
+      "url": "https://api.justwoker.icu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T14:23:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-xgate-online",
+      "name": "Docs",
+      "url": "https://docs.xgate.online",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T14:23:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "home-jundie-top",
+      "name": "Home",
+      "url": "https://home.jundie.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T14:23:27Z",
       "source": "auto_sync"
     }
   ]

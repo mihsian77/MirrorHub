@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-10T01:20:01Z",
-  "total_nodes": 538,
+  "updated_at": "2026-11-10T14:30:51Z",
+  "total_nodes": 541,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6887,6 +6887,45 @@
           "id": "quant-zizizaizai-com",
           "name": "Quant",
           "url": "https://quant.zizizaizai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bugs-freebsd-org",
+          "name": "Bugs",
+          "url": "https://bugs.freebsd.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agentrouter-org",
+          "name": "Agentrouter",
+          "url": "https://agentrouter.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cabinet-xgate-online",
+          "name": "Cabinet",
+          "url": "https://cabinet.xgate.online",
           "supports": [
             "release",
             "archive",
