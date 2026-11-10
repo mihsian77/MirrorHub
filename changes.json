@@ -1,66 +1,46 @@
 {
-  "generated_at": "2026-11-09T15:23:50Z",
+  "generated_at": "2026-11-10T01:20:01Z",
   "changes": [
     {
-      "id": "down-sciproxy-com",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 267
+      "latency": 896
     },
     {
-      "id": "ghproxy-monkeyray-net",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3447
+      "latency": 220
     },
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 8267
+      "latency": 2148
     },
     {
-      "id": "sub-ikar-eu-org",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "code-leez-tech",
+      "id": "ccgather-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 181
+      "latency": 1001
     },
     {
-      "id": "axonhub-onrender-com",
+      "id": "gh-ddlc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 151
+      "latency": 408
     },
     {
-      "id": "leankg-onrender-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2621
-    },
-    {
-      "id": "proxylist-geonode-com",
+      "id": "quant-zizizaizai-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 578
-    },
-    {
-      "id": "shields-io",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 98
+      "latency": 1046
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-09T15:23:50Z",
-  "total_nodes": 537,
+  "updated_at": "2026-11-10T01:20:01Z",
+  "total_nodes": 538,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6874,6 +6874,19 @@
           "id": "shields-io",
           "name": "Shields",
           "url": "https://shields.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "quant-zizizaizai-com",
+          "name": "Quant",
+          "url": "https://quant.zizizaizai.com",
           "supports": [
             "release",
             "archive",

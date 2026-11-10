@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-09T15:23:50Z",
+  "updated_at": "2026-11-10T01:20:01Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -38115,6 +38115,366 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-09T15:16:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "apktool-org",
+      "name": "Apktool",
+      "url": "https://apktool.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bugs-centos-org",
+      "name": "Bugs",
+      "url": "https://bugs.centos.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bugs-freebsd-org",
+      "name": "Bugs",
+      "url": "https://bugs.freebsd.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bugs-launchpad-net",
+      "name": "Bugs",
+      "url": "https://bugs.launchpad.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bugzilla-kernel-org",
+      "name": "Bugzilla",
+      "url": "https://bugzilla.kernel.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bugzilla-redhat-com",
+      "name": "Bugzilla",
+      "url": "https://bugzilla.redhat.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "connortumbleson-com",
+      "name": "Connortumbleson",
+      "url": "https://connortumbleson.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "directory-elisa-tech",
+      "name": "Directory",
+      "url": "https://directory.elisa.tech",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "emergetools-com",
+      "name": "Emergetools",
+      "url": "https://emergetools.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forum-xda-developers-com",
+      "name": "Forum",
+      "url": "https://forum.xda-developers.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-kernel-org",
+      "name": "Git",
+      "url": "https://git.kernel.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "help-gitee-com",
+      "name": "Help",
+      "url": "https://help.gitee.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "illumos-org",
+      "name": "Illumos",
+      "url": "https://illumos.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "internetdownloadmanager-com",
+      "name": "Internetdownloadmanager",
+      "url": "https://internetdownloadmanager.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "launchpad-net",
+      "name": "Launchpad",
+      "url": "https://launchpad.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lkml-org",
+      "name": "Lkml",
+      "url": "https://lkml.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lore-kernel-org",
+      "name": "Lore",
+      "url": "https://lore.kernel.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lpc-events",
+      "name": "Lpc",
+      "url": "https://lpc.events",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "marc-info",
+      "name": "Marc",
+      "url": "https://marc.info",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sourcetoad-com",
+      "name": "Sourcetoad",
+      "url": "https://sourcetoad.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sourceware-org",
+      "name": "Sourceware",
+      "url": "https://sourceware.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "spinics-net",
+      "name": "Spinics",
+      "url": "https://spinics.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "static-sched-com",
+      "name": "Static",
+      "url": "https://static.sched.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sub-ikar-eu-org",
+      "name": "Sub",
+      "url": "https://sub.ikar.eu.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T01:12:36Z",
       "source": "auto_sync"
     }
   ]
