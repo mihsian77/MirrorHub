@@ -1,58 +1,43 @@
 {
-  "generated_at": "2026-11-10T14:30:51Z",
+  "generated_at": "2026-11-10T22:58:15Z",
   "changes": [
     {
-      "id": "proxy-vvvv-ee",
+      "id": "free-cn-eu-org",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "ghproxy-vip",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 379
+      "latency": 247
     },
     {
-      "id": "adult-contents-fc2-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 383
-    },
-    {
-      "id": "adv-co-jp",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1868
-    },
-    {
-      "id": "jwebmp-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 647
-    },
-    {
-      "id": "kuaishou-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 3832
-    },
-    {
-      "id": "bugs-freebsd-org",
+      "id": "gitproxy-127731-xyz",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 887
+      "latency": 761
     },
     {
-      "id": "agentrouter-org",
+      "id": "tubawinui3-cn",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 954
+      "latency": 105
     },
     {
-      "id": "cabinet-xgate-online",
+      "id": "i-imgur-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 421
+      "latency": 200
+    },
+    {
+      "id": "my-portfolio-6d703-web-app",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 133
     }
   ]
 }

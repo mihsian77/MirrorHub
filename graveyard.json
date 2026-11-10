@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-09T15:23:50Z",
+  "updated_at": "2026-11-10T22:58:15Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -960,6 +960,23 @@
       "removed_at": "2026-11-09T15:23:50Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-31T04:18:10Z"
+    },
+    {
+      "id": "free-cn-eu-org",
+      "name": "Free",
+      "url": "https://free.cn.eu.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-10T22:58:15Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-10-31T21:05:37Z"
     }
   ]
 }

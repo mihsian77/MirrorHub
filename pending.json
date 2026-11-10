@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-10T14:30:51Z",
+  "updated_at": "2026-11-10T22:58:15Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -726,21 +726,6 @@
       "id": "github-tianrld-top",
       "name": "Github",
       "url": "https://github.tianrld.top",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "gitproxy-127731-xyz",
-      "name": "Gitproxy",
-      "url": "https://gitproxy.127731.xyz",
       "supports": [
         "release",
         "archive",
@@ -21153,21 +21138,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "tubawinui3-cn",
-      "name": "Tubawinui3",
-      "url": "https://tubawinui3.cn",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "twitter-iamcheyan-com",
       "name": "Twitter",
       "url": "https://twitter.iamcheyan.com",
@@ -38505,6 +38475,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-10T14:23:27Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-reuse-software",
+      "name": "Api",
+      "url": "https://api.reuse.software",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T22:51:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "discordapp-com",
+      "name": "Discordapp",
+      "url": "https://discordapp.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T22:51:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ghchart-rshah-org",
+      "name": "Ghchart",
+      "url": "https://ghchart.rshah.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T22:51:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ghostgrid-proxy-onrender-com",
+      "name": "Ghostgrid-proxy",
+      "url": "https://ghostgrid-proxy.onrender.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T22:51:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lip-waters-commissions-converted-trycloudflare-com",
+      "name": "Lip-waters-commissions-converted",
+      "url": "https://lip-waters-commissions-converted.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T22:51:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "neko-m1k1o-net",
+      "name": "Neko",
+      "url": "https://neko.m1k1o.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T22:51:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "render-com",
+      "name": "Render",
+      "url": "https://render.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-10T22:51:47Z",
       "source": "auto_sync"
     }
   ]

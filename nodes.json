@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-10T14:30:51Z",
-  "total_nodes": 541,
+  "updated_at": "2026-11-10T22:58:15Z",
+  "total_nodes": 544,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -5038,19 +5038,6 @@
           "source": "auto_sync"
         },
         {
-          "id": "free-cn-eu-org",
-          "name": "Free",
-          "url": "https://free.cn.eu.org",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
           "id": "megacrit-com",
           "name": "Megacrit",
           "url": "https://megacrit.com",
@@ -6926,6 +6913,58 @@
           "id": "cabinet-xgate-online",
           "name": "Cabinet",
           "url": "https://cabinet.xgate.online",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitproxy-127731-xyz",
+          "name": "Gitproxy",
+          "url": "https://gitproxy.127731.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tubawinui3-cn",
+          "name": "Tubawinui3",
+          "url": "https://tubawinui3.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "i-imgur-com",
+          "name": "I",
+          "url": "https://i.imgur.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "my-portfolio-6d703-web-app",
+          "name": "My-portfolio-6d703",
+          "url": "https://my-portfolio-6d703.web.app",
           "supports": [
             "release",
             "archive",
