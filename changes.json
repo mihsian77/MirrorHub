@@ -1,59 +1,32 @@
 {
-  "generated_at": "2026-11-11T04:57:17Z",
+  "generated_at": "2026-11-11T13:45:12Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "g-blfrp-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 10234
+      "latency": 5632
     },
     {
-      "id": "gh-idayer-com",
+      "id": "shopjsp-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 188
+      "latency": 3150
     },
     {
-      "id": "git-669966-xyz",
+      "id": "bugs-freebsd-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 806
+      "latency": 845
     },
     {
-      "id": "proxy-vvvv-ee",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 629
-    },
-    {
-      "id": "mobilevc-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1110
-    },
-    {
-      "id": "lightlycode-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1895
-    },
-    {
-      "id": "ngrok-com",
+      "id": "beta-durieux-me",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 489
-    },
-    {
-      "id": "shiguredo-jp",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 145
+      "latency": 204
     }
   ]
 }

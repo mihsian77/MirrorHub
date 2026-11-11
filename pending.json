@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-11T04:57:17Z",
+  "updated_at": "2026-11-11T13:45:12Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -38820,6 +38820,201 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "anonymous-4open-science",
+      "name": "Anonymous",
+      "url": "https://anonymous.4open.science",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "asciinema-org",
+      "name": "Asciinema",
+      "url": "https://asciinema.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-sigstore-dev",
+      "name": "Docs",
+      "url": "https://docs.sigstore.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "github-com-helper",
+      "name": "Github",
+      "url": "https://github.com.helper",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gitmask-com",
+      "name": "Gitmask",
+      "url": "https://gitmask.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jqlang-org",
+      "name": "Jqlang",
+      "url": "https://jqlang.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "monperrus-net",
+      "name": "Monperrus",
+      "url": "https://monperrus.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "oras-land",
+      "name": "Oras",
+      "url": "https://oras.land",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "php-net",
+      "name": "Php",
+      "url": "https://php.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "porkgorilla-com",
+      "name": "Porkgorilla",
+      "url": "https://porkgorilla.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "postgresql-org",
+      "name": "Postgresql",
+      "url": "https://postgresql.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "skills-told-manor-catherine-trycloudflare-com",
+      "name": "Skills-told-manor-catherine",
+      "url": "https://skills-told-manor-catherine.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xxxx-xxxx-trycloudflare-com",
+      "name": "Xxxx-xxxx",
+      "url": "https://xxxx-xxxx.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T13:37:09Z",
       "source": "auto_sync"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-11T04:57:17Z",
-  "total_nodes": 546,
+  "updated_at": "2026-11-11T13:45:12Z",
+  "total_nodes": 547,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6991,6 +6991,19 @@
           "id": "shiguredo-jp",
           "name": "Shiguredo",
           "url": "https://shiguredo.jp",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "beta-durieux-me",
+          "name": "Beta",
+          "url": "https://beta.durieux.me",
           "supports": [
             "release",
             "archive",
