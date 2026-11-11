@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-10T22:58:15Z",
+  "updated_at": "2026-11-11T04:57:17Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -38580,6 +38580,246 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-10T22:51:47Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "carlosejimenez-com",
+      "name": "Carlosejimenez",
+      "url": "https://carlosejimenez.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "context-app",
+      "name": "Context",
+      "url": "https://context.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-sqlc-dev",
+      "name": "Docs",
+      "url": "https://docs.sqlc.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "downloads-sqlc-dev",
+      "name": "Downloads",
+      "url": "https://downloads.sqlc.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "exhibition-united-fewer-integrating-trycloudflare-com",
+      "name": "Exhibition-united-fewer-integrating",
+      "url": "https://exhibition-united-fewer-integrating.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "free-cn-eu-org",
+      "name": "Free",
+      "url": "https://free.cn.eu.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "holyclaude-coderluii-dev",
+      "name": "Holyclaude",
+      "url": "https://holyclaude.coderluii.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hugsql-org",
+      "name": "Hugsql",
+      "url": "https://hugsql.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "play-sqlc-dev",
+      "name": "Play",
+      "url": "https://play.sqlc.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pugsql-org",
+      "name": "Pugsql",
+      "url": "https://pugsql.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "results-pre-commit-ci",
+      "name": "Results",
+      "url": "https://results.pre-commit.ci",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rstudio-com",
+      "name": "Rstudio",
+      "url": "https://rstudio.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sqlc-dev",
+      "name": "Sqlc",
+      "url": "https://sqlc.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "swe-agent-com",
+      "name": "Swe-agent",
+      "url": "https://swe-agent.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "visualstudio-com",
+      "name": "Visualstudio",
+      "url": "https://visualstudio.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "worldofclaudecraft-com",
+      "name": "Worldofclaudecraft",
+      "url": "https://worldofclaudecraft.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-11T04:49:55Z",
       "source": "auto_sync"
     }
   ]

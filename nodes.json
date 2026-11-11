@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-10T22:58:15Z",
-  "total_nodes": 544,
+  "updated_at": "2026-11-11T04:57:17Z",
+  "total_nodes": 546,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -6965,6 +6965,32 @@
           "id": "my-portfolio-6d703-web-app",
           "name": "My-portfolio-6d703",
           "url": "https://my-portfolio-6d703.web.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ngrok-com",
+          "name": "Ngrok",
+          "url": "https://ngrok.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "shiguredo-jp",
+          "name": "Shiguredo",
+          "url": "https://shiguredo.jp",
           "supports": [
             "release",
             "archive",

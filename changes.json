@@ -1,43 +1,59 @@
 {
-  "generated_at": "2026-11-10T22:58:15Z",
+  "generated_at": "2026-11-11T04:57:17Z",
   "changes": [
     {
-      "id": "free-cn-eu-org",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "ghproxy-vip",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 247
+      "latency": 10234
     },
     {
-      "id": "gitproxy-127731-xyz",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 761
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 188
     },
     {
-      "id": "tubawinui3-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 105
+      "id": "git-669966-xyz",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 806
     },
     {
-      "id": "i-imgur-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 200
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 629
     },
     {
-      "id": "my-portfolio-6d703-web-app",
+      "id": "mobilevc-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1110
+    },
+    {
+      "id": "lightlycode-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1895
+    },
+    {
+      "id": "ngrok-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 133
+      "latency": 489
+    },
+    {
+      "id": "shiguredo-jp",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 145
     }
   ]
 }
