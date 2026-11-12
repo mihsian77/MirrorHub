@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-12T00:11:41Z",
-  "total_nodes": 548,
+  "updated_at": "2026-11-12T14:47:56Z",
+  "total_nodes": 549,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -7017,6 +7017,19 @@
           "id": "gdcvault-com",
           "name": "Gdcvault",
           "url": "https://gdcvault.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-fossa-com",
+          "name": "App",
+          "url": "https://app.fossa.com",
           "supports": [
             "release",
             "archive",

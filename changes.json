@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-11-12T00:11:41Z",
+  "generated_at": "2026-11-12T14:47:56Z",
   "changes": [
     {
-      "id": "gh-idayer-com",
+      "id": "yoyo-yolog-dev",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 282
+      "latency": 321
     },
     {
-      "id": "git-669966-xyz",
+      "id": "caiji-maotaizy-cc",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1179
+      "latency": 1418
     },
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "kuaishou-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5836
+      "latency": 3546
     },
     {
-      "id": "gh-ddlc-top",
+      "id": "gitproxy-127731-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 530
+      "latency": 380
     },
     {
-      "id": "github-dpik-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 404
-    },
-    {
-      "id": "gdcvault-com",
+      "id": "app-fossa-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 251
+      "latency": 427
     }
   ]
 }

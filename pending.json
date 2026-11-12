@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-12T00:11:41Z",
+  "updated_at": "2026-11-12T14:47:56Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -39240,6 +39240,156 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cafelauncher-example",
+      "name": "Cafelauncher",
+      "url": "https://cafelauncher.example",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T14:40:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-example-com",
+      "name": "Docs",
+      "url": "https://docs.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T14:40:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-krita-org",
+      "name": "Docs",
+      "url": "https://docs.krita.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T14:40:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docsy-dev",
+      "name": "Docsy",
+      "url": "https://docsy.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T14:40:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nixos-org",
+      "name": "Nixos",
+      "url": "https://nixos.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T14:40:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pandoc-org",
+      "name": "Pandoc",
+      "url": "https://pandoc.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T14:40:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "platform-openai-com",
+      "name": "Platform",
+      "url": "https://platform.openai.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T14:40:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "praxis-fast",
+      "name": "Praxis",
+      "url": "https://praxis.fast",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T14:40:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "retorque-re",
+      "name": "Retorque",
+      "url": "https://retorque.re",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T14:40:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zotero-org",
+      "name": "Zotero",
+      "url": "https://zotero.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T14:40:26Z",
       "source": "auto_sync"
     }
   ]
