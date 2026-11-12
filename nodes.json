@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-11T13:45:12Z",
-  "total_nodes": 547,
+  "updated_at": "2026-11-12T00:11:41Z",
+  "total_nodes": 548,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -7004,6 +7004,19 @@
           "id": "beta-durieux-me",
           "name": "Beta",
           "url": "https://beta.durieux.me",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gdcvault-com",
+          "name": "Gdcvault",
+          "url": "https://gdcvault.com",
           "supports": [
             "release",
             "archive",

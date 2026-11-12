@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-11T13:45:12Z",
+  "updated_at": "2026-11-12T00:11:41Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -39015,6 +39015,231 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-11T13:37:09Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "addons-thunderbird-net",
+      "name": "Addons",
+      "url": "https://addons.thunderbird.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cns-nyu-edu",
+      "name": "Cns",
+      "url": "https://cns.nyu.edu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-arm-com",
+      "name": "Developer",
+      "url": "https://developer.arm.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "freecodecamp-org",
+      "name": "Freecodecamp",
+      "url": "https://freecodecamp.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-falco-fun",
+      "name": "Git",
+      "url": "https://git.falco.fun",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "golang-org",
+      "name": "Golang",
+      "url": "https://golang.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mxml-sh",
+      "name": "Mxml",
+      "url": "https://mxml.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "opus-nlpl-eu",
+      "name": "Opus",
+      "url": "https://opus.nlpl.eu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "proceedings-mlr-press",
+      "name": "Proceedings",
+      "url": "https://proceedings.mlr.press",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "quarter-emma-somewhat-packages-trycloudflare-com",
+      "name": "Quarter-emma-somewhat-packages",
+      "url": "https://quarter-emma-somewhat-packages.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "registry-khronos-org",
+      "name": "Registry",
+      "url": "https://registry.khronos.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "research-nvidia-com",
+      "name": "Research",
+      "url": "https://research.nvidia.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rockets2000-wordpress-com",
+      "name": "Rockets2000",
+      "url": "https://rockets2000.wordpress.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "texture-metrics-mpi-inf-mpg-de",
+      "name": "Texture-metrics",
+      "url": "https://texture-metrics.mpi-inf.mpg.de",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tsapps-nist-gov",
+      "name": "Tsapps",
+      "url": "https://tsapps.nist.gov",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T00:04:44Z",
       "source": "auto_sync"
     }
   ]

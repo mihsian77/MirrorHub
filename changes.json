@@ -1,32 +1,46 @@
 {
-  "generated_at": "2026-11-11T13:45:12Z",
+  "generated_at": "2026-11-12T00:11:41Z",
   "changes": [
     {
-      "id": "g-blfrp-cn",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5632
+      "latency": 282
     },
     {
-      "id": "shopjsp-com",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3150
+      "latency": 1179
     },
     {
-      "id": "bugs-freebsd-org",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 845
+      "latency": 5836
     },
     {
-      "id": "beta-durieux-me",
+      "id": "gh-ddlc-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 530
+    },
+    {
+      "id": "github-dpik-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 404
+    },
+    {
+      "id": "gdcvault-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 204
+      "latency": 251
     }
   ]
 }
