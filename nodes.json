@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-12T14:47:56Z",
-  "total_nodes": 549,
+  "updated_at": "2026-11-12T23:22:01Z",
+  "total_nodes": 550,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -7030,6 +7030,19 @@
           "id": "app-fossa-com",
           "name": "App",
           "url": "https://app.fossa.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "e-stat-go-jp",
+          "name": "E-stat",
+          "url": "https://e-stat.go.jp",
           "supports": [
             "release",
             "archive",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-12T14:47:56Z",
+  "updated_at": "2026-11-12T23:22:01Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -39390,6 +39390,156 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-12T14:40:26Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "boj-or-jp",
+      "name": "Boj",
+      "url": "https://boj.or.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T23:14:20Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cao-go-jp",
+      "name": "Cao",
+      "url": "https://cao.go.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T23:14:20Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cas-go-jp",
+      "name": "Cas",
+      "url": "https://cas.go.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T23:14:20Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ecitizen-jp",
+      "name": "Ecitizen",
+      "url": "https://ecitizen.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T23:14:20Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "guild-revealed-treo-mlb-trycloudflare-com",
+      "name": "Guild-revealed-treo-mlb",
+      "url": "https://guild-revealed-treo-mlb.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T23:14:20Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mhlw-go-jp",
+      "name": "Mhlw",
+      "url": "https://mhlw.go.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T23:14:20Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "robbits-co-jp",
+      "name": "Robbits",
+      "url": "https://robbits.co.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T23:14:20Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sprintcoder-yuseilab-com",
+      "name": "Sprintcoder",
+      "url": "https://sprintcoder.yuseilab.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T23:14:20Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "stat-go-jp",
+      "name": "Stat",
+      "url": "https://stat.go.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T23:14:20Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "www5-cao-go-jp",
+      "name": "Www5",
+      "url": "https://www5.cao.go.jp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-12T23:14:20Z",
       "source": "auto_sync"
     }
   ]

@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-12T14:47:56Z",
+  "generated_at": "2026-11-12T23:22:01Z",
   "changes": [
     {
-      "id": "yoyo-yolog-dev",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 321
+      "latency": 1041
     },
     {
-      "id": "caiji-maotaizy-cc",
+      "id": "gitproxy-click",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1418
+      "latency": 565
     },
     {
-      "id": "kuaishou-com",
+      "id": "pan-quark-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3546
+      "latency": 2617
     },
     {
-      "id": "gitproxy-127731-xyz",
+      "id": "proxy-scdn-io",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 380
+      "latency": 660
     },
     {
-      "id": "app-fossa-com",
+      "id": "e-stat-go-jp",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 427
+      "latency": 1371
     }
   ]
 }
