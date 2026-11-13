@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-13T05:20:40Z",
+  "updated_at": "2026-11-13T14:05:53Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -39585,6 +39585,81 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-13T05:13:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "courage-reliance-bracelet-jill-trycloudflare-com",
+      "name": "Courage-reliance-bracelet-jill",
+      "url": "https://courage-reliance-bracelet-jill.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T13:58:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fl-us-mirror-archlinuxarm-org",
+      "name": "Fl",
+      "url": "https://fl.us.mirror.archlinuxarm.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T13:58:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "strace-io",
+      "name": "Strace",
+      "url": "https://strace.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T13:58:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "synacktiv-com",
+      "name": "Synacktiv",
+      "url": "https://synacktiv.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T13:58:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "systemd-io",
+      "name": "Systemd",
+      "url": "https://systemd.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T13:58:28Z",
       "source": "auto_sync"
     }
   ]

@@ -1,40 +1,46 @@
 {
-  "generated_at": "2026-11-13T05:20:40Z",
+  "generated_at": "2026-11-13T14:05:53Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "projects-ow2-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1313
+      "latency": 588
     },
     {
-      "id": "gh-idayer-com",
+      "id": "im-codes",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 204
+      "latency": 260
     },
     {
-      "id": "capitalcompanion-ai",
+      "id": "jonas-ow2-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 70
+      "latency": 588
     },
     {
-      "id": "leereilly-net",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "lightlycode-com",
+      "id": "tjf-totvs-com-br",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2965
+      "latency": 223
+    },
+    {
+      "id": "jwebmp-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 731
+    },
+    {
+      "id": "search-nixos-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 195
     }
   ]
 }
