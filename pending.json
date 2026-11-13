@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-12T23:22:01Z",
+  "updated_at": "2026-11-13T05:20:40Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -39540,6 +39540,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-12T23:14:20Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "key-fans-royalty-extending-trycloudflare-com",
+      "name": "Key-fans-royalty-extending",
+      "url": "https://key-fans-royalty-extending.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T05:13:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rimtown-cc",
+      "name": "Rimtown",
+      "url": "https://rimtown.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T05:13:17Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rimtown-vercel-app",
+      "name": "Rimtown",
+      "url": "https://rimtown.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T05:13:17Z",
       "source": "auto_sync"
     }
   ]

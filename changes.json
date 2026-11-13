@@ -1,39 +1,40 @@
 {
-  "generated_at": "2026-11-12T23:22:01Z",
+  "generated_at": "2026-11-13T05:20:40Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1041
+      "latency": 1313
     },
     {
-      "id": "gitproxy-click",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 565
+      "latency": 204
     },
     {
-      "id": "pan-quark-cn",
+      "id": "capitalcompanion-ai",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2617
+      "latency": 70
     },
     {
-      "id": "proxy-scdn-io",
+      "id": "leereilly-net",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "lightlycode-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 660
-    },
-    {
-      "id": "e-stat-go-jp",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1371
+      "latency": 2965
     }
   ]
 }

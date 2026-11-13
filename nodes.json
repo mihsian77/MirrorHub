@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-12T23:22:01Z",
-  "total_nodes": 550,
+  "updated_at": "2026-11-13T05:20:40Z",
+  "total_nodes": 549,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -3468,19 +3468,6 @@
           "id": "lecvdemarius-netlify-app",
           "name": "Lecvdemarius",
           "url": "https://lecvdemarius.netlify.app",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "leereilly-net",
-          "name": "Leereilly",
-          "url": "https://leereilly.net",
           "supports": [
             "release",
             "archive",

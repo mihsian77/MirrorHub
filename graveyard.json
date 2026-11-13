@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-10T22:58:15Z",
+  "updated_at": "2026-11-13T05:20:40Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -977,6 +977,23 @@
       "removed_at": "2026-11-10T22:58:15Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-10-31T21:05:37Z"
+    },
+    {
+      "id": "leereilly-net",
+      "name": "Leereilly",
+      "url": "https://leereilly.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-13T05:20:40Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-03T00:39:02Z"
     }
   ]
 }
