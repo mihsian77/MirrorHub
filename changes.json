@@ -1,46 +1,12 @@
 {
-  "generated_at": "2026-11-13T14:05:53Z",
+  "generated_at": "2026-11-13T23:23:07Z",
   "changes": [
     {
-      "id": "projects-ow2-org",
+      "id": "lightlycode-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 588
-    },
-    {
-      "id": "im-codes",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 260
-    },
-    {
-      "id": "jonas-ow2-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 588
-    },
-    {
-      "id": "tjf-totvs-com-br",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 223
-    },
-    {
-      "id": "jwebmp-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 731
-    },
-    {
-      "id": "search-nixos-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 195
+      "latency": 8093
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-13T14:05:53Z",
+  "updated_at": "2026-11-13T23:23:07Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -39660,6 +39660,126 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-13T13:58:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "archlinux-org",
+      "name": "Archlinux",
+      "url": "https://archlinux.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T23:16:08Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forge-example-org",
+      "name": "Forge",
+      "url": "https://forge.example.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T23:16:08Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-corbet-ch",
+      "name": "Git",
+      "url": "https://git.corbet.ch",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T23:16:08Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "j2cl-io",
+      "name": "J2cl",
+      "url": "https://j2cl.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T23:16:08Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kotl-in",
+      "name": "Kotl",
+      "url": "https://kotl.in",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T23:16:08Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "makinggameofthrones-com",
+      "name": "Makinggameofthrones",
+      "url": "https://makinggameofthrones.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T23:16:08Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ski-victoria-tommy-washington-trycloudflare-com",
+      "name": "Ski-victoria-tommy-washington",
+      "url": "https://ski-victoria-tommy-washington.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T23:16:08Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sourcemaps-info",
+      "name": "Sourcemaps",
+      "url": "https://sourcemaps.info",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-13T23:16:08Z",
       "source": "auto_sync"
     }
   ]
