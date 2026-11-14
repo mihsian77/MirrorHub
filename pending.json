@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-13T23:23:07Z",
+  "updated_at": "2026-11-14T05:09:34Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -39780,6 +39780,141 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-13T23:16:08Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "askpdf-top",
+      "name": "Askpdf",
+      "url": "https://askpdf.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T05:02:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "deepseekdsh-com",
+      "name": "Deepseekdsh",
+      "url": "https://deepseekdsh.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T05:02:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dsh-example-com",
+      "name": "Dsh",
+      "url": "https://dsh.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T05:02:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "freeaivoicegenerator-com",
+      "name": "Freeaivoicegenerator",
+      "url": "https://freeaivoicegenerator.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T05:02:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "leereilly-net",
+      "name": "Leereilly",
+      "url": "https://leereilly.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T05:02:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "randomanimalpicker-com",
+      "name": "Randomanimalpicker",
+      "url": "https://randomanimalpicker.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T05:02:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "residentevilveronica-com",
+      "name": "Residentevilveronica",
+      "url": "https://residentevilveronica.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T05:02:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rule34higherorlower-com",
+      "name": "Rule34higherorlower",
+      "url": "https://rule34higherorlower.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T05:02:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "videoscriptextractor-com",
+      "name": "Videoscriptextractor",
+      "url": "https://videoscriptextractor.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T05:02:28Z",
       "source": "auto_sync"
     }
   ]

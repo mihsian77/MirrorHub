@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-11-13T23:23:07Z",
+  "generated_at": "2026-11-14T05:09:34Z",
   "changes": [
     {
-      "id": "lightlycode-com",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 8093
+      "latency": 4942
+    },
+    {
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 142
+    },
+    {
+      "id": "mcp-x-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 989
+    },
+    {
+      "id": "jwebmp-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 5014
+    },
+    {
+      "id": "gatus-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 271
+    },
+    {
+      "id": "models-dev",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 95
+    },
+    {
+      "id": "r-jina-ai",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1392
+    },
+    {
+      "id": "yesornotarot-love",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1527
     }
   ]
 }

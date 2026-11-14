@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-13T23:23:07Z",
-  "total_nodes": 550,
+  "updated_at": "2026-11-14T05:09:34Z",
+  "total_nodes": 554,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -7043,6 +7043,58 @@
           "id": "search-nixos-org",
           "name": "Search",
           "url": "https://search.nixos.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gatus-io",
+          "name": "Gatus",
+          "url": "https://gatus.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "models-dev",
+          "name": "Models",
+          "url": "https://models.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "r-jina-ai",
+          "name": "R",
+          "url": "https://r.jina.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yesornotarot-love",
+          "name": "Yesornotarot",
+          "url": "https://yesornotarot.love",
           "supports": [
             "release",
             "archive",
