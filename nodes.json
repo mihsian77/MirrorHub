@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-14T13:06:21Z",
-  "total_nodes": 554,
+  "updated_at": "2026-11-14T22:06:22Z",
+  "total_nodes": 551,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -3842,19 +3842,6 @@
           "source": "auto_sync"
         },
         {
-          "id": "opensunsama-com",
-          "name": "Opensunsama",
-          "url": "https://opensunsama.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
           "id": "opentakeoff-kentucky-ai-com",
           "name": "Opentakeoff",
           "url": "https://opentakeoff.kentucky-ai.com",
@@ -4742,19 +4729,6 @@
           "id": "dbgate-org",
           "name": "Dbgate",
           "url": "https://dbgate.org",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "git-net2o-de",
-          "name": "Git",
-          "url": "https://git.net2o.de",
           "supports": [
             "release",
             "archive",
@@ -5730,19 +5704,6 @@
           "id": "gitlab-ow2-org",
           "name": "Gitlab",
           "url": "https://gitlab.ow2.org",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "gitlab-pasteur-fr",
-          "name": "Gitlab",
-          "url": "https://gitlab.pasteur.fr",
           "supports": [
             "release",
             "archive",

@@ -1,26 +1,75 @@
 {
-  "generated_at": "2026-11-14T13:06:21Z",
+  "generated_at": "2026-11-14T22:06:22Z",
   "changes": [
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 6630
+      "latency": 784
     },
     {
-      "id": "mobilevc-top",
+      "id": "code-leez-tech",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1032
+      "latency": 643
     },
     {
-      "id": "4kf9kfxujfhg2-space-mcode-cn",
+      "id": "fastgpt-leez-tech",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2046
+      "latency": 356
+    },
+    {
+      "id": "status-leez-tech",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 308
+    },
+    {
+      "id": "opensunsama-com",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "git-net2o-de",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "gitlab-phaidra-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1833
+    },
+    {
+      "id": "code-usgs-gov",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 464
+    },
+    {
+      "id": "gitlab-pasteur-fr",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "shopjsp-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2100
     }
   ]
 }

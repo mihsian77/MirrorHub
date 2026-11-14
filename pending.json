@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-14T13:06:21Z",
+  "updated_at": "2026-11-14T22:06:22Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -39975,6 +39975,96 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-14T12:59:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "accidents-prison-toddler-yard-trycloudflare-com",
+      "name": "Accidents-prison-toddler-yard",
+      "url": "https://accidents-prison-toddler-yard.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T21:59:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dl-acm-org",
+      "name": "Dl",
+      "url": "https://dl.acm.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T21:59:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "durieux-me",
+      "name": "Durieux",
+      "url": "https://durieux.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T21:59:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lain42-top",
+      "name": "Lain42",
+      "url": "https://lain42.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T21:59:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "resend-com",
+      "name": "Resend",
+      "url": "https://resend.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T21:59:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sgk-pgame-pages-dev",
+      "name": "Sgk-pgame",
+      "url": "https://sgk-pgame.pages.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T21:59:14Z",
       "source": "auto_sync"
     }
   ]

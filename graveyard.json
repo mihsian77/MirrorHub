@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-13T05:20:40Z",
+  "updated_at": "2026-11-14T22:06:22Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -994,6 +994,57 @@
       "removed_at": "2026-11-13T05:20:40Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-03T00:39:02Z"
+    },
+    {
+      "id": "opensunsama-com",
+      "name": "Opensunsama",
+      "url": "https://opensunsama.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-14T22:06:22Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-04T23:20:36Z"
+    },
+    {
+      "id": "git-net2o-de",
+      "name": "Git",
+      "url": "https://git.net2o.de",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-14T22:06:22Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-04T23:20:36Z"
+    },
+    {
+      "id": "gitlab-pasteur-fr",
+      "name": "Gitlab",
+      "url": "https://gitlab.pasteur.fr",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-14T22:06:22Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-04T23:20:36Z"
     }
   ]
 }
