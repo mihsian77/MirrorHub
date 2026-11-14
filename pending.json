@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-14T05:09:34Z",
+  "updated_at": "2026-11-14T13:06:21Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -39915,6 +39915,66 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-14T05:02:28Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "choosealicense-com",
+      "name": "Choosealicense",
+      "url": "https://choosealicense.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T12:59:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "curseforge-com",
+      "name": "Curseforge",
+      "url": "https://curseforge.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T12:59:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "modrinth-com",
+      "name": "Modrinth",
+      "url": "https://modrinth.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T12:59:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zhongguose-com",
+      "name": "Zhongguose",
+      "url": "https://zhongguose.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-14T12:59:35Z",
       "source": "auto_sync"
     }
   ]
