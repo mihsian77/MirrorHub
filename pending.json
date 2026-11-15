@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-14T22:06:22Z",
+  "updated_at": "2026-11-15T05:02:30Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -423,21 +423,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "gh-shiina-rimo-cafe",
-      "name": "Gh",
-      "url": "https://gh.shiina-rimo.cafe",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "gh-wsmdn-dpdns-org",
       "name": "Gh",
       "url": "https://gh.wsmdn.dpdns.org",
@@ -456,21 +441,6 @@
       "id": "ghb-nilive-top",
       "name": "Ghb",
       "url": "https://ghb.nilive.top",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "ghm-078465-xyz",
-      "name": "Ghm",
-      "url": "https://ghm.078465.xyz",
       "supports": [
         "release",
         "archive",
@@ -603,21 +573,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "github-boringhex-top",
-      "name": "Github",
-      "url": "https://github.boringhex.top",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "github-bullb-net",
       "name": "Github",
       "url": "https://github.bullb.net",
@@ -666,21 +621,6 @@
       "id": "github-kkproxy-dpdns-org",
       "name": "Github",
       "url": "https://github.kkproxy.dpdns.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "github-mlmle-cn",
-      "name": "Github",
-      "url": "https://github.mlmle.cn",
       "supports": [
         "release",
         "archive",
@@ -783,21 +723,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "hub-ddayh-com",
-      "name": "Hub",
-      "url": "https://hub.ddayh.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "j-1lin-dpdns-org",
       "name": "J",
       "url": "https://j.1lin.dpdns.org",
@@ -828,39 +753,9 @@
       "source": "auto_sync"
     },
     {
-      "id": "jiashu-1win-eu-org",
-      "name": "Jiashu",
-      "url": "https://jiashu.1win.eu.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "proxy-atoposs-com",
       "name": "Proxy",
       "url": "https://proxy.atoposs.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "proxy-baguoyuyan-com",
-      "name": "Proxy",
-      "url": "https://proxy.baguoyuyan.com",
       "supports": [
         "release",
         "archive",
@@ -4731,36 +4626,6 @@
       "id": "ff-buplayground-cn",
       "name": "Ff",
       "url": "https://ff.buplayground.cn",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-16T10:45:42Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "gh-chjina-com",
-      "name": "Gh",
-      "url": "https://gh.chjina.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-16T10:45:42Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "ghp-keleyaa-com",
-      "name": "Ghp",
-      "url": "https://ghp.keleyaa.com",
       "supports": [
         "release",
         "archive",
@@ -11373,21 +11238,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "aov-cc",
-      "name": "Aov",
-      "url": "https://aov.cc",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "api-fragment-api-space",
       "name": "Api",
       "url": "https://api.fragment-api.space",
@@ -12171,21 +12021,6 @@
       "id": "canonry-ai",
       "name": "Canonry",
       "url": "https://canonry.ai",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "canvas-mcp-illinihunt-org",
-      "name": "Canvas-mcp",
-      "url": "https://canvas-mcp.illinihunt.org",
       "supports": [
         "release",
         "archive",
@@ -13026,21 +12861,6 @@
       "id": "dandi-cloud",
       "name": "Dandi",
       "url": "https://dandi.cloud",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "daoyou-org",
-      "name": "Daoyou",
-      "url": "https://daoyou.org",
       "supports": [
         "release",
         "archive",
@@ -15978,21 +15798,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "kun-agent-com",
-      "name": "Kun-agent",
-      "url": "https://kun-agent.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "kuna-noelo-org",
       "name": "Kuna",
       "url": "https://kuna.noelo.org",
@@ -16281,21 +16086,6 @@
       "id": "llm-hub-app",
       "name": "Llm-hub",
       "url": "https://llm-hub.app",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "llmwiki-greenerai-top",
-      "name": "Llmwiki",
-      "url": "https://llmwiki.greenerai.top",
       "supports": [
         "release",
         "archive",
@@ -17061,21 +16851,6 @@
       "id": "mockloop-com",
       "name": "Mockloop",
       "url": "https://mockloop.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "monize-demo-ucdialplans-com",
-      "name": "Monize-demo",
-      "url": "https://monize-demo.ucdialplans.com",
       "supports": [
         "release",
         "archive",
@@ -18996,21 +18771,6 @@
       "id": "readfrog-app",
       "name": "Readfrog",
       "url": "https://readfrog.app",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "redstring-io",
-      "name": "Redstring",
-      "url": "https://redstring.io",
       "supports": [
         "release",
         "archive",
@@ -21558,21 +21318,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "vibespace-xyzen-de",
-      "name": "Vibespace",
-      "url": "https://vibespace.xyzen.de",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "vicoa-ai",
       "name": "Vicoa",
       "url": "https://vicoa.ai",
@@ -23316,21 +23061,6 @@
       "id": "missav-ws",
       "name": "Missav",
       "url": "https://missav.ws",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-25T15:35:41Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "opencv-org",
-      "name": "Opencv",
-      "url": "https://opencv.org",
       "supports": [
         "release",
         "archive",
@@ -25326,21 +25056,6 @@
       "id": "console-github-auth-something-run-app",
       "name": "Console-github-auth-something",
       "url": "https://console-github-auth-something.run.app",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-29T12:20:41Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "cyassure-eu",
-      "name": "Cyassure",
-      "url": "https://cyassure.eu",
       "supports": [
         "release",
         "archive",
@@ -28656,21 +28371,6 @@
       "id": "codejig-com",
       "name": "Codejig",
       "url": "https://codejig.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "coderanch-com",
-      "name": "Coderanch",
-      "url": "https://coderanch.com",
       "supports": [
         "release",
         "archive",
@@ -36993,21 +36693,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "xget-xi-xu-me",
-      "name": "Xget",
-      "url": "https://xget.xi-xu.me",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T23:14:00Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "git-gateway-example",
       "name": "Git-gateway",
       "url": "https://git-gateway.example",
@@ -38823,21 +38508,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "anonymous-4open-science",
-      "name": "Anonymous",
-      "url": "https://anonymous.4open.science",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-11T13:37:09Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "asciinema-org",
       "name": "Asciinema",
       "url": "https://asciinema.org",
@@ -40065,6 +39735,96 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-14T21:59:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "luzzz-me",
+      "name": "Luzzz",
+      "url": "https://luzzz.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-15T04:55:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "opensunsama-com",
+      "name": "Opensunsama",
+      "url": "https://opensunsama.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-15T04:55:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "praetor-demo-vercel-app",
+      "name": "Praetor-demo",
+      "url": "https://praetor-demo.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-15T04:55:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "proxy-golang-org",
+      "name": "Proxy",
+      "url": "https://proxy.golang.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-15T04:55:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sheer-feb-letters-infectious-trycloudflare-com",
+      "name": "Sheer-feb-letters-infectious",
+      "url": "https://sheer-feb-letters-infectious.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-15T04:55:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tizhuang-qcscience-cc",
+      "name": "Tizhuang",
+      "url": "https://tizhuang.qcscience.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-15T04:55:56Z",
       "source": "auto_sync"
     }
   ]

@@ -1,75 +1,165 @@
 {
-  "generated_at": "2026-11-14T22:06:22Z",
+  "generated_at": "2026-11-15T05:02:30Z",
   "changes": [
     {
-      "id": "git-669966-xyz",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 784
+      "latency": 4235
     },
     {
-      "id": "code-leez-tech",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 643
+      "latency": 77
     },
     {
-      "id": "fastgpt-leez-tech",
+      "id": "tridium-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 356
+      "latency": 300
     },
     {
-      "id": "status-leez-tech",
+      "id": "104-com-tw",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 308
+      "latency": 1276
     },
     {
-      "id": "opensunsama-com",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
+      "id": "gh-shiina-rimo-cafe",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 273
     },
     {
-      "id": "git-net2o-de",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
+      "id": "ghm-078465-xyz",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 555
     },
     {
-      "id": "gitlab-phaidra-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1833
+      "id": "github-boringhex-top",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 94
     },
     {
-      "id": "code-usgs-gov",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 464
+      "id": "github-mlmle-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 120
     },
     {
-      "id": "gitlab-pasteur-fr",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
+      "id": "hub-ddayh-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 128
     },
     {
-      "id": "shopjsp-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2100
+      "id": "jiashu-1win-eu-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 343
+    },
+    {
+      "id": "proxy-baguoyuyan-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 109
+    },
+    {
+      "id": "gh-chjina-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 310
+    },
+    {
+      "id": "ghp-keleyaa-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 98
+    },
+    {
+      "id": "aov-cc",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 165
+    },
+    {
+      "id": "canvas-mcp-illinihunt-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 93
+    },
+    {
+      "id": "daoyou-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 79
+    },
+    {
+      "id": "kun-agent-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 130
+    },
+    {
+      "id": "llmwiki-greenerai-top",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 89
+    },
+    {
+      "id": "monize-demo-ucdialplans-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 546
+    },
+    {
+      "id": "redstring-io",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 90
+    },
+    {
+      "id": "vibespace-xyzen-de",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 89
+    },
+    {
+      "id": "opencv-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 707
+    },
+    {
+      "id": "cyassure-eu",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 109
+    },
+    {
+      "id": "coderanch-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 172
+    },
+    {
+      "id": "xget-xi-xu-me",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 543
+    },
+    {
+      "id": "anonymous-4open-science",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 106
     }
   ]
 }

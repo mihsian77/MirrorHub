@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-14T22:06:22Z",
-  "total_nodes": 551,
+  "updated_at": "2026-11-15T05:02:30Z",
+  "total_nodes": 573,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -7056,6 +7056,292 @@
           "id": "yesornotarot-love",
           "name": "Yesornotarot",
           "url": "https://yesornotarot.love",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-shiina-rimo-cafe",
+          "name": "Gh",
+          "url": "https://gh.shiina-rimo.cafe",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghm-078465-xyz",
+          "name": "Ghm",
+          "url": "https://ghm.078465.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-boringhex-top",
+          "name": "Github",
+          "url": "https://github.boringhex.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "github-mlmle-cn",
+          "name": "Github",
+          "url": "https://github.mlmle.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hub-ddayh-com",
+          "name": "Hub",
+          "url": "https://hub.ddayh.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jiashu-1win-eu-org",
+          "name": "Jiashu",
+          "url": "https://jiashu.1win.eu.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "proxy-baguoyuyan-com",
+          "name": "Proxy",
+          "url": "https://proxy.baguoyuyan.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gh-chjina-com",
+          "name": "Gh",
+          "url": "https://gh.chjina.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghp-keleyaa-com",
+          "name": "Ghp",
+          "url": "https://ghp.keleyaa.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aov-cc",
+          "name": "Aov",
+          "url": "https://aov.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "canvas-mcp-illinihunt-org",
+          "name": "Canvas-mcp",
+          "url": "https://canvas-mcp.illinihunt.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "daoyou-org",
+          "name": "Daoyou",
+          "url": "https://daoyou.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kun-agent-com",
+          "name": "Kun-agent",
+          "url": "https://kun-agent.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "llmwiki-greenerai-top",
+          "name": "Llmwiki",
+          "url": "https://llmwiki.greenerai.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "monize-demo-ucdialplans-com",
+          "name": "Monize-demo",
+          "url": "https://monize-demo.ucdialplans.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "redstring-io",
+          "name": "Redstring",
+          "url": "https://redstring.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vibespace-xyzen-de",
+          "name": "Vibespace",
+          "url": "https://vibespace.xyzen.de",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "opencv-org",
+          "name": "Opencv",
+          "url": "https://opencv.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cyassure-eu",
+          "name": "Cyassure",
+          "url": "https://cyassure.eu",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "coderanch-com",
+          "name": "Coderanch",
+          "url": "https://coderanch.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xget-xi-xu-me",
+          "name": "Xget",
+          "url": "https://xget.xi-xu.me",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "anonymous-4open-science",
+          "name": "Anonymous",
+          "url": "https://anonymous.4open.science",
           "supports": [
             "release",
             "archive",
