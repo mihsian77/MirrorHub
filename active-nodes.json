@@ -6,7 +6,7 @@
   "attribution_text": "节点由 MirrorHub 提供",
   "attribution_url": "https://github.com/mihsian77/MirrorHub",
   "usage_policy": "欢迎接入使用，但请在产品 UI 中保留来源声明。二次分发需遵守 MIT 协议并保留版权声明。",
-  "updated_at": "2026-11-15T13:35:43Z",
+  "updated_at": "2026-11-15T22:46:02Z",
   "total_online": 20,
   "nodes": [
     {
@@ -15,159 +15,159 @@
       "domain": "opencode.ai",
       "category": "universal_proxy",
       "latency_ms": 49,
-      "bandwidth_mbps": 0.12
+      "bandwidth_mbps": 0.05
+    },
+    {
+      "id": "solvely-ai",
+      "name": "Solvely",
+      "domain": "solvely.ai",
+      "category": "universal_proxy",
+      "latency_ms": 60,
+      "bandwidth_mbps": 0.18
     },
     {
       "id": "linkedin-com",
       "name": "Linkedin",
       "domain": "linkedin.com",
       "category": "universal_proxy",
-      "latency_ms": 67,
-      "bandwidth_mbps": 0.48
-    },
-    {
-      "id": "jsdelivr-testingcf",
-      "name": "jsDelivr TestingCF",
-      "domain": "testingcf.jsdelivr.net",
-      "category": "cdn_raw",
-      "latency_ms": 72,
-      "bandwidth_mbps": null
+      "latency_ms": 63,
+      "bandwidth_mbps": 0.46
     },
     {
       "id": "docs-tibco-com",
       "name": "Docs",
       "domain": "docs.tibco.com",
       "category": "universal_proxy",
+      "latency_ms": 64,
+      "bandwidth_mbps": 0.23
+    },
+    {
+      "id": "flowith-io",
+      "name": "Flowith",
+      "domain": "flowith.io",
+      "category": "universal_proxy",
+      "latency_ms": 65,
+      "bandwidth_mbps": 0.18
+    },
+    {
+      "id": "jsdelivr-testingcf",
+      "name": "jsDelivr TestingCF",
+      "domain": "testingcf.jsdelivr.net",
+      "category": "cdn_raw",
       "latency_ms": 73,
-      "bandwidth_mbps": 0.05
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "vizard-ai",
+      "name": "Vizard",
+      "domain": "vizard.ai",
+      "category": "universal_proxy",
+      "latency_ms": 75,
+      "bandwidth_mbps": 0.08
+    },
+    {
+      "id": "socratic-org",
+      "name": "Socratic",
+      "domain": "socratic.org",
+      "category": "universal_proxy",
+      "latency_ms": 76,
+      "bandwidth_mbps": 0.17
     },
     {
       "id": "app-snowflake-com",
       "name": "App",
       "domain": "app.snowflake.com",
       "category": "universal_proxy",
-      "latency_ms": 73,
-      "bandwidth_mbps": 0.9
+      "latency_ms": 77,
+      "bandwidth_mbps": 1.04
     },
     {
-      "id": "daoyou-org",
-      "name": "Daoyou",
-      "domain": "daoyou.org",
+      "id": "designer-microsoft-com",
+      "name": "Designer",
+      "domain": "designer.microsoft.com",
       "category": "universal_proxy",
-      "latency_ms": 87,
-      "bandwidth_mbps": 0.23
+      "latency_ms": 77,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "flow-google",
+      "name": "Flow",
+      "domain": "flow.google",
+      "category": "universal_proxy",
+      "latency_ms": 82,
+      "bandwidth_mbps": 1.16
+    },
+    {
+      "id": "spicychat-ai",
+      "name": "Spicychat",
+      "domain": "spicychat.ai",
+      "category": "universal_proxy",
+      "latency_ms": 82,
+      "bandwidth_mbps": 0.1
     },
     {
       "id": "wordpaper-pages-dev",
       "name": "Wordpaper",
       "domain": "wordpaper.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 88,
-      "bandwidth_mbps": 0.76
-    },
-    {
-      "id": "kighelper-cloud-pages-dev",
-      "name": "Kighelper-cloud",
-      "domain": "kighelper-cloud.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 91,
-      "bandwidth_mbps": 0.13
-    },
-    {
-      "id": "githubstatus-com",
-      "name": "Githubstatus",
-      "domain": "githubstatus.com",
-      "category": "universal_proxy",
-      "latency_ms": 92,
-      "bandwidth_mbps": 2.08
+      "latency_ms": 84,
+      "bandwidth_mbps": 0.68
     },
     {
       "id": "opresume-pages-dev",
       "name": "Opresume",
       "domain": "opresume.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 93,
-      "bandwidth_mbps": 0.67
+      "latency_ms": 84,
+      "bandwidth_mbps": 0.58
     },
     {
-      "id": "dilo-d14-pages-dev",
-      "name": "Dilo-d14",
-      "domain": "dilo-d14.pages.dev",
+      "id": "githubstatus-com",
+      "name": "Githubstatus",
+      "domain": "githubstatus.com",
       "category": "universal_proxy",
-      "latency_ms": 95,
-      "bandwidth_mbps": 0.24
+      "latency_ms": 86,
+      "bandwidth_mbps": 3.95
     },
     {
-      "id": "github-boringhex-top",
-      "name": "Github",
-      "domain": "github.boringhex.top",
+      "id": "kighelper-cloud-pages-dev",
+      "name": "Kighelper-cloud",
+      "domain": "kighelper-cloud.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 95,
-      "bandwidth_mbps": 2.27
+      "latency_ms": 89,
+      "bandwidth_mbps": 0.07
     },
     {
       "id": "bee-vs-hornets-pages-dev",
       "name": "Bee-vs-hornets",
       "domain": "bee-vs-hornets.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 96,
+      "latency_ms": 92,
       "bandwidth_mbps": null
     },
     {
-      "id": "freegrid-web-pages-dev",
-      "name": "Freegrid-web",
-      "domain": "freegrid-web.pages.dev",
+      "id": "dilo-d14-pages-dev",
+      "name": "Dilo-d14",
+      "domain": "dilo-d14.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 97,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "microsoftedge-microsoft-com",
-      "name": "Microsoftedge",
-      "domain": "microsoftedge.microsoft.com",
-      "category": "universal_proxy",
-      "latency_ms": 98,
-      "bandwidth_mbps": 0.19
-    },
-    {
-      "id": "x-com",
-      "name": "X",
-      "domain": "x.com",
-      "category": "universal_proxy",
-      "latency_ms": 98,
-      "bandwidth_mbps": 1.34
-    },
-    {
-      "id": "vibeholding-pages-dev",
-      "name": "Vibeholding",
-      "domain": "vibeholding.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 98,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "redstring-io",
-      "name": "Redstring",
-      "domain": "redstring.io",
-      "category": "universal_proxy",
-      "latency_ms": 98,
-      "bandwidth_mbps": null
+      "latency_ms": 92,
+      "bandwidth_mbps": 0.24
     },
     {
       "id": "xjtu-nyxf-study-material-pages-dev",
       "name": "Xjtu-nyxf-study-material",
       "domain": "xjtu-nyxf-study-material.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 100,
-      "bandwidth_mbps": 0.2
+      "latency_ms": 92,
+      "bandwidth_mbps": 0.19
     },
     {
-      "id": "canvas-mcp-illinihunt-org",
-      "name": "Canvas-mcp",
-      "domain": "canvas-mcp.illinihunt.org",
+      "id": "freegrid-web-pages-dev",
+      "name": "Freegrid-web",
+      "domain": "freegrid-web.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 100,
-      "bandwidth_mbps": 0.66
+      "latency_ms": 93,
+      "bandwidth_mbps": null
     }
   ]
 }

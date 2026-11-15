@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-15T13:35:43Z",
-  "total_nodes": 572,
+  "updated_at": "2026-11-15T22:46:02Z",
+  "total_nodes": 966,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -3039,19 +3039,6 @@
           "id": "erp-kacon-ai",
           "name": "Erp",
           "url": "https://erp.kacon.ai",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "flashtype-com",
-          "name": "Flashtype",
-          "url": "https://flashtype.com",
           "supports": [
             "release",
             "archive",
@@ -7329,6 +7316,5141 @@
           "id": "anonymous-4open-science",
           "name": "Anonymous",
           "url": "https://anonymous.4open.science",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "10sppt-com",
+          "name": "10sppt",
+          "url": "https://10sppt.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "17zhiliao-com",
+          "name": "17zhiliao",
+          "url": "https://17zhiliao.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "1dppt-com",
+          "name": "1dppt",
+          "url": "https://1dppt.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "2short-ai",
+          "name": "2short",
+          "url": "https://2short.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "302-ai",
+          "name": "302",
+          "url": "https://302.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "36kr-com",
+          "name": "36kr",
+          "url": "https://36kr.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "3d-hunyuan-tencent-com",
+          "name": "3d",
+          "url": "https://3d.hunyuan.tencent.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "51job-com",
+          "name": "51job",
+          "url": "https://51job.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "51melo-com",
+          "name": "51melo",
+          "url": "https://51melo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "51miz-com",
+          "name": "51miz",
+          "url": "https://51miz.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "53kf-com",
+          "name": "53kf",
+          "url": "https://53kf.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "acestudio-cn",
+          "name": "Acestudio",
+          "url": "https://acestudio.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aconvert-com",
+          "name": "Aconvert",
+          "url": "https://aconvert.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "adquan-com",
+          "name": "Adquan",
+          "url": "https://adquan.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agent-xfyun-cn",
+          "name": "Agent",
+          "url": "https://agent.xfyun.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "agents-baidu-com",
+          "name": "Agents",
+          "url": "https://agents.baidu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aic-oceanengine-com",
+          "name": "Aic",
+          "url": "https://aic.oceanengine.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aidaxue-com",
+          "name": "Aidaxue",
+          "url": "https://aidaxue.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aigc-baidu-com",
+          "name": "Aigc",
+          "url": "https://aigc.baidu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aigcarena-com",
+          "name": "Aigcarena",
+          "url": "https://aigcarena.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aiva-ai",
+          "name": "Aiva",
+          "url": "https://aiva.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "alimama-com",
+          "name": "Alimama",
+          "url": "https://alimama.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "aminer-cn",
+          "name": "Aminer",
+          "url": "https://aminer.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "andisearch-com",
+          "name": "Andisearch",
+          "url": "https://andisearch.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "anijam-ai",
+          "name": "Anijam",
+          "url": "https://anijam.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "animejs-com",
+          "name": "Animejs",
+          "url": "https://animejs.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-anakin-ai",
+          "name": "App",
+          "url": "https://app.anakin.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "artsmart-ai",
+          "name": "Artsmart",
+          "url": "https://artsmart.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "askyourpdf-com",
+          "name": "Askyourpdf",
+          "url": "https://askyourpdf.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "astica-ai",
+          "name": "Astica",
+          "url": "https://astica.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "autoglm-zhipuai-cn",
+          "name": "Autoglm",
+          "url": "https://autoglm.zhipuai.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "avaskgroup-com",
+          "name": "Avaskgroup",
+          "url": "https://avaskgroup.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bagoodex-io",
+          "name": "Bagoodex",
+          "url": "https://bagoodex.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "betteryeah-com",
+          "name": "Betteryeah",
+          "url": "https://betteryeah.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bgmcat-com",
+          "name": "Bgmcat",
+          "url": "https://bgmcat.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "biaodaren-manaont-com",
+          "name": "Biaodaren",
+          "url": "https://biaodaren.manaont.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "biread-com",
+          "name": "Biread",
+          "url": "https://biread.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bluedot-ai",
+          "name": "Bluedot",
+          "url": "https://bluedot.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "boomy-com",
+          "name": "Boomy",
+          "url": "https://boomy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "browserbase-com",
+          "name": "Browserbase",
+          "url": "https://browserbase.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "byword-ai",
+          "name": "Byword",
+          "url": "https://byword.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "camscanner-com",
+          "name": "Camscanner",
+          "url": "https://camscanner.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "capcut-cn",
+          "name": "Capcut",
+          "url": "https://capcut.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "captainbi-com",
+          "name": "Captainbi",
+          "url": "https://captainbi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "captions-ai",
+          "name": "Captions",
+          "url": "https://captions.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "catpaw-meituan-com",
+          "name": "Catpaw",
+          "url": "https://catpaw.meituan.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chanjing-cc",
+          "name": "Chanjing",
+          "url": "https://chanjing.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chanmama-com",
+          "name": "Chanmama",
+          "url": "https://chanmama.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "channels-weixin-qq-com",
+          "name": "Channels",
+          "url": "https://channels.weixin.qq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "charisma-ai",
+          "name": "Charisma",
+          "url": "https://charisma.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chat-ppt-com",
+          "name": "Chat-ppt",
+          "url": "https://chat-ppt.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chat-360-com",
+          "name": "Chat",
+          "url": "https://chat.360.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chat-openai-com",
+          "name": "Chat",
+          "url": "https://chat.openai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chat-sensetime-com",
+          "name": "Chat",
+          "url": "https://chat.sensetime.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chatbase-co",
+          "name": "Chatbase",
+          "url": "https://chatbase.co",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chatexcel-com",
+          "name": "Chatexcel",
+          "url": "https://chatexcel.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chatglm-cn",
+          "name": "Chatglm",
+          "url": "https://chatglm.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cherryai-com-cn",
+          "name": "Cherryai",
+          "url": "https://cherryai.com.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chinaz-com",
+          "name": "Chinaz",
+          "url": "https://chinaz.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chineselaw-com",
+          "name": "Chineselaw",
+          "url": "https://chineselaw.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "choice-eastmoney-com",
+          "name": "Choice",
+          "url": "https://choice.eastmoney.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chuangyi-taobao-com",
+          "name": "Chuangyi",
+          "url": "https://chuangyi.taobao.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "chushou-art",
+          "name": "Chushou",
+          "url": "https://chushou.art",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "citexs-com",
+          "name": "Citexs",
+          "url": "https://citexs.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "claid-ai",
+          "name": "Claid",
+          "url": "https://claid.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "class-hujiang-com",
+          "name": "Class",
+          "url": "https://class.hujiang.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "classpoint-io",
+          "name": "Classpoint",
+          "url": "https://classpoint.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cleanup-pictures",
+          "name": "Cleanup",
+          "url": "https://cleanup.pictures",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "clipchamp-com",
+          "name": "Clipchamp",
+          "url": "https://clipchamp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "codeflicker-ai",
+          "name": "Codeflicker",
+          "url": "https://codeflicker.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "codefuse-antgroup-com",
+          "name": "Codefuse",
+          "url": "https://codefuse.antgroup.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "codemao-cn",
+          "name": "Codemao",
+          "url": "https://codemao.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "codewave-163-com",
+          "name": "Codewave",
+          "url": "https://codewave.163.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "connectedpapers-com",
+          "name": "Connectedpapers",
+          "url": "https://connectedpapers.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "copilot-microsoft-com",
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cowriter-org",
+          "name": "Cowriter",
+          "url": "https://cowriter.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "coze-cn",
+          "name": "Coze",
+          "url": "https://coze.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "creatify-ai",
+          "name": "Creatify",
+          "url": "https://creatify.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "creator-nolibox-com",
+          "name": "Creator",
+          "url": "https://creator.nolibox.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ctrip-com",
+          "name": "Ctrip",
+          "url": "https://ctrip.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cuppa-sh",
+          "name": "Cuppa",
+          "url": "https://cuppa.sh",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "curl-qcloud-com",
+          "name": "Curl",
+          "url": "https://curl.qcloud.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "danjuanapp-com",
+          "name": "Danjuanapp",
+          "url": "https://danjuanapp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "data-xiguaji-com",
+          "name": "Data",
+          "url": "https://data.xiguaji.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "datayes-com",
+          "name": "Datayes",
+          "url": "https://datayes.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dayee-com",
+          "name": "Dayee",
+          "url": "https://dayee.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "designer-microsoft-com",
+          "name": "Designer",
+          "url": "https://designer.microsoft.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dezgo-com",
+          "name": "Dezgo",
+          "url": "https://dezgo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "diffit-me",
+          "name": "Diffit",
+          "url": "https://diffit.me",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "digen-ai",
+          "name": "Digen",
+          "url": "https://digen.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dingtalk-com",
+          "name": "Dingtalk",
+          "url": "https://dingtalk.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dippy-ai",
+          "name": "Dippy",
+          "url": "https://dippy.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "docmee-cn",
+          "name": "Docmee",
+          "url": "https://docmee.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dola-com",
+          "name": "Dola",
+          "url": "https://dola.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "douchacha-com",
+          "name": "Douchacha",
+          "url": "https://douchacha.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "doudou-paluai-com",
+          "name": "Doudou",
+          "url": "https://doudou.paluai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dream-ai",
+          "name": "Dream",
+          "url": "https://dream.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dreamstudio-ai",
+          "name": "Dreamstudio",
+          "url": "https://dreamstudio.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "duck-ai",
+          "name": "Duck",
+          "url": "https://duck.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "duomian-com",
+          "name": "Duomian",
+          "url": "https://duomian.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dzine-ai",
+          "name": "Dzine",
+          "url": "https://dzine.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "easemob-com",
+          "name": "Easemob",
+          "url": "https://easemob.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "easinote-seewo-com",
+          "name": "Easinote",
+          "url": "https://easinote.seewo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "eccang-com",
+          "name": "Eccang",
+          "url": "https://eccang.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "educoder-net",
+          "name": "Educoder",
+          "url": "https://educoder.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "eklipse-gg",
+          "name": "Eklipse",
+          "url": "https://eklipse.gg",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "eudic-net",
+          "name": "Eudic",
+          "url": "https://eudic.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fanyi-baidu-com",
+          "name": "Fanyi",
+          "url": "https://fanyi.baidu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fanyi-caiyunapp-com",
+          "name": "Fanyi",
+          "url": "https://fanyi.caiyunapp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fanyi-qq-com",
+          "name": "Fanyi",
+          "url": "https://fanyi.qq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fanyi-sogou-com",
+          "name": "Fanyi",
+          "url": "https://fanyi.sogou.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fanyi-xfyun-cn",
+          "name": "Fanyi",
+          "url": "https://fanyi.xfyun.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fanyi-youdao-com",
+          "name": "Fanyi",
+          "url": "https://fanyi.youdao.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "feixianglaoshi-com",
+          "name": "Feixianglaoshi",
+          "url": "https://feixianglaoshi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fenbi-com",
+          "name": "Fenbi",
+          "url": "https://fenbi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "finbox-com",
+          "name": "Finbox",
+          "url": "https://finbox.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "finnhub-io",
+          "name": "Finnhub",
+          "url": "https://finnhub.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "firefly-adobe-com",
+          "name": "Firefly",
+          "url": "https://firefly.adobe.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "flomoapp-com",
+          "name": "Flomoapp",
+          "url": "https://flomoapp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "flow-google",
+          "name": "Flow",
+          "url": "https://flow.google",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "flowith-io",
+          "name": "Flowith",
+          "url": "https://flowith.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "flowus-cn",
+          "name": "Flowus",
+          "url": "https://flowus.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "framedrop-gg",
+          "name": "Framedrop",
+          "url": "https://framedrop.gg",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "front-com",
+          "name": "Front",
+          "url": "https://front.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "futunn-com",
+          "name": "Futunn",
+          "url": "https://futunn.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gaippt-com",
+          "name": "Gaippt",
+          "url": "https://gaippt.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "genmo-ai",
+          "name": "Genmo",
+          "url": "https://genmo.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "getclockwise-com",
+          "name": "Getclockwise",
+          "url": "https://getclockwise.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "getquicker-net",
+          "name": "Getquicker",
+          "url": "https://getquicker.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitlab-gnome-org",
+          "name": "Gitlab",
+          "url": "https://gitlab.gnome.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitlab-winehq-org",
+          "name": "Gitlab",
+          "url": "https://gitlab.winehq.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "go-goal-com",
+          "name": "Go-goal",
+          "url": "https://go-goal.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "grow-google",
+          "name": "Grow",
+          "url": "https://grow.google",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "guangsuxie-com",
+          "name": "Guangsuxie",
+          "url": "https://guangsuxie.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hailuoai-com",
+          "name": "Hailuoai",
+          "url": "https://hailuoai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hailuoai-video",
+          "name": "Hailuoai",
+          "url": "https://hailuoai.video",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "haimian-com",
+          "name": "Haimian",
+          "url": "https://haimian.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hanabi-data-viz-cn",
+          "name": "Hanabi",
+          "url": "https://hanabi.data-viz.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "heidihealth-com",
+          "name": "Heidihealth",
+          "url": "https://heidihealth.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hibor-com-cn",
+          "name": "Hibor",
+          "url": "https://hibor.com.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hiecho-youdao-com",
+          "name": "Hiecho",
+          "url": "https://hiecho.youdao.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "holopix-cn",
+          "name": "Holopix",
+          "url": "https://holopix.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "honor-com",
+          "name": "Honor",
+          "url": "https://honor.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "huibo-baidu-com",
+          "name": "Huibo",
+          "url": "https://huibo.baidu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "huitun-com",
+          "name": "Huitun",
+          "url": "https://huitun.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "hunyuan-tencent-com",
+          "name": "Hunyuan",
+          "url": "https://hunyuan.tencent.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "iask-ai",
+          "name": "Iask",
+          "url": "https://iask.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "icourse163-org",
+          "name": "Icourse163",
+          "url": "https://icourse163.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "iflow-cn",
+          "name": "Iflow",
+          "url": "https://iflow.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "iflydocs-com",
+          "name": "Iflydocs",
+          "url": "https://iflydocs.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "iflyrec-com",
+          "name": "Iflyrec",
+          "url": "https://iflyrec.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ihr360-com",
+          "name": "Ihr360",
+          "url": "https://ihr360.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "illustroke-com",
+          "name": "Illustroke",
+          "url": "https://illustroke.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "inciteful-xyz",
+          "name": "Inciteful",
+          "url": "https://inciteful.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "index-baidu-com",
+          "name": "Index",
+          "url": "https://index.baidu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "inkfox-ai-com",
+          "name": "Inkfox-ai",
+          "url": "https://inkfox-ai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "iris-ai",
+          "name": "Iris",
+          "url": "https://iris.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "isheji-com",
+          "name": "Isheji",
+          "url": "https://isheji.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jbangai-com",
+          "name": "Jbangai",
+          "url": "https://jbangai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jiandaoyun-com",
+          "name": "Jiandaoyun",
+          "url": "https://jiandaoyun.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jianwai-youdao-com",
+          "name": "Jianwai",
+          "url": "https://jianwai.youdao.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jimeng-jianying-com",
+          "name": "Jimeng",
+          "url": "https://jimeng.jianying.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "joinquant-com",
+          "name": "Joinquant",
+          "url": "https://joinquant.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "js-design",
+          "name": "Js",
+          "url": "https://js.design",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "juejin-cn",
+          "name": "Juejin",
+          "url": "https://juejin.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jules-google-com",
+          "name": "Jules",
+          "url": "https://jules.google.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jxedt-com",
+          "name": "Jxedt",
+          "url": "https://jxedt.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "jzt-jd-com",
+          "name": "Jzt",
+          "url": "https://jzt.jd.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kaiber-ai",
+          "name": "Kaiber",
+          "url": "https://kaiber.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kaipai-com",
+          "name": "Kaipai",
+          "url": "https://kaipai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kaipanla-com",
+          "name": "Kaipanla",
+          "url": "https://kaipanla.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kanzhun-com",
+          "name": "Kanzhun",
+          "url": "https://kanzhun.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kaogujia-com",
+          "name": "Kaogujia",
+          "url": "https://kaogujia.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kapwing-com",
+          "name": "Kapwing",
+          "url": "https://kapwing.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ketangpai-com",
+          "name": "Ketangpai",
+          "url": "https://ketangpai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kimi-com",
+          "name": "Kimi",
+          "url": "https://kimi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "klingai-kuaishou-com",
+          "name": "Klingai",
+          "url": "https://klingai.kuaishou.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kolors-kuaishou-com",
+          "name": "Kolors",
+          "url": "https://kolors.kuaishou.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "koolearn-com",
+          "name": "Koolearn",
+          "url": "https://koolearn.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "koyfin-com",
+          "name": "Koyfin",
+          "url": "https://koyfin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "krisp-ai",
+          "name": "Krisp",
+          "url": "https://krisp.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "kuaiduizuoye-com",
+          "name": "Kuaiduizuoye",
+          "url": "https://kuaiduizuoye.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "labs-google",
+          "name": "Labs",
+          "url": "https://labs.google",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "laigu-com",
+          "name": "Laigu",
+          "url": "https://laigu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "laihua-com",
+          "name": "Laihua",
+          "url": "https://laihua.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lang123-top",
+          "name": "Lang123",
+          "url": "https://lang123.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "langgpt-ai",
+          "name": "Langgpt",
+          "url": "https://langgpt.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "languagereactor-com",
+          "name": "Languagereactor",
+          "url": "https://languagereactor.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "layer-ai",
+          "name": "Layer",
+          "url": "https://layer.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lianqiai-cn",
+          "name": "Lianqiai",
+          "url": "https://lianqiai.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lickv-com",
+          "name": "Lickv",
+          "url": "https://lickv.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ling-jd-com",
+          "name": "Ling",
+          "url": "https://ling.jd.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ling-tbox-cn",
+          "name": "Ling",
+          "url": "https://ling.tbox.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lingma-aliyun-com",
+          "name": "Lingma",
+          "url": "https://lingma.aliyun.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lingxing-com",
+          "name": "Lingxing",
+          "url": "https://lingxing.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "liulishuo-com",
+          "name": "Liulishuo",
+          "url": "https://liulishuo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "liveplatform-taobao-com",
+          "name": "Liveplatform",
+          "url": "https://liveplatform.taobao.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lobehub-com",
+          "name": "Lobehub",
+          "url": "https://lobehub.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "logically-app",
+          "name": "Logically",
+          "url": "https://logically.app",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "logseq-com",
+          "name": "Logseq",
+          "url": "https://logseq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "longbridgeapp-com",
+          "name": "Longbridgeapp",
+          "url": "https://longbridgeapp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "longcat-chat",
+          "name": "Longcat",
+          "url": "https://longcat.chat",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "loomi-live",
+          "name": "Loomi",
+          "url": "https://loomi.live",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "luban-taobao-com",
+          "name": "Luban",
+          "url": "https://luban.taobao.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lummi-ai",
+          "name": "Lummi",
+          "url": "https://lummi.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lumo-proton-me",
+          "name": "Lumo",
+          "url": "https://lumo.proton.me",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "luobi-net",
+          "name": "Luobi",
+          "url": "https://luobi.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "maas-xfyun-cn",
+          "name": "Maas",
+          "url": "https://maas.xfyun.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "magician-design",
+          "name": "Magician",
+          "url": "https://magician.design",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "maimemo-com",
+          "name": "Maimemo",
+          "url": "https://maimemo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mangoerp-com",
+          "name": "Mangoerp",
+          "url": "https://mangoerp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "maoxiangai-com",
+          "name": "Maoxiangai",
+          "url": "https://maoxiangai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mapify-so",
+          "name": "Mapify",
+          "url": "https://mapify.so",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mastergo-com",
+          "name": "Mastergo",
+          "url": "https://mastergo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mathgpt-com",
+          "name": "Mathgpt",
+          "url": "https://mathgpt.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "miao-wondershare-cn",
+          "name": "Miao",
+          "url": "https://miao.wondershare.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "miaoda-cn",
+          "name": "Miaoda",
+          "url": "https://miaoda.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "miaoduo-com",
+          "name": "Miaoduo",
+          "url": "https://miaoduo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "miaohua-sensetime-com",
+          "name": "Miaohua",
+          "url": "https://miaohua.sensetime.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "miaosi-qq-com",
+          "name": "Miaosi",
+          "url": "https://miaosi.qq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "minimax-io",
+          "name": "Minimax",
+          "url": "https://minimax.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "miocai-com",
+          "name": "Miocai",
+          "url": "https://miocai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "miora-design",
+          "name": "Miora",
+          "url": "https://miora.design",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mixo-io",
+          "name": "Mixo",
+          "url": "https://mixo.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mm-edrawsoft-cn",
+          "name": "Mm",
+          "url": "https://mm.edrawsoft.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mokahr-com",
+          "name": "Mokahr",
+          "url": "https://mokahr.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "motion-yoo-ai-com",
+          "name": "Motion",
+          "url": "https://motion.yoo-ai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mowen-cn",
+          "name": "Mowen",
+          "url": "https://mowen.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "moyin-com",
+          "name": "Moyin",
+          "url": "https://moyin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mubu-com",
+          "name": "Mubu",
+          "url": "https://mubu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mudu-tv",
+          "name": "Mudu",
+          "url": "https://mudu.tv",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "musho-ai",
+          "name": "Musho",
+          "url": "https://musho.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "music-douyin-com",
+          "name": "Music",
+          "url": "https://music.douyin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "music-tiangong-cn",
+          "name": "Music",
+          "url": "https://music.tiangong.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "n-cn",
+          "name": "N",
+          "url": "https://n.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "niutrans-com",
+          "name": "Niutrans",
+          "url": "https://niutrans.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nocode-meituan-com",
+          "name": "Nocode",
+          "url": "https://nocode.meituan.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "notebooklm-google-com",
+          "name": "Notebooklm",
+          "url": "https://notebooklm.google.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nowcoder-com",
+          "name": "Nowcoder",
+          "url": "https://nowcoder.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "numerade-com",
+          "name": "Numerade",
+          "url": "https://numerade.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "nwjs-io",
+          "name": "Nwjs",
+          "url": "https://nwjs.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "oalur-com",
+          "name": "Oalur",
+          "url": "https://oalur.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "offergoose-cn",
+          "name": "Offergoose",
+          "url": "https://offergoose.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "offershow-cn",
+          "name": "Offershow",
+          "url": "https://offershow.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "one-alimama-com",
+          "name": "One",
+          "url": "https://one.alimama.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "onsolo-ai",
+          "name": "Onsolo",
+          "url": "https://onsolo.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "otter-ai",
+          "name": "Otter",
+          "url": "https://otter.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "paibanxiaoxing-com",
+          "name": "Paibanxiaoxing",
+          "url": "https://paibanxiaoxing.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "paperyy-com",
+          "name": "Paperyy",
+          "url": "https://paperyy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pdf-ai",
+          "name": "Pdf",
+          "url": "https://pdf.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pdf365-cn",
+          "name": "Pdf365",
+          "url": "https://pdf365.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pebblely-com",
+          "name": "Pebblely",
+          "url": "https://pebblely.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "photosonic-writesonic-com",
+          "name": "Photosonic",
+          "url": "https://photosonic.writesonic.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pi-deepvinci-tech",
+          "name": "Pi",
+          "url": "https://pi.deepvinci.tech",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "piccopilot-com",
+          "name": "Piccopilot",
+          "url": "https://piccopilot.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "picdoc-cn",
+          "name": "Picdoc",
+          "url": "https://picdoc.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "picell-ai",
+          "name": "Picell",
+          "url": "https://picell.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pika-art",
+          "name": "Pika",
+          "url": "https://pika.art",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pipedream-com",
+          "name": "Pipedream",
+          "url": "https://pipedream.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pkulaw-com",
+          "name": "Pkulaw",
+          "url": "https://pkulaw.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "podcast-adobe-com",
+          "name": "Podcast",
+          "url": "https://podcast.adobe.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "polybuzz-ai",
+          "name": "Polybuzz",
+          "url": "https://polybuzz.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "polyv-net",
+          "name": "Polyv",
+          "url": "https://polyv.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "popai-pro",
+          "name": "Popai",
+          "url": "https://popai.pro",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "powder-gg",
+          "name": "Powder",
+          "url": "https://powder.gg",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "powerautomate-microsoft-com",
+          "name": "Powerautomate",
+          "url": "https://powerautomate.microsoft.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ppt-101-com",
+          "name": "Ppt",
+          "url": "https://ppt.101.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "publer-com",
+          "name": "Publer",
+          "url": "https://publer.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "pubscholar-cn",
+          "name": "Pubscholar",
+          "url": "https://pubscholar.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qian-gua-com",
+          "name": "Qian-gua",
+          "url": "https://qian-gua.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qianfan-cloud-baidu-com",
+          "name": "Qianfan",
+          "url": "https://qianfan.cloud.baidu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qidian-qq-com",
+          "name": "Qidian",
+          "url": "https://qidian.qq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qieman-com",
+          "name": "Qieman",
+          "url": "https://qieman.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qingdou-vip",
+          "name": "Qingdou",
+          "url": "https://qingdou.vip",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qingge-baidu-com",
+          "name": "Qingge",
+          "url": "https://qingge.baidu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qishui-douyin-com",
+          "name": "Qishui",
+          "url": "https://qishui.douyin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qiyuai-net",
+          "name": "Qiyuai",
+          "url": "https://qiyuai.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qlip-ai",
+          "name": "Qlip",
+          "url": "https://qlip.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "quantconnect-com",
+          "name": "Quantconnect",
+          "url": "https://quantconnect.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qupeiyin-cn",
+          "name": "Qupeiyin",
+          "url": "https://qupeiyin.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "rankiq-com",
+          "name": "Rankiq",
+          "url": "https://rankiq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "reamaze-com",
+          "name": "Reamaze",
+          "url": "https://reamaze.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "revoldiv-com",
+          "name": "Revoldiv",
+          "url": "https://revoldiv.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ricequant-com",
+          "name": "Ricequant",
+          "url": "https://ricequant.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "robo-datayes-com",
+          "name": "Robo",
+          "url": "https://robo.datayes.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "rork-com",
+          "name": "Rork",
+          "url": "https://rork.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "s-mizai-cn",
+          "name": "S",
+          "url": "https://s.mizai.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "s-weibo-com",
+          "name": "S",
+          "url": "https://s.weibo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "saladict-crimx-com",
+          "name": "Saladict",
+          "url": "https://saladict.crimx.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "screenapp-io",
+          "name": "Screenapp",
+          "url": "https://screenapp.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "seaart-ai",
+          "name": "Seaart",
+          "url": "https://seaart.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "seekout-com",
+          "name": "Seekout",
+          "url": "https://seekout.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "shenyandayi-com",
+          "name": "Shenyandayi",
+          "url": "https://shenyandayi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "shoplus-net",
+          "name": "Shoplus",
+          "url": "https://shoplus.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "shoptop-com",
+          "name": "Shoptop",
+          "url": "https://shoptop.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "siliconflow-cn",
+          "name": "Siliconflow",
+          "url": "https://siliconflow.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "sinoclick-com",
+          "name": "Sinoclick",
+          "url": "https://sinoclick.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "skyreels-ai",
+          "name": "Skyreels",
+          "url": "https://skyreels.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "skywork-ai",
+          "name": "Skywork",
+          "url": "https://skywork.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "smartread-cc",
+          "name": "Smartread",
+          "url": "https://smartread.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "smith-langchain-com",
+          "name": "Smith",
+          "url": "https://smith.langchain.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "socratic-org",
+          "name": "Socratic",
+          "url": "https://socratic.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "solvely-ai",
+          "name": "Solvely",
+          "url": "https://solvely.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "soundful-com",
+          "name": "Soundful",
+          "url": "https://soundful.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "soundviewai-com",
+          "name": "Soundviewai",
+          "url": "https://soundviewai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "space-coze-cn",
+          "name": "Space",
+          "url": "https://space.coze.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "speedai-com",
+          "name": "Speedai",
+          "url": "https://speedai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "spicychat-ai",
+          "name": "Spicychat",
+          "url": "https://spicychat.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "stepfun-com",
+          "name": "Stepfun",
+          "url": "https://stepfun.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "stitch-withgoogle-com",
+          "name": "Stitch",
+          "url": "https://stitch.withgoogle.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "streamingtool-douyin-com",
+          "name": "Streamingtool",
+          "url": "https://streamingtool.douyin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "streamyard-com",
+          "name": "Streamyard",
+          "url": "https://streamyard.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "super-cqvip-com",
+          "name": "Super",
+          "url": "https://super.cqvip.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "talkie-ai-com",
+          "name": "Talkie-ai",
+          "url": "https://talkie-ai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tempo-new",
+          "name": "Tempo",
+          "url": "https://tempo.new",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tiamat-world",
+          "name": "Tiamat",
+          "url": "https://tiamat.world",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tiangong-cn",
+          "name": "Tiangong",
+          "url": "https://tiangong.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tianyin-music-163-com",
+          "name": "Tianyin",
+          "url": "https://tianyin.music.163.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tinywow-com",
+          "name": "Tinywow",
+          "url": "https://tinywow.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tokendance-space",
+          "name": "Tokendance",
+          "url": "https://tokendance.space",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tools-pdf24-org",
+          "name": "Tools",
+          "url": "https://tools.pdf24.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tower-im",
+          "name": "Tower",
+          "url": "https://tower.im",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "trae-ai",
+          "name": "Trae",
+          "url": "https://trae.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "translate-alibaba-com",
+          "name": "Translate",
+          "url": "https://translate.alibaba.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "transmart-qq-com",
+          "name": "Transmart",
+          "url": "https://transmart.qq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "trello-com",
+          "name": "Trello",
+          "url": "https://trello.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "trendinsight-oceanengine-com",
+          "name": "Trendinsight",
+          "url": "https://trendinsight.oceanengine.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "trinka-ai",
+          "name": "Trinka",
+          "url": "https://trinka.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ttalkai-com",
+          "name": "Ttalkai",
+          "url": "https://ttalkai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tubebuddy-com",
+          "name": "Tubebuddy",
+          "url": "https://tubebuddy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tugaigai-com",
+          "name": "Tugaigai",
+          "url": "https://tugaigai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "virbo-ai-wondershare-cn",
+          "name": "Virbo-ai",
+          "url": "https://virbo-ai.wondershare.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "visily-ai",
+          "name": "Visily",
+          "url": "https://visily.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vivago-ai",
+          "name": "Vivago",
+          "url": "https://vivago.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vizard-ai",
+          "name": "Vizard",
+          "url": "https://vizard.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "volcengine-com",
+          "name": "Volcengine",
+          "url": "https://volcengine.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vozo-ai",
+          "name": "Vozo",
+          "url": "https://vozo.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "waimao-163-com",
+          "name": "Waimao",
+          "url": "https://waimao.163.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wandb-ai",
+          "name": "Wandb",
+          "url": "https://wandb.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wanfangdata-com-cn",
+          "name": "Wanfangdata",
+          "url": "https://wanfangdata.com.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wantquotes-net",
+          "name": "Wantquotes",
+          "url": "https://wantquotes.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wanzhi-com",
+          "name": "Wanzhi",
+          "url": "https://wanzhi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "web-baimiaoapp-com",
+          "name": "Web",
+          "url": "https://web.baimiaoapp.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "weimob-com",
+          "name": "Weimob",
+          "url": "https://weimob.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wenyouxiaozhu-com",
+          "name": "Wenyouxiaozhu",
+          "url": "https://wenyouxiaozhu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "weta365-com",
+          "name": "Weta365",
+          "url": "https://weta365.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "whee-com",
+          "name": "Whee",
+          "url": "https://whee.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wiley-com",
+          "name": "Wiley",
+          "url": "https://wiley.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wolai-com",
+          "name": "Wolai",
+          "url": "https://wolai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "worldfirst-com-cn",
+          "name": "Worldfirst",
+          "url": "https://worldfirst.com.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wrd-cn",
+          "name": "Wrd",
+          "url": "https://wrd.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wujieai-com",
+          "name": "Wujieai",
+          "url": "https://wujieai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wukong-com",
+          "name": "Wukong",
+          "url": "https://wukong.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wuli-art",
+          "name": "Wuli",
+          "url": "https://wuli.art",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "wxb-com",
+          "name": "Wxb",
+          "url": "https://wxb.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "x-cnki-net",
+          "name": "X",
+          "url": "https://x.cnki.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xd-newrank-cn",
+          "name": "Xd",
+          "url": "https://xd.newrank.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xiaoai-mi-com",
+          "name": "Xiaoai",
+          "url": "https://xiaoai.mi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xiaodu-baidu-com",
+          "name": "Xiaodu",
+          "url": "https://xiaodu.baidu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xiaohuazhuo-com",
+          "name": "Xiaohuazhuo",
+          "url": "https://xiaohuazhuo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xiaoi-com",
+          "name": "Xiaoi",
+          "url": "https://xiaoi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xiaoice-com",
+          "name": "Xiaoice",
+          "url": "https://xiaoice.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xiaomengai-com",
+          "name": "Xiaomengai",
+          "url": "https://xiaomengai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xiaoneng-cn",
+          "name": "Xiaoneng",
+          "url": "https://xiaoneng.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xiezuocat-com",
+          "name": "Xiezuocat",
+          "url": "https://xiezuocat.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xiezuoyu-com",
+          "name": "Xiezuoyu",
+          "url": "https://xiezuoyu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xingchen-aliyun-com",
+          "name": "Xingchen",
+          "url": "https://xingchen.aliyun.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xinghuo-xfyun-cn",
+          "name": "Xinghuo",
+          "url": "https://xinghuo.xfyun.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xinrenxinshi-com",
+          "name": "Xinrenxinshi",
+          "url": "https://xinrenxinshi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xk-newrank-cn",
+          "name": "Xk",
+          "url": "https://xk.newrank.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xmind-ai",
+          "name": "Xmind",
+          "url": "https://xmind.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xstudio-music-163-com",
+          "name": "Xstudio",
+          "url": "https://xstudio.music.163.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xueersi-com",
+          "name": "Xueersi",
+          "url": "https://xueersi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xuetangx-com",
+          "name": "Xuetangx",
+          "url": "https://xuetangx.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "xz-newrank-cn",
+          "name": "Xz",
+          "url": "https://xz.newrank.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yanxi-jd-com",
+          "name": "Yanxi",
+          "url": "https://yanxi.jd.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yeahmobi-com",
+          "name": "Yeahmobi",
+          "url": "https://yeahmobi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yijian-chat",
+          "name": "Yijian",
+          "url": "https://yijian.chat",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "you-com",
+          "name": "You",
+          "url": "https://you.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yuanbao-tencent-com",
+          "name": "Yuanbao",
+          "url": "https://yuanbao.tencent.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yuanqi-tencent-com",
+          "name": "Yuanqi",
+          "url": "https://yuanqi.tencent.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yunxiu-meitu-com",
+          "name": "Yunxiu",
+          "url": "https://yunxiu.meitu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yunzhiai-cn",
+          "name": "Yunzhiai",
+          "url": "https://yunzhiai.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zaohua-qq-com",
+          "name": "Zaohua",
+          "url": "https://zaohua.qq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zaoju-art",
+          "name": "Zaoju",
+          "url": "https://zaoju.art",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zerogpt-com",
+          "name": "Zerogpt",
+          "url": "https://zerogpt.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zh-d2l-ai",
+          "name": "Zh",
+          "url": "https://zh.d2l.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zhaopin-com",
+          "name": "Zhaopin",
+          "url": "https://zhaopin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zhibojiajia-com",
+          "name": "Zhibojiajia",
+          "url": "https://zhibojiajia.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zhihuishu-com",
+          "name": "Zhihuishu",
+          "url": "https://zhihuishu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zhumengdao-com",
+          "name": "Zhumengdao",
+          "url": "https://zhumengdao.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zida-school",
+          "name": "Zida",
+          "url": "https://zida.school",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zidongtaichu-com",
+          "name": "Zidongtaichu",
+          "url": "https://zidongtaichu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zj-xfyun-cn",
+          "name": "Zj",
+          "url": "https://zj.xfyun.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zybang-com",
+          "name": "Zybang",
+          "url": "https://zybang.com",
           "supports": [
             "release",
             "archive",
