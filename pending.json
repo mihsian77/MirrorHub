@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-15T05:02:30Z",
+  "updated_at": "2026-11-15T13:35:43Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -39825,6 +39825,66 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-15T04:55:56Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "coinalyze-net",
+      "name": "Coinalyze",
+      "url": "https://coinalyze.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-15T13:28:25Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "daybreak-aronlab-dev",
+      "name": "Daybreak",
+      "url": "https://daybreak.aronlab.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-15T13:28:25Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mogame-app",
+      "name": "Mogame",
+      "url": "https://mogame.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-15T13:28:25Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "remix-disco-promoting-mileage-trycloudflare-com",
+      "name": "Remix-disco-promoting-mileage",
+      "url": "https://remix-disco-promoting-mileage.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-15T13:28:25Z",
       "source": "auto_sync"
     }
   ]

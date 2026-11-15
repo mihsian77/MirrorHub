@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-15T05:02:30Z",
-  "total_nodes": 573,
+  "updated_at": "2026-11-15T13:35:43Z",
+  "total_nodes": 572,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4313,19 +4313,6 @@
           "id": "vibesql-org",
           "name": "Vibesql",
           "url": "https://vibesql.org",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "vibetrading-wiki",
-          "name": "Vibetrading",
-          "url": "https://vibetrading.wiki",
           "supports": [
             "release",
             "archive",

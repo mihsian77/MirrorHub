@@ -1,165 +1,40 @@
 {
-  "generated_at": "2026-11-15T05:02:30Z",
+  "generated_at": "2026-11-15T13:35:43Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "sprite-gorest-ai",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 4235
+      "latency": 164
     },
     {
-      "id": "gh-idayer-com",
+      "id": "vibetrading-wiki",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "gitlab-phaidra-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 77
+      "latency": 1847
     },
     {
-      "id": "tridium-com",
+      "id": "4kf9kfxujfhg2-space-mcode-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 300
+      "latency": 1638
     },
     {
-      "id": "104-com-tw",
+      "id": "kuaishou-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1276
-    },
-    {
-      "id": "gh-shiina-rimo-cafe",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 273
-    },
-    {
-      "id": "ghm-078465-xyz",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 555
-    },
-    {
-      "id": "github-boringhex-top",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 94
-    },
-    {
-      "id": "github-mlmle-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 120
-    },
-    {
-      "id": "hub-ddayh-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 128
-    },
-    {
-      "id": "jiashu-1win-eu-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 343
-    },
-    {
-      "id": "proxy-baguoyuyan-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 109
-    },
-    {
-      "id": "gh-chjina-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 310
-    },
-    {
-      "id": "ghp-keleyaa-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 98
-    },
-    {
-      "id": "aov-cc",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 165
-    },
-    {
-      "id": "canvas-mcp-illinihunt-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 93
-    },
-    {
-      "id": "daoyou-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 79
-    },
-    {
-      "id": "kun-agent-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 130
-    },
-    {
-      "id": "llmwiki-greenerai-top",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 89
-    },
-    {
-      "id": "monize-demo-ucdialplans-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 546
-    },
-    {
-      "id": "redstring-io",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 90
-    },
-    {
-      "id": "vibespace-xyzen-de",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 89
-    },
-    {
-      "id": "opencv-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 707
-    },
-    {
-      "id": "cyassure-eu",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 109
-    },
-    {
-      "id": "coderanch-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 172
-    },
-    {
-      "id": "xget-xi-xu-me",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 543
-    },
-    {
-      "id": "anonymous-4open-science",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 106
+      "latency": 3964
     }
   ]
 }
