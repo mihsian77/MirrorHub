@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-16T05:07:20Z",
+  "updated_at": "2026-11-16T15:05:34Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -52638,21 +52638,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "panjaya-ai",
-      "name": "Panjaya",
-      "url": "https://panjaya.ai",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-15T22:30:10Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "papago-naver-com",
       "name": "Papago",
       "url": "https://papago.naver.com",
@@ -61170,6 +61155,66 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hybrid-lyrics-auckland-candidates-trycloudflare-com",
+      "name": "Hybrid-lyrics-auckland-candidates",
+      "url": "https://hybrid-lyrics-auckland-candidates.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T14:52:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "msys2-org",
+      "name": "Msys2",
+      "url": "https://msys2.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T14:52:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sh-rustup-rs",
+      "name": "Sh",
+      "url": "https://sh.rustup.rs",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T14:52:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "subforges-com",
+      "name": "Subforges",
+      "url": "https://subforges.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T14:52:14Z",
       "source": "auto_sync"
     }
   ]

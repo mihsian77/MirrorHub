@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-16T05:07:20Z",
-  "total_nodes": 967,
+  "updated_at": "2026-11-16T15:05:34Z",
+  "total_nodes": 968,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -12464,6 +12464,19 @@
           "id": "zhipin-com",
           "name": "Zhipin",
           "url": "https://zhipin.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "panjaya-ai",
+          "name": "Panjaya",
+          "url": "https://panjaya.ai",
           "supports": [
             "release",
             "archive",
