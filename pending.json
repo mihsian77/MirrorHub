@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-15T22:46:02Z",
+  "updated_at": "2026-11-16T05:07:20Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -60723,21 +60723,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "zhipin-com",
-      "name": "Zhipin",
-      "url": "https://zhipin.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-15T22:30:10Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "zhitongcaijing-com",
       "name": "Zhitongcaijing",
       "url": "https://zhitongcaijing.com",
@@ -60915,6 +60900,276 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-15T22:30:10Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aphid-fireside-fm",
+      "name": "Aphid",
+      "url": "https://aphid.fireside.fm",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-open-meteo-com",
+      "name": "Api",
+      "url": "https://api.open-meteo.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "comicvine-gamespot-com",
+      "name": "Comicvine",
+      "url": "https://comicvine.gamespot.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cran-r-project-org",
+      "name": "Cran",
+      "url": "https://cran.r-project.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dts-api-xiaoyuzhoufm-com",
+      "name": "Dts-api",
+      "url": "https://dts-api.xiaoyuzhoufm.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "flashtype-com",
+      "name": "Flashtype",
+      "url": "https://flashtype.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gamespot-com",
+      "name": "Gamespot",
+      "url": "https://gamespot.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "myapp-example",
+      "name": "Myapp",
+      "url": "https://myapp.example",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "open-meteo-com",
+      "name": "Open-meteo",
+      "url": "https://open-meteo.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "parade-warning-archive-saints-trycloudflare-com",
+      "name": "Parade-warning-archive-saints",
+      "url": "https://parade-warning-archive-saints.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pfx-vpixl-com",
+      "name": "Pfx",
+      "url": "https://pfx.vpixl.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "podwise-ai",
+      "name": "Podwise",
+      "url": "https://podwise.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "scikit-learn-org",
+      "name": "Scikit-learn",
+      "url": "https://scikit-learn.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "signpath-io",
+      "name": "Signpath",
+      "url": "https://signpath.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tfswufe-edu-cn",
+      "name": "Tfswufe",
+      "url": "https://tfswufe.edu.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tk-wavpub-com",
+      "name": "Tk",
+      "url": "https://tk.wavpub.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tracking-swap-fm",
+      "name": "Tracking",
+      "url": "https://tracking.swap.fm",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vibetrading-wiki",
+      "name": "Vibetrading",
+      "url": "https://vibetrading.wiki",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-16T04:52:59Z",
       "source": "auto_sync"
     }
   ]
