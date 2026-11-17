@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-17T01:49:41Z",
+  "updated_at": "2026-11-17T15:46:49Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -53958,21 +53958,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "qiaobutang-com",
-      "name": "Qiaobutang",
-      "url": "https://qiaobutang.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-15T22:30:10Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "qinyanai-com",
       "name": "Qinyanai",
       "url": "https://qinyanai.com",
@@ -61215,6 +61200,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-17T01:36:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aod-cos-tx-xmcdn-com",
+      "name": "Aod",
+      "url": "https://aod.cos.tx.xmcdn.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-17T15:31:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cinema-adipmusic-my-id",
+      "name": "Cinema",
+      "url": "https://cinema.adipmusic.my.id",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-17T15:31:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cloud-cerebras-ai",
+      "name": "Cloud",
+      "url": "https://cloud.cerebras.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-17T15:31:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "console-groq-com",
+      "name": "Console",
+      "url": "https://console.groq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-17T15:31:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jt-ximalaya-com",
+      "name": "Jt",
+      "url": "https://jt.ximalaya.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-17T15:31:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mp-api-app-workbuddy-host",
+      "name": "Mp-api",
+      "url": "https://mp-api.app.workbuddy.host",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-17T15:31:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "your-app-vercel-app",
+      "name": "Your-app",
+      "url": "https://your-app.vercel.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-17T15:31:43Z",
       "source": "auto_sync"
     }
   ]

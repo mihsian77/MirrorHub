@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-17T01:49:41Z",
-  "total_nodes": 970,
+  "updated_at": "2026-11-17T15:46:49Z",
+  "total_nodes": 973,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -12503,6 +12503,45 @@
           "id": "ghproxy-com",
           "name": "Ghproxy",
           "url": "https://ghproxy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qiaobutang-com",
+          "name": "Qiaobutang",
+          "url": "https://qiaobutang.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "build-nvidia-com",
+          "name": "Build",
+          "url": "https://build.nvidia.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "console-mistral-ai",
+          "name": "Console",
+          "url": "https://console.mistral.ai",
           "supports": [
             "release",
             "archive",
