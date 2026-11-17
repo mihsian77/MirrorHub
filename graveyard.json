@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-15T22:46:02Z",
+  "updated_at": "2026-11-17T01:49:41Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1079,6 +1079,23 @@
       "removed_at": "2026-11-15T22:46:02Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-06T05:22:27Z"
+    },
+    {
+      "id": "ampcode-com",
+      "name": "Ampcode",
+      "url": "https://ampcode.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-17T01:49:41Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-07T04:54:20Z"
     }
   ]
 }

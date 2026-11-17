@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-16T15:05:34Z",
+  "updated_at": "2026-11-17T01:49:41Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -111,21 +111,6 @@
       "id": "ghproxy-xiaopa-cc",
       "name": "Ghproxy",
       "url": "https://ghproxy.xiaopa.cc",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-06T17:26:38Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "gitproxy-mrhjx-cn",
-      "name": "Gitproxy",
-      "url": "https://gitproxy.mrhjx.cn",
       "supports": [
         "release",
         "archive",
@@ -546,21 +531,6 @@
       "id": "github-proxy-com",
       "name": "Github-proxy",
       "url": "https://github-proxy.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T01:47:48Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "github-proxy-memory-echoes-cn",
-      "name": "Github-proxy",
-      "url": "https://github-proxy.memory-echoes.cn",
       "supports": [
         "release",
         "archive",
@@ -61215,6 +61185,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-16T14:52:14Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "referred-memory-apparel-counted-trycloudflare-com",
+      "name": "Referred-memory-apparel-counted",
+      "url": "https://referred-memory-apparel-counted.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-17T01:36:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "reticulum-network",
+      "name": "Reticulum",
+      "url": "https://reticulum.network",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-17T01:36:59Z",
       "source": "auto_sync"
     }
   ]

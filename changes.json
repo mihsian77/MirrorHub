@@ -1,60 +1,65 @@
 {
-  "generated_at": "2026-11-16T15:05:34Z",
+  "generated_at": "2026-11-17T01:49:41Z",
   "changes": [
     {
-      "id": "bseindia-com",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 353
+      "latency": 332
     },
     {
-      "id": "capitalcompanion-ai",
+      "id": "ampcode-com",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "gh-ddlc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 84
+      "latency": 344
     },
     {
-      "id": "vaultproject-io",
+      "id": "ghp-keleyaa-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 205
+      "latency": 120
     },
     {
-      "id": "jwebmp-com",
+      "id": "eccang-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 490
+      "latency": 1408
     },
     {
-      "id": "ipaslogo-com",
+      "id": "zhipin-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 158
+      "latency": 1696
     },
     {
-      "id": "browserbase-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 308
-    },
-    {
-      "id": "genmo-ai",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1079
-    },
-    {
-      "id": "panjaya-ai",
+      "id": "gitproxy-mrhjx-cn",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 846
+      "latency": 94
+    },
+    {
+      "id": "github-proxy-memory-echoes-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 87
+    },
+    {
+      "id": "ghproxy-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 210
     }
   ]
 }
