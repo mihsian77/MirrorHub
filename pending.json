@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-18T00:49:06Z",
+  "updated_at": "2026-11-18T15:24:43Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -61530,6 +61530,171 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "asset-localhost",
+      "name": "Asset",
+      "url": "https://asset.localhost",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bbs-api-static-miyoushe-com",
+      "name": "Bbs-api-static",
+      "url": "https://bbs-api-static.miyoushe.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cdn-steamusercontent-com",
+      "name": "Cdn",
+      "url": "https://cdn.steamusercontent.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gh-1k-ink",
+      "name": "Gh",
+      "url": "https://gh.1k.ink",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "godoc-org",
+      "name": "Godoc",
+      "url": "https://godoc.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hamilton-allen-unable-spelling-trycloudflare-com",
+      "name": "Hamilton-allen-unable-spelling",
+      "url": "https://hamilton-allen-unable-spelling.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hsr-nanoka-cc",
+      "name": "Hsr",
+      "url": "https://hsr.nanoka.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "miyoushe-com",
+      "name": "Miyoushe",
+      "url": "https://miyoushe.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pan-qu",
+      "name": "Pan",
+      "url": "https://pan.qu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "panel-a-com",
+      "name": "Panel",
+      "url": "https://panel.a.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "profile-counter-glitch-me",
+      "name": "Profile-counter",
+      "url": "https://profile-counter.glitch.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T15:08:46Z",
       "source": "auto_sync"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-18T00:49:06Z",
-  "total_nodes": 972,
+  "updated_at": "2026-11-18T15:24:43Z",
+  "total_nodes": 975,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -12529,6 +12529,45 @@
           "id": "git-bloat-cat",
           "name": "Git",
           "url": "https://git.bloat.cat",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "apifile-woozooo-com",
+          "name": "Apifile",
+          "url": "https://apifile.woozooo.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "app-codacy-com",
+          "name": "App",
+          "url": "https://app.codacy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitpod-io",
+          "name": "Gitpod",
+          "url": "https://gitpod.io",
           "supports": [
             "release",
             "archive",
