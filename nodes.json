@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-17T15:46:49Z",
-  "total_nodes": 973,
+  "updated_at": "2026-11-18T00:49:06Z",
+  "total_nodes": 972,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -296,19 +296,6 @@
           "id": "gh-198962-xyz",
           "name": "Gh",
           "url": "https://gh.198962.xyz",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "gh-1k-ink",
-          "name": "Gh",
-          "url": "https://gh.1k.ink",
           "supports": [
             "release",
             "archive",
@@ -6624,32 +6611,6 @@
           "source": "auto_sync"
         },
         {
-          "id": "bsr-twse-com-tw",
-          "name": "Bsr",
-          "url": "https://bsr.twse.com.tw",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "mopsov-twse-com-tw",
-          "name": "Mopsov",
-          "url": "https://mopsov.twse.com.tw",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
           "id": "unhaut-epizy-com",
           "name": "Unhaut",
           "url": "https://unhaut.epizy.com",
@@ -12542,6 +12503,32 @@
           "id": "console-mistral-ai",
           "name": "Console",
           "url": "https://console.mistral.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-cxkpro-top",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.cxkpro.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "git-bloat-cat",
+          "name": "Git",
+          "url": "https://git.bloat.cat",
           "supports": [
             "release",
             "archive",

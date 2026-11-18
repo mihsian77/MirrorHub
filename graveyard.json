@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-17T01:49:41Z",
+  "updated_at": "2026-11-18T00:49:06Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1096,6 +1096,57 @@
       "removed_at": "2026-11-17T01:49:41Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-07T04:54:20Z"
+    },
+    {
+      "id": "gh-1k-ink",
+      "name": "Gh",
+      "url": "https://gh.1k.ink",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-18T00:49:06Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-07T21:35:11Z"
+    },
+    {
+      "id": "bsr-twse-com-tw",
+      "name": "Bsr",
+      "url": "https://bsr.twse.com.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-18T00:49:06Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-07T21:35:11Z"
+    },
+    {
+      "id": "mopsov-twse-com-tw",
+      "name": "Mopsov",
+      "url": "https://mopsov.twse.com.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-18T00:49:06Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-07T21:35:11Z"
     }
   ]
 }

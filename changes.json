@@ -1,65 +1,129 @@
 {
-  "generated_at": "2026-11-17T15:46:49Z",
+  "generated_at": "2026-11-18T00:49:06Z",
   "changes": [
     {
-      "id": "ghproxy-net",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 6313
+      "latency": 597
     },
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 9200
+      "latency": 407
     },
     {
-      "id": "huitun-com",
+      "id": "gh-1k-ink",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "github-chenc-dev",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1208
+      "latency": 1141
     },
     {
-      "id": "juejin-cn",
+      "id": "comfyit-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 925
+      "latency": 1497
     },
     {
-      "id": "lianqiai-cn",
+      "id": "proxy-vvvv-ee",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1159
+      "latency": 372
     },
     {
-      "id": "numerade-com",
+      "id": "gh-ddlc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 390
+      "latency": 531
     },
     {
-      "id": "qiaobutang-com",
+      "id": "github-dpik-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 349
+    },
+    {
+      "id": "tridium-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 490
+    },
+    {
+      "id": "bsr-twse-com-tw",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "mopsov-twse-com-tw",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "ghp-keleyaa-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 188
+    },
+    {
+      "id": "xget-xi-xu-me",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 783
+    },
+    {
+      "id": "claid-ai",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 590
+    },
+    {
+      "id": "gitproxy-mrhjx-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 356
+    },
+    {
+      "id": "github-proxy-memory-echoes-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 131
+    },
+    {
+      "id": "ghproxy-cxkpro-top",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 4545
+      "latency": 231
     },
     {
-      "id": "build-nvidia-com",
+      "id": "git-bloat-cat",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 362
-    },
-    {
-      "id": "console-mistral-ai",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 3165
+      "latency": 436
     }
   ]
 }

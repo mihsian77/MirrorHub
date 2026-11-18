@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-17T15:46:49Z",
+  "updated_at": "2026-11-18T00:49:06Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -81,21 +81,6 @@
       "id": "github-moeyy-xyz",
       "name": "Github",
       "url": "https://github.moeyy.xyz",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-06T17:26:38Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "ghproxy-cxkpro-top",
-      "name": "Ghproxy",
-      "url": "https://ghproxy.cxkpro.top",
       "supports": [
         "release",
         "archive",
@@ -61305,6 +61290,246 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-17T15:31:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aronshare-com",
+      "name": "Aronshare",
+      "url": "https://aronshare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "awesome-ecosyste-ms",
+      "name": "Awesome",
+      "url": "https://awesome.ecosyste.ms",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "awesome-re",
+      "name": "Awesome",
+      "url": "https://awesome.re",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-blob42-xyz",
+      "name": "Git",
+      "url": "https://git.blob42.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-celery-eu-org",
+      "name": "Git",
+      "url": "https://git.celery.eu.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-hiifong-cc",
+      "name": "Git",
+      "url": "https://git.hiifong.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-pleshevski-ru",
+      "name": "Git",
+      "url": "https://git.pleshevski.ru",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-shivering-isles-com",
+      "name": "Git",
+      "url": "https://git.shivering-isles.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "git-wvw-ink",
+      "name": "Git",
+      "url": "https://git.wvw.ink",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gitea-moe",
+      "name": "Gitea",
+      "url": "https://gitea.moe",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gitlockr-com",
+      "name": "Gitlockr",
+      "url": "https://gitlockr.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "issued-shine-hall-silent-trycloudflare-com",
+      "name": "Issued-shine-hall-silent",
+      "url": "https://issued-shine-hall-silent.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "matthewgall-codes",
+      "name": "Matthewgall",
+      "url": "https://matthewgall.codes",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "rio-xyzcdn-net",
+      "name": "Rio",
+      "url": "https://rio.xyzcdn.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "transit-atlas-coast-kkxxwwk321-chatgpt-site",
+      "name": "Transit-atlas-coast",
+      "url": "https://transit-atlas-coast.kkxxwwk321.chatgpt.site",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "transit-basin-playtest-20261109-kkxxwwk321-chatgpt-site",
+      "name": "Transit-basin-playtest-20261109",
+      "url": "https://transit-basin-playtest-20261109.kkxxwwk321.chatgpt.site",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T00:34:34Z",
       "source": "auto_sync"
     }
   ]
