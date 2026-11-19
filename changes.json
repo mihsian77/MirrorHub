@@ -1,148 +1,87 @@
 {
-  "generated_at": "2026-11-19T06:14:51Z",
+  "generated_at": "2026-11-19T20:13:30Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "mobilevc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 818
+      "latency": 1264
     },
     {
-      "id": "gh-idayer-com",
+      "id": "kuaishou-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 147
+      "latency": 4024
     },
     {
-      "id": "git-669966-xyz",
+      "id": "krisp-ai",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1025
+      "latency": 308
     },
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "pkulaw-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 7107
+      "latency": 2043
     },
     {
-      "id": "demo-edgeever-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 121
+      "id": "qelectrotech-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 3147
     },
     {
-      "id": "weishucdn-jiangjiangze-icu",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
+      "id": "slovesnov-users-sourceforge-net",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 739
     },
     {
-      "id": "adult-contents-fc2-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 287
+      "id": "axisnow-gh-proxy-org",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 453
     },
     {
-      "id": "cdn-gh-proxy-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 209
+      "id": "cdn-gh-proxy-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 599
     },
     {
-      "id": "bugs-freebsd-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 854
-    },
-    {
-      "id": "jiashu-1win-eu-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 230
-    },
-    {
-      "id": "ghp-keleyaa-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 135
-    },
-    {
-      "id": "xget-xi-xu-me",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 722
-    },
-    {
-      "id": "iask-ai",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 278
-    },
-    {
-      "id": "juejin-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 638
-    },
-    {
-      "id": "worldfirst-com-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2362
-    },
-    {
-      "id": "zhaopin-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 962
-    },
-    {
-      "id": "zhipin-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1367
-    },
-    {
-      "id": "api-imgur-com",
+      "id": "edgeone-gh-proxy-com",
       "type": "new_node",
       "category": "universal_proxy",
       "latency": 563
     },
     {
-      "id": "cell-ai-research-pages-dev",
+      "id": "tinyeval-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 167
+      "latency": 433
     },
     {
-      "id": "console-typesafe-ai",
+      "id": "v6-gh-proxy-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 274
+      "latency": 686
     },
     {
-      "id": "ghproxy-stevenzxs-cn",
+      "id": "v6-gh-proxy-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 455
+      "latency": 522
+    },
+    {
+      "id": "vscn-studio",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 671
     }
   ]
 }

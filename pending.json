@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-19T06:14:51Z",
+  "updated_at": "2026-11-19T20:13:30Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -6981,21 +6981,6 @@
       "id": "marketplace-visualstudio-com",
       "name": "Marketplace",
       "url": "https://marketplace.visualstudio.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-19T03:23:24Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "qelectrotech-org",
-      "name": "Qelectrotech",
-      "url": "https://qelectrotech.org",
       "supports": [
         "release",
         "archive",
@@ -34923,21 +34908,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "slovesnov-users-sourceforge-net",
-      "name": "Slovesnov",
-      "url": "https://slovesnov.users.sourceforge.net",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "smartbear-com",
       "name": "Smartbear",
       "url": "https://smartbear.com",
@@ -62115,6 +62085,81 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "evalship-com",
+      "name": "Evalship",
+      "url": "https://evalship.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T19:58:11Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "irrigation-actors-settings-technique-trycloudflare-com",
+      "name": "Irrigation-actors-settings-technique",
+      "url": "https://irrigation-actors-settings-technique.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T19:58:11Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mods-vintagestory-at",
+      "name": "Mods",
+      "url": "https://mods.vintagestory.at",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T19:58:11Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "subspace-kernel-org",
+      "name": "Subspace",
+      "url": "https://subspace.kernel.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T19:58:11Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vintagestory-top",
+      "name": "Vintagestory",
+      "url": "https://vintagestory.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T19:58:11Z",
       "source": "auto_sync"
     }
   ]

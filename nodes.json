@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-19T06:14:51Z",
-  "total_nodes": 979,
+  "updated_at": "2026-11-19T20:13:30Z",
+  "total_nodes": 988,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -12620,6 +12620,123 @@
           "id": "ghproxy-stevenzxs-cn",
           "name": "Ghproxy",
           "url": "https://ghproxy.stevenzxs.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "qelectrotech-org",
+          "name": "Qelectrotech",
+          "url": "https://qelectrotech.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "slovesnov-users-sourceforge-net",
+          "name": "Slovesnov",
+          "url": "https://slovesnov.users.sourceforge.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "axisnow-gh-proxy-org",
+          "name": "Axisnow",
+          "url": "https://axisnow.gh-proxy.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cdn-gh-proxy-com",
+          "name": "Cdn",
+          "url": "https://cdn.gh-proxy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "edgeone-gh-proxy-com",
+          "name": "Edgeone",
+          "url": "https://edgeone.gh-proxy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tinyeval-com",
+          "name": "Tinyeval",
+          "url": "https://tinyeval.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "v6-gh-proxy-com",
+          "name": "V6",
+          "url": "https://v6.gh-proxy.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "v6-gh-proxy-org",
+          "name": "V6",
+          "url": "https://v6.gh-proxy.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vscn-studio",
+          "name": "Vscn",
+          "url": "https://vscn.studio",
           "supports": [
             "release",
             "archive",
