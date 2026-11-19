@@ -1,58 +1,59 @@
 {
-  "generated_at": "2026-11-18T15:24:43Z",
+  "generated_at": "2026-11-19T00:08:49Z",
   "changes": [
     {
-      "id": "kenyu-ggff-net",
+      "id": "cbrowser-ai",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "libusb-java-ch",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 474
+      "latency": 600
     },
     {
-      "id": "adult-contents-fc2-com",
+      "id": "4kf9kfxujfhg2-space-mcode-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 615
+      "latency": 1139
     },
     {
-      "id": "code-usgs-gov",
+      "id": "eklipse-gg",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 492
+      "latency": 4707
     },
     {
-      "id": "pkulaw-com",
+      "id": "ketangpai-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1919
+      "latency": 2394
     },
     {
-      "id": "gitclone-com",
+      "id": "wukong-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1536
+      "latency": 745
     },
     {
-      "id": "apifile-woozooo-com",
+      "id": "pawapo-minoruonda-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 1328
+      "latency": 346
     },
     {
-      "id": "app-codacy-com",
+      "id": "get-scoop-sh",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 156
-    },
-    {
-      "id": "gitpod-io",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 131
+      "latency": 462
     }
   ]
 }

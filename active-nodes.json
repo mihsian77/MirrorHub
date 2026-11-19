@@ -6,7 +6,7 @@
   "attribution_text": "节点由 MirrorHub 提供",
   "attribution_url": "https://github.com/mihsian77/MirrorHub",
   "usage_policy": "欢迎接入使用，但请在产品 UI 中保留来源声明。二次分发需遵守 MIT 协议并保留版权声明。",
-  "updated_at": "2026-11-18T15:24:43Z",
+  "updated_at": "2026-11-19T00:08:49Z",
   "total_online": 20,
   "nodes": [
     {
@@ -14,47 +14,79 @@
       "name": "Opencode",
       "domain": "opencode.ai",
       "category": "universal_proxy",
-      "latency_ms": 47,
-      "bandwidth_mbps": 0.15
+      "latency_ms": 46,
+      "bandwidth_mbps": 0.13
     },
     {
       "id": "linkedin-com",
       "name": "Linkedin",
       "domain": "linkedin.com",
       "category": "universal_proxy",
-      "latency_ms": 70,
-      "bandwidth_mbps": 0.41
-    },
-    {
-      "id": "docs-tibco-com",
-      "name": "Docs",
-      "domain": "docs.tibco.com",
-      "category": "universal_proxy",
-      "latency_ms": 70,
-      "bandwidth_mbps": 0.05
-    },
-    {
-      "id": "duck-ai",
-      "name": "Duck",
-      "domain": "duck.ai",
-      "category": "universal_proxy",
-      "latency_ms": 74,
-      "bandwidth_mbps": 1.4
+      "latency_ms": 69,
+      "bandwidth_mbps": 0.31
     },
     {
       "id": "microsoftedge-microsoft-com",
       "name": "Microsoftedge",
       "domain": "microsoftedge.microsoft.com",
       "category": "universal_proxy",
-      "latency_ms": 75,
-      "bandwidth_mbps": 1.13
+      "latency_ms": 71,
+      "bandwidth_mbps": 1.25
+    },
+    {
+      "id": "duck-ai",
+      "name": "Duck",
+      "domain": "duck.ai",
+      "category": "universal_proxy",
+      "latency_ms": 71,
+      "bandwidth_mbps": 0.23
+    },
+    {
+      "id": "docs-tibco-com",
+      "name": "Docs",
+      "domain": "docs.tibco.com",
+      "category": "universal_proxy",
+      "latency_ms": 72,
+      "bandwidth_mbps": 0.06
+    },
+    {
+      "id": "app-snowflake-com",
+      "name": "App",
+      "domain": "app.snowflake.com",
+      "category": "universal_proxy",
+      "latency_ms": 81,
+      "bandwidth_mbps": 1.37
+    },
+    {
+      "id": "x-com",
+      "name": "X",
+      "domain": "x.com",
+      "category": "universal_proxy",
+      "latency_ms": 82,
+      "bandwidth_mbps": 2.11
+    },
+    {
+      "id": "earth-jaxa-jp",
+      "name": "Earth",
+      "domain": "earth.jaxa.jp",
+      "category": "universal_proxy",
+      "latency_ms": 84,
+      "bandwidth_mbps": null
     },
     {
       "id": "freegrid-web-pages-dev",
       "name": "Freegrid-web",
       "domain": "freegrid-web.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 82,
+      "latency_ms": 84,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "vibeholding-pages-dev",
+      "name": "Vibeholding",
+      "domain": "vibeholding.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 85,
       "bandwidth_mbps": null
     },
     {
@@ -62,64 +94,24 @@
       "name": "Crypto-funding-arbitrage",
       "domain": "crypto-funding-arbitrage.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 84,
+      "latency_ms": 87,
       "bandwidth_mbps": 2.4
-    },
-    {
-      "id": "earth-jaxa-jp",
-      "name": "Earth",
-      "domain": "earth.jaxa.jp",
-      "category": "universal_proxy",
-      "latency_ms": 85,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "x-com",
-      "name": "X",
-      "domain": "x.com",
-      "category": "universal_proxy",
-      "latency_ms": 85,
-      "bandwidth_mbps": 1.62
     },
     {
       "id": "opresume-pages-dev",
       "name": "Opresume",
       "domain": "opresume.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 85,
-      "bandwidth_mbps": 0.64
-    },
-    {
-      "id": "vibeholding-pages-dev",
-      "name": "Vibeholding",
-      "domain": "vibeholding.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 86,
-      "bandwidth_mbps": null
-    },
-    {
-      "id": "app-snowflake-com",
-      "name": "App",
-      "domain": "app.snowflake.com",
-      "category": "universal_proxy",
       "latency_ms": 87,
-      "bandwidth_mbps": 1.98
+      "bandwidth_mbps": 0.51
     },
     {
       "id": "spicychat-ai",
       "name": "Spicychat",
       "domain": "spicychat.ai",
       "category": "universal_proxy",
-      "latency_ms": 89,
-      "bandwidth_mbps": 0.11
-    },
-    {
-      "id": "wordpaper-pages-dev",
-      "name": "Wordpaper",
-      "domain": "wordpaper.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 93,
-      "bandwidth_mbps": 0.66
+      "latency_ms": 92,
+      "bandwidth_mbps": 0.17
     },
     {
       "id": "tools-realtime-ai-chat",
@@ -127,39 +119,39 @@
       "domain": "tools.realtime-ai.chat",
       "category": "universal_proxy",
       "latency_ms": 93,
-      "bandwidth_mbps": 2.3
-    },
-    {
-      "id": "githubstatus-com",
-      "name": "Githubstatus",
-      "domain": "githubstatus.com",
-      "category": "universal_proxy",
-      "latency_ms": 94,
-      "bandwidth_mbps": 5.12
-    },
-    {
-      "id": "eng-3385e-firebaseapp-com",
-      "name": "Eng-3385e",
-      "domain": "eng-3385e.firebaseapp.com",
-      "category": "universal_proxy",
-      "latency_ms": 94,
-      "bandwidth_mbps": 0.05
-    },
-    {
-      "id": "twitch-tv",
-      "name": "Twitch",
-      "domain": "twitch.tv",
-      "category": "universal_proxy",
-      "latency_ms": 94,
-      "bandwidth_mbps": 4.94
+      "bandwidth_mbps": 2.59
     },
     {
       "id": "vivago-ai",
       "name": "Vivago",
       "domain": "vivago.ai",
       "category": "universal_proxy",
-      "latency_ms": 95,
-      "bandwidth_mbps": 0.23
+      "latency_ms": 94,
+      "bandwidth_mbps": 0.16
+    },
+    {
+      "id": "wordpaper-pages-dev",
+      "name": "Wordpaper",
+      "domain": "wordpaper.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 96,
+      "bandwidth_mbps": 0.76
+    },
+    {
+      "id": "twitch-tv",
+      "name": "Twitch",
+      "domain": "twitch.tv",
+      "category": "universal_proxy",
+      "latency_ms": 96,
+      "bandwidth_mbps": 2.0
+    },
+    {
+      "id": "githubstatus-com",
+      "name": "Githubstatus",
+      "domain": "githubstatus.com",
+      "category": "universal_proxy",
+      "latency_ms": 97,
+      "bandwidth_mbps": 1.65
     },
     {
       "id": "dilo-d14-pages-dev",
@@ -167,7 +159,15 @@
       "domain": "dilo-d14.pages.dev",
       "category": "universal_proxy",
       "latency_ms": 97,
-      "bandwidth_mbps": 0.32
+      "bandwidth_mbps": 0.23
+    },
+    {
+      "id": "smith-langchain-com",
+      "name": "Smith",
+      "domain": "smith.langchain.com",
+      "category": "universal_proxy",
+      "latency_ms": 100,
+      "bandwidth_mbps": 3.42
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-18T00:49:06Z",
+  "updated_at": "2026-11-19T00:08:49Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1147,6 +1147,23 @@
       "removed_at": "2026-11-18T00:49:06Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-07T21:35:11Z"
+    },
+    {
+      "id": "cbrowser-ai",
+      "name": "Cbrowser",
+      "url": "https://cbrowser.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-19T00:08:49Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-08T12:55:35Z"
     }
   ]
 }

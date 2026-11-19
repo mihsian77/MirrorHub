@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-18T15:24:43Z",
+  "updated_at": "2026-11-19T00:08:49Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -18006,21 +18006,6 @@
       "id": "pastelocal-sh",
       "name": "Pastelocal",
       "url": "https://pastelocal.sh",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-24T03:24:24Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "pawapo-minoruonda-com",
-      "name": "Pawapo",
-      "url": "https://pawapo.minoruonda.com",
       "supports": [
         "release",
         "archive",
@@ -61695,6 +61680,246 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-18T15:08:46Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-proxyscrape-com",
+      "name": "Api",
+      "url": "https://api.proxyscrape.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "apt-izzysoft-de",
+      "name": "Apt",
+      "url": "https://apt.izzysoft.de",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bugestudio-website",
+      "name": "Bugestudio",
+      "url": "https://bugestudio.website",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "clipshare-coclyun-top",
+      "name": "Clipshare",
+      "url": "https://clipshare.coclyun.top",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "connect-screen-com",
+      "name": "Connect-screen",
+      "url": "https://connect-screen.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-prow-k8s-io",
+      "name": "Docs",
+      "url": "https://docs.prow.k8s.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "f-droid-org",
+      "name": "F-droid",
+      "url": "https://f-droid.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "llamalab-com",
+      "name": "Llamalab",
+      "url": "https://llamalab.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mobile-hacker-com",
+      "name": "Mobile-hacker",
+      "url": "https://mobile-hacker.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "morphe-patches-software",
+      "name": "Morphe-patches",
+      "url": "https://morphe-patches.software",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "morphe-software",
+      "name": "Morphe",
+      "url": "https://morphe.software",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "shizuku-web-onrender-com",
+      "name": "Shizuku-web",
+      "url": "https://shizuku-web.onrender.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "technastic-com",
+      "name": "Technastic",
+      "url": "https://technastic.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "updatecdn-meeting-qq-com",
+      "name": "Updatecdn",
+      "url": "https://updatecdn.meeting.qq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "voovmeeting-com",
+      "name": "Voovmeeting",
+      "url": "https://voovmeeting.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "xdaforums-com",
+      "name": "Xdaforums",
+      "url": "https://xdaforums.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-18T23:55:00Z",
       "source": "auto_sync"
     }
   ]
