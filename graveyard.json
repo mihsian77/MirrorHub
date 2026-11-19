@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-19T00:08:49Z",
+  "updated_at": "2026-11-19T06:14:51Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1164,6 +1164,23 @@
       "removed_at": "2026-11-19T00:08:49Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-08T12:55:35Z"
+    },
+    {
+      "id": "weishucdn-jiangjiangze-icu",
+      "name": "Weishucdn",
+      "url": "https://weishucdn.jiangjiangze.icu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-19T06:14:51Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-08T21:48:36Z"
     }
   ]
 }

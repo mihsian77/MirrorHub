@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-19T00:08:49Z",
-  "total_nodes": 976,
+  "updated_at": "2026-11-19T06:14:51Z",
+  "total_nodes": 979,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4443,19 +4443,6 @@
           "id": "bestdori-com",
           "name": "Bestdori",
           "url": "https://bestdori.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "weishucdn-jiangjiangze-icu",
-          "name": "Weishucdn",
-          "url": "https://weishucdn.jiangjiangze.icu",
           "supports": [
             "release",
             "archive",
@@ -12581,6 +12568,58 @@
           "id": "get-scoop-sh",
           "name": "Get",
           "url": "https://get.scoop.sh",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "api-imgur-com",
+          "name": "Api",
+          "url": "https://api.imgur.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cell-ai-research-pages-dev",
+          "name": "Cell-ai-research",
+          "url": "https://cell-ai-research.pages.dev",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "console-typesafe-ai",
+          "name": "Console",
+          "url": "https://console.typesafe.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ghproxy-stevenzxs-cn",
+          "name": "Ghproxy",
+          "url": "https://ghproxy.stevenzxs.cn",
           "supports": [
             "release",
             "archive",

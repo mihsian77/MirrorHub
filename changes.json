@@ -1,59 +1,148 @@
 {
-  "generated_at": "2026-11-19T00:08:49Z",
+  "generated_at": "2026-11-19T06:14:51Z",
   "changes": [
     {
-      "id": "cbrowser-ai",
+      "id": "ghfile-geekertao-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 818
+    },
+    {
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 147
+    },
+    {
+      "id": "git-669966-xyz",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1025
+    },
+    {
+      "id": "proxy-yaoyaoling-net",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 7107
+    },
+    {
+      "id": "demo-edgeever-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 121
+    },
+    {
+      "id": "weishucdn-jiangjiangze-icu",
       "type": "dead",
       "from": "unstable",
       "to": "dead",
       "failures": 28
     },
     {
-      "id": "libusb-java-ch",
+      "id": "adult-contents-fc2-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 600
+      "latency": 287
     },
     {
-      "id": "4kf9kfxujfhg2-space-mcode-cn",
+      "id": "cdn-gh-proxy-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1139
+      "latency": 209
     },
     {
-      "id": "eklipse-gg",
+      "id": "bugs-freebsd-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 4707
+      "latency": 854
     },
     {
-      "id": "ketangpai-com",
+      "id": "jiashu-1win-eu-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2394
+      "latency": 230
     },
     {
-      "id": "wukong-com",
+      "id": "ghp-keleyaa-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 745
+      "latency": 135
     },
     {
-      "id": "pawapo-minoruonda-com",
+      "id": "xget-xi-xu-me",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 722
+    },
+    {
+      "id": "iask-ai",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 278
+    },
+    {
+      "id": "juejin-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 638
+    },
+    {
+      "id": "worldfirst-com-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2362
+    },
+    {
+      "id": "zhaopin-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 962
+    },
+    {
+      "id": "zhipin-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1367
+    },
+    {
+      "id": "api-imgur-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 346
+      "latency": 563
     },
     {
-      "id": "get-scoop-sh",
+      "id": "cell-ai-research-pages-dev",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 462
+      "latency": 167
+    },
+    {
+      "id": "console-typesafe-ai",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 274
+    },
+    {
+      "id": "ghproxy-stevenzxs-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 455
     }
   ]
 }

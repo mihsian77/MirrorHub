@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-19T00:08:49Z",
+  "updated_at": "2026-11-19T06:14:51Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -61920,6 +61920,201 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-18T23:55:00Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ab-store-lhl-one",
+      "name": "Ab-store",
+      "url": "https://ab-store.lhl.one",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ab-lhl-one",
+      "name": "Ab",
+      "url": "https://ab.lhl.one",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-subq-ai",
+      "name": "Api",
+      "url": "https://api.subq.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blog-lhl-one",
+      "name": "Blog",
+      "url": "https://blog.lhl.one",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cdn-example-com",
+      "name": "Cdn",
+      "url": "https://cdn.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "console-codiv-ai",
+      "name": "Console",
+      "url": "https://console.codiv.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dav-example-com",
+      "name": "Dav",
+      "url": "https://dav.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "i-see-you",
+      "name": "I",
+      "url": "https://i.see.you",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "img-example-com",
+      "name": "Img",
+      "url": "https://img.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pic-example-com",
+      "name": "Pic",
+      "url": "https://pic.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "secondsource-io",
+      "name": "Secondsource",
+      "url": "https://secondsource.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "typecho-org",
+      "name": "Typecho",
+      "url": "https://typecho.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "zpic-example-com",
+      "name": "Zpic",
+      "url": "https://zpic.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-19T06:00:06Z",
       "source": "auto_sync"
     }
   ]
