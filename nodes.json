@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-20T15:12:51Z",
-  "total_nodes": 1002,
+  "updated_at": "2026-11-20T23:57:00Z",
+  "total_nodes": 1001,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -231,19 +231,6 @@
           "id": "30006000-xyz",
           "name": "30006000",
           "url": "https://30006000.xyz",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "cf-ghproxy-cc",
-          "name": "Cf",
-          "url": "https://cf.ghproxy.cc",
           "supports": [
             "release",
             "archive",
@@ -3169,19 +3156,6 @@
           "id": "hevolve-ai",
           "name": "Hevolve",
           "url": "https://hevolve.ai",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "heycall-e-com",
-          "name": "Heycall-e",
-          "url": "https://heycall-e.com",
           "supports": [
             "release",
             "archive",
@@ -12919,6 +12893,19 @@
           "id": "cors-isteed-cc",
           "name": "Cors",
           "url": "https://cors.isteed.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "platform-openai-com",
+          "name": "Platform",
+          "url": "https://platform.openai.com",
           "supports": [
             "release",
             "archive",

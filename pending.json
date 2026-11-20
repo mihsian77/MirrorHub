@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-20T15:12:51Z",
+  "updated_at": "2026-11-20T23:57:00Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -38661,21 +38661,6 @@
       "id": "pandoc-org",
       "name": "Pandoc",
       "url": "https://pandoc.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-12T14:40:26Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "platform-openai-com",
-      "name": "Platform",
-      "url": "https://platform.openai.com",
       "supports": [
         "release",
         "archive",

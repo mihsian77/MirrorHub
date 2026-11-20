@@ -1,137 +1,67 @@
 {
-  "generated_at": "2026-11-20T15:12:51Z",
+  "generated_at": "2026-11-20T23:57:00Z",
   "changes": [
     {
-      "id": "ghproxy-net",
+      "id": "gh-nxnow-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 437
+      "latency": 324
     },
     {
-      "id": "slink-ltd",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 566
-    },
-    {
-      "id": "git-669966-xyz",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1228
-    },
-    {
-      "id": "your-domain-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 665
-    },
-    {
-      "id": "proxy-vvvv-ee",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 469
-    },
-    {
-      "id": "framagit-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 817
-    },
-    {
-      "id": "invent-kde-org",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 903
-    },
-    {
-      "id": "agentic-iloveagile-me",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 936
-    },
-    {
-      "id": "axonhub-onrender-com",
+      "id": "cf-ghproxy-cc",
       "type": "dead",
       "from": "unstable",
       "to": "dead",
       "failures": 28
     },
     {
-      "id": "libusb-java-ch",
+      "id": "g-blfrp-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 491
+      "latency": 1117
     },
     {
-      "id": "lightlycode-com",
+      "id": "proxy-yaoyaoling-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2056
+      "latency": 5746
     },
     {
-      "id": "kuaishou-com",
+      "id": "heycall-e-com",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "adult-contents-fc2-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3965
+      "latency": 704
     },
     {
-      "id": "r-jina-ai",
+      "id": "eudic-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 386
+      "latency": 1513
     },
     {
-      "id": "numerade-com",
+      "id": "pkulaw-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 398
+      "latency": 2131
     },
     {
-      "id": "tugaigai-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 107
-    },
-    {
-      "id": "wukong-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 3451
-    },
-    {
-      "id": "zhaopin-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1049
-    },
-    {
-      "id": "apifile-woozooo-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2123
-    },
-    {
-      "id": "cors-isteed-cc",
+      "id": "platform-openai-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 287
+      "latency": 89
     }
   ]
 }

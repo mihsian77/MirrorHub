@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-20T15:12:51Z",
+  "updated_at": "2026-11-20T23:57:00Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1249,6 +1249,40 @@
       "removed_at": "2026-11-20T15:12:51Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-10T01:20:01Z"
+    },
+    {
+      "id": "cf-ghproxy-cc",
+      "name": "Cf",
+      "url": "https://cf.ghproxy.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-20T23:57:00Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-10T14:30:51Z"
+    },
+    {
+      "id": "heycall-e-com",
+      "name": "Heycall-e",
+      "url": "https://heycall-e.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-20T23:57:00Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-10T14:30:51Z"
     }
   ]
 }
