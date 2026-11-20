@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-19T20:13:30Z",
+  "updated_at": "2026-11-20T06:04:18Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -6861,21 +6861,6 @@
       "id": "xmlsoft-org",
       "name": "Xmlsoft",
       "url": "https://xmlsoft.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-18T20:08:42Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "zlib-net",
-      "name": "Zlib",
-      "url": "https://zlib.net",
       "supports": [
         "release",
         "archive",
@@ -23358,21 +23343,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "api-your-domain-com",
-      "name": "Api",
-      "url": "https://api.your-domain.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-27T11:38:42Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "complang-tuwien-ac-at",
       "name": "Complang",
       "url": "https://complang.tuwien.ac.at",
@@ -23736,21 +23706,6 @@
       "id": "openldap-org",
       "name": "Openldap",
       "url": "https://openldap.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-27T11:38:42Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "panel-your-domain-com",
-      "name": "Panel",
-      "url": "https://panel.your-domain.com",
       "supports": [
         "release",
         "archive",
@@ -24798,21 +24753,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "clerk-your-domain-com",
-      "name": "Clerk",
-      "url": "https://clerk.your-domain.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-29T04:31:10Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "convex-dev",
       "name": "Convex",
       "url": "https://convex.dev",
@@ -25035,21 +24975,6 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-10-29T12:20:41Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "doxygen-nl",
-      "name": "Doxygen",
-      "url": "https://doxygen.nl",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-29T22:27:44Z",
       "source": "auto_sync"
     },
     {
@@ -26988,21 +26913,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "ai-solutions-com",
-      "name": "Ai-solutions",
-      "url": "https://ai-solutions.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "aicas-com",
       "name": "Aicas",
       "url": "https://aicas.com",
@@ -27051,21 +26961,6 @@
       "id": "aliyun-com",
       "name": "Aliyun",
       "url": "https://aliyun.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "allatori-com",
-      "name": "Allatori",
-      "url": "https://allatori.com",
       "supports": [
         "release",
         "archive",
@@ -28818,21 +28713,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "dbvis-com",
-      "name": "Dbvis",
-      "url": "https://dbvis.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "dcloud-io",
       "name": "Dcloud",
       "url": "https://dcloud.io",
@@ -29556,21 +29436,6 @@
       "id": "excalibur-apache-org",
       "name": "Excalibur",
       "url": "https://excalibur.apache.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "exceljava-com",
-      "name": "Exceljava",
-      "url": "https://exceljava.com",
       "supports": [
         "release",
         "archive",
@@ -30756,21 +30621,6 @@
       "id": "ironpdf-com",
       "name": "Ironpdf",
       "url": "https://ironpdf.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "itemanalysis-com",
-      "name": "Itemanalysis",
-      "url": "https://itemanalysis.com",
       "supports": [
         "release",
         "archive",
@@ -32376,21 +32226,6 @@
       "id": "klass-cool",
       "name": "Klass",
       "url": "https://klass.cool",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "knopflerfish-org",
-      "name": "Knopflerfish",
-      "url": "https://knopflerfish.org",
       "supports": [
         "release",
         "archive",
@@ -34158,21 +33993,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "randelshofer-ch",
-      "name": "Randelshofer",
-      "url": "https://randelshofer.ch",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "rapidclipse-com",
       "name": "Rapidclipse",
       "url": "https://rapidclipse.com",
@@ -34341,21 +34161,6 @@
       "id": "revenera-com",
       "name": "Revenera",
       "url": "https://revenera.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "richardsonsoftware-com",
-      "name": "Richardsonsoftware",
-      "url": "https://richardsonsoftware.com",
       "supports": [
         "release",
         "archive",
@@ -34836,21 +34641,6 @@
       "id": "simplecaptcha-sourceforge-net",
       "name": "Simplecaptcha",
       "url": "https://simplecaptcha.sourceforge.net",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "singularsys-com",
-      "name": "Singularsys",
-      "url": "https://singularsys.com",
       "supports": [
         "release",
         "archive",
@@ -36006,21 +35796,6 @@
       "id": "voikko-puimula-org",
       "name": "Voikko",
       "url": "https://voikko.puimula.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "voltactivedata-com",
-      "name": "Voltactivedata",
-      "url": "https://voltactivedata.com",
       "supports": [
         "release",
         "archive",
@@ -42006,21 +41781,6 @@
       "id": "biteable-com",
       "name": "Biteable",
       "url": "https://biteable.com",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-15T22:30:10Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "bito-ai",
-      "name": "Bito",
-      "url": "https://bito.ai",
       "supports": [
         "release",
         "archive",
@@ -61293,21 +61053,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "git-blob42-xyz",
-      "name": "Git",
-      "url": "https://git.blob42.xyz",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-18T00:34:34Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "git-celery-eu-org",
       "name": "Git",
       "url": "https://git.celery.eu.org",
@@ -62160,6 +61905,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-19T19:58:11Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cbrowser-ai",
+      "name": "Cbrowser",
+      "url": "https://cbrowser.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-20T05:49:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "feb-trainer-jurisdiction-incredible-trycloudflare-com",
+      "name": "Feb-trainer-jurisdiction-incredible",
+      "url": "https://feb-trainer-jurisdiction-incredible.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-20T05:49:58Z",
       "source": "auto_sync"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-19T20:13:30Z",
-  "total_nodes": 988,
+  "updated_at": "2026-11-20T06:04:18Z",
+  "total_nodes": 1002,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4453,19 +4453,6 @@
           "source": "auto_sync"
         },
         {
-          "id": "you-piccalc-com",
-          "name": "You",
-          "url": "https://you.piccalc.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
           "id": "bks-indevs-in",
           "name": "Bks",
           "url": "https://bks.indevs.in",
@@ -5340,19 +5327,6 @@
           "id": "axonivy-com",
           "name": "Axonivy",
           "url": "https://axonivy.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "bestofbi-com",
-          "name": "Bestofbi",
-          "url": "https://bestofbi.com",
           "supports": [
             "release",
             "archive",
@@ -6588,19 +6562,6 @@
           "id": "unhaut-epizy-com",
           "name": "Unhaut",
           "url": "https://unhaut.epizy.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "wiki-easyrpg-org",
-          "name": "Wiki",
-          "url": "https://wiki.easyrpg.org",
           "supports": [
             "release",
             "archive",
@@ -12737,6 +12698,227 @@
           "id": "vscn-studio",
           "name": "Vscn",
           "url": "https://vscn.studio",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zlib-net",
+          "name": "Zlib",
+          "url": "https://zlib.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "api-your-domain-com",
+          "name": "Api",
+          "url": "https://api.your-domain.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "panel-your-domain-com",
+          "name": "Panel",
+          "url": "https://panel.your-domain.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "clerk-your-domain-com",
+          "name": "Clerk",
+          "url": "https://clerk.your-domain.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "doxygen-nl",
+          "name": "Doxygen",
+          "url": "https://doxygen.nl",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "ai-solutions-com",
+          "name": "Ai-solutions",
+          "url": "https://ai-solutions.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "allatori-com",
+          "name": "Allatori",
+          "url": "https://allatori.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "dbvis-com",
+          "name": "Dbvis",
+          "url": "https://dbvis.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "exceljava-com",
+          "name": "Exceljava",
+          "url": "https://exceljava.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "itemanalysis-com",
+          "name": "Itemanalysis",
+          "url": "https://itemanalysis.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "knopflerfish-org",
+          "name": "Knopflerfish",
+          "url": "https://knopflerfish.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "randelshofer-ch",
+          "name": "Randelshofer",
+          "url": "https://randelshofer.ch",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "richardsonsoftware-com",
+          "name": "Richardsonsoftware",
+          "url": "https://richardsonsoftware.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "singularsys-com",
+          "name": "Singularsys",
+          "url": "https://singularsys.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "voltactivedata-com",
+          "name": "Voltactivedata",
+          "url": "https://voltactivedata.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bito-ai",
+          "name": "Bito",
+          "url": "https://bito.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "git-blob42-xyz",
+          "name": "Git",
+          "url": "https://git.blob42.xyz",
           "supports": [
             "release",
             "archive",

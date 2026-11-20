@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-19T06:14:51Z",
+  "updated_at": "2026-11-20T06:04:18Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1181,6 +1181,57 @@
       "removed_at": "2026-11-19T06:14:51Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-08T21:48:36Z"
+    },
+    {
+      "id": "you-piccalc-com",
+      "name": "You",
+      "url": "https://you.piccalc.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-20T06:04:18Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-09T15:23:50Z"
+    },
+    {
+      "id": "bestofbi-com",
+      "name": "Bestofbi",
+      "url": "https://bestofbi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-20T06:04:18Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-09T15:23:50Z"
+    },
+    {
+      "id": "wiki-easyrpg-org",
+      "name": "Wiki",
+      "url": "https://wiki.easyrpg.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-20T06:04:18Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-09T15:23:50Z"
     }
   ]
 }
