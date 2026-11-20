@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-20T06:04:18Z",
+  "updated_at": "2026-11-20T15:12:51Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -801,21 +801,6 @@
       "id": "api-securityscorecards-dev",
       "name": "Api",
       "url": "https://api.securityscorecards.dev",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-09T02:04:09Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "cors-isteed-cc",
-      "name": "Cors",
-      "url": "https://cors.isteed.cc",
       "supports": [
         "release",
         "archive",
@@ -61935,6 +61920,66 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-20T05:49:58Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "best-ip-silverwolfx-workers-dev",
+      "name": "Best-ip",
+      "url": "https://best-ip.silverwolfx.workers.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-20T14:55:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "connectivitycheck-gstatic-com",
+      "name": "Connectivitycheck",
+      "url": "https://connectivitycheck.gstatic.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-20T14:55:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ruleset-skk-moe",
+      "name": "Ruleset",
+      "url": "https://ruleset.skk.moe",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-20T14:55:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wifi-vivo-com-cn",
+      "name": "Wifi",
+      "url": "https://wifi.vivo.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-20T14:55:41Z",
       "source": "auto_sync"
     }
   ]

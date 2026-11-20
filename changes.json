@@ -1,184 +1,137 @@
 {
-  "generated_at": "2026-11-20T06:04:18Z",
+  "generated_at": "2026-11-20T15:12:51Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "ghproxy-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2039
+      "latency": 437
     },
     {
-      "id": "gh-idayer-com",
+      "id": "slink-ltd",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 307
+      "latency": 566
     },
     {
-      "id": "you-piccalc-com",
+      "id": "git-669966-xyz",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1228
+    },
+    {
+      "id": "your-domain-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 665
+    },
+    {
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 469
+    },
+    {
+      "id": "framagit-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 817
+    },
+    {
+      "id": "invent-kde-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 903
+    },
+    {
+      "id": "agentic-iloveagile-me",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 936
+    },
+    {
+      "id": "axonhub-onrender-com",
       "type": "dead",
       "from": "unstable",
       "to": "dead",
       "failures": 28
     },
     {
-      "id": "bestofbi-com",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "maplesoft-com",
+      "id": "libusb-java-ch",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 281
+      "latency": 491
     },
     {
-      "id": "wiki-easyrpg-org",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "citexs-com",
+      "id": "lightlycode-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1696
+      "latency": 2056
     },
     {
-      "id": "juejin-cn",
+      "id": "kuaishou-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 300
+      "latency": 3965
     },
     {
-      "id": "quantconnect-com",
+      "id": "r-jina-ai",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 110
+      "latency": 386
     },
     {
-      "id": "zhipin-com",
+      "id": "numerade-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3247
+      "latency": 398
     },
     {
-      "id": "panjaya-ai",
+      "id": "tugaigai-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 62
+      "latency": 107
     },
     {
-      "id": "zlib-net",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 263
+      "id": "wukong-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3451
     },
     {
-      "id": "api-your-domain-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 512
+      "id": "zhaopin-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1049
     },
     {
-      "id": "panel-your-domain-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 619
+      "id": "apifile-woozooo-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2123
     },
     {
-      "id": "clerk-your-domain-com",
+      "id": "cors-isteed-cc",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 498
-    },
-    {
-      "id": "doxygen-nl",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 119
-    },
-    {
-      "id": "ai-solutions-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 95
-    },
-    {
-      "id": "allatori-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 245
-    },
-    {
-      "id": "dbvis-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 296
-    },
-    {
-      "id": "exceljava-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 62
-    },
-    {
-      "id": "itemanalysis-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 274
-    },
-    {
-      "id": "knopflerfish-org",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 288
-    },
-    {
-      "id": "randelshofer-ch",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 336
-    },
-    {
-      "id": "richardsonsoftware-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 12
-    },
-    {
-      "id": "singularsys-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 197
-    },
-    {
-      "id": "voltactivedata-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 28
-    },
-    {
-      "id": "bito-ai",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 178
-    },
-    {
-      "id": "git-blob42-xyz",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 286
+      "latency": 287
     }
   ]
 }

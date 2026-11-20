@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-20T06:04:18Z",
+  "updated_at": "2026-11-20T15:12:51Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1232,6 +1232,23 @@
       "removed_at": "2026-11-20T06:04:18Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-09T15:23:50Z"
+    },
+    {
+      "id": "axonhub-onrender-com",
+      "name": "Axonhub",
+      "url": "https://axonhub.onrender.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-20T15:12:51Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-10T01:20:01Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-20T06:04:18Z",
+  "updated_at": "2026-11-20T15:12:51Z",
   "total_nodes": 1002,
   "categories": {
     "universal_proxy": {
@@ -2415,19 +2415,6 @@
           "id": "axislab-top",
           "name": "Axislab",
           "url": "https://axislab.top",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "axonhub-onrender-com",
-          "name": "Axonhub",
-          "url": "https://axonhub.onrender.com",
           "supports": [
             "release",
             "archive",
@@ -12919,6 +12906,19 @@
           "id": "git-blob42-xyz",
           "name": "Git",
           "url": "https://git.blob42.xyz",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "cors-isteed-cc",
+          "name": "Cors",
+          "url": "https://cors.isteed.cc",
           "supports": [
             "release",
             "archive",
