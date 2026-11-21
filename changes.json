@@ -1,47 +1,46 @@
 {
-  "generated_at": "2026-11-21T14:30:20Z",
+  "generated_at": "2026-11-21T23:01:51Z",
   "changes": [
     {
-      "id": "gh-nxnow-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 326
-    },
-    {
-      "id": "proxy-vvvv-ee",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 648
-    },
-    {
-      "id": "demo-confabulous-dev",
+      "id": "weaverse-io",
       "type": "dead",
       "from": "unstable",
       "to": "dead",
       "failures": 28
     },
     {
-      "id": "adult-contents-fc2-com",
+      "id": "maplesoft-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 539
+      "latency": 973
     },
     {
-      "id": "lightlycode-com",
+      "id": "4kf9kfxujfhg2-space-mcode-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3819
+      "latency": 1372
     },
     {
-      "id": "tubebuddy-com",
+      "id": "citexs-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1103
+      "latency": 2035
+    },
+    {
+      "id": "pkulaw-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2567
+    },
+    {
+      "id": "gitflic-ru",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1864
     }
   ]
 }

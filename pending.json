@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-21T14:30:20Z",
+  "updated_at": "2026-11-21T23:01:51Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -62040,6 +62040,21 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-21T14:15:11Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ankiweb-net",
+      "name": "Ankiweb",
+      "url": "https://ankiweb.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-21T22:47:23Z",
       "source": "auto_sync"
     }
   ]

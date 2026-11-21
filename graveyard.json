@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-21T14:30:20Z",
+  "updated_at": "2026-11-21T23:01:51Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1300,6 +1300,23 @@
       "removed_at": "2026-11-21T14:30:20Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-11T04:57:17Z"
+    },
+    {
+      "id": "weaverse-io",
+      "name": "Weaverse",
+      "url": "https://weaverse.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-21T23:01:51Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-11T13:45:12Z"
     }
   ]
 }

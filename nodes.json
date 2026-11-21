@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-21T14:30:20Z",
+  "updated_at": "2026-11-21T23:01:51Z",
   "total_nodes": 1000,
   "categories": {
     "universal_proxy": {
@@ -4235,19 +4235,6 @@
           "id": "vmflow-xyz",
           "name": "Vmflow",
           "url": "https://vmflow.xyz",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "weaverse-io",
-          "name": "Weaverse",
-          "url": "https://weaverse.io",
           "supports": [
             "release",
             "archive",
@@ -12893,6 +12880,19 @@
           "id": "platform-openai-com",
           "name": "Platform",
           "url": "https://platform.openai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gitflic-ru",
+          "name": "Gitflic",
+          "url": "https://gitflic.ru",
           "supports": [
             "release",
             "archive",
