@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-20T23:57:00Z",
+  "updated_at": "2026-11-21T14:30:20Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1283,6 +1283,23 @@
       "removed_at": "2026-11-20T23:57:00Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-10T14:30:51Z"
+    },
+    {
+      "id": "demo-confabulous-dev",
+      "name": "Demo",
+      "url": "https://demo.confabulous.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-21T14:30:20Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-11T04:57:17Z"
     }
   ]
 }

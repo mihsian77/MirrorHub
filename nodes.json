@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-21T05:58:29Z",
-  "total_nodes": 1001,
+  "updated_at": "2026-11-21T14:30:20Z",
+  "total_nodes": 1000,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -2818,19 +2818,6 @@
           "id": "demo-public-dev-scalebase-io",
           "name": "Demo-public",
           "url": "https://demo-public.dev.scalebase.io",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "demo-confabulous-dev",
-          "name": "Demo",
-          "url": "https://demo.confabulous.dev",
           "supports": [
             "release",
             "archive",

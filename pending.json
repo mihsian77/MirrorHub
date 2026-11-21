@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-21T05:58:29Z",
+  "updated_at": "2026-11-21T14:30:20Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -62010,6 +62010,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-21T05:44:33Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "agensi-io",
+      "name": "Agensi",
+      "url": "https://agensi.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-21T14:15:11Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aim-asia-hydraulic-operate-trycloudflare-com",
+      "name": "Aim-asia-hydraulic-operate",
+      "url": "https://aim-asia-hydraulic-operate.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-21T14:15:11Z",
       "source": "auto_sync"
     }
   ]
