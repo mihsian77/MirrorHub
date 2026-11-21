@@ -6,7 +6,7 @@
   "attribution_text": "节点由 MirrorHub 提供",
   "attribution_url": "https://github.com/mihsian77/MirrorHub",
   "usage_policy": "欢迎接入使用，但请在产品 UI 中保留来源声明。二次分发需遵守 MIT 协议并保留版权声明。",
-  "updated_at": "2026-11-20T23:57:00Z",
+  "updated_at": "2026-11-21T05:58:29Z",
   "total_online": 20,
   "nodes": [
     {
@@ -14,56 +14,48 @@
       "name": "Opencode",
       "domain": "opencode.ai",
       "category": "universal_proxy",
-      "latency_ms": 46,
-      "bandwidth_mbps": 0.17
-    },
-    {
-      "id": "duck-ai",
-      "name": "Duck",
-      "domain": "duck.ai",
-      "category": "universal_proxy",
-      "latency_ms": 63,
-      "bandwidth_mbps": 1.32
-    },
-    {
-      "id": "microsoftedge-microsoft-com",
-      "name": "Microsoftedge",
-      "domain": "microsoftedge.microsoft.com",
-      "category": "universal_proxy",
-      "latency_ms": 66,
-      "bandwidth_mbps": 0.96
+      "latency_ms": 47,
+      "bandwidth_mbps": 0.1
     },
     {
       "id": "linkedin-com",
       "name": "Linkedin",
       "domain": "linkedin.com",
       "category": "universal_proxy",
-      "latency_ms": 66,
+      "latency_ms": 64,
       "bandwidth_mbps": 0.48
+    },
+    {
+      "id": "microsoftedge-microsoft-com",
+      "name": "Microsoftedge",
+      "domain": "microsoftedge.microsoft.com",
+      "category": "universal_proxy",
+      "latency_ms": 67,
+      "bandwidth_mbps": 0.25
+    },
+    {
+      "id": "duck-ai",
+      "name": "Duck",
+      "domain": "duck.ai",
+      "category": "universal_proxy",
+      "latency_ms": 73,
+      "bandwidth_mbps": 0.14
     },
     {
       "id": "app-snowflake-com",
       "name": "App",
       "domain": "app.snowflake.com",
       "category": "universal_proxy",
-      "latency_ms": 75,
-      "bandwidth_mbps": 3.35
-    },
-    {
-      "id": "earth-jaxa-jp",
-      "name": "Earth",
-      "domain": "earth.jaxa.jp",
-      "category": "universal_proxy",
-      "latency_ms": 79,
-      "bandwidth_mbps": null
+      "latency_ms": 78,
+      "bandwidth_mbps": 0.91
     },
     {
       "id": "x-com",
       "name": "X",
       "domain": "x.com",
       "category": "universal_proxy",
-      "latency_ms": 80,
-      "bandwidth_mbps": 1.55
+      "latency_ms": 81,
+      "bandwidth_mbps": 1.28
     },
     {
       "id": "docs-tibco-com",
@@ -71,87 +63,79 @@
       "domain": "docs.tibco.com",
       "category": "universal_proxy",
       "latency_ms": 83,
-      "bandwidth_mbps": 0.1
+      "bandwidth_mbps": 0.04
+    },
+    {
+      "id": "earth-jaxa-jp",
+      "name": "Earth",
+      "domain": "earth.jaxa.jp",
+      "category": "universal_proxy",
+      "latency_ms": 84,
+      "bandwidth_mbps": null
     },
     {
       "id": "vivago-ai",
       "name": "Vivago",
       "domain": "vivago.ai",
       "category": "universal_proxy",
-      "latency_ms": 88,
-      "bandwidth_mbps": 0.22
-    },
-    {
-      "id": "platform-openai-com",
-      "name": "Platform",
-      "domain": "platform.openai.com",
-      "category": "universal_proxy",
       "latency_ms": 89,
-      "bandwidth_mbps": 0.24
-    },
-    {
-      "id": "opresume-pages-dev",
-      "name": "Opresume",
-      "domain": "opresume.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 90,
-      "bandwidth_mbps": 0.9
+      "bandwidth_mbps": 0.13
     },
     {
       "id": "freegrid-web-pages-dev",
       "name": "Freegrid-web",
       "domain": "freegrid-web.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 91,
+      "latency_ms": 93,
       "bandwidth_mbps": null
     },
     {
-      "id": "resume-5lv-pages-dev",
-      "name": "Resume-5lv",
-      "domain": "resume-5lv.pages.dev",
+      "id": "opresume-pages-dev",
+      "name": "Opresume",
+      "domain": "opresume.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 92,
-      "bandwidth_mbps": 0.56
-    },
-    {
-      "id": "vibeholding-pages-dev",
-      "name": "Vibeholding",
-      "domain": "vibeholding.pages.dev",
-      "category": "universal_proxy",
-      "latency_ms": 92,
-      "bandwidth_mbps": null
+      "latency_ms": 93,
+      "bandwidth_mbps": 0.49
     },
     {
       "id": "crypto-funding-arbitrage-pages-dev",
       "name": "Crypto-funding-arbitrage",
       "domain": "crypto-funding-arbitrage.pages.dev",
       "category": "universal_proxy",
-      "latency_ms": 93,
-      "bandwidth_mbps": 3.48
+      "latency_ms": 94,
+      "bandwidth_mbps": 2.11
     },
     {
-      "id": "spicychat-ai",
-      "name": "Spicychat",
-      "domain": "spicychat.ai",
+      "id": "getorigin-io",
+      "name": "Getorigin",
+      "domain": "getorigin.io",
       "category": "universal_proxy",
       "latency_ms": 96,
-      "bandwidth_mbps": 0.18
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "vibeholding-pages-dev",
+      "name": "Vibeholding",
+      "domain": "vibeholding.pages.dev",
+      "category": "universal_proxy",
+      "latency_ms": 96,
+      "bandwidth_mbps": null
+    },
+    {
+      "id": "vmflow-xyz",
+      "name": "Vmflow",
+      "domain": "vmflow.xyz",
+      "category": "universal_proxy",
+      "latency_ms": 96,
+      "bandwidth_mbps": null
     },
     {
       "id": "smith-langchain-com",
       "name": "Smith",
       "domain": "smith.langchain.com",
       "category": "universal_proxy",
-      "latency_ms": 97,
-      "bandwidth_mbps": 1.86
-    },
-    {
-      "id": "tools-realtime-ai-chat",
-      "name": "Tools",
-      "domain": "tools.realtime-ai.chat",
-      "category": "universal_proxy",
-      "latency_ms": 98,
-      "bandwidth_mbps": 3.15
+      "latency_ms": 96,
+      "bandwidth_mbps": 3.09
     },
     {
       "id": "zen-ai-pentest-pages-dev",
@@ -162,12 +146,28 @@
       "bandwidth_mbps": null
     },
     {
-      "id": "xjtu-nyxf-study-material-pages-dev",
-      "name": "Xjtu-nyxf-study-material",
-      "domain": "xjtu-nyxf-study-material.pages.dev",
+      "id": "spicychat-ai",
+      "name": "Spicychat",
+      "domain": "spicychat.ai",
+      "category": "universal_proxy",
+      "latency_ms": 98,
+      "bandwidth_mbps": 0.13
+    },
+    {
+      "id": "resume-5lv-pages-dev",
+      "name": "Resume-5lv",
+      "domain": "resume-5lv.pages.dev",
       "category": "universal_proxy",
       "latency_ms": 100,
-      "bandwidth_mbps": 0.24
+      "bandwidth_mbps": 0.32
+    },
+    {
+      "id": "githubstatus-com",
+      "name": "Githubstatus",
+      "domain": "githubstatus.com",
+      "category": "universal_proxy",
+      "latency_ms": 101,
+      "bandwidth_mbps": 3.74
     }
   ]
 }

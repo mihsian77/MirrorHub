@@ -1,67 +1,89 @@
 {
-  "generated_at": "2026-11-20T23:57:00Z",
+  "generated_at": "2026-11-21T05:58:29Z",
   "changes": [
     {
-      "id": "gh-nxnow-top",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 324
+      "latency": 497
     },
     {
-      "id": "cf-ghproxy-cc",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "g-blfrp-cn",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1117
+      "latency": 126
     },
     {
-      "id": "proxy-yaoyaoling-net",
+      "id": "pan-quark-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 5746
+      "latency": 2793
     },
     {
-      "id": "heycall-e-com",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "adult-contents-fc2-com",
+      "id": "adv-co-jp",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 704
+      "latency": 1791
     },
     {
-      "id": "eudic-net",
+      "id": "tridium-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1513
+      "latency": 414
     },
     {
-      "id": "pkulaw-com",
+      "id": "4kf9kfxujfhg2-space-mcode-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2131
+      "latency": 1333
     },
     {
-      "id": "platform-openai-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 89
+      "id": "kuaishou-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3755
+    },
+    {
+      "id": "xget-xi-xu-me",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 812
+    },
+    {
+      "id": "eccang-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1528
+    },
+    {
+      "id": "wukong-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 942
+    },
+    {
+      "id": "zhaopin-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1061
+    },
+    {
+      "id": "cors-isteed-cc",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 90
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-20T23:57:00Z",
+  "updated_at": "2026-11-21T05:58:29Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -61965,6 +61965,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-20T14:55:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "axonhub-onrender-com",
+      "name": "Axonhub",
+      "url": "https://axonhub.onrender.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-21T05:44:33Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cf-ghproxy-cc",
+      "name": "Cf",
+      "url": "https://cf.ghproxy.cc",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-21T05:44:33Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "heycall-e-com",
+      "name": "Heycall-e",
+      "url": "https://heycall-e.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-21T05:44:33Z",
       "source": "auto_sync"
     }
   ]
