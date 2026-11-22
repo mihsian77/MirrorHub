@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-22T14:21:36Z",
+  "updated_at": "2026-11-22T23:30:18Z",
   "total_nodes": 1010,
   "categories": {
     "universal_proxy": {
@@ -3195,19 +3195,6 @@
           "id": "impeccable-style",
           "name": "Impeccable",
           "url": "https://impeccable.style",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "impro-social",
-          "name": "Impro",
-          "url": "https://impro.social",
           "supports": [
             "release",
             "archive",
@@ -13023,6 +13010,19 @@
           "id": "yiyan-baidu-com",
           "name": "Yiyan",
           "url": "https://yiyan.baidu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "onedns-net",
+          "name": "Onedns",
+          "url": "https://onedns.net",
           "supports": [
             "release",
             "archive",

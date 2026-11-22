@@ -1,119 +1,74 @@
 {
-  "generated_at": "2026-11-22T14:21:36Z",
+  "generated_at": "2026-11-22T23:30:18Z",
   "changes": [
     {
-      "id": "gh-proxy-com",
+      "id": "ghproxy-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 153
+      "latency": 670
     },
     {
-      "id": "gh-nxnow-top",
+      "id": "proxy-vvvv-ee",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 315
+      "latency": 445
     },
     {
-      "id": "coffeecli-com",
+      "id": "impro-social",
       "type": "dead",
       "from": "unstable",
       "to": "dead",
       "failures": 28
     },
     {
-      "id": "leankg-onrender-com",
+      "id": "adult-contents-fc2-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 583
+      "latency": 621
     },
     {
-      "id": "5555-cab",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "oalur-com",
+      "id": "savannah-gnu-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1399
+      "latency": 111
     },
     {
-      "id": "autodl-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 767
+      "id": "bugs-freebsd-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 779
     },
     {
-      "id": "flageval-baai-ac-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1646
+      "id": "eccang-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1758
     },
     {
-      "id": "klingai-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1389
+      "id": "icourse163-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2595
     },
     {
-      "id": "langfuse-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 278
+      "id": "wukong-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 803
     },
     {
-      "id": "lingyiwanwu-com",
+      "id": "onedns-net",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 2691
-    },
-    {
-      "id": "marscode-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 2111
-    },
-    {
-      "id": "minimaxi-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 4550
-    },
-    {
-      "id": "opencompass-org-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 928
-    },
-    {
-      "id": "superclueai-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1866
-    },
-    {
-      "id": "trychroma-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 563
-    },
-    {
-      "id": "windsurf-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 407
-    },
-    {
-      "id": "yiyan-baidu-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1773
+      "latency": 857
     }
   ]
 }

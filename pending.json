@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-22T14:21:36Z",
+  "updated_at": "2026-11-22T23:30:18Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -62400,6 +62400,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "5555-cab",
+      "name": "5555",
+      "url": "https://5555.cab",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T23:15:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "adguard-dns-io",
+      "name": "Adguard-dns",
+      "url": "https://adguard-dns.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T23:15:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "apparent-delayed-escape-filtering-trycloudflare-com",
+      "name": "Apparent-delayed-escape-filtering",
+      "url": "https://apparent-delayed-escape-filtering.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T23:15:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dns11-quad9-net",
+      "name": "Dns11",
+      "url": "https://dns11.quad9.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T23:15:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-amazonaws-cn",
+      "name": "Docs",
+      "url": "https://docs.amazonaws.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T23:15:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "doh-pub",
+      "name": "Doh",
+      "url": "https://doh.pub",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T23:15:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "help-openai-com",
+      "name": "Help",
+      "url": "https://help.openai.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T23:15:42Z",
       "source": "auto_sync"
     }
   ]

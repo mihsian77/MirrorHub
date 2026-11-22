@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-22T14:21:36Z",
+  "updated_at": "2026-11-22T23:30:18Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1351,6 +1351,23 @@
       "removed_at": "2026-11-22T14:21:36Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-12T14:47:56Z"
+    },
+    {
+      "id": "impro-social",
+      "name": "Impro",
+      "url": "https://impro.social",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-22T23:30:18Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-12T23:22:01Z"
     }
   ]
 }
