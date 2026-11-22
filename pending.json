@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-22T05:28:38Z",
+  "updated_at": "2026-11-22T14:21:36Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -62085,6 +62085,321 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-22T05:14:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "agno-com",
+      "name": "Agno",
+      "url": "https://agno.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "chat-deepseek-com",
+      "name": "Chat",
+      "url": "https://chat.deepseek.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "deepspeed-ai",
+      "name": "Deepspeed",
+      "url": "https://deepspeed.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-ragas-io",
+      "name": "Docs",
+      "url": "https://docs.ragas.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fastgpt-io",
+      "name": "Fastgpt",
+      "url": "https://fastgpt.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "helicone-ai",
+      "name": "Helicone",
+      "url": "https://helicone.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "jiangshen-anqila-xyz",
+      "name": "Jiangshen",
+      "url": "https://jiangshen.anqila.xyz",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "llama-com",
+      "name": "Llama",
+      "url": "https://llama.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mastra-ai",
+      "name": "Mastra",
+      "url": "https://mastra.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "milvus-io",
+      "name": "Milvus",
+      "url": "https://milvus.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "onyx-app",
+      "name": "Onyx",
+      "url": "https://onyx.app",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pinecone-io",
+      "name": "Pinecone",
+      "url": "https://pinecone.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "python-useinstructor-com",
+      "name": "Python",
+      "url": "https://python.useinstructor.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "qdrant-tech",
+      "name": "Qdrant",
+      "url": "https://qdrant.tech",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "smithery-ai",
+      "name": "Smithery",
+      "url": "https://smithery.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "speech-ee-ntu-edu-tw",
+      "name": "Speech",
+      "url": "https://speech.ee.ntu.edu.tw",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "unsloth-ai",
+      "name": "Unsloth",
+      "url": "https://unsloth.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "unstructured-io",
+      "name": "Unstructured",
+      "url": "https://unstructured.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "vllm-ai",
+      "name": "Vllm",
+      "url": "https://vllm.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "weaviate-io",
+      "name": "Weaviate",
+      "url": "https://weaviate.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wps-cn",
+      "name": "Wps",
+      "url": "https://wps.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T14:05:35Z",
       "source": "auto_sync"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-22T05:28:38Z",
-  "total_nodes": 1000,
+  "updated_at": "2026-11-22T14:21:36Z",
+  "total_nodes": 1010,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -2711,19 +2711,6 @@
           "source": "auto_sync"
         },
         {
-          "id": "coffeecli-com",
-          "name": "Coffeecli",
-          "url": "https://coffeecli.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
           "id": "cognitum-one",
           "name": "Cognitum",
           "url": "https://cognitum.one",
@@ -5054,19 +5041,6 @@
           "id": "docs-uxway-app",
           "name": "Docs",
           "url": "https://docs.uxway.app",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "5555-cab",
-          "name": "5555",
-          "url": "https://5555.cab",
           "supports": [
             "release",
             "archive",
@@ -12893,6 +12867,162 @@
           "id": "gitflic-ru",
           "name": "Gitflic",
           "url": "https://gitflic.ru",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "autodl-com",
+          "name": "Autodl",
+          "url": "https://autodl.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "flageval-baai-ac-cn",
+          "name": "Flageval",
+          "url": "https://flageval.baai.ac.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "klingai-com",
+          "name": "Klingai",
+          "url": "https://klingai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "langfuse-com",
+          "name": "Langfuse",
+          "url": "https://langfuse.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "lingyiwanwu-com",
+          "name": "Lingyiwanwu",
+          "url": "https://lingyiwanwu.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "marscode-cn",
+          "name": "Marscode",
+          "url": "https://marscode.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "minimaxi-com",
+          "name": "Minimaxi",
+          "url": "https://minimaxi.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "opencompass-org-cn",
+          "name": "Opencompass",
+          "url": "https://opencompass.org.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "superclueai-com",
+          "name": "Superclueai",
+          "url": "https://superclueai.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "trychroma-com",
+          "name": "Trychroma",
+          "url": "https://trychroma.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "windsurf-com",
+          "name": "Windsurf",
+          "url": "https://windsurf.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "yiyan-baidu-com",
+          "name": "Yiyan",
+          "url": "https://yiyan.baidu.com",
           "supports": [
             "release",
             "archive",
