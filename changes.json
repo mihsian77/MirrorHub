@@ -1,46 +1,82 @@
 {
-  "generated_at": "2026-11-21T23:01:51Z",
+  "generated_at": "2026-11-22T05:28:38Z",
   "changes": [
     {
-      "id": "weaverse-io",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "maplesoft-com",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 973
+      "latency": 436
     },
     {
-      "id": "4kf9kfxujfhg2-space-mcode-cn",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1372
+      "latency": 192
     },
     {
-      "id": "citexs-com",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2035
+      "latency": 763
     },
     {
-      "id": "pkulaw-com",
+      "id": "comfyit-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2567
+      "latency": 957
     },
     {
-      "id": "gitflic-ru",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1864
+      "id": "proxy-vvvv-ee",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 322
+    },
+    {
+      "id": "lightlycode-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2771
+    },
+    {
+      "id": "xget-xi-xu-me",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 134
+    },
+    {
+      "id": "wukong-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 668
+    },
+    {
+      "id": "zhaopin-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1295
+    },
+    {
+      "id": "apifile-woozooo-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 939
+    },
+    {
+      "id": "cors-isteed-cc",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 203
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-21T23:01:51Z",
+  "updated_at": "2026-11-22T05:28:38Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -62055,6 +62055,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-21T22:47:23Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "enables-personally-webshots-performance-trycloudflare-com",
+      "name": "Enables-personally-webshots-performance",
+      "url": "https://enables-personally-webshots-performance.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T05:14:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "solarsystemscope-com",
+      "name": "Solarsystemscope",
+      "url": "https://solarsystemscope.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-22T05:14:35Z",
       "source": "auto_sync"
     }
   ]
