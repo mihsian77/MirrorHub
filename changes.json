@@ -1,135 +1,36 @@
 {
-  "generated_at": "2026-11-23T06:09:04Z",
+  "generated_at": "2026-11-23T17:43:47Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "bugs-freebsd-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1162
+      "latency": 984
     },
     {
-      "id": "gh-nxnow-top",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 560
-    },
-    {
-      "id": "gh-idayer-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 200
-    },
-    {
-      "id": "git-669966-xyz",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 994
-    },
-    {
-      "id": "proxy-scdn-io",
-      "type": "dead",
-      "from": "unstable",
-      "to": "dead",
-      "failures": 28
-    },
-    {
-      "id": "bisguard-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 442
-    },
-    {
-      "id": "web4j-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 339
-    },
-    {
-      "id": "kuaishou-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 4113
-    },
-    {
-      "id": "ghp-keleyaa-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 119
-    },
-    {
-      "id": "xget-xi-xu-me",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 769
-    },
-    {
-      "id": "huitun-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1140
-    },
-    {
-      "id": "juejin-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1156
-    },
-    {
-      "id": "musho-ai",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 396
-    },
-    {
-      "id": "zhaopin-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1051
-    },
-    {
-      "id": "cors-isteed-cc",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 167
-    },
-    {
-      "id": "lingyiwanwu-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 2361
-    },
-    {
-      "id": "festive-clam-15f-notion-site",
+      "id": "vishay-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 181
+      "latency": 668
     },
     {
-      "id": "gofile-io",
+      "id": "higson-io",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 145
+      "latency": 2227
     },
     {
-      "id": "paperscope-ai",
+      "id": "imgur-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 380
+      "latency": 224
+    },
+    {
+      "id": "support-google-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 547
     }
   ]
 }

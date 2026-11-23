@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-23T06:09:04Z",
-  "total_nodes": 1012,
+  "updated_at": "2026-11-23T17:43:47Z",
+  "total_nodes": 1016,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -13049,6 +13049,58 @@
           "id": "paperscope-ai",
           "name": "Paperscope",
           "url": "https://paperscope.ai",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "vishay-com",
+          "name": "Vishay",
+          "url": "https://vishay.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "higson-io",
+          "name": "Higson",
+          "url": "https://higson.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "imgur-com",
+          "name": "Imgur",
+          "url": "https://imgur.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "support-google-com",
+          "name": "Support",
+          "url": "https://support.google.com",
           "supports": [
             "release",
             "archive",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-23T06:09:04Z",
+  "updated_at": "2026-11-23T17:43:47Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -2646,21 +2646,6 @@
       "id": "upload-wikimedia-org",
       "name": "Upload",
       "url": "https://upload.wikimedia.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-10-13T00:10:57Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "vishay-com",
-      "name": "Vishay",
-      "url": "https://vishay.com",
       "supports": [
         "release",
         "archive",
@@ -30231,21 +30216,6 @@
       "id": "hibernate-org",
       "name": "Hibernate",
       "url": "https://hibernate.org",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-04T13:49:23Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "higson-io",
-      "name": "Higson",
-      "url": "https://higson.io",
       "supports": [
         "release",
         "archive",
@@ -62955,6 +62925,96 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "abs-twimg-com",
+      "name": "Abs",
+      "url": "https://abs.twimg.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T17:27:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-conda-io",
+      "name": "Docs",
+      "url": "https://docs.conda.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T17:27:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "static-licdn-com",
+      "name": "Static",
+      "url": "https://static.licdn.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T17:27:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "textures-minecraft-net",
+      "name": "Textures",
+      "url": "https://textures.minecraft.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T17:27:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "url-for-the",
+      "name": "Url",
+      "url": "https://url.for.the",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T17:27:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wordpress-org",
+      "name": "Wordpress",
+      "url": "https://wordpress.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T17:27:48Z",
       "source": "auto_sync"
     }
   ]
