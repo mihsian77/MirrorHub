@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-22T23:30:18Z",
-  "total_nodes": 1010,
+  "updated_at": "2026-11-23T06:09:04Z",
+  "total_nodes": 1012,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -4885,19 +4885,6 @@
           "id": "tools-ietf-org",
           "name": "Tools",
           "url": "https://tools.ietf.org",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "proxy-scdn-io",
-          "name": "Proxy",
-          "url": "https://proxy.scdn.io",
           "supports": [
             "release",
             "archive",
@@ -13023,6 +13010,45 @@
           "id": "onedns-net",
           "name": "Onedns",
           "url": "https://onedns.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "festive-clam-15f-notion-site",
+          "name": "Festive-clam-15f",
+          "url": "https://festive-clam-15f.notion.site",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "gofile-io",
+          "name": "Gofile",
+          "url": "https://gofile.io",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "paperscope-ai",
+          "name": "Paperscope",
+          "url": "https://paperscope.ai",
           "supports": [
             "release",
             "archive",

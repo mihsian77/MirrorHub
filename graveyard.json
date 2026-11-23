@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-22T23:30:18Z",
+  "updated_at": "2026-11-23T06:09:04Z",
   "nodes": [
     {
       "id": "gh-idayer-com",
@@ -1368,6 +1368,23 @@
       "removed_at": "2026-11-22T23:30:18Z",
       "reason": "连续 28 次测速失败",
       "first_failed_at": "2026-11-12T23:22:01Z"
+    },
+    {
+      "id": "proxy-scdn-io",
+      "name": "Proxy",
+      "url": "https://proxy.scdn.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "source": "auto_sync",
+      "category": "universal_proxy",
+      "removed_at": "2026-11-23T06:09:04Z",
+      "reason": "连续 28 次测速失败",
+      "first_failed_at": "2026-11-13T05:20:40Z"
     }
   ]
 }

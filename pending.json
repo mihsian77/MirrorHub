@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-22T23:30:18Z",
+  "updated_at": "2026-11-23T06:09:04Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -62505,6 +62505,456 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-22T23:15:42Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aclanthology-org",
+      "name": "Aclanthology",
+      "url": "https://aclanthology.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "alphaxiv-org",
+      "name": "Alphaxiv",
+      "url": "https://alphaxiv.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "coffeecli-com",
+      "name": "Coffeecli",
+      "url": "https://coffeecli.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cs-unc-edu",
+      "name": "Cs",
+      "url": "https://cs.unc.edu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cse-hkust-edu-hk",
+      "name": "Cse",
+      "url": "https://cse.hkust.edu.hk",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "demo-confabulous-dev",
+      "name": "Demo",
+      "url": "https://demo.confabulous.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "direct-mit-edu",
+      "name": "Direct",
+      "url": "https://direct.mit.edu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-vllm-ai",
+      "name": "Docs",
+      "url": "https://docs.vllm.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "drops-dagstuhl-de",
+      "name": "Drops",
+      "url": "https://drops.dagstuhl.de",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "escholarship-org",
+      "name": "Escholarship",
+      "url": "https://escholarship.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gpumode-com",
+      "name": "Gpumode",
+      "url": "https://gpumode.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hazyresearch-stanford-edu",
+      "name": "Hazyresearch",
+      "url": "https://hazyresearch.stanford.edu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "impro-social",
+      "name": "Impro",
+      "url": "https://impro.social",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ipads-se-sjtu-edu-cn",
+      "name": "Ipads",
+      "url": "https://ipads.se.sjtu.edu.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kernelarena-ai",
+      "name": "Kernelarena",
+      "url": "https://kernelarena.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "longcot-ai",
+      "name": "Longcot",
+      "url": "https://longcot.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "m8ven-ai",
+      "name": "M8ven",
+      "url": "https://m8ven.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "macaron-im",
+      "name": "Macaron",
+      "url": "https://macaron.im",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "mmbiz-qpic-cn",
+      "name": "Mmbiz",
+      "url": "https://mmbiz.qpic.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "notion-so",
+      "name": "Notion",
+      "url": "https://notion.so",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "opencompute-org",
+      "name": "Opencompute",
+      "url": "https://opencompute.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "openreview-net",
+      "name": "Openreview",
+      "url": "https://openreview.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "pixeldrain-com",
+      "name": "Pixeldrain",
+      "url": "https://pixeldrain.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "respected-bears-taylor-projectors-trycloudflare-com",
+      "name": "Respected-bears-taylor-projectors",
+      "url": "https://respected-bears-taylor-projectors.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ssslab-cn",
+      "name": "Ssslab",
+      "url": "https://ssslab.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "streamlake-com",
+      "name": "Streamlake",
+      "url": "https://streamlake.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "usenix-org",
+      "name": "Usenix",
+      "url": "https://usenix.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wafer-ai",
+      "name": "Wafer",
+      "url": "https://wafer.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "weaverse-io",
+      "name": "Weaverse",
+      "url": "https://weaverse.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "yoonholee-com",
+      "name": "Yoonholee",
+      "url": "https://yoonholee.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-23T05:53:41Z",
       "source": "auto_sync"
     }
   ]
