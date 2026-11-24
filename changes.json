@@ -1,81 +1,75 @@
 {
-  "generated_at": "2026-11-24T04:15:37Z",
+  "generated_at": "2026-11-24T17:14:49Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "gh-noki-icu",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 469
+      "latency": 301
     },
     {
-      "id": "gh-idayer-com",
+      "id": "aistack-to",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 291
+      "latency": 835
     },
     {
-      "id": "leankg-onrender-com",
+      "id": "adult-contents-fc2-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3458
+      "latency": 579
     },
     {
-      "id": "ghproxy-vip",
+      "id": "gh-noki-eu-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 277
+      "latency": 882
     },
     {
-      "id": "animejs-com",
+      "id": "code-usgs-gov",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 823
+      "latency": 359
     },
     {
-      "id": "citexs-com",
+      "id": "lightlycode-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1898
+      "latency": 2754
     },
     {
-      "id": "huitun-com",
+      "id": "bugs-freebsd-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1500
+      "latency": 772
     },
     {
-      "id": "pdf365-cn",
+      "id": "front-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3234
+      "latency": 159
     },
     {
-      "id": "rankiq-com",
+      "id": "kimi-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3531
+      "latency": 1882
     },
     {
-      "id": "wukong-com",
+      "id": "apifile-woozooo-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 698
-    },
-    {
-      "id": "204-z-onesoft-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 855
+      "latency": 1218
     }
   ]
 }

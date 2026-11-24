@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-24T04:15:37Z",
+  "updated_at": "2026-11-24T17:14:49Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -63045,6 +63045,111 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-24T04:01:50Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cache-example-internal",
+      "name": "Cache",
+      "url": "https://cache.example.internal",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-24T16:59:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cnb-cool",
+      "name": "Cnb",
+      "url": "https://cnb.cool",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-24T16:59:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kotlinlang-org",
+      "name": "Kotlinlang",
+      "url": "https://kotlinlang.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-24T16:59:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nvidia-com",
+      "name": "Nvidia",
+      "url": "https://nvidia.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-24T16:59:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "paseo-sh",
+      "name": "Paseo",
+      "url": "https://paseo.sh",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-24T16:59:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "saibo-me",
+      "name": "Saibo",
+      "url": "https://saibo.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-24T16:59:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "seaweedfs-example",
+      "name": "Seaweedfs",
+      "url": "https://seaweedfs.example",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-24T16:59:32Z",
       "source": "auto_sync"
     }
   ]
