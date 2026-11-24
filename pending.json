@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-23T17:43:47Z",
+  "updated_at": "2026-11-24T04:15:37Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -63015,6 +63015,36 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-23T17:27:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cache-corp",
+      "name": "Cache",
+      "url": "https://cache.corp",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-24T04:01:50Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "edgeone-tencent-com",
+      "name": "Edgeone",
+      "url": "https://edgeone.tencent.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-24T04:01:50Z",
       "source": "auto_sync"
     }
   ]

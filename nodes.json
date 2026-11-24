@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-23T17:43:47Z",
-  "total_nodes": 1016,
+  "updated_at": "2026-11-24T04:15:37Z",
+  "total_nodes": 1017,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -13101,6 +13101,19 @@
           "id": "support-google-com",
           "name": "Support",
           "url": "https://support.google.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "204-z-onesoft-com",
+          "name": "204",
+          "url": "https://204.z-onesoft.com",
           "supports": [
             "release",
             "archive",

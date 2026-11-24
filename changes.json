@@ -1,36 +1,81 @@
 {
-  "generated_at": "2026-11-23T17:43:47Z",
+  "generated_at": "2026-11-24T04:15:37Z",
   "changes": [
     {
-      "id": "bugs-freebsd-org",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 984
+      "latency": 469
     },
     {
-      "id": "vishay-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 668
+      "id": "gh-idayer-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 291
     },
     {
-      "id": "higson-io",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 2227
+      "id": "leankg-onrender-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3458
     },
     {
-      "id": "imgur-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 224
+      "id": "ghproxy-vip",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 277
     },
     {
-      "id": "support-google-com",
+      "id": "animejs-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 823
+    },
+    {
+      "id": "citexs-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1898
+    },
+    {
+      "id": "huitun-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1500
+    },
+    {
+      "id": "pdf365-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3234
+    },
+    {
+      "id": "rankiq-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 3531
+    },
+    {
+      "id": "wukong-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 698
+    },
+    {
+      "id": "204-z-onesoft-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 547
+      "latency": 855
     }
   ]
 }
