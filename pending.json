@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-25T02:10:43Z",
+  "updated_at": "2026-11-25T17:04:21Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -64455,6 +64455,141 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-bilibili-com",
+      "name": "Api",
+      "url": "https://api.bilibili.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T16:49:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gitea-mirror-example-com",
+      "name": "Gitea-mirror",
+      "url": "https://gitea-mirror.example.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T16:49:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "musicapi-haitangw-net",
+      "name": "Musicapi",
+      "url": "https://musicapi.haitangw.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T16:49:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "nextmusic-toubiec-cn",
+      "name": "Nextmusic",
+      "url": "https://nextmusic.toubiec.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T16:49:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "scriptcat-org",
+      "name": "Scriptcat",
+      "url": "https://scriptcat.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T16:49:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "u-y-qq-com",
+      "name": "U",
+      "url": "https://u.y.qq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T16:49:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "warthunder-com",
+      "name": "Warthunder",
+      "url": "https://warthunder.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T16:49:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wiki-warthunder-com",
+      "name": "Wiki",
+      "url": "https://wiki.warthunder.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T16:49:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "y-gtimg-cn",
+      "name": "Y",
+      "url": "https://y.gtimg.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T16:49:48Z",
       "source": "auto_sync"
     }
   ]
