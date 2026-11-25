@@ -1,75 +1,145 @@
 {
-  "generated_at": "2026-11-24T17:14:49Z",
+  "generated_at": "2026-11-25T02:10:43Z",
   "changes": [
     {
-      "id": "gh-noki-icu",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 301
+      "latency": 564
     },
     {
-      "id": "aistack-to",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 835
+      "latency": 431
     },
     {
-      "id": "adult-contents-fc2-com",
+      "id": "gh-ddlc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 579
+      "latency": 405
     },
     {
-      "id": "gh-noki-eu-org",
+      "id": "eclipse-dev",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 882
+      "latency": 627
     },
     {
-      "id": "code-usgs-gov",
+      "id": "tridium-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 359
+      "latency": 534
     },
     {
-      "id": "lightlycode-com",
+      "id": "xget-xi-xu-me",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2754
+      "latency": 747
     },
     {
-      "id": "bugs-freebsd-org",
+      "id": "eklipse-gg",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 772
+      "latency": 5445
     },
     {
-      "id": "front-com",
+      "id": "juejin-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 159
+      "latency": 570
     },
     {
-      "id": "kimi-com",
+      "id": "pkulaw-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1882
+      "latency": 2499
     },
     {
-      "id": "apifile-woozooo-com",
+      "id": "tubebuddy-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1218
+      "latency": 1085
+    },
+    {
+      "id": "gitproxy-mrhjx-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 330
+    },
+    {
+      "id": "github-proxy-memory-echoes-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 439
+    },
+    {
+      "id": "cors-isteed-cc",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 280
+    },
+    {
+      "id": "lingyiwanwu-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2972
+    },
+    {
+      "id": "bbs-myquant-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1398
+    },
+    {
+      "id": "myquant-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 930
+    },
+    {
+      "id": "open-hscloud-cn",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2656
+    },
+    {
+      "id": "quantnet-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 215
+    },
+    {
+      "id": "tradeblazer-net",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 1705
+    },
+    {
+      "id": "uqer-datayes-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 379
+    },
+    {
+      "id": "zhihu-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 2837
     }
   ]
 }

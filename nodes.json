@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-24T17:14:49Z",
-  "total_nodes": 1017,
+  "updated_at": "2026-11-25T02:10:43Z",
+  "total_nodes": 1024,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -13114,6 +13114,97 @@
           "id": "204-z-onesoft-com",
           "name": "204",
           "url": "https://204.z-onesoft.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "bbs-myquant-cn",
+          "name": "Bbs",
+          "url": "https://bbs.myquant.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "myquant-cn",
+          "name": "Myquant",
+          "url": "https://myquant.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "open-hscloud-cn",
+          "name": "Open",
+          "url": "https://open.hscloud.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "quantnet-com",
+          "name": "Quantnet",
+          "url": "https://quantnet.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tradeblazer-net",
+          "name": "Tradeblazer",
+          "url": "https://tradeblazer.net",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "uqer-datayes-com",
+          "name": "Uqer",
+          "url": "https://uqer.datayes.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "zhihu-com",
+          "name": "Zhihu",
+          "url": "https://zhihu.com",
           "supports": [
             "release",
             "archive",

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-24T17:14:49Z",
+  "updated_at": "2026-11-25T02:10:43Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -63150,6 +63150,1311 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-24T16:59:32Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "0xarchive-io",
+      "name": "0xarchive",
+      "url": "https://0xarchive.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "13finsight-com",
+      "name": "13finsight",
+      "url": "https://13finsight.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "adanos-org",
+      "name": "Adanos",
+      "url": "https://adanos.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aiquantnav-com",
+      "name": "Aiquantnav",
+      "url": "https://aiquantnav.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "alexandria-firecrawl-dev",
+      "name": "Alexandria",
+      "url": "https://alexandria.firecrawl.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "algorier-com",
+      "name": "Algorier",
+      "url": "https://algorier.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "alphabazaar-ai",
+      "name": "Alphabazaar",
+      "url": "https://alphabazaar.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "amac-org-cn",
+      "name": "Amac",
+      "url": "https://amac.org.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aperiodic-io",
+      "name": "Aperiodic",
+      "url": "https://aperiodic.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "api-alphabazaar-ai",
+      "name": "Api",
+      "url": "https://api.alphabazaar.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "aruaru-tokyo",
+      "name": "Aruaru",
+      "url": "https://aruaru.tokyo",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "atrader-com-cn",
+      "name": "Atrader",
+      "url": "https://atrader.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "blog-mongodb-org",
+      "name": "Blog",
+      "url": "https://blog.mongodb.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "bloomberglabs-com",
+      "name": "Bloomberglabs",
+      "url": "https://bloomberglabs.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "book-douban-com",
+      "name": "Book",
+      "url": "https://book.douban.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "botvs-com",
+      "name": "Botvs",
+      "url": "https://botvs.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cdn-rawgit-com",
+      "name": "Cdn",
+      "url": "https://cdn.rawgit.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "cffexit-com-cn",
+      "name": "Cffexit",
+      "url": "https://cffexit.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "chinaexchangecirculars-com",
+      "name": "Chinaexchangecirculars",
+      "url": "https://chinaexchangecirculars.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "codecademy-com",
+      "name": "Codecademy",
+      "url": "https://codecademy.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "coinnudge-site",
+      "name": "Coinnudge",
+      "url": "https://coinnudge.site",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "community-audirvana-com",
+      "name": "Community",
+      "url": "https://community.audirvana.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "continuum-io",
+      "name": "Continuum",
+      "url": "https://continuum.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "corners-slide-fancy-assumes-trycloudflare-com",
+      "name": "Corners-slide-fancy-assumes",
+      "url": "https://corners-slide-fancy-assumes.trycloudflare.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "coursera-org",
+      "name": "Coursera",
+      "url": "https://coursera.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "csrc-gov-cn",
+      "name": "Csrc",
+      "url": "https://csrc.gov.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "czce-com-cn",
+      "name": "Czce",
+      "url": "https://czce.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "datacamp-com",
+      "name": "Datacamp",
+      "url": "https://datacamp.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dce-com-cn",
+      "name": "Dce",
+      "url": "https://dce.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "denafrips-com",
+      "name": "Denafrips",
+      "url": "https://denafrips.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-chinascope-com",
+      "name": "Developer",
+      "url": "https://developer.chinascope.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "dfitc-com-cn",
+      "name": "Dfitc",
+      "url": "https://dfitc.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-fincept-in",
+      "name": "Docs",
+      "url": "https://docs.fincept.in",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-firecrawl-dev",
+      "name": "Docs",
+      "url": "https://docs.firecrawl.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-python-org",
+      "name": "Docs",
+      "url": "https://docs.python.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "easy-web-tokyo",
+      "name": "Easy-web",
+      "url": "https://easy-web.tokyo",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "en-cppreference-com",
+      "name": "En",
+      "url": "https://en.cppreference.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "equibles-com",
+      "name": "Equibles",
+      "url": "https://equibles.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "financialdata-net",
+      "name": "Financialdata",
+      "url": "https://financialdata.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "finlight-me",
+      "name": "Finlight",
+      "url": "https://finlight.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forum-cyberlink-com",
+      "name": "Forum",
+      "url": "https://forum.cyberlink.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "forum-dbpoweramp-com",
+      "name": "Forum",
+      "url": "https://forum.dbpoweramp.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fxmacrodata-com",
+      "name": "Fxmacrodata",
+      "url": "https://fxmacrodata.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "getoutline-org",
+      "name": "Getoutline",
+      "url": "https://getoutline.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "godzilla-dev",
+      "name": "Godzilla",
+      "url": "https://godzilla.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "gtarsc-com",
+      "name": "Gtarsc",
+      "url": "https://gtarsc.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "guorn-com",
+      "name": "Guorn",
+      "url": "https://guorn.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hackerrank-com",
+      "name": "Hackerrank",
+      "url": "https://hackerrank.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hikyuu-org",
+      "name": "Hikyuu",
+      "url": "https://hikyuu.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "hydrogenaudio-org",
+      "name": "Hydrogenaudio",
+      "url": "https://hydrogenaudio.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "iguuu-com",
+      "name": "Iguuu",
+      "url": "https://iguuu.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "influxdata-com",
+      "name": "Influxdata",
+      "url": "https://influxdata.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "interactivebrokers-com-hk",
+      "name": "Interactivebrokers",
+      "url": "https://interactivebrokers.com.hk",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "julia-quantecon-org",
+      "name": "Julia",
+      "url": "https://julia.quantecon.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "julialang-org",
+      "name": "Julialang",
+      "url": "https://julialang.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "klinepic-com",
+      "name": "Klinepic",
+      "url": "https://klinepic.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "kx-com",
+      "name": "Kx",
+      "url": "https://kx.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lava-ai-dolphin-com",
+      "name": "Lava",
+      "url": "https://lava.ai-dolphin.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "leetcode-com",
+      "name": "Leetcode",
+      "url": "https://leetcode.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "lfd-uci-edu",
+      "name": "Lfd",
+      "url": "https://lfd.uci.edu",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "maid-cafe-tokyo",
+      "name": "Maid-cafe",
+      "url": "https://maid-cafe.tokyo",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "metatrader5-com",
+      "name": "Metatrader5",
+      "url": "https://metatrader5.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "multicharts-cn",
+      "name": "Multicharts",
+      "url": "https://multicharts.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "neuportal-ai",
+      "name": "Neuportal",
+      "url": "https://neuportal.ai",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "quandl-com",
+      "name": "Quandl",
+      "url": "https://quandl.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "quant-stackexchange-com",
+      "name": "Quant",
+      "url": "https://quant.stackexchange.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "quantlib-org",
+      "name": "Quantlib",
+      "url": "https://quantlib.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "quantpedia-com",
+      "name": "Quantpedia",
+      "url": "https://quantpedia.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "quantstart-com",
+      "name": "Quantstart",
+      "url": "https://quantstart.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "realmarketapi-com",
+      "name": "Realmarketapi",
+      "url": "https://realmarketapi.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "resset-cn",
+      "name": "Resset",
+      "url": "https://resset.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sac-net-cn",
+      "name": "Sac",
+      "url": "https://sac.net.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "segmentfault-com",
+      "name": "Segmentfault",
+      "url": "https://segmentfault.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sfit-com-cn",
+      "name": "Sfit",
+      "url": "https://sfit.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "shfe-com-cn",
+      "name": "Shfe",
+      "url": "https://shfe.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "siebly-io",
+      "name": "Siebly",
+      "url": "https://siebly.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sifting-io",
+      "name": "Sifting",
+      "url": "https://sifting.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sse-com-cn",
+      "name": "Sse",
+      "url": "https://sse.com.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "statsmodels-sourceforge-net",
+      "name": "Statsmodels",
+      "url": "https://statsmodels.sourceforge.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "support-microsoft-com",
+      "name": "Support",
+      "url": "https://support.microsoft.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "sweetwater-com",
+      "name": "Sweetwater",
+      "url": "https://sweetwater.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "szse-cn",
+      "name": "Szse",
+      "url": "https://szse.cn",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "ta-lib-org",
+      "name": "Ta-lib",
+      "url": "https://ta-lib.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tapetide-com",
+      "name": "Tapetide",
+      "url": "https://tapetide.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tradingaihub-com",
+      "name": "Tradingaihub",
+      "url": "https://tradingaihub.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tushare-org",
+      "name": "Tushare",
+      "url": "https://tushare.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "waveradar-us",
+      "name": "Waveradar",
+      "url": "https://waveradar.us",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-25T01:55:40Z",
       "source": "auto_sync"
     }
   ]
