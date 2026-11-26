@@ -1,95 +1,162 @@
 {
-  "generated_at": "2026-11-26T01:51:08Z",
+  "generated_at": "2026-11-26T16:41:27Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "img-shields-io",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 421
+      "latency": 72
     },
     {
-      "id": "gh-idayer-com",
+      "id": "hk-gh-proxy-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 257
+      "latency": 313
     },
     {
-      "id": "git-669966-xyz",
+      "id": "claude-megabyte-space",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 934
+      "latency": 250
     },
     {
-      "id": "gh-ddlc-top",
+      "id": "leankg-onrender-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 499
+      "latency": 1075
     },
     {
-      "id": "4kf9kfxujfhg2-space-mcode-cn",
+      "id": "savannah-gnu-org",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1425
+      "latency": 199
     },
     {
-      "id": "eccang-com",
+      "id": "shields-io",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1733
+      "latency": 68
     },
     {
-      "id": "juejin-cn",
+      "id": "eklipse-gg",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 759
+      "latency": 3156
     },
     {
-      "id": "pkulaw-com",
+      "id": "ketangpai-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2459
+      "latency": 2802
     },
     {
-      "id": "gitproxy-mrhjx-cn",
+      "id": "seaart-ai",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 375
+      "latency": 926
     },
     {
-      "id": "github-proxy-memory-echoes-cn",
+      "id": "wukong-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 491
+      "latency": 767
     },
     {
-      "id": "ghproxy-cxkpro-top",
+      "id": "zlib-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 192
+      "latency": 156
     },
     {
-      "id": "cors-isteed-cc",
+      "id": "ai-solutions-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 435
+      "latency": 141
     },
     {
-      "id": "live-wickra-org",
+      "id": "dbvis-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 432
+    },
+    {
+      "id": "itemanalysis-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 222
+    },
+    {
+      "id": "knopflerfish-org",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 390
+    },
+    {
+      "id": "singularsys-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 229
+    },
+    {
+      "id": "voltactivedata-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 189
+    },
+    {
+      "id": "bito-ai",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 91
+    },
+    {
+      "id": "gitclone-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1422
+    },
+    {
+      "id": "applc-cc",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 114
+      "latency": 1331
+    },
+    {
+      "id": "proxy-gitwarp-top",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 653
+    },
+    {
+      "id": "adnet-qq-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 979
+    },
+    {
+      "id": "privacy-qq-com",
+      "type": "new_node",
+      "category": "universal_proxy",
+      "latency": 724
     }
   ]
 }

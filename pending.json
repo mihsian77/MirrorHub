@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-26T01:51:08Z",
+  "updated_at": "2026-11-26T16:41:27Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -25743,21 +25743,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "applc-cc",
-      "name": "Applc",
-      "url": "https://applc.cc",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-01T04:32:45Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "appleid-22ne-com",
       "name": "Appleid",
       "url": "https://appleid.22ne.com",
@@ -26616,21 +26601,6 @@
       "id": "opensource-guide",
       "name": "Opensource",
       "url": "https://opensource.guide",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-03T22:55:54Z",
-      "source": "auto_sync"
-    },
-    {
-      "id": "proxy-gitwarp-top",
-      "name": "Proxy",
-      "url": "https://proxy.gitwarp.top",
       "supports": [
         "release",
         "archive",
@@ -64635,6 +64605,141 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-26T01:35:50Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "benlester-me",
+      "name": "Benlester",
+      "url": "https://benlester.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T16:26:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "csjplatform-com",
+      "name": "Csjplatform",
+      "url": "https://csjplatform.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T16:26:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "developer-wordpress-org",
+      "name": "Developer",
+      "url": "https://developer.wordpress.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T16:26:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "example-org",
+      "name": "Example",
+      "url": "https://example.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T16:26:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "imgcache-qq-com",
+      "name": "Imgcache",
+      "url": "https://imgcache.qq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T16:26:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "proxyhut-benlester-me",
+      "name": "Proxyhut",
+      "url": "https://proxyhut.benlester.me",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T16:26:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "support-weixin-qq-com",
+      "name": "Support",
+      "url": "https://support.weixin.qq.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T16:26:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "tampermonkey-net",
+      "name": "Tampermonkey",
+      "url": "https://tampermonkey.net",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T16:26:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "umeng-com",
+      "name": "Umeng",
+      "url": "https://umeng.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T16:26:35Z",
       "source": "auto_sync"
     }
   ]

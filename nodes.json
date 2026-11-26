@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-26T01:51:08Z",
-  "total_nodes": 1027,
+  "updated_at": "2026-11-26T16:41:27Z",
+  "total_nodes": 1031,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -13244,6 +13244,58 @@
           "id": "live-wickra-org",
           "name": "Live",
           "url": "https://live.wickra.org",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "applc-cc",
+          "name": "Applc",
+          "url": "https://applc.cc",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "proxy-gitwarp-top",
+          "name": "Proxy",
+          "url": "https://proxy.gitwarp.top",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "adnet-qq-com",
+          "name": "Adnet",
+          "url": "https://adnet.qq.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "privacy-qq-com",
+          "name": "Privacy",
+          "url": "https://privacy.qq.com",
           "supports": [
             "release",
             "archive",
