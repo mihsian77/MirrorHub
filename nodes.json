@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-25T17:04:21Z",
-  "total_nodes": 1026,
+  "updated_at": "2026-11-26T01:51:08Z",
+  "total_nodes": 1027,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -13231,6 +13231,19 @@
           "id": "music-163-com",
           "name": "Music",
           "url": "https://music.163.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "live-wickra-org",
+          "name": "Live",
+          "url": "https://live.wickra.org",
           "supports": [
             "release",
             "archive",

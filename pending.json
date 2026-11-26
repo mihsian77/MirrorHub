@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-25T17:04:21Z",
+  "updated_at": "2026-11-26T01:51:08Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -64590,6 +64590,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-25T16:49:48Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "archive-org",
+      "name": "Archive",
+      "url": "https://archive.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T01:35:50Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "docs-wickra-org",
+      "name": "Docs",
+      "url": "https://docs.wickra.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T01:35:50Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "wickra-org",
+      "name": "Wickra",
+      "url": "https://wickra.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-26T01:35:50Z",
       "source": "auto_sync"
     }
   ]

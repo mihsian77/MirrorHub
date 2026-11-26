@@ -1,45 +1,95 @@
 {
-  "generated_at": "2026-11-25T17:04:21Z",
+  "generated_at": "2026-11-26T01:51:08Z",
   "changes": [
     {
-      "id": "mantishack-com",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 382
+      "latency": 421
     },
     {
-      "id": "libusb-java-ch",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 609
+      "latency": 257
     },
     {
-      "id": "bugs-freebsd-org",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 994
+      "latency": 934
     },
     {
-      "id": "zhaopin-com",
+      "id": "gh-ddlc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1049
+      "latency": 499
     },
     {
-      "id": "api-vkeys-cn",
+      "id": "4kf9kfxujfhg2-space-mcode-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1425
+    },
+    {
+      "id": "eccang-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 1733
+    },
+    {
+      "id": "juejin-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 759
+    },
+    {
+      "id": "pkulaw-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 2459
+    },
+    {
+      "id": "gitproxy-mrhjx-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 375
+    },
+    {
+      "id": "github-proxy-memory-echoes-cn",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 491
+    },
+    {
+      "id": "ghproxy-cxkpro-top",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 192
+    },
+    {
+      "id": "cors-isteed-cc",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 435
+    },
+    {
+      "id": "live-wickra-org",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 1414
-    },
-    {
-      "id": "music-163-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 582
+      "latency": 114
     }
   ]
 }
