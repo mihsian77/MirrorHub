@@ -1,169 +1,121 @@
 {
-  "generated_at": "2026-11-27T01:42:13Z",
+  "generated_at": "2026-11-27T16:25:56Z",
   "changes": [
     {
-      "id": "ghfile-geekertao-top",
+      "id": "ghproxy-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 903
+      "latency": 496
     },
     {
-      "id": "gh-idayer-com",
+      "id": "proxy-vvvv-ee",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 304
+      "latency": 288
     },
     {
-      "id": "git-669966-xyz",
+      "id": "youtu-be",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 626
+      "latency": 270
     },
     {
-      "id": "gh-ddlc-top",
+      "id": "jwebmp-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 335
+      "latency": 851
     },
     {
-      "id": "ghproxy-vip",
+      "id": "4kf9kfxujfhg2-space-mcode-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 195
+      "latency": 1138
     },
     {
-      "id": "eclipse-dev",
+      "id": "r-jina-ai",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 596
+      "latency": 278
     },
     {
-      "id": "kuaishou-com",
+      "id": "53kf-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3161
+      "latency": 1375
     },
     {
-      "id": "rankiq-com",
+      "id": "chat-ppt-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1529
+      "latency": 1171
     },
     {
-      "id": "panjaya-ai",
+      "id": "eccang-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 772
+      "latency": 1411
     },
     {
-      "id": "gitproxy-mrhjx-cn",
+      "id": "juejin-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 98
+      "latency": 645
     },
     {
-      "id": "github-proxy-memory-echoes-cn",
+      "id": "motion-yoo-ai-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 111
+      "latency": 989
     },
     {
-      "id": "ghproxy-cxkpro-top",
+      "id": "numerade-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 130
+      "latency": 211
     },
     {
-      "id": "apifile-woozooo-com",
+      "id": "zhaopin-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 630
+      "latency": 1232
     },
     {
-      "id": "doxygen-nl",
+      "id": "api-vkeys-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 197
+      "latency": 524
     },
     {
-      "id": "allatori-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 160
-    },
-    {
-      "id": "exceljava-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 374
-    },
-    {
-      "id": "randelshofer-ch",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 486
-    },
-    {
-      "id": "richardsonsoftware-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 249
-    },
-    {
-      "id": "git-blob42-xyz",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 437
-    },
-    {
-      "id": "cors-isteed-cc",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 229
-    },
-    {
-      "id": "benlester-me",
+      "id": "fuyao-aicubes-cn",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 427
+      "latency": 1003
     },
     {
-      "id": "matrix-to",
+      "id": "mirrors-huaweicloud-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 75
+      "latency": 671
     },
     {
-      "id": "pyfii-cn",
+      "id": "tsp-shy313-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 729
-    },
-    {
-      "id": "wwbgn-lanzouw-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 687
+      "latency": 533
     }
   ]
 }

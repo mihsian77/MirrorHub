@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-27T01:42:13Z",
-  "total_nodes": 1035,
+  "updated_at": "2026-11-27T16:25:56Z",
+  "total_nodes": 1038,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -13348,6 +13348,45 @@
           "id": "wwbgn-lanzouw-com",
           "name": "Wwbgn",
           "url": "https://wwbgn.lanzouw.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "fuyao-aicubes-cn",
+          "name": "Fuyao",
+          "url": "https://fuyao.aicubes.cn",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "mirrors-huaweicloud-com",
+          "name": "Mirrors",
+          "url": "https://mirrors.huaweicloud.com",
+          "supports": [
+            "release",
+            "archive",
+            "blob",
+            "raw",
+            "clone"
+          ],
+          "source": "auto_sync"
+        },
+        {
+          "id": "tsp-shy313-com",
+          "name": "Tsp",
+          "url": "https://tsp.shy313.com",
           "supports": [
             "release",
             "archive",
