@@ -1,162 +1,169 @@
 {
-  "generated_at": "2026-11-26T16:41:27Z",
+  "generated_at": "2026-11-27T01:42:13Z",
   "changes": [
     {
-      "id": "img-shields-io",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 72
+      "latency": 903
     },
     {
-      "id": "hk-gh-proxy-com",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 313
+      "latency": 304
     },
     {
-      "id": "claude-megabyte-space",
+      "id": "git-669966-xyz",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 250
+      "latency": 626
     },
     {
-      "id": "leankg-onrender-com",
+      "id": "gh-ddlc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1075
+      "latency": 335
     },
     {
-      "id": "savannah-gnu-org",
+      "id": "ghproxy-vip",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 199
+      "latency": 195
     },
     {
-      "id": "shields-io",
+      "id": "eclipse-dev",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 68
+      "latency": 596
     },
     {
-      "id": "eklipse-gg",
+      "id": "kuaishou-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 3156
+      "latency": 3161
     },
     {
-      "id": "ketangpai-com",
+      "id": "rankiq-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 2802
+      "latency": 1529
     },
     {
-      "id": "seaart-ai",
+      "id": "panjaya-ai",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 926
+      "latency": 772
     },
     {
-      "id": "wukong-com",
+      "id": "gitproxy-mrhjx-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 767
+      "latency": 98
     },
     {
-      "id": "zlib-net",
+      "id": "github-proxy-memory-echoes-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 156
+      "latency": 111
     },
     {
-      "id": "ai-solutions-com",
+      "id": "ghproxy-cxkpro-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 141
+      "latency": 130
     },
     {
-      "id": "dbvis-com",
+      "id": "apifile-woozooo-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 432
+      "latency": 630
     },
     {
-      "id": "itemanalysis-com",
+      "id": "doxygen-nl",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 222
+      "latency": 197
     },
     {
-      "id": "knopflerfish-org",
+      "id": "allatori-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 390
+      "latency": 160
     },
     {
-      "id": "singularsys-com",
+      "id": "exceljava-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 374
+    },
+    {
+      "id": "randelshofer-ch",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 486
+    },
+    {
+      "id": "richardsonsoftware-com",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 249
+    },
+    {
+      "id": "git-blob42-xyz",
+      "type": "recovered",
+      "from": "unstable",
+      "to": "online",
+      "latency": 437
+    },
+    {
+      "id": "cors-isteed-cc",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
       "latency": 229
     },
     {
-      "id": "voltactivedata-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 189
-    },
-    {
-      "id": "bito-ai",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 91
-    },
-    {
-      "id": "gitclone-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1422
-    },
-    {
-      "id": "applc-cc",
+      "id": "benlester-me",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 1331
+      "latency": 427
     },
     {
-      "id": "proxy-gitwarp-top",
+      "id": "matrix-to",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 653
+      "latency": 75
     },
     {
-      "id": "adnet-qq-com",
+      "id": "pyfii-cn",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 979
+      "latency": 729
     },
     {
-      "id": "privacy-qq-com",
+      "id": "wwbgn-lanzouw-com",
       "type": "new_node",
       "category": "universal_proxy",
-      "latency": 724
+      "latency": 687
     }
   ]
 }

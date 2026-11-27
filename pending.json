@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-26T16:41:27Z",
+  "updated_at": "2026-11-27T01:42:13Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -64608,21 +64608,6 @@
       "source": "auto_sync"
     },
     {
-      "id": "benlester-me",
-      "name": "Benlester",
-      "url": "https://benlester.me",
-      "supports": [
-        "release",
-        "archive",
-        "blob",
-        "raw",
-        "clone"
-      ],
-      "category": "universal_proxy",
-      "added_at": "2026-11-26T16:26:35Z",
-      "source": "auto_sync"
-    },
-    {
       "id": "csjplatform-com",
       "name": "Csjplatform",
       "url": "https://csjplatform.com",
@@ -64740,6 +64725,51 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-26T16:26:35Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "arcaea-proxy-xxxx-workers-dev",
+      "name": "Arcaea-proxy",
+      "url": "https://arcaea-proxy.xxxx.workers.dev",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-27T01:29:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "barrandodger-com",
+      "name": "Barrandodger",
+      "url": "https://barrandodger.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-27T01:29:59Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "fdroid-gitlab-io",
+      "name": "Fdroid",
+      "url": "https://fdroid.gitlab.io",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-27T01:29:59Z",
       "source": "auto_sync"
     }
   ]
