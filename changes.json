@@ -1,121 +1,96 @@
 {
-  "generated_at": "2026-11-27T16:25:56Z",
+  "generated_at": "2026-11-28T01:21:27Z",
   "changes": [
     {
-      "id": "ghproxy-net",
+      "id": "ghfile-geekertao-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 496
+      "latency": 924
     },
     {
-      "id": "proxy-vvvv-ee",
+      "id": "gh-idayer-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 288
+      "latency": 176
     },
     {
-      "id": "youtu-be",
+      "id": "gh-ddlc-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 270
+      "latency": 287
     },
     {
-      "id": "jwebmp-com",
+      "id": "github-dpik-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 851
+      "latency": 262
     },
     {
-      "id": "4kf9kfxujfhg2-space-mcode-cn",
+      "id": "ghproxy-vip",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1138
+      "latency": 485
     },
     {
-      "id": "r-jina-ai",
+      "id": "lightlycode-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 278
+      "latency": 1736
     },
     {
-      "id": "53kf-com",
+      "id": "vulnetix-com",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1375
+      "latency": 751
     },
     {
-      "id": "chat-ppt-com",
+      "id": "codeflicker-ai",
+      "type": "dead",
+      "from": "unstable",
+      "to": "dead",
+      "failures": 28
+    },
+    {
+      "id": "eudic-net",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1171
+      "latency": 2457
     },
     {
-      "id": "eccang-com",
+      "id": "gitproxy-mrhjx-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 1411
+      "latency": 132
     },
     {
-      "id": "juejin-cn",
+      "id": "github-proxy-memory-echoes-cn",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 645
+      "latency": 431
     },
     {
-      "id": "motion-yoo-ai-com",
+      "id": "ghproxy-cxkpro-top",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 989
+      "latency": 135
     },
     {
-      "id": "numerade-com",
+      "id": "cors-isteed-cc",
       "type": "recovered",
       "from": "unstable",
       "to": "online",
-      "latency": 211
-    },
-    {
-      "id": "zhaopin-com",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 1232
-    },
-    {
-      "id": "api-vkeys-cn",
-      "type": "recovered",
-      "from": "unstable",
-      "to": "online",
-      "latency": 524
-    },
-    {
-      "id": "fuyao-aicubes-cn",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 1003
-    },
-    {
-      "id": "mirrors-huaweicloud-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 671
-    },
-    {
-      "id": "tsp-shy313-com",
-      "type": "new_node",
-      "category": "universal_proxy",
-      "latency": 533
+      "latency": 203
     }
   ]
 }

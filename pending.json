@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-27T16:25:56Z",
+  "updated_at": "2026-11-28T01:21:27Z",
   "nodes": [
     {
       "id": "gh-cache-cloudns-org",
@@ -65145,6 +65145,66 @@
       ],
       "category": "universal_proxy",
       "added_at": "2026-11-27T16:11:43Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "greasyfork-org",
+      "name": "Greasyfork",
+      "url": "https://greasyfork.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-28T01:07:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "issues-oss-fuzz-com",
+      "name": "Issues",
+      "url": "https://issues.oss-fuzz.com",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-28T01:07:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "leptonica-org",
+      "name": "Leptonica",
+      "url": "https://leptonica.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-28T01:07:40Z",
+      "source": "auto_sync"
+    },
+    {
+      "id": "simplesystems-org",
+      "name": "Simplesystems",
+      "url": "https://simplesystems.org",
+      "supports": [
+        "release",
+        "archive",
+        "blob",
+        "raw",
+        "clone"
+      ],
+      "category": "universal_proxy",
+      "added_at": "2026-11-28T01:07:40Z",
       "source": "auto_sync"
     }
   ]

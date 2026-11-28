@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updated_at": "2026-11-27T16:25:56Z",
-  "total_nodes": 1038,
+  "updated_at": "2026-11-28T01:21:27Z",
+  "total_nodes": 1037,
   "categories": {
     "universal_proxy": {
       "description": "通用前缀式代理，URL前加域名，支持release/archive/blob/raw/clone",
@@ -7979,19 +7979,6 @@
           "id": "clipchamp-com",
           "name": "Clipchamp",
           "url": "https://clipchamp.com",
-          "supports": [
-            "release",
-            "archive",
-            "blob",
-            "raw",
-            "clone"
-          ],
-          "source": "auto_sync"
-        },
-        {
-          "id": "codeflicker-ai",
-          "name": "Codeflicker",
-          "url": "https://codeflicker.ai",
           "supports": [
             "release",
             "archive",
